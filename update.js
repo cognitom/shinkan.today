@@ -1,15 +1,17 @@
 import {join} from 'path'
-import {createWriteStream, readFileSync} from 'fs'
+import {createWriteStream, writeFileSync, readFileSync} from 'fs'
 import request from 'request'
 import {parse, stringify} from 'JSONStream'
 import highland from 'highland'
 import moment from 'moment'
+import {dump} from 'js-yaml'
 // import del from 'del'
 import summarize from './lib/summarize'
 
 const apiRoot = 'https://api.openbd.jp/v1'
 const cwd = process.cwd()
 const dataDir = join(cwd, 'dist', 'data')
+const bookDir = join(cwd, 'dist', 'book')
 const daysBefore = 14
 const daysAfter = 14
 const ignoreMap = getIgnoreMap()
@@ -26,6 +28,13 @@ const stream = highland([`${apiRoot}/coverage`])
   .flatMap(opts => highland(request(opts))) // openBDに問い合わせ
   .through(parse('*')) // jsonから、書誌情報を取得
   .map(book => summarize(book)) // 書誌情報を整形
+
+stream.fork()
+  .each(book => {
+    const yaml = dump(book)
+    const data = '---\n' + yaml + '\n---\n'
+    writeFileSync(join(bookDir, `${book.isbn}.md`), data)
+  })
 
 stream.fork()
   .filter(book => {

@@ -8,7 +8,7 @@
   </header>
   <ul>
     <li each={visibleBooks} style="background-image: url({cover})">
-      <a href="#{date}/{isbn}" title={title}>{title}</a>
+      <a href="book/{isbn}" title={title}>{title}</a>
     </li>
   </ul>
   <button if={visibleBooks.length < books.length} onclick={more}>もっと表示</button>
