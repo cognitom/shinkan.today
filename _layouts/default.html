@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <title>{{page.title}} - shinkan.today</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:title" content="{{page.title}}">
+    <meta property="og:type" content="book">
+    <meta property="og:url" content="http://shinkan.today/book/{{page.isbn}}">
+    <meta property="og:image" content="{{page.cover}}">
+    <meta property="og:description" content="{{page.description}}">
+    <meta property="book:isbn" content="{{page.isbn}}">
+    <meta property="book:release_date" content="{{page.pubdate}}">
+
+    <link rel="stylesheet" href="/global.css">
+    <style>
+      header {
+        text-align: center;
+        margin: 0 0 5px;
+        border-bottom: 1px solid rgba(255,255,255,.1);
+        color: rgba(255,255,255,.8);
+        position: relative;
+      }
+      header > h2 {
+        font-size: 100%;
+        padding: 15px 10px;
+      }
+      header > .prev {
+        position: absolute;
+        background: rgba(255,255,255,.1);
+        border: 1px solid rgba(255,255,255,.3);
+        border-radius: 3px;
+        color: rgba(255,255,255,.8);
+        text-align: center;
+        padding: 5px 10px;
+        top: 10px;
+      }
+      header > .prev {
+        left: 15px;
+      }
+      header > a {
+        text-decoration: none;
+      }
+      img {
+        width: 200px;
+      }
+      body > h3 {
+        margin: 15px;
+        padding: 0 0 5px;
+        border-bottom: 1px solid rgba(255,255,255,.3)
+      }
+      body > p {
+        margin: 15px;
+      }
+      body > img {
+        display: block;
+        margin: 15px auto;
+      }
+      body > ul {
+        color: rgba(255,255,255,.7)
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>shinkan.today</h1>
+    <header>
+      <h2>{{page.title}}</h2>
+      <a class="prev" href="#{{page.pubdate}}">戻る</a>
+    </header>
+    <img src={{page.cover}}>
+    <h3>{{page.title}}</h3>
+    <p>{{page.description}}</p>
+    <ul>
+      <li>{{page.author}}</li>
+      <li if={series}>{{page.series}}</li>
+      <li>{{page.publisher}}</li>
+      <li if={price}>価格 &yen;{{page.price}}</li>
+      <li>ISBN {{page.isbn}}</li>
+    </ul>
+  </body>
+
+</html>
