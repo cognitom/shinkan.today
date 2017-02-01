@@ -4,10 +4,10 @@
   "private": true,
   "scripts": {
     "start": "npm run watch & npm run server",
-    "build": "npm run rollup && npm run postcss && npm run copy",
+    "build": "npm run rsync && npm run rollup && npm run postcss",
     "deploy": "npm run build && npm run update && gh-pages -d dist",
     "rollup": "rollup -c",
-    "copy": "cp src/index.md dist/ && cp src/CNAME dist/ && cp src/_layouts/* dist/_layouts/",
+    "rsync": "rsync -avu --exclude '*.tag' --exclude '*.js' --exclude '*.css' src/ dist/",
     "watch": "chokidar 'src/**' -c 'npm run build'",
     "server": "browser-sync start --files 'dist/*' --server dist",
     "update": "node --harmony-async-await --require reify update",
