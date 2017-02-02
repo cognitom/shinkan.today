@@ -3,7 +3,7 @@
 
   <head>
     <meta charset="utf-8">
-    <title>{{page.title}} - shinkan.today</title>
+    <title>{{page.title}} - 新刊トゥデイ</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta property="og:title" content="{{page.title}}">
@@ -15,57 +15,10 @@
     <meta property="book:release_date" content="{{page.pubdate}}">
 
     <link rel="stylesheet" href="/global.css">
-    <style>
-      header {
-        text-align: center;
-        margin: 0 0 5px;
-        border-bottom: 1px solid rgba(255,255,255,.1);
-        color: rgba(255,255,255,.8);
-        position: relative;
-      }
-      header > h2 {
-        font-size: 100%;
-        padding: 15px 10px;
-      }
-      header > .prev {
-        position: absolute;
-        background: rgba(255,255,255,.1);
-        border: 1px solid rgba(255,255,255,.3);
-        border-radius: 3px;
-        color: rgba(255,255,255,.8);
-        text-align: center;
-        padding: 5px 10px;
-        top: 10px;
-      }
-      header > .prev {
-        left: 15px;
-      }
-      header > a {
-        text-decoration: none;
-      }
-      img {
-        width: 200px;
-      }
-      body > h3 {
-        margin: 15px;
-        padding: 0 0 5px;
-        border-bottom: 1px solid rgba(255,255,255,.3)
-      }
-      body > p {
-        margin: 15px;
-      }
-      body > img {
-        display: block;
-        margin: 15px auto;
-      }
-      body > ul {
-        color: rgba(255,255,255,.7)
-      }
-    </style>
+    <link rel="stylesheet" href="/book.css">
   </head>
 
   <body>
-    <h1>shinkan.today</h1>
     <header>
       <h2>本の詳細</h2>
       <a class="prev" href="/#{{page.pubdate}}">戻る</a>
@@ -74,12 +27,13 @@
     <h3>{{page.title}}</h3>
     <p>{{page.description}}</p>
     <ul>
-      {% if page.author %}<li>{{page.author}}</li>{% endif %}
-      {% if page.series %}<li>{{page.series}}</li>{% endif %}
-      {% if page.publisher %}<li>{{page.publisher}}</li>{% endif %}
-      {% if page.price %}<li>価格 &yen;{{page.price}}</li>{% endif %}
+      {% if page.author != '' %}<li>{{page.author}}</li>{% endif %}
+      {% if page.series != '' %}<li>{{page.series}}</li>{% endif %}
+      {% if page.publisher != '' %}<li>{{page.publisher}}</li>{% endif %}
+      {% if page.price != '' %}<li>価格 &yen;{{page.price}}</li>{% endif %}
       <li>ISBN {{page.isbn}}</li>
     </ul>
+    <footer>新刊トゥデイ</footer>
   </body>
 
 </html>

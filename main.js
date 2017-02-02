@@ -3581,7 +3581,7 @@ riot$1.tag2('route', '<virtual if="{show}"><yield></yield></virtual>', '', '', f
     }
 });
 
-riot$1.tag2('app', '<router> <route path="*"><app-search></app-search></route> <route path="/"><app-search></app-search></route> </router>', 'app,[data-is="app"]{ display: block; }', '', function(opts) {
+riot$1.tag2('app', '<router> <route path="/"><app-home></app-home></route> <route path="*"><app-search></app-search></route> </router>', 'app,[data-is="app"]{ display: block; }', '', function(opts) {
 });
 
 var commonjsGlobal = typeof window !== 'undefined' ? window : typeof global !== 'undefined' ? global : typeof self !== 'undefined' ? self : {};
@@ -3930,7 +3930,37 @@ var fecha = createCommonjsModule(function (module) {
 })(commonjsGlobal);
 });
 
-riot$1.tag2('app-search', '<header> <h2>{jDate}<span>全{books.length}件</span></h2> <a class="prev" if="{prev}" href="#{prev}">前日</a> <span class="prev" if="{!prev}">前日</span> <a class="next" if="{next}" href="#{next}">翌日</a> <span class="next" if="{!next}">翌日</span> </header> <ul> <li each="{visibleBooks}" riot-style="background-image: url({cover})"> <a href="book/{isbn}" title="{title}">{title}</a> </li> </ul> <button if="{visibleBooks.length < books.length}" onclick="{more}">もっと表示</button>', 'app-search,[data-is="app-search"]{ display: block; } app-search header,[data-is="app-search"] header{ text-align: center; margin: 0 0 5px; border-bottom: 1px solid rgba(255, 255, 255, .1); color: rgba(255, 255, 255, .8); position: relative; } app-search header > h2,[data-is="app-search"] header > h2{ font-size: 100%; padding: 15px 10px; } app-search header > h2 > span,[data-is="app-search"] header > h2 > span{ font-size: 90%; font-weight: normal; margin-left: 1em; } app-search header > .prev,[data-is="app-search"] header > .prev,app-search header > .next,[data-is="app-search"] header > .next{ position: absolute; background: rgba(255, 255, 255, .1); border: 1px solid rgba(255, 255, 255, .3); border-radius: 3px; color: rgba(255, 255, 255, .8); text-align: center; padding: 5px 10px; top: 10px; } app-search header > .prev,[data-is="app-search"] header > .prev{ left: 15px; } app-search header > .next,[data-is="app-search"] header > .next{ right: 15px; } app-search header > a,[data-is="app-search"] header > a{ text-decoration: none; } app-search header > span.prev,[data-is="app-search"] header > span.prev,app-search header > span.next,[data-is="app-search"] header > span.next{ color: rgba(255, 255, 255, .2); border-color: rgba(255, 255, 255, .1); background: none; } app-search ul,[data-is="app-search"] ul{ list-style: none; padding: 0; text-align: center; } app-search li,[data-is="app-search"] li{ display: inline-block; margin: 15px 5px; height: 220px; width: 165px; overflow: hidden; background-size: contain; background-repeat: no-repeat; background-position: bottom; } app-search li > a,[data-is="app-search"] li > a{ display: block; color: transparent; height: 100%; } app-search button,[data-is="app-search"] button{ display: block; background: rgba(255, 255, 255, .1); border: 1px solid rgba(255, 255, 255, .3); border-radius: 3px; color: rgba(255, 255, 255, .8); text-align: center; padding: 1em; margin: 1em auto; width: 80%; max-width: 500px; }', '', function(opts) {
+riot$1.tag2('app-home', '<header> <h1>新刊トゥデイ</h1> </header> <ul ref="scrollable"> <li each="{days}"> <a href="#{date}"> <span>{jDate}</span> <img each="{books}" title="{title}" riot-src="{cover}"></li> </a> </li> </ul> <footer> <p>Made in OpenSource Cafe</p> <p><a href="https://openbd.jp">Powered by openBD</a></p> <p><a href="https://github.com/cognitom/shinkan.today">GitHub</a></p> </footer>', 'app-home,[data-is="app-home"]{ display: block; } app-home header,[data-is="app-home"] header{ background-color: white; height: 280px; padding-top: 20px; } app-home header > h1,[data-is="app-home"] header > h1{ margin: 0 auto; height: 280px; max-width: 300px; background-image: url(/images/logo.svg); background-position: center; background-size: contain; background-repeat: no-repeat; color: transparent; } app-home footer,[data-is="app-home"] footer{ text-align: center; margin: 15px 0 0; padding: 20px 0; } app-home footer p,[data-is="app-home"] footer p{ margin: 0 0 .5em; } app-home > ul,[data-is="app-home"] > ul{ margin: 0; padding: 0; list-style: none; height: 340px; overflow-x: scroll; overflow-y: hidden; white-space: nowrap; } app-home > ul > li,[data-is="app-home"] > ul > li{ margin: 0; padding: 80px 5px 0; display: inline-block; width: 100px; height: 260px; vertical-align: top; text-align: center; white-space: normal; overflow: hidden; position: relative; } app-home > ul > li::before,[data-is="app-home"] > ul > li::before{ background-color: white; top: 0; left: 0; width: 111px; height: 30px; content: "*"; color: transparent; position: absolute; } app-home > ul > li span,[data-is="app-home"] > ul > li span{ position: absolute; top: 0; left: 25px; width: 60px; height: 60px; border-radius: 30px; color: #2c3644; background-color: #D9D3C7; font-size: 85%; line-height: 60px; white-space: nowrap; } app-home > ul > li img,[data-is="app-home"] > ul > li img{ width: 100px; }', '', function(opts) {
+    var this$1 = this;
+
+    fecha.i18n.dayNamesShort = ['日', '月', '火', '水', '木', '金', '土'];
+
+    var d0 = new Date();
+    var today = fecha.format(d0, 'YYYY-MM-DD');
+    var yesterday = fecha.format(d0.setDate(d0.getDate() - 1), 'YYYY-MM-DD');
+    var tomorrow = fecha.format(d0.setDate(d0.getDate() + 2), 'YYYY-MM-DD');
+
+    fetch("/data/index.json")
+      .then(function (response) { return response.json(); })
+      .then(function (index) {
+        var days = Object.keys(index)
+          .sort()
+          .map(function (date) {
+            var jDate
+              = date === today ? '今日'
+              : date === yesterday ? '昨日'
+              : date === tomorrow ? '明日'
+              : fecha.format(fecha.parse(date, 'YYYY-MM-DD'), 'M/D (ddd)');
+            return {date: date, jDate: jDate, books: index[date]}
+          });
+        this$1.update({days: days});
+        var winWidth = window.innerWidth;
+        var elemWidth = 110;
+        this$1.refs.scrollable.scrollLeft = 110 * 14 - (winWidth / 2) + (elemWidth / 2);
+      });
+});
+
+riot$1.tag2('app-search', '<header> <h2>{jDate}<span>全{books.length}件</span></h2> <a class="prev" if="{prev}" href="#{prev}">前日</a> <span class="prev" if="{!prev}">前日</span> <a class="next" if="{next}" href="#{next}">翌日</a> <span class="next" if="{!next}">翌日</span> </header> <ul> <li each="{visibleBooks}" riot-style="background-image: url({cover})"> <a href="book/{isbn}" title="{title}">{title}</a> </li> </ul> <button if="{visibleBooks.length < books.length}" onclick="{more}">もっと表示</button> <footer>新刊トゥデイ</footer>', 'app-search,[data-is="app-search"]{ display: block; } app-search footer,[data-is="app-search"] footer{ position: fixed; bottom: 0; left: 0; right: 0; background: #2c3644; font-size: 90%; font-weight: normal; text-align: center; padding: 8px; margin: 0; color: rgba(255, 255, 255, .5); border-top: 1px solid rgba(255, 255, 255, .1); } app-search header,[data-is="app-search"] header{ text-align: center; margin: 0 0 5px; border-bottom: 1px solid rgba(255, 255, 255, .1); color: rgba(255, 255, 255, .8); position: relative; } app-search header > h2,[data-is="app-search"] header > h2{ font-size: 100%; padding: 15px 10px; } app-search header > h2 > span,[data-is="app-search"] header > h2 > span{ font-size: 90%; font-weight: normal; margin-left: 1em; } app-search header > .prev,[data-is="app-search"] header > .prev,app-search header > .next,[data-is="app-search"] header > .next{ position: absolute; background: rgba(255, 255, 255, .1); border: 1px solid rgba(255, 255, 255, .3); border-radius: 3px; color: rgba(255, 255, 255, .8); text-align: center; padding: 5px 10px; top: 10px; } app-search header > .prev,[data-is="app-search"] header > .prev{ left: 15px; } app-search header > .next,[data-is="app-search"] header > .next{ right: 15px; } app-search header > a,[data-is="app-search"] header > a{ text-decoration: none; } app-search header > span.prev,[data-is="app-search"] header > span.prev,app-search header > span.next,[data-is="app-search"] header > span.next{ color: rgba(255, 255, 255, .2); border-color: rgba(255, 255, 255, .1); background: none; } app-search ul,[data-is="app-search"] ul{ list-style: none; padding: 0; text-align: center; } app-search li,[data-is="app-search"] li{ display: inline-block; margin: 15px 5px; height: 220px; width: 165px; overflow: hidden; background-size: contain; background-repeat: no-repeat; background-position: bottom; } app-search li > a,[data-is="app-search"] li > a{ display: block; color: transparent; height: 100%; } app-search button,[data-is="app-search"] button{ display: block; background: rgba(255, 255, 255, .1); border: 1px solid rgba(255, 255, 255, .3); border-radius: 3px; color: rgba(255, 255, 255, .8); text-align: center; padding: 1em; margin: 1em auto; width: 80%; max-width: 500px; }', '', function(opts) {
     var this$1 = this;
 
     fecha.i18n.dayNamesShort = ['日', '月', '火', '水', '木', '金', '土'];
@@ -3950,7 +3980,7 @@ riot$1.tag2('app-search', '<header> <h2>{jDate}<span>全{books.length}件</span>
       var prev = date <= twoWeekAgo ? '' : fecha.format(d.setDate(d.getDate() - 1), 'YYYY-MM-DD');
       var next = twoWeekLater <= date ? '' : fecha.format(d.setDate(d.getDate() + 2), 'YYYY-MM-DD');
       this$1.update({date: date, jDate: jDate, prev: prev, next: next, books: [], visiblBooks: []});
-      fetch(("data/" + date + ".json"))
+      fetch(("/data/" + date + ".json"))
         .then(function (response) { return response.json(); })
         .then(function (books) {
           books = books.filter(function (book) { return book.cover; });
