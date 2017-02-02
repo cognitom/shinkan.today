@@ -12,6 +12,7 @@
     </li>
   </ul>
   <button if={visibleBooks.length < books.length} onclick={more}>もっと表示</button>
+  <footer>新刊トゥデイ</footer>
 
   <script>
     import fecha from 'fecha'
@@ -32,7 +33,7 @@
       const prev = date <= twoWeekAgo ? '' : fecha.format(d.setDate(d.getDate() - 1), 'YYYY-MM-DD')
       const next = twoWeekLater <= date ? '' : fecha.format(d.setDate(d.getDate() + 2), 'YYYY-MM-DD')
       this.update({date, jDate, prev, next, books: [], visiblBooks: []})
-      fetch(`data/${date}.json`)
+      fetch(`/data/${date}.json`)
         .then(response => response.json())
         .then(books => {
           books = books.filter(book => book.cover)
@@ -50,6 +51,20 @@
   <style>
     :scope {
       display: block;
+    }
+    footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: #2c3644;
+      font-size: 90%;
+      font-weight: normal;
+      text-align: center;
+      padding: 8px;
+      margin: 0;
+      color: rgba(255,255,255,.5);
+      border-top: 1px solid rgba(255,255,255,.1);
     }
     header {
       text-align: center;

@@ -5,7 +5,6 @@ import {parse, stringify} from 'JSONStream'
 import highland from 'highland'
 import moment from 'moment'
 import {dump} from 'js-yaml'
-// import del from 'del'
 import summarize from './lib/summarize'
 
 const apiRoot = 'https://api.openbd.jp/v1'
@@ -15,15 +14,13 @@ const bookDir = join(cwd, 'dist', 'book')
 const daysBefore = 14
 const daysAfter = 14
 const ignoreMap = getIgnoreMap()
-
-// del.sync('dist/data/*.json')
+const indexStreams = []
 
 const stream = highland([`${apiRoot}/coverage`])
   .flatMap(url => highland(request(url))) // openBDに問い合わせ
   .through(parse('*')) // jsonから、ISBNを取得
   .filter(isbn => !shouldIgnore(isbn))
   .batch(10000) // 10000件ごとにまとめる
-  //.ratelimit(4, 60 * 1000) // 1分に4回までに制限 (今のところ件数が少ないので不要)
   .map(isbns => ({method: 'POST', url: `${apiRoot}/get`, form: {isbn: isbns.join(',')}}))
   .flatMap(opts => highland(request(opts))) // openBDに問い合わせ
   .through(parse('*')) // jsonから、書誌情報を取得
@@ -45,12 +42,33 @@ stream.fork()
   .pipe(createWriteStream(join(cwd, `ignore.txt`), {flags: 'a'})) // 追記モード
 
 for (let n = (-1) * daysBefore; n < daysAfter; n++) {
+  // 日付ごとのファイルを生成
   const pubdate = moment().add(n, 'days').format('YYYY-MM-DD')
-  stream.fork()
-    .filter(book => book.pubdate === pubdate)
+  const subStream = stream.fork().filter(book => book.pubdate === pubdate)
+  subStream.fork()
     .through(stringify())
     .pipe(createWriteStream(join(dataDir, `${pubdate}.json`)))
+
+  // インデックス作成
+  let counter = 0
+  const indexStream = subStream.fork()
+    .filter(book => book.cover)
+    .filter(() => counter++ < 2) // .take(2) の代替
+    .map(book => ({
+      isbn: book.isbn,
+      title: book.title,
+      pubdate: book.pubdate,
+      cover: book.cover
+    }))
+  indexStreams.push(indexStream)
 }
+
+highland(indexStreams)
+  .merge()
+  .group('pubdate')
+  .toCallback((err, result) => {
+    writeFileSync(join(dataDir, `index.json`), JSON.stringify(result))
+  })
 
 /** ignore.txt から無視すべきISBNの一覧を取得 */
 function getIgnoreList () {

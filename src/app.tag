@@ -1,12 +1,8 @@
 <app>
   <router>
+    <route path="/"><app-home /></route>
     <route path="*"><app-search /></route>
-    <route path="/"><app-search /></route>
   </router>
-
-  <script>
-
-  </script>
 
   <style>
     :scope {

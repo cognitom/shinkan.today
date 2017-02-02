@@ -1,0 +1,59 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #2c3644;
+  font-size: 90%;
+  font-weight: normal;
+  text-align: center;
+  padding: 8px;
+  margin: 0;
+  color: rgba(255,255,255,.5);
+  border-top: 1px solid rgba(255,255,255,.1);
+}
+header {
+  text-align: center;
+  margin: 0 0 5px;
+  border-bottom: 1px solid rgba(255,255,255,.1);
+  color: rgba(255,255,255,.8);
+  position: relative;
+}
+header > h2 {
+  font-size: 100%;
+  padding: 15px 10px;
+}
+header > .prev {
+  position: absolute;
+  background: rgba(255,255,255,.1);
+  border: 1px solid rgba(255,255,255,.3);
+  border-radius: 3px;
+  color: rgba(255,255,255,.8);
+  text-align: center;
+  padding: 5px 10px;
+  top: 10px;
+}
+header > .prev {
+  left: 15px;
+}
+header > a {
+  text-decoration: none;
+}
+img {
+  width: 200px;
+}
+h3 {
+  margin: 15px;
+  padding: 0 0 5px;
+  border-bottom: 1px solid rgba(255,255,255,.3)
+}
+p {
+  margin: 15px;
+}
+img {
+  display: block;
+  margin: 15px auto;
+}
+ul {
+  color: rgba(255,255,255,.7)
+}

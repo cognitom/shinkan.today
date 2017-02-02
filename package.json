@@ -9,9 +9,9 @@
     "rollup": "rollup -c",
     "rsync": "rsync -avu --exclude '*.tag' --exclude '*.js' --exclude '*.css' src/ dist/",
     "watch": "chokidar 'src/**' -c 'npm run build'",
-    "server": "browser-sync start --files 'dist/*' --server dist",
+    "server": "browser-sync start --files 'dist/main.js' --server dist",
     "update": "node --harmony-async-await --require reify update",
-    "postcss": "postcss -u postcss-cssnext -u postcss-import -d dist/ src/global.css"
+    "postcss": "postcss -u postcss-cssnext -u postcss-import -d dist/ src/global.css src/book.css"
   },
   "dependencies": {
     "fecha": "^2.3.0",
