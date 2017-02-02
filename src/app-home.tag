@@ -3,7 +3,7 @@
     <h1>新刊トゥデイ</h1>
   </header>
 
-  <ul ref="scrollable">
+  <ul>
     <li each={days}>
       <a href="#{date}">
         <span>{jDate}</span>
@@ -27,24 +27,27 @@
     const yesterday = fecha.format(d0.setDate(d0.getDate() - 1), 'YYYY-MM-DD')
     const tomorrow = fecha.format(d0.setDate(d0.getDate() + 2), 'YYYY-MM-DD')
 
-    fetch(`/data/index.json`)
-      .then(response => response.json())
-      .then(index => {
-        const days = Object.keys(index)
-          .sort()
-          .map(date => {
-            const jDate
-              = date === today ? '今日'
-              : date === yesterday ? '昨日'
-              : date === tomorrow ? '明日'
-              : fecha.format(fecha.parse(date, 'YYYY-MM-DD'), 'M/D (ddd)')
-            return {date, jDate, books: index[date]}
-          })
-        this.update({days})
-        const winWidth = window.innerWidth
-        const elemWidth = 110
-        this.refs.scrollable.scrollLeft = 110 * 14 - (winWidth / 2) + (elemWidth / 2);
-      })
+    this.days = []
+    this.on('route', date => {
+      fetch(`/data/index.json`)
+        .then(response => response.json())
+        .then(index => {
+          const days = Object.keys(index)
+            .sort()
+            .map(date => {
+              const jDate
+                = date === today ? '今日'
+                : date === yesterday ? '昨日'
+                : date === tomorrow ? '明日'
+                : fecha.format(fecha.parse(date, 'YYYY-MM-DD'), 'M/D (ddd)')
+              return {date, jDate, books: index[date]}
+            })
+          this.update({days})
+          const winWidth = window.innerWidth
+          const elemWidth = 110
+          this.root.querySelector('ul').scrollLeft = 110 * 14 - (winWidth / 2) + (elemWidth / 2);
+        })
+    })
   </script>
 
   <style>
