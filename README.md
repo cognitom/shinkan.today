@@ -1,4 +1,4 @@
-![新刊トゥデイ](https://rawgit.com/cognitom/shinkan.today/master/src/images/logo.svg)
+![新刊トゥデイ](src/images/ogp-image.png)
 > 日々新しい本を探す活字中毒な人のため、新刊情報を淡々と表示するサイト
 
 ## 情報ソース
