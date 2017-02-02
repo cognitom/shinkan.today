@@ -3,14 +3,16 @@
     <h1>新刊トゥデイ</h1>
   </header>
 
-  <ul>
-    <li each={days}>
-      <a href="#{date}">
-        <span>{jDate}</span>
-        <img each={books} title={title} src={cover}></li>
-      </a>
-    </li>
-  </ul>
+  <section>
+    <ul>
+      <li each={days}>
+        <a href="#{date}">
+          <span>{jDate}</span>
+          <img each={books} title={title} src={cover}></li>
+        </a>
+      </li>
+    </ul>
+  </section>
 
   <footer>
     <p>Made in OpenSource Cafe</p>
@@ -44,8 +46,8 @@
             })
           this.update({days})
           const winWidth = window.innerWidth
-          const elemWidth = 110
-          this.root.querySelector('ul').scrollLeft = 110 * 14 - (winWidth / 2) + (elemWidth / 2);
+          const elemWidth = 120
+          this.root.querySelector('section').scrollLeft = elemWidth * 14 - (winWidth / 2) + (elemWidth / 2);
         })
     })
   </script>
@@ -77,38 +79,48 @@
     footer p {
       margin: 0 0 .5em;
     }
-    :scope > ul {
+    :scope > section {
       margin: 0;
       padding: 0;
-      list-style: none;
       height: 340px;
       overflow-x: scroll;
       overflow-y: hidden;
-      white-space: nowrap;
     }
-    :scope > ul > li {
+    :scope > section ul {
       margin: 0;
-      padding: 80px 5px 0;
-      display: inline-block;
-      width: 100px;
-      height: 260px;
-      vertical-align: top;
-      text-align: center;
-      white-space: normal;
-      overflow: hidden;
+      padding: 0;
+      list-style: none;
+      height: 100%;
+      width: 3360px;
+      white-space: nowrap;
+      display: flex;
+      flex-direction: row;
       position: relative;
     }
-    :scope > ul > li::before {
+    :scope > section ul::before {
       background-color: white;
       top: 0;
       left: 0;
-      width: 111px;
+      width: 100%;
       height: 30px;
       content: "*";
       color: transparent;
       position: absolute;
     }
-    :scope > ul > li span {
+    :scope > section li {
+      margin: 0;
+      padding: 80px 10px 0;
+      width: 100px;
+      height: 260px;
+      text-align: center;
+      overflow: hidden;
+      position: relative;
+      display: block;
+    }
+    :scope > section a {
+      display: block;
+    }
+    :scope > section span {
       position: absolute;
       top: 0;
       left: 25px;
@@ -121,8 +133,10 @@
       line-height: 60px;
       white-space: nowrap;
     }
-    :scope > ul > li img {
+    :scope > section img {
       width: 100px;
+      display: block;
+      margin-bottom: 10px;
     }
   </style>
 </app-home>
