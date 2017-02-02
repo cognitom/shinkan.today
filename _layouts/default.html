@@ -33,7 +33,18 @@
       {% if page.price != '' %}<li>価格 &yen;{{page.price}}</li>{% endif %}
       <li>ISBN {{page.isbn}}</li>
     </ul>
+
+    <ol>
+      <li><goto-amazon isbn="9784040687827" /></li>
+      <li><goto-kinokuniya isbn="9784040687827" /></li>
+      <li><goto-stand isbn="9784040687827" /></li>
+      <li><goto-calil isbn="9784040687827" /></li>
+      <li><goto-booklog isbn="9784040687827" /></li>
+    </ol>
+
     <footer>新刊トゥデイ</footer>
+
+    <script src="/book.js"></script>
   </body>
 
 </html>

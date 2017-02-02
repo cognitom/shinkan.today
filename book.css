@@ -45,7 +45,7 @@ img {
 h3 {
   margin: 15px;
   padding: 0 0 5px;
-  border-bottom: 1px solid rgba(255, 255, 255, .3)
+  border-bottom: 1px solid rgba(255, 255, 255, .3);
 }
 p {
   margin: 15px;
@@ -56,4 +56,13 @@ img {
 }
 ul {
   color: rgba(255, 255, 255, .7)
+}
+ol {
+  list-style: none;
+  margin: 15px;
+  padding: 15px 0 0;
+  border-top: 1px solid rgba(255, 255, 255, .3);
+}
+ol > li {
+  margin: 0 0 10px;
 }
