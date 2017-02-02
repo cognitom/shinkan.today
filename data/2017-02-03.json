@@ -71,6 +71,10 @@
 ,
 {"isbn":"9784088810188","title":"魔神のガルド! 4","volume":"","series":"","publisher":"集英社","pubdate":"2017-02-03","cover":"","author":"安藤英／著","description":"\n\n\n","price":"400","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
+{"isbn":"9784197104840","title":"仁義なき戦い　100の金言","volume":"","series":"","publisher":"徳間書店","pubdate":"2017-02-03","cover":"","author":"","description":"「名言本」ブームの決定打となる、『仁義なき戦い』５部作よりの名セリフセレクト版。金言１００篇を完全解説！ステッカー付き！","price":"907","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+,
+{"isbn":"9784197104901","title":"大黒敬太が選んだニッポンの混浴温泉100","volume":"","series":"","publisher":"徳間書店","pubdate":"2017-02-03","cover":"","author":"","description":"混浴温泉好き必読！　極楽、最強の混浴温泉を豊富な写真（美女の入浴写真も！）で紹介する！","price":"1200","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+,
 {"isbn":"9784198941925","title":"虹の不在 第Ⅱ捜査官","volume":"","series":"","publisher":"徳間書店","pubdate":"2017-02-03","cover":"","author":"安東能明／著","description":"「元物理教師の刑事」は、昼行灯だけど超腕利き捜査官。相棒は教え子の新米女刑事。「先生、また事件です！」","price":"670","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784198941932","title":"世界の裏側がわかる宗教集中講座","volume":"","series":"","publisher":"徳間書店","pubdate":"2017-02-03","cover":"","author":"井沢元彦／著","description":"宗教がわかれば世界が見える。トランプ、朴槿恵、テロなど今起きている社会問題を深く理解するための必須知識満載の一冊！","price":"900","genre":"文庫","target":"一般","format":"文庫","content":"外国歴史"}
@@ -131,6 +135,12 @@
 ,
 {"isbn":"9784562053674","title":"航空から見た戦後昭和史","volume":"","series":"","publisher":"原書房","pubdate":"2017-02-03","cover":"https://cover.openbd.jp/9784562053674.jpg","author":"夫馬信一／著","description":"パイオニアたちの挑戦、一九六四年の大祭典、空飛ぶ要人たちの逸話など、日本の民間航空と戦後史を追った異色ノンフィクション。","price":"2500","genre":"","target":"一般","format":"単行本","content":"日本歴史"}
 ,
+{"isbn":"9784569786247","title":"わくわく！ かたちのえほん","volume":"","series":"","publisher":"PHP研究所","pubdate":"2017-02-03","cover":"","author":"PHP研究所／編集 蔵澄咲帆／イラスト","description":"かたちってなんだろう？　まる、さんかく、しかく、うずまき、えだわかれ、動物のかたち……。身の回りの色んな形を探してみよう！","price":"1600","genre":"児童図書","target":"児童","format":"絵本","content":"数学"}
+,
+{"isbn":"9784569786254","title":"ともだちのひっこし","volume":"","series":"PHPわたしのえほん","publisher":"PHP研究所","pubdate":"2017-02-03","cover":"","author":"宮野聡子／著・イラスト","description":"大好きな友だちのともちゃんが引っ越すことに……。それを知ったゆうちゃんは、“さようなら”を言えなくなってしまいました。","price":"1300","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784569822006","title":"［愛蔵版］捨てちゃえ、捨てちゃえ","volume":"","series":"","publisher":"PHP研究所","pubdate":"2017-02-03","cover":"","author":"ひろさちや／著","description":"「常識」も「こだわり」も「欲望」も、みんな捨てちゃえ、捨てちゃえ――自分のなかにある「とらわれ」を捨て、心軽やかに生きる教え。\n","price":"630","genre":"哲学・宗教","target":"一般","format":"単行本","content":"仏教"}
+,
 {"isbn":"9784592195443","title":"彼女になる日 another 4","volume":"","series":"","publisher":"白泉社","pubdate":"2017-02-03","cover":"https://cover.openbd.jp/9784592195443.jpg","author":"小椋アカネ／著","description":"付き合っていた黒川に成海を気にしていると指摘され、別れる事になった相楽。成海ともギクシャクした関係になってしまう。体調不良で寝込んでしまうが、成海がお見舞いに現れて!?さらに久しぶりの母親との再会で不穏な空気が!!変化する自分の気持ちに翻弄される相楽は…!? \n2017年2月刊。","price":"429","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784592198345","title":"まほろ駅前多田便利軒 4","volume":"","series":"","publisher":"白泉社","pubdate":"2017-02-03","cover":"https://cover.openbd.jp/9784592198345.jpg","author":"山田ユギ／企画 三浦しをん／著","description":"多田はずっと隠していた自身の辛い過去を行天に告白して…。感動の最終巻!! \n2017年2月刊。","price":"581","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
@@ -165,9 +175,21 @@
 ,
 {"isbn":"9784779170843","title":"野球と実況中継","volume":"80","series":"フィギュール彩","publisher":"彩流社","pubdate":"2017-02-03","cover":"https://cover.openbd.jp/9784779170843.jpg","author":"楠淳生／著 中村健二／著","description":"野球の楽しさを実況の技術とともに理解しよう！\n\n野球実況の仕事に就いてはや三十年。それでもまだ難しい。\n聴きやすく重要な部分を印象に残るように\n伝えないといけない。\n著者が解説する手法は、技術向上の手法であり、\nそれをサポートする考え方。\n実況アナウンサーを目指す方、\nまた技術向上を求める方への\n道標に間違いなくなります。\nいまや実況アナウンサーになりたいという学生は\n減っているという。\n実況アナウンサーが絶滅危惧種にならないためにも、\nまた野球観戦やテレビ、ラジオの中継が好きな方に、\n実況アナウンサーがいかに実況中継に臨んでいるか、\n本書を読んでみてください。","price":"1800","genre":"","target":"一般","format":"全集・双書","content":"体育・スポーツ"}
 ,
+{"isbn":"9784797272499","title":"採證學","volume":"1141","series":"日本立法資料全集別巻","publisher":"信山社出版","pubdate":"2017-02-03","cover":"","author":"ハンス・グロース／著 設楽勇雄／翻訳 向軍治／翻訳","description":"ハンス・グロース（Hanns Gross,1847-1915)が著したHandbuch für Untersuchungsrichter als System der Kriminalistik, 1891の部分訳","price":"70000","genre":"社会科学","target":"専門","format":"全集・双書","content":"法律"}
+,
+{"isbn":"9784797272505","title":"刑事訴訟法要義 全","volume":"1142","series":"日本立法資料全集別巻","publisher":"信山社出版","pubdate":"2017-02-03","cover":"","author":"山﨑惠純／著 西垣為吉／著","description":"明治23年刑事訴訟法（明23法96）の簡潔な講義録。","price":"40000","genre":"社会科学","target":"専門","format":"全集・双書","content":"法律"}
+,
+{"isbn":"9784797272512","title":"日本監獄法","volume":"1143","series":"日本立法資料全集別巻","publisher":"信山社出版","pubdate":"2017-02-03","cover":"","author":"佐藤信安／著","description":"明治32・33年改正後の監獄則並びに明治32年改正後の監獄則施行細則についての逐条注釈。","price":"35000","genre":"社会科学","target":"専門","format":"全集・双書","content":"法律"}
+,
+{"isbn":"9784797280838","title":"国民経済講話(1)","volume":"3","series":"福田徳三著作集","publisher":"信山社出版","pubdate":"2017-02-03","cover":"","author":"福田徳三研究会／編集 江夏由樹／編集 大月康弘／編集","description":"日本経済学史を学ぶための古典を読みやすく活字化（翻刻）。第3巻は、一般向けに書かれた経済書。","price":"7500","genre":"社会科学","target":"専門","format":"全集・双書","content":"法律"}
+,
 {"isbn":"9784798049144","title":"わたくしたちの旅のかたち","volume":"","series":"","publisher":"秀和システム","pubdate":"2017-02-03","cover":"","author":"兼高かおる／著 曽野綾子／著","description":"50年来の知己がはじめて語り合う。世界を旅した2人の、異国でのカルチャーショック、記憶に残る風景、心にしみる人との会い…。","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784805110942","title":"外交感覚 時代の終わりと長い始まり","volume":"","series":"","publisher":"千倉書房","pubdate":"2017-02-03","cover":"https://cover.openbd.jp/9784805110942.jpg","author":"高坂正堯／著 中西寛／解説 細谷雄一／解説","description":"1996年の逝去した国際政治学者・高坂正堯が残した時評集を集成。中国、米国、国際社会、そして日本政治や外交に向けられた鋭い視線は、21世紀の日本を見通すかのような寸鉄が散りばめられている。","price":"4500","genre":"社会科学","target":"専門","format":"単行本","content":"政治-含む国防軍事"}
+,
+{"isbn":"9784822237325","title":"物理学者の墓を訪ねる","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2017-02-03","cover":"","author":"山口栄一／著","description":"物理学者の墓石に刻まれた文字からは、生前の業績だけではなく、遺族や友人たちの思いや、時代背景などが浮かび上がってくる。","price":"1600","genre":"","target":"一般","format":"単行本","content":"物理学"}
+,
+{"isbn":"9784822237332","title":"新事業創出のための“言えない大事”","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2017-02-03","cover":"","author":"多喜義彦／著","description":"開発コンサルタントである「開発の鉄人」こと、多喜義彦氏が新事業開発を進める上で、知っておくべき心構を伝授。","price":"1800","genre":"","target":"一般","format":"単行本","content":"経営"}
 ,
 {"isbn":"9784829984055","title":"日本のクモ　増補改訂版","volume":"","series":"ネイチャーガイド","publisher":"文一総合出版","pubdate":"2017-02-03","cover":"","author":"新海栄一／著","description":"掲載順の変更と新規に約20種を追加。環境別にクモを探すポイントや，網型・卵のうの形による識別など，観察に役立つ情報を増やした","price":"5500","genre":"自然科学","target":"一般","format":"図鑑","content":"生物学"}
 ,
@@ -177,9 +199,13 @@
 ,
 {"isbn":"9784862492791","title":"加持力の世界","volume":"","series":"","publisher":"東方出版","pubdate":"2017-02-03","cover":"https://cover.openbd.jp/9784862492791.jpg","author":"三井英光／著","description":"密教行者として高名な著者が、三密瑜伽行の加持祈禱を通して語る密教世界。加持力の論理と、瑜伽秘法を修しての実際の体験を語る。","price":"1800","genre":"哲学・宗教","target":"一般","format":"単行本","content":"仏教"}
 ,
+{"isbn":"9784864051071","title":"絵伝と縁起の近世僧坊文芸 聖なる俗伝","volume":"","series":"","publisher":"森話社","pubdate":"2017-02-03","cover":"https://cover.openbd.jp/9784864051071.jpg","author":"堤邦彦／著","description":"日常的な仏事や寺参りの風習が日本の全階層に行き渡ったのは、18世紀に入ってからだった。これによって寺社は、自院をアピールする縁起譚や宗祖を顕彰する高僧伝を、大衆の興味を引くものに変化させていく。絵画化され、また伝奇性や娯楽性がふんだんに盛り込まれたそれらの文芸を「聖なる俗伝」と位置づけ、江戸中・後期の文芸と宗教の関係を解き明かす。","price":"7800","genre":"","target":"教養","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
 {"isbn":"9784866470078","title":"VINTAGE POSTER SCRAP","volume":"","series":"","publisher":"DU BOOKS","pubdate":"2017-02-03","cover":"https://cover.openbd.jp/9784866470078.jpg","author":"","description":"井出靖(Grand Gallery)が収集した、\nレア・ポスター集！\n\nデザインの秀逸さと、その時…","price":"3300","genre":"芸術","target":"一般","format":"単行本","content":"絵画・彫刻"}
 ,
 {"isbn":"9784873266787","title":"16817の化学商品","volume":"","series":"","publisher":"化学工業日報社","pubdate":"2017-02-03","cover":"https://cover.openbd.jp/9784873266787.jpg","author":"化学工業日報社／編集","description":"","price":"33000","genre":"","target":"専門","format":"事・辞典","content":"化学"}
+,
+{"isbn":"9784874159958","title":"仏師と訪ねる九州の仏像４","volume":"","series":"","publisher":"海鳥社","pubdate":"2017-02-03","cover":"https://cover.openbd.jp/9784874159958.jpg","author":"高井そう玄／著","description":"木造千手観音立像／愛宕山蓮華寺・大分県日出町\n木造釈迦如来立像／亀甲山福城寺・熊本県下益城郡\n木造地蔵菩薩半跏像／円光院跡延命地蔵堂・大分県八代市\n木造十一面観世音菩薩像／長谷寺・熊本県宇城市\n不動明王立像／愛宕山蓮華寺・大分県日出町\n中国・朝鮮半島の仏教美術と金銅仏","price":"3000","genre":"","target":"一般","format":"単行本","content":"絵画・彫刻"}
 ,
 {"isbn":"9784877953485","title":"常識が変わる　２００歳長寿！　若返り食生活法","volume":"","series":"","publisher":"コスモ21","pubdate":"2017-02-03","cover":"https://cover.openbd.jp/9784877953485.jpg","author":"松井和義／著","description":"第Ⅰ部　「病気知らずの食生活法」でまず１５０歳長寿に挑戦！\n１章　人体のエネルギー生成システムと代謝システム\n２章　人体に必要な栄養素と正しい摂取法\n３章　腸内細菌は第二の臓器\n４章　体内に蓄積する化学物質はすべて毒\n５章　健康長寿には体内毒の排毒（デトックス）が不可欠\n\n第Ⅱ部　「２００歳長寿」への鍵は超極小生命体「ソマチッド」にある！\n１章　２００歳長寿！を実現する脳と体の若返り法\n２章　「手作り酵素」１２のパワー\n３章　「古代ソマチッド」含有量が世界一の和製天然木精油\n４章　意識覚醒がもたらす２００歳長寿！","price":"2000","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
 ,
@@ -188,6 +214,10 @@
 {"isbn":"9784884162528","title":"空き家大国ニッポン","volume":"","series":"","publisher":"せせらぎ出版","pubdate":"2017-02-03","cover":"https://cover.openbd.jp/9784884162528.jpg","author":"水谷秀志／著","description":"はじめに―深刻化する空き家・空き地問題\n第1章　日本の空き家は今…\n第2章　なぜ空き家は増え続けるのか？\n第3章　空き家がひきおこすさまざまなトラブル\n第4章　空き家・空き地と相続\n第5章　空き家対策特別措置法とは\n第6章　空き家・空き地の問題点\n第7章　空き家・空き地の上手な管理\n第8章　空き家・空き地をデザインする時代\nおわりに","price":"1500","genre":"","target":"一般","format":"単行本","content":"社会"}
 ,
 {"isbn":"9784889009422","title":"パソコン編集入門［パーソナル編集長バージン１２対応版］","volume":"","series":"","publisher":"日本機関紙出版センター","pubdate":"2017-02-03","cover":"https://cover.openbd.jp/9784889009422.jpg","author":"日本機関紙協会大阪府本部／編集","description":"ＤＴＰソフト「パーソナル編集長」の入門書として好評ロングセラーの『パコン編集入門』シリーズのバージョンアップ対応版。２０１７年２月から販売されるバージョン１２に合わせた内容に大幅改編しました。  \n","price":"2000","genre":"コンピュータ","target":"専門","format":"単行本","content":"写真・工芸"}
+,
+{"isbn":"9784894517462","title":"「枯れない」男の流儀","volume":"","series":"","publisher":"フォレスト出版","pubdate":"2017-02-03","cover":"","author":"川北義則／著","description":"","price":"1400","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
+,
+{"isbn":"9784894517479","title":"図解人生がはかどる「ふせんノート」","volume":"","series":"","publisher":"フォレスト出版","pubdate":"2017-02-03","cover":"","author":"坂下仁／著","description":"","price":"1300","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
 ,
 {"isbn":"9784905073673","title":"科学的に元気になる方法集めました","volume":"","series":"","publisher":"文響社","pubdate":"2017-02-03","cover":"https://cover.openbd.jp/9784905073673.jpg","author":"堀田秀吾／著","description":"国内外の最新の研究結果から科学的に効果が証明された、元気になれるアクションを紹介したビジネス書です。","price":"1340","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
 ,

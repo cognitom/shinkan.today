@@ -13,6 +13,8 @@
 ,
 {"isbn":"9784041043530","title":"小説　野性時代　第１６０号　２０１７年３月号","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784041043530.jpg","author":"小説野性時代編集部／編集","description":"対談に葉室麟×諸田玲子、初野晴×佐藤勝利。小説特集として、ミステリー！","price":"796","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"日本文学、小説・物語"}
 ,
+{"isbn":"9784048955850","title":"春Ｗａｌｋｅｒ首都圏版２０１７ ウォーカームック","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784048955850.jpg","author":"","description":"桜、鎌倉、日帰り旅・・・春遊び最強ガイド！","price":"580","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+,
 {"isbn":"9784056111606","title":"浜内千波のやせるおかず","volume":"","series":"ヒットムック料理シリーズ","publisher":"学研プラス","pubdate":"2017-02-09","cover":"","author":"浜内千波／著","description":"リバウンドなしの体型をキープしている料理研究家・浜内千波がやせる食べ方の法則とそれに基づくやせるおかずのレシピを紹介。","price":"920","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
 {"isbn":"9784062203838","title":"点字つきさわる絵本　あらしのよるに","volume":"","series":"","publisher":"講談社","pubdate":"2017-02-09","cover":"","author":"きむらゆういち／著 あべ弘士／著","description":"絵本に点字と触図がついて、見えない人と見える人が一緒に楽しめるジャバラ式の絵本。点字を学べるページや「ガブとメイ絵巻」も！","price":"2750","genre":"","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
@@ -85,11 +87,43 @@
 ,
 {"isbn":"9784107719577","title":"エリア５１ １４","volume":"","series":"バンチコミックス","publisher":"新潮社","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784107719577.jpg","author":"久正人／著","description":"マッコイは、アマテラスの思念体をヌエに撃ち込む。超強力な容れ物を得、復活したアマテラスは、日本神話とエジプト神話の抗争を終結させるべく黒幕アヌビスの元へ向かうのだが？","price":"552","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
+{"isbn":"9784150019167","title":"凍てつく街角","volume":"","series":"","publisher":"早川書房","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784150019167.jpg","author":"ミケール・カッツ・クレフェルト／著 長谷川圭／翻訳","description":"恋人を殺され、自暴自棄に生きる刑事ラウン。彼は友人に頼まれ、失踪中の若い女性を探すことになるが……デンマーク発ミステリ","price":"1700","genre":"","target":"一般","format":"新書","content":"外国文学小説"}
+,
+{"isbn":"9784150121136","title":"ポルレイターの秘密兵器","volume":"538","series":"宇宙英雄ローダン・シリーズ","publisher":"早川書房","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784150121136.jpg","author":"マリアンネ・シドウ／著 ホルスト・ホフマン／著 若松宣子／翻訳","description":"長き深層睡眠から目ざめた、もと太陽系艦隊提督キャラモンは、ポルレイターの秘密兵器を見つけるため惑星ズルウトに向かうが……","price":"660","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784150312633","title":"航空宇宙軍史・完全版 四","volume":"0","series":"航空宇宙軍史","publisher":"早川書房","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784150312633.jpg","author":"谷甲州／著","description":"天王星系での外惑星連合軍地下組織によるクーデターを描く長篇、航空宇宙軍の創設に始まる人類の壮大な宇宙史たる連作集を合本。","price":"1500","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784150414047","title":"プラダを着た悪魔　リベンジ！ 上","volume":"","series":"","publisher":"早川書房","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784150414047.jpg","author":"ローレン・ワイズバーガー／著 佐竹史子／翻訳","description":"雑誌立ち上げに成功し、結婚も目前に控えて公私ともに順風満帆なアンドレア。しかし、ふたたび鬼編集長が人生に現われ、大混乱！","price":"700","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784150414054","title":"プラダを着た悪魔　リベンジ！ 下","volume":"","series":"","publisher":"早川書房","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784150414054.jpg","author":"ローレン・ワイズバーガー／著 佐竹史子／翻訳","description":"","price":"700","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784150504861","title":"紙つなげ！　彼らが本の紙を造っている","volume":"","series":"","publisher":"早川書房","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784150504861.jpg","author":"佐々涼子／著","description":"地元のため、そして本を待つ読者のために！津波で壊滅的被害を受けた製紙工場の復興の軌跡を徹底取材した、傑作ノンフィクション","price":"740","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784150504878","title":"偉大なる失敗","volume":"0","series":"数理を愉しむ","publisher":"早川書房","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784150504878.jpg","author":"マリオ・リヴィオ／著 千葉敏生／翻訳","description":"ダーウィンからアインシュタインまで、５人の科学者たちがいかに過ちを犯し、結果的に科学の発展に寄与したかを考察する科学読本","price":"1040","genre":"","target":"一般","format":"文庫","content":"自然科学総記"}
+,
+{"isbn":"9784151400377","title":"アーサー・ミラー Ⅲ","volume":"","series":"","publisher":"早川書房","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784151400377.jpg","author":"アーサー・ミラー／著 倉橋健／翻訳","description":"戦争の功罪を問う「みんな我が子」、あるイタリア系一族の悲劇を描く「橋からのながめ」。初期の傑作2篇を収録。解説／広田敦郎","price":"1500","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784151825514","title":"シャーロック・ホームズ殺人事件 上","volume":"","series":"","publisher":"早川書房","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784151825514.jpg","author":"グレアム・ムーア／著 公手成幸／翻訳","description":"名探偵ホームズの生みの親ドイルの失われた日記。その知られざる秘密を追え！　時空を超えた二つの事件がからみあう傑作ミステリ","price":"860","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784151825521","title":"シャーロック・ホームズ殺人事件 下","volume":"","series":"","publisher":"早川書房","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784151825521.jpg","author":"グレアム・ムーア／著 公手成幸／翻訳","description":"","price":"860","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784152096692","title":"ＳＦが読みたい！２０１７年版","volume":"","series":"","publisher":"早川書房","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784152096692.jpg","author":"Ｓ‐Ｆマガジン編集部／編集","description":"年間ベストＳＦ発表、ベスト１作家からのメッセージ、サブジャンル別ベスト、この一年のＳＦ関連トピック、2017年のＳＦ刊行予定、ＳＦ関連書籍＆ＤＶＤ目録などでおくるガイドブック最新版。特別企画として2010年代前半のＳＦベスト発表＆アンケートを全掲載","price":"800","genre":"","target":"一般","format":"単行本","content":"文学総記"}
+,
 {"isbn":"9784163905976","title":"アンソロジー 隠す","volume":"","series":"","publisher":"文藝春秋","pubdate":"2017-02-09","cover":"","author":"加納朋子／著 近藤史恵／著 篠田真由美／著 柴田よしき／著 永嶋恵美／著 新津きよみ／著 ほか","description":"恐怖、因縁、苛め、恋愛と老い、引きこもり探偵に芸能人の犯罪。人気作家十一人が「隠す」をテーマに書き下ろした豪華短編集。","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784198643492","title":"孤独論 逃げよ、生きよ","volume":"","series":"","publisher":"徳間書店","pubdate":"2017-02-09","cover":"","author":"田中慎弥／著","description":"あなたは仕事や人間関係の奴隷になっていないか。抜け出す方法は一つ。それは逃げること。芥川賞作家による究極の仕事論＆人生論","price":"1000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
+{"isbn":"9784198643522","title":"お金も幸せも降りそそぐ超スピリチュアル・ライフ","volume":"","series":"","publisher":"徳間書店","pubdate":"2017-02-09","cover":"","author":"エマニュエル・ダガー／著 東川恭子／著","description":"「お金」も「心の豊かさ」も「幸福な人生」も、本書であなたの心を愛と喜びと感謝で満たせば、簡単に手に入れることができます！","price":"1500","genre":"","target":"一般","format":"単行本","content":"心理(学)"}
+,
+{"isbn":"9784198643577","title":"マイナス金利時代のありえない「戸建て賃貸投資術」","volume":"","series":"","publisher":"リンダパブリッシャーズ","pubdate":"2017-02-09","cover":"","author":"新谷准司／著","description":"投資家が大注目なのが「戸建賃貸物件」。本書著者は自ら５０軒以上の戸建物件を黒字化させているスペシャリストです。","price":"1500","genre":"","target":"一般","format":"単行本","content":"経済・財政・統計"}
+,
 {"isbn":"9784262169705","title":"ＣＤ付き　韓国語　話す・聞く　かんたん入門書","volume":"","series":"","publisher":"池田書店","pubdate":"2017-02-09","cover":"","author":"長友英子／著 荻野優子／著","description":"ハングルなぞり書き、文字のしくみと発音の解説、よく使うフレーズ紹介、文法解説、練習問題で、みるみる身につく！","price":"1300","genre":"","target":"実用","format":"単行本","content":"各国語"}
+,
+{"isbn":"9784274220289","title":"やさしく学ぶ　第三級陸上特殊無線技士試験","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2017-02-09","cover":"","author":"吉村和昭／著","description":"第三級陸上特殊無線技士試験（三陸特）の全科目を解説した受験対策書。三陸特の合格に必要な実力を身につけられる構成。","price":"2400","genre":"","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784274505867","title":"ポケット版 要点整理 電験三種4科目","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2017-02-09","cover":"","author":"陶山和信／著","description":"電験三種の過去問題20年分を分析し、合格に必須の公式・用語・法規を1冊にまとめたポケット版。","price":"2400","genre":"","target":"専門","format":"単行本","content":"電気"}
+,
+{"isbn":"9784274506482","title":"2017年版　第一種電気工事士筆記試験完全解答","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2017-02-09","cover":"","author":"オーム社／編集","description":"第一種電気工事士試験の一次試験である｢筆記試験」を対象とした過去問題集。筆記試験に出題される内容の要点を整理して掲載。","price":"2200","genre":"","target":"専門","format":"単行本","content":"電気"}
 ,
 {"isbn":"9784306024823","title":"2017年度 技術士試験［建設部門］傾向と対策","volume":"","series":"","publisher":"鹿島出版会","pubdate":"2017-02-09","cover":"","author":"CEネットワーク／編集","description":"平成29年度第二次試験の対策。必須科目である択一式出題及び予想問題を解説。選択科目ごとの記述式出題問題の論文解答例を多数掲載。","price":"2500","genre":"工業・工学","target":"専門","format":"単行本","content":"土木"}
 ,
@@ -102,6 +136,44 @@
 {"isbn":"9784326403288","title":"［笑うケースメソッドⅡ］現代日本公法の基礎を問う","volume":"","series":"","publisher":"勁草書房","pubdate":"2017-02-09","cover":"","author":"木庭顕／著","description":"［笑うケースメソッド］第2弾！今度は公法篇だ！一癖ある学生たちが、かの占有教授相手に、意外な角度から公法の基礎を掘り起こす。","price":"3000","genre":"社会科学","target":"専門","format":"単行本","content":"法律"}
 ,
 {"isbn":"9784326403349","title":"情報法のリーガル・マインド","volume":"","series":"","publisher":"勁草書房","pubdate":"2017-02-09","cover":"","author":"林紘一郎／著","description":"ドローンや自動運転車の事故責任は誰に？ 情報通信の現場を率い法学と経済学を修めた著者ならではの知見を駆使した情報法の俯瞰図。","price":"3600","genre":"社会科学","target":"専門","format":"単行本","content":"法律"}
+,
+{"isbn":"9784334753481","title":"白痴　２","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"ドストエフスキー／著 亀山郁夫／翻訳","description":"","price":"860","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784334774028","title":"天保の亡霊 般若同心と変化小僧（十三）","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"小杉健治／著","description":"","price":"600","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774219","title":"天華の剣　（上） 浮世絵宗次日月抄","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"門田泰明／著","description":"","price":"660","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774226","title":"天華の剣　（下） 浮世絵宗次日月抄","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"門田泰明／著","description":"","price":"660","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774233","title":"ただ一人の異性","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"森村誠一／著","description":"","price":"760","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774240","title":"にぎやかな落葉たち","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"辻真先／著","description":"","price":"900","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774257","title":"フラッシュモブ","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"遠藤武文／著","description":"","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774264","title":"ストーミー・ガール","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"田中啓文／著","description":"","price":"840","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774271","title":"残業税","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"小前亮／著","description":"","price":"720","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774288","title":"十二月八日の幻影","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"直原冬明／著","description":"","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774295","title":"踊る猫","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"折口真喜子／著","description":"","price":"600","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774318","title":"探偵の流儀","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"福田栄一／著","description":"","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774325","title":"十津川警部「荒城の月」殺人事件","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"西村京太郎／著","description":"","price":"580","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774332","title":"幽霊舟 隠目付江戸秘帳","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"鳥羽亮／著","description":"","price":"580","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774349","title":"風蘭 隅田川御用帳（十）","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"藤原緋沙子／著","description":"","price":"600","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774356","title":"招待状 赤川次郎ショートショート王国","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"赤川次郎／著","description":"","price":"540","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334774363","title":"国家の大穴　永田町特区警察","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"沢里裕二／著","description":"","price":"620","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334787141","title":"変と乱の日本史","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"河合敦／著","description":"","price":"820","genre":"文庫","target":"一般","format":"文庫","content":"日本歴史"}
+,
+{"isbn":"9784334787158","title":"超入門ボブ・ディラン","volume":"","series":"","publisher":"光文社","pubdate":"2017-02-09","cover":"","author":"中山康樹／著","description":"","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"音楽・舞踊"}
 ,
 {"isbn":"9784391639827","title":"つけるだけ！ ヤセなか美乳ブラ","volume":"","series":"生活シリーズ","publisher":"主婦と生活社","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784391639827.jpg","author":"原志保／監修","description":"47歳にして奇跡の美ボディを保つモデル＆カリスマ美容家にして“元祖・おっぱい美魔女”の原志保さんがこだわり監修！　つけるだけで背中＆ワキのハミ肉をすっきり消し去って、ふんわり美バストに「形状記憶」できる補正ブラ付きムックです。\n　国内大手メーカーとコラボした特別付録のブラは、独自の「ハイバック＆ワキ高設計」。ムダな凸凹お肉をこぼすことなく面で整えます。キャッチしたお肉は、部位ごとの最適な編み地で、流してしまうことなくバストへググッと集めて効果的に寄せ上げ。やわらかなストレッチカップとフロントギャザーが、バストをつぶさずソフトに包み込みながらしっかりホールドします。つけるだけでいつでも美しいバストラインに！\n　本体冊子には“おっぱい美魔女”原さんが実践するバストアップ・エクササイズやマッサージなども収録しています。\n\n○つけるだけ! ヤセなか美乳ブラのスゴい！　４大効果\n効果(1)……背中＆ワキのハミ肉をしっかりキャッチ＆すっきり補正！\n効果(2)……流れやすいお肉をググッと寄せ上げバストアップ！\n効果(3)……背筋をピンと整え、らくらく正しい美姿勢に！\n効果(4)……バストトップの位置もアップ！ 理想的なスタイル美人に！","price":"2200","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
@@ -128,6 +200,10 @@
 {"isbn":"9784537214512","title":"愛らしい　加賀のゆびぬき Ｔｈｅ ｂｅａｕｔｉｆｕｌ ｔｉｎｙ ｎｅｅｄｌｅｗｏｒｋ","volume":"","series":"","publisher":"日本文芸社","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784537214512.jpg","author":"寺島綾子／著","description":"カラーバリエーションが豊富、オリジナルデザインが素敵な指ぬきの本。奥深い指ぬきの楽しさが味わえます。","price":"1600","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784560072097","title":"ギリシア人男性、ギリシア人女性を求む","volume":"","series":"","publisher":"白水社","pubdate":"2017-02-09","cover":"","author":"フリードリヒ・デュレンマット／著 増本浩子／翻訳","description":"冴えない中年独身男の前に絶世の美女が現れ、彼の人生は一変する。突然の有名人扱い、異例の大昇進……不可解な幸運の裏には何が？","price":"1400","genre":"","target":"一般","format":"新書","content":"外国文学小説"}
+,
+{"isbn":"9784569832784","title":"「週末コンサル」の教科書","volume":"","series":"","publisher":"PHP研究所","pubdate":"2017-02-09","cover":"","author":"鈴木誠一郎／著","description":"会社勤めをしながら週末にコンサルタント業を始め1～3年後に独立。そんな「週末コンサル」を多数育ててきた著者が、具体的方法を開陳。","price":"1400","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
+,
+{"isbn":"9784569834825","title":"真実の世界史講義 古代編","volume":"","series":"","publisher":"PHP研究所","pubdate":"2017-02-09","cover":"","author":"倉山満／著","description":"世界最古の文明は日本だった!?　ヨーロッパ人が憧れたオリエントの繁栄を、独自の視点でたどりなおす倉山世界史第一弾！","price":"1400","genre":"社会科学","target":"一般","format":"単行本","content":"歴史総記"}
 ,
 {"isbn":"9784591153239","title":"僕は上手にしゃべれない","volume":"43","series":"ｔｅｅｎｓ’　ｂｅｓｔ　ｓｅｌｅｃｔｉｏｎｓ","publisher":"ポプラ社","pubdate":"2017-02-09","cover":"","author":"椎野直弥／著","description":"","price":"1500","genre":"","target":"児童","format":"単行本","content":"日本文学、小説・物語"}
 ,
@@ -157,6 +233,8 @@
 ,
 {"isbn":"9784789510172","title":"七訂食品成分表2017","volume":"","series":"","publisher":"女子栄養大学出版部","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784789510172.jpg","author":"香川明夫／監修","description":"昨年の大改訂に続き今年も新データ「追補2016年」を収載！新しい３１食品を追加、新項目「ナイアシン当量」も収載しました。","price":"1400","genre":"自然科学","target":"実用","format":"単行本","content":"家事"}
 ,
+{"isbn":"9784792351953","title":"子どもの法定年齢の比較法研究","volume":"","series":"","publisher":"成文堂","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784792351953.jpg","author":"山口直也／著・編集","description":"","price":"6000","genre":"社会科学","target":"専門","format":"単行本","content":"法律"}
+,
 {"isbn":"9784797390520","title":"新・明解C言語で学ぶアルゴリズムとデータ構造","volume":"","series":"","publisher":"SBクリエイティブ","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784797390520.jpg","author":"柴田望洋／著","description":"","price":"2500","genre":"コンピュータ","target":"一般","format":"単行本","content":"電子通信"}
 ,
 {"isbn":"9784798048703","title":"iOS/macOSプログラマーのためのXcode時短開発テクニック","volume":"","series":"","publisher":"秀和システム","pubdate":"2017-02-09","cover":"","author":"土屋喬／著","description":"","price":"1600","genre":"","target":"専門","format":"単行本","content":"電子通信"}
@@ -166,6 +244,8 @@
 {"isbn":"9784798148083","title":"SOMPO GUIDE TOKYO","volume":"","series":"","publisher":"翔泳社","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784798148083.jpg","author":"翔泳社トラベルガイド編集部／著","description":"訪日観光客向けの東京ガイドブック。言語は英語。英語スタッフの有無や食事作法など安全安心を届ける内容が充実しています。","price":"1200","genre":"","target":"一般","format":"単行本","content":"旅行"}
 ,
 {"isbn":"9784798149820","title":"Illustrator逆引きデザイン事典［CC/CS6/CS5/CS4/CS3］ 増補改訂版","volume":"","series":"","publisher":"翔泳社","pubdate":"2017-02-09","cover":"https://cover.openbd.jp/9784798149820.jpg","author":"生田信一／著 ヤマダジュンヤ／著 柘植ヒロポン／著 順井守／著","description":"累計40万部突破の「逆引きデザイン事典シリーズ」が増補改訂版となって新登場。CCの新機能にも対応！","price":"2400","genre":"","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784808710750","title":"ＭＯＡ美術館","volume":"","series":"","publisher":"東京美術","pubdate":"2017-02-09","cover":"","author":"ＭＯＡ美術館／著","description":"美術館の名称「MOA」は創立者岡田茂吉の頭文字を冠したものだということをご存知でしたか？　美術館の名品で日本の美術史をたどる本書の構成は、古今各分野にわたり名品をバランスよく有する当館だからこそできたもの。すぐれた美術品は人の心を癒し品性を高めるという信念のもと、貴重な美術品の国内外への四散を防ぐべく心血を注いで蒐集にあたった創立者の情熱と審美眼に驚かされます。","price":"1600","genre":"芸術","target":"一般","format":"単行本","content":"芸術総記"}
 ,
 {"isbn":"9784832255647","title":"ヤバ盛！本当にあった生ここだけの話極（18）","volume":"","series":"","publisher":"芳文社","pubdate":"2017-02-09","cover":"","author":"安斎かなえ他／著","description":"","price":"509","genre":"コミックス(廉)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
