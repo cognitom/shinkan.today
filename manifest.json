@@ -1,0 +1,17 @@
+{
+  "name": "新刊トゥデイ",
+  "short_name": "新刊トゥデイ",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2c3644",
+  "description": "日々新しい本を探す活字中毒な人のため、新刊情報を淡々と表示するサイト",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "launcher-icon-4x.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "density": 4.0
+    }
+  ]
+}
