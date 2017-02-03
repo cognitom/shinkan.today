@@ -3231,6 +3231,10 @@ riot$1.tag2('goto-kinokuniya', '<a href="{url}">紀伊国屋書店</a>', 'goto-k
     this.url = 'https:/' + '/www.kinokuniya.co.jp/f/dsg-01-' + opts.isbn;
 });
 
+riot$1.tag2('goto-honto', '<a href="{url}">honto</a>', 'goto-honto,[data-is="goto-honto"]{ display: block; background: rgba(255, 255, 255, .1); border: 1px solid rgba(255, 255, 255, .3); border-radius: 3px; color: rgba(255, 255, 255, .8); text-align: center; padding: .5em; margin: 0 auto; width: 80%; max-width: 500px; } goto-honto a,[data-is="goto-honto"] a{ display: block; }', '', function(opts) {
+    this.url = 'https:/' + '/honto.jp/redirect.html?bookno=' + opts.isbn.slice(0, -1);
+});
+
 riot$1.mount('*');
 
 }());
