@@ -33,7 +33,17 @@
       {% if page.price != '' %}<li>価格 &yen;{{page.price}}</li>{% endif %}
       <li>ISBN {{page.isbn}}</li>
     </ul>
+
+    <ol>
+      <li><goto-amazon isbn="{{page.isbn}}" /></li>
+      <li><goto-kinokuniya isbn="{{page.isbn}}" /></li>
+      <li><goto-calil isbn="{{page.isbn}}" /></li>
+      <li><goto-booklog isbn="{{page.isbn}}" /></li>
+    </ol>
+
     <footer>新刊トゥデイ</footer>
+
+    <script src="/book.js"></script>
   </body>
 
 </html>

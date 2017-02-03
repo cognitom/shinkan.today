@@ -1,8 +1,8 @@
 import 'whatwg-fetch'
 import riot from 'riot'
 import route from 'riot-route/lib/tag'
-import './app.tag'
-import './app-home.tag'
-import './app-search.tag'
+import './tag/app.tag'
+import './tag/app-home.tag'
+import './tag/app-search.tag'
 
 riot.mount('app')

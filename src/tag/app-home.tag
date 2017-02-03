@@ -123,7 +123,7 @@
     :scope > section span {
       position: absolute;
       top: 0;
-      left: 25px;
+      left: 30px;
       width: 60px;
       height: 60px;
       border-radius: 30px;

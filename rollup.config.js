@@ -6,8 +6,6 @@ import postcss from 'postcss'
 import postcssCssnext from 'postcss-cssnext'
 
 export default {
-  entry: 'src/main.js',
-  dest: 'dist/main.js',
   plugins: [
     riot({
       style: 'cssnext',
