@@ -11,8 +11,8 @@ branches:
 before_install:
   - export TZ=Asia/Tokyo
 before_script:
-  - git config user.name $GIT_NAME
-  - git config user.email $GIT_EMAIL
+  - git config --global user.name "$GIT_NAME"
+  - git config --global user.email "$GIT_EMAIL"
 script:
   - npm test
   - npm run deploy-from-travis
