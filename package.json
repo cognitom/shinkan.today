@@ -7,7 +7,7 @@
     "build": "npm run rsync && npm run rollup-main && npm run rollup-book && npm run postcss",
     "start": "npm run watch & npm run server",
     "deploy": "npm run build && npm run update && npm run gh-pages",
-    "standard": "standard *.js lib/ src/",
+    "standard": "standard *.js lib/*.js src/*.js",
     "mocha": "mocha --require reify test/",
     "rsync": "rsync -avu --exclude '*.tag' --exclude '*.js' --exclude '*.css' --exclude '*.sketch' src/ dist/",
     "rollup-main": "rollup -c -i src/main.js -o dist/main.js",
