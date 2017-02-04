@@ -13,6 +13,7 @@ const dataDir = join(cwd, 'dist', 'data')
 const bookDir = join(cwd, 'dist', 'book')
 const daysBefore = 14
 const daysAfter = 14
+const firstDate = moment().subtract(daysBefore, 'days').format('YYYY-MM-DD')
 const ignoreMap = getIgnoreMap()
 const indexStreams = []
 
@@ -26,20 +27,23 @@ const stream = highland([`${apiRoot}/coverage`])
   .through(parse('*')) // jsonから、書誌情報を取得
   .map(book => summarize(book)) // 書誌情報を整形
 
+/**
+ * 直近2週間と未来の出版日の本について、それぞれ 9784xxxxxxxxx.md に保存
+ * 最終的には、GitHub Pages上でJekyllがHTMLに変換 (シェアするための書籍ページ)
+ */
 stream.fork()
+  .filter(book => firstDate <= book.pubdate)
   .each(book => {
     const yaml = dump(book)
     const data = '---\n' + yaml + '\n---\n'
     writeFileSync(join(bookDir, `${book.isbn}.md`), data)
   })
 
+/** 2週間より前の出版日のデータについては、無視リストへ */
 stream.fork()
-  .filter(book => {
-    const pubdate = moment().subtract(daysBefore, 'days').format('YYYY-MM-DD')
-    return book.pubdate < pubdate
-  })
+  .filter(book => book.pubdate < firstDate)
   .map(book => book.isbn + '\n')
-  .pipe(createWriteStream(join(cwd, `ignore.txt`), {flags: 'a'})) // 追記モード
+  .pipe(createWriteStream(join(dataDir, `ignore.txt`), {flags: 'a'})) // 追記モード
 
 for (let n = (-1) * daysBefore; n < daysAfter; n++) {
   // 日付ごとのファイルを生成
@@ -67,13 +71,14 @@ highland(indexStreams)
   .merge()
   .group('pubdate')
   .toCallback((err, result) => {
+    if (err) throw err
     writeFileSync(join(dataDir, `index.json`), JSON.stringify(result))
   })
 
 /** ignore.txt から無視すべきISBNの一覧を取得 */
 function getIgnoreList () {
   try {
-    return readFileSync(join(cwd, 'ignore.txt'), 'utf8').split('\n')
+    return readFileSync(join(dataDir, 'ignore.txt'), 'utf8').split('\n')
   } catch (e) {
     return []
   }
