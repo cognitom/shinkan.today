@@ -10,5 +10,9 @@ branches:
     - master
 before_install:
   - export TZ=Asia/Tokyo
-after_success:
-  npm run deploy-from-travis
+before_script:
+  - git config user.name $GIT_NAME
+  - git config user.email $GIT_EMAIL
+script:
+  - npm test
+  - npm run deploy-from-travis
