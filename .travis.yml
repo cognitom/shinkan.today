@@ -5,3 +5,8 @@ cache:
   directories:
   - node_modules
   - dist
+branches:
+  only:
+  - master
+after_success:
+  npm run deploy-from-travis

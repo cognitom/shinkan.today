@@ -7,6 +7,7 @@
     "build": "npm run rsync && npm run rollup-main && npm run rollup-book && npm run postcss",
     "start": "npm run watch & npm run server",
     "deploy": "npm run build && npm run update && npm run gh-pages",
+    "deploy-from-travis": "npm run build && npm run update && npm run gh-pages-travis",
     "standard": "standard *.js lib/*.js src/*.js",
     "mocha": "mocha --require reify test/",
     "rsync": "rsync -avu --exclude '*.tag' --exclude '*.js' --exclude '*.css' --exclude '*.sketch' src/ dist/",
@@ -16,7 +17,8 @@
     "watch": "chokidar 'src/**' -c 'npm run build'",
     "server": "browser-sync start --files 'dist/main.js' --server dist",
     "update": "node --require reify update",
-    "gh-pages": "gh-pages -d dist"
+    "gh-pages": "gh-pages -d dist",
+    "gh-pages-travis": "gh-pages -d dist -r \"https://$GIT_TOKEN@github.com/cognitom/shinkan.today.git\""
   },
   "dependencies": {
     "fecha": "^2.3.0",
