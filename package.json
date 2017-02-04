@@ -3,16 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "npm run watch & npm run server",
+    "test": "npm run standard && npm run mocha",
     "build": "npm run rsync && npm run rollup-main && npm run rollup-book && npm run postcss",
-    "deploy": "npm run build && npm run update && gh-pages -d dist",
+    "start": "npm run watch & npm run server",
+    "deploy": "npm run build && npm run update && npm run gh-pages",
+    "standard": "standard *.js lib/ src/",
+    "mocha": "mocha --require reify test/",
+    "rsync": "rsync -avu --exclude '*.tag' --exclude '*.js' --exclude '*.css' --exclude '*.sketch' src/ dist/",
     "rollup-main": "rollup -c -i src/main.js -o dist/main.js",
     "rollup-book": "rollup -c -i src/book.js -o dist/book.js",
-    "rsync": "rsync -avu --exclude '*.tag' --exclude '*.js' --exclude '*.css' --exclude '*.sketch' src/ dist/",
+    "postcss": "postcss -u postcss-cssnext -u postcss-import -d dist/ src/global.css src/book.css",
     "watch": "chokidar 'src/**' -c 'npm run build'",
     "server": "browser-sync start --files 'dist/main.js' --server dist",
-    "update": "node --harmony-async-await --require reify update",
-    "postcss": "postcss -u postcss-cssnext -u postcss-import -d dist/ src/global.css src/book.css"
+    "update": "node --require reify update",
+    "gh-pages": "gh-pages -d dist"
   },
   "dependencies": {
     "fecha": "^2.3.0",
@@ -30,6 +34,7 @@
     "highland": "^2.10.1",
     "js-yaml": "^3.7.0",
     "lodash.get": "^4.4.2",
+    "mocha": "^3.2.0",
     "moment": "^2.17.1",
     "postcss": "^5.2.6",
     "postcss-cli": "^2.6.0",
@@ -41,6 +46,7 @@
     "rollup-plugin-buble": "^0.15.0",
     "rollup-plugin-commonjs": "^7.0.0",
     "rollup-plugin-node-resolve": "^2.0.0",
-    "rollup-plugin-riot": "^1.0.0"
+    "rollup-plugin-riot": "^1.0.0",
+    "standard": "^8.6.0"
   }
 }
