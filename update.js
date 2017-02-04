@@ -32,7 +32,7 @@ const stream = highland([`${apiRoot}/coverage`])
  * 最終的には、GitHub Pages上でJekyllがHTMLに変換 (シェアするための書籍ページ)
  */
 stream.fork()
-  .filter(book => firstDate <= book.pubdate)
+  .filter(book => firstDate <= book.pubdate && book.pubdate !== 'unrecognized')
   .each(book => {
     const yaml = dump(book)
     const data = '---\n' + yaml + '\n---\n'
@@ -41,7 +41,7 @@ stream.fork()
 
 /** 2週間より前の出版日のデータについては、無視リストへ */
 stream.fork()
-  .filter(book => book.pubdate < firstDate)
+  .filter(book => book.pubdate < firstDate || book.pubdate === 'unrecognized')
   .map(book => book.isbn + '\n')
   .pipe(createWriteStream(join(dataDir, `ignore.txt`), {flags: 'a'})) // 追記モード
 
