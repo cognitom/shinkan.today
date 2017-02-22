@@ -31,14 +31,13 @@
 
     this.days = []
     this.on('route', date => {
-      fetch(`/data/index.json`)
+      window.fetch('/data/index.json')
         .then(response => response.json())
         .then(index => {
           const days = Object.keys(index)
             .sort()
             .map(date => {
-              const jDate
-                = date === today ? '今日'
+              const jDate = date === today ? '今日'
                 : date === yesterday ? '昨日'
                 : date === tomorrow ? '明日'
                 : fecha.format(fecha.parse(date, 'YYYY-MM-DD'), 'M/D (ddd)')
@@ -47,7 +46,7 @@
           this.update({days})
           const winWidth = window.innerWidth
           const elemWidth = 120
-          this.root.querySelector('section').scrollLeft = elemWidth * 14 - (winWidth / 2) + (elemWidth / 2);
+          this.root.querySelector('section').scrollLeft = elemWidth * 14 - (winWidth / 2) + (elemWidth / 2)
         })
     })
   </script>

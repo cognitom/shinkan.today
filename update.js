@@ -1,7 +1,8 @@
 import {join} from 'path'
-import {createWriteStream, writeFileSync, readFileSync} from 'fs'
+import {createWriteStream, writeFileSync, readFileSync, existsSync, unlinkSync} from 'fs'
 import request from 'request'
 import {parse, stringify} from 'JSONStream'
+import {mkdirs} from 'fs-promise'
 import highland from 'highland'
 import moment from 'moment'
 import {dump} from 'js-yaml'
@@ -11,6 +12,8 @@ const apiRoot = 'https://api.openbd.jp/v1'
 const cwd = process.cwd()
 const dataDir = join(cwd, 'dist', 'data')
 const bookDir = join(cwd, 'dist', 'book')
+const cacheDir = join(cwd, 'cache')
+const ignoreFile = join(cacheDir, 'ignore.txt') // 無視リスト
 const daysBefore = 14
 const daysAfter = 14
 const firstDate = moment().subtract(daysBefore, 'days').format('YYYY-MM-DD')
@@ -43,7 +46,7 @@ stream.fork()
 stream.fork()
   .filter(book => book.pubdate < firstDate || book.pubdate === 'unrecognized')
   .map(book => book.isbn + '\n')
-  .pipe(createWriteStream(join(dataDir, `ignore.txt`), {flags: 'a'})) // 追記モード
+  .pipe(createWriteStream(ignoreFile, {flags: 'a'})) // 追記モード
 
 for (let n = (-1) * daysBefore; n < daysAfter; n++) {
   // 日付ごとのファイルを生成
@@ -78,8 +81,9 @@ highland(indexStreams)
 /** ignore.txt から無視すべきISBNの一覧を取得 */
 function getIgnoreList () {
   try {
-    return readFileSync(join(dataDir, 'ignore.txt'), 'utf8').split('\n')
+    return readFileSync(ignoreFile, 'utf8').split('\n')
   } catch (e) {
+    mkdirs(cacheDir)
     return []
   }
 }
@@ -109,4 +113,10 @@ function shouldIgnore (isbn) {
     if (!ref) return false
   }
   return true
+}
+
+/** 旧いパスにキャッシュファイルがあれば削除 */
+const oldIgnoreFile = join(dataDir, 'ignore.txt')
+if (existsSync(oldIgnoreFile)) {
+  unlinkSync(oldIgnoreFile)
 }
