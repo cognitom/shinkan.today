@@ -3933,14 +3933,13 @@ riot$1.tag2('app-home', '<header> <h1>新刊トゥデイ</h1> </header> <section
 
     this.days = [];
     this.on('route', function (date) {
-      fetch("/data/index.json")
+      window.fetch('/data/index.json')
         .then(function (response) { return response.json(); })
         .then(function (index) {
           var days = Object.keys(index)
             .sort()
             .map(function (date) {
-              var jDate
-                = date === today ? '今日'
+              var jDate = date === today ? '今日'
                 : date === yesterday ? '昨日'
                 : date === tomorrow ? '明日'
                 : fecha.format(fecha.parse(date, 'YYYY-MM-DD'), 'M/D (ddd)');
