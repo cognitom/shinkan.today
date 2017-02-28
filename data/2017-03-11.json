@@ -1,5 +1,9 @@
 [
+{"isbn":"9784041043547","title":"小説　野性時代　第１６１号　２０１７年４月号  (仮)","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2017-03-11","cover":"https://cover.openbd.jp/9784041043547.jpg","author":"小説野性時代編集部／編集","description":"特集は「青春をやり直す。」として映画関連対談と読切。新連載は笹本稜平。","price":"796","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"日本文学、小説・物語"}
+,
 {"isbn":"9784048926478","title":"蒼き革命のヴァルキュリア 公式設定資料集  (仮)","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2017-03-11","cover":"https://cover.openbd.jp/9784048926478.jpg","author":"電撃攻略本編集部／編集","description":"未公開設定画など多数のビジュアルを収録。解放戦争の軌跡を読み解く！","price":"3500","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784048959674","title":"関西カレー’17新時代！ KansaiWalker特別編集 (仮)","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2017-03-11","cover":"https://cover.openbd.jp/9784048959674.jpg","author":"","description":"関西ウォーカーおすすめの新店＆実力店の旨いカレー大集合！","price":"680","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784056111934","title":"立ち食いそば名店１００　首都圏編　最新版","volume":"","series":"学研ムック","publisher":"学研プラス","pubdate":"2017-03-11","cover":"","author":"ゲットナビ編集部／編集","description":"駅近くの人気店から路地裏の隠れた名店まで、立ち食いそば店を１００店紹介。全店２つの看板メニューを掲載。マップ付き。","price":"740","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
@@ -9,11 +13,29 @@
 ,
 {"isbn":"9784062586474","title":"コンスタンツェ・モーツァルト　「悪妻」伝説の虚実","volume":"","series":"","publisher":"講談社","pubdate":"2017-03-11","cover":"","author":"小宮正安／著","description":"彼女を語るとき、どんなインテリも取り乱してしまうのはなぜなのか？　「世界三大悪妻」の一人とまで言われる、その虚実に迫る一冊！","price":"1850","genre":"","target":"一般","format":"全集・双書","content":"伝記"}
 ,
+{"isbn":"9784062586481","title":"氏神さまと鎮守さま　神社の民俗史","volume":"","series":"","publisher":"講談社","pubdate":"2017-03-11","cover":"","author":"新谷尚紀／著","description":"日本人にとって神社とは何か。人びとの生活とともにあった土地や氏と不可分の神々や祭礼を精緻に追い、日本人の神観念を描き出す。","price":"1650","genre":"","target":"一般","format":"全集・双書","content":"日本歴史"}
+,
+{"isbn":"9784062924009","title":"再発見　日本の哲学　石原莞爾――愛と最終戦争","volume":"","series":"","publisher":"講談社","pubdate":"2017-03-11","cover":"","author":"藤村安芸子／著","description":"満州事変を主導した参謀、最終戦争論を唱えた男――日蓮主義に傾倒し、後年、戦争放棄を訴えるに至る変転の一貫した思想的本質とは？","price":"940","genre":"","target":"一般","format":"文庫","content":"哲学"}
+,
+{"isbn":"9784062924085","title":"アルキビアデス　クレイトポン","volume":"","series":"","publisher":"講談社","pubdate":"2017-03-11","cover":"","author":"プラトン／著 三嶋輝夫／翻訳","description":"ソクラテス哲学の根本を伝える重要な対話篇、初の文庫版で新訳が登場！　自分を認識し、人間を理解することで魂を探究する思索。","price":"820","genre":"","target":"一般","format":"文庫","content":"哲学"}
+,
+{"isbn":"9784062924146","title":"統合失調症あるいは精神分裂病　精神医学の虚実","volume":"","series":"","publisher":"講談社","pubdate":"2017-03-11","cover":"","author":"計見一雄／著","description":"「精神分裂病」は何が「分裂する」というのか、どんな病態なのか。これまでの誤謬を論破し、治療へつながる「病の本質」を解明する。","price":"1130","genre":"","target":"一般","format":"文庫","content":"心理(学)"}
+,
+{"isbn":"9784062924160","title":"『老子』　その思想を読み尽くす","volume":"","series":"","publisher":"講談社","pubdate":"2017-03-11","cover":"","author":"池田知久／翻訳","description":"今尚魅力を放つ不朽の名著『老子』を古今東西の研究を踏まえて、徹底的に解読する。５０００字の原テクストに潜む可能性を解き放つ。","price":"2200","genre":"","target":"一般","format":"文庫","content":"哲学"}
+,
+{"isbn":"9784062924177","title":"江戸の春画","volume":"","series":"","publisher":"講談社","pubdate":"2017-03-11","cover":"","author":"白倉敬彦／著 辻惟雄／解説","description":"春画には江戸のイマジネーションが総動員されている。滑稽で切なくて相当に面白い、斬新すぎる世界に、春画研究の第一人者が誘う。","price":"980","genre":"","target":"一般","format":"文庫","content":"日本歴史"}
+,
+{"isbn":"9784062924191","title":"新版　雨月物語　全訳注","volume":"","series":"","publisher":"講談社","pubdate":"2017-03-11","cover":"","author":"上田秋成／著 青木正次／翻訳","description":"上田秋成が遺した、江戸中期を代表する怪異小説集。現代語訳に語注、考釈も加えた決定版。","price":"1650","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+,
 {"isbn":"9784198641887","title":"ゆうかんな３びきと　こわいこわいかいぶつ","volume":"","series":"","publisher":"徳間書店","pubdate":"2017-03-11","cover":"","author":"スティーブ･アントニー／著 野口絵美／翻訳","description":"かいぶつなんか、こわくないと、リスとハリネズミとハツカネズミの小さな３びきは…？　読み聞かせにぴったりの、ゆかいな絵本","price":"1500","genre":"児童図書","target":"児童","format":"絵本","content":"外国文学小説"}
 ,
 {"isbn":"9784198643409","title":"カバのこども サバンナを生きる","volume":"","series":"","publisher":"徳間書店","pubdate":"2017-03-11","cover":"","author":"ガブリエラ・シュテープラー／著 たかはしふみこ／翻訳","description":"一見ユーモラスに見えるけれど、おこりっぽく、激しいけんかをするカバ。野生のカバの親子の姿を追う写真絵本です。","price":"1800","genre":"児童図書","target":"児童","format":"絵本","content":"生物学"}
 ,
 {"isbn":"9784198643416","title":"犬とおばあさんのちえくらべ","volume":"","series":"","publisher":"徳間書店","pubdate":"2017-03-11","cover":"","author":"アニー・Ｍ・Ｇ・シュミット／著 西村由美／翻訳 たちもとみちこ／イラスト","description":"犬のトムは、おばあさんのいすが大好き。そのいすにすわるために、トムは…？　オランダの国民的作家による、動物のおとぎ話","price":"1400","genre":"児童図書","target":"児童","format":"単行本","content":"外国文学小説"}
+,
+{"isbn":"9784198643638","title":"からだ超覚醒","volume":"","series":"","publisher":"徳間書店","pubdate":"2017-03-11","cover":"","author":"杉本錬堂／著","description":"身体の声を正しく聴く！「温め、緩め、流す」は自分でできる！　自然と調和して生きれば、身体も運気も思い通りになる！","price":"1500","genre":"","target":"一般","format":"単行本","content":"心理(学)"}
+,
+{"isbn":"9784198643645","title":"カタカムナ　数霊の超叡智","volume":"","series":"","publisher":"徳間書店","pubdate":"2017-03-11","cover":"","author":"吉野信子／著","description":"数に宿る魂がわかれば、人生がうまく九（こ）ろがり回る！","price":"1600","genre":"","target":"一般","format":"単行本","content":"心理(学)"}
 ,
 {"isbn":"9784265050079","title":"おくのほそ道","volume":"","series":"ストーリーで楽しむ日本の古典","publisher":"岩崎書店","pubdate":"2017-03-11","cover":"","author":"那須田淳／著 十々夜／イラスト","description":"俳句界の巨匠・芭蕉って、本当は何者だったの？　旅日記「おくのほそ道」にかくされた謎を大胆につづった、もうひとつの物語。","price":"1500","genre":"","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
 ,
@@ -26,6 +48,18 @@
 {"isbn":"9784332821885","title":"中検2級問題集2017年版","volume":"","series":"","publisher":"光生館","pubdate":"2017-03-11","cover":"https://cover.openbd.jp/9784332821885.jpg","author":"中検研究会／編集","description":"第８８回～第９０回中国語検定試験を収録。詳しい「解説」が好評。２級で必要な「動詞＋目的語」フレーズを巻末に掲載。ＣＤ付。","price":"2400","genre":"語学・辞事典","target":"専門","format":"単行本","content":"各国語"}
 ,
 {"isbn":"9784332821892","title":"中検準1級・1級問題集2017年版","volume":"","series":"","publisher":"光生館","pubdate":"2017-03-11","cover":"https://cover.openbd.jp/9784332821892.jpg","author":"中検研究会／編集","description":"第８８回～第８７回中国語検定試験を収録。詳しい「解説」が好評。準１級・１級で必要な成語を巻末に掲載。ＣＤ付。","price":"2600","genre":"語学・辞事典","target":"専門","format":"単行本","content":"各国語"}
+,
+{"isbn":"9784418172115","title":"京のいろ","volume":"","series":"","publisher":"世界文化社","pubdate":"2017-03-11","cover":"","author":"荒井和生／著 田口葉子／写真","description":"京都の四季から生まれた“言の葉”を拾い集め一冊にしました。「言葉の風景」の世界が、文章と融けあった写真とともに広がります。","price":"2400","genre":"","target":"一般","format":"事・辞典","content":"写真・工芸"}
+,
+{"isbn":"9784418172122","title":"おしえてアドラー先生！こころのなやみ、どうしたらいいの？","volume":"","series":"","publisher":"世界文化社","pubdate":"2017-03-11","cover":"","author":"八巻秀／監修","description":"「勇気の心理学」と言われるアドラーの考え方で、子供のさまざまな悩みを解決していく実用書。新入学や進級のプレゼントにぴったり！","price":"1200","genre":"","target":"児童","format":"単行本","content":"心理(学)"}
+,
+{"isbn":"9784418174072","title":"新版　花色見本帖","volume":"","series":"","publisher":"世界文化社","pubdate":"2017-03-11","cover":"","author":"","description":"880種もの見やすく豊富な切り花の写真に、色合わせがわかるアレンジ例がたっぷり掲載。初心者から専門家にまでオススメの花図鑑。","price":"1800","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784418178018","title":"折り紙で作る　おはなし指人形","volume":"","series":"PriPriブックス","publisher":"世界文化社","pubdate":"2017-03-11","cover":"","author":"いしばしなおこ／著","description":"折り紙で昔話９話＋行事飾り＋保育雑誌『プリプリ』でおなじみの千金美穂キャラクターが作れます。アレンジプランも多数掲載。","price":"1500","genre":"","target":"教養","format":"単行本","content":"教育"}
+,
+{"isbn":"9784478060223","title":"D26　地球の歩き方　バリ島　2017～2018","volume":"","series":"","publisher":"ダイヤモンド社","pubdate":"2017-03-11","cover":"","author":"地球の歩き方編集室／編集","description":"","price":"1700","genre":"","target":"一般","format":"全集・双書","content":"旅行"}
+,
+{"isbn":"9784478060322","title":"11　地球の歩き方　aruco　ホノルル　2017～2018","volume":"","series":"","publisher":"ダイヤモンド社","pubdate":"2017-03-11","cover":"","author":"地球の歩き方編集室／編集","description":"","price":"1200","genre":"","target":"一般","format":"全集・双書","content":"旅行"}
 ,
 {"isbn":"9784488025533","title":"優しい幽霊たちの遁走曲","volume":"","series":"","publisher":"東京創元社","pubdate":"2017-03-11","cover":"https://cover.openbd.jp/9784488025533.jpg","author":"太田忠司／著","description":"売れない怪奇小説家・津久田舞々は、ある日小さな田舎町からの依頼を受けて、その町についての「物語」を執筆することになる。だが、到着したその日の夜に、彼は謎の封印を解いてしまった。「しっかり妾に仕えろよ。さもなくばお前を呪い殺す」――そう言って現れたのは愛らしい少女。ふりかかる受難を躱しつつ、紳士的な祟り神から生意気なお狐さまなど、異界のものたちにつぎつぎ遭遇してゆく舞々の運命やいかに。怖くて奇妙でチャーミングな、ジェントル・ゴースト・ストーリー。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
@@ -43,6 +77,20 @@
 ,
 {"isbn":"9784488766023","title":"迷宮の天使＜下＞","volume":"","series":"","publisher":"東京創元社","pubdate":"2017-03-11","cover":"https://cover.openbd.jp/9784488766023.jpg","author":"ダリル・グレゴリイ／著 小野田和子／翻訳","description":"過剰摂取者の脳を物理的に再編し、“神”がいつもそばにいて導いてくれるという体験をもたらす新薬ヌミナス。“神”は摂取者にとっての現実そのものを改変し、自我の輪郭さえもたやすく揺るがす。みずからも過剰摂取の犠牲となったライダの前に現われたのは、ドクター・グロリアと名乗る“天使”。それは自分自身でありながら、そうではない存在だ。最新の研究が明らかにした脳と意識の謎に、気鋭の作家が切りこむ傑作脳科学ＳＦ！","price":"900","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
+{"isbn":"9784575849387","title":"小林さんちのメイドラゴン　公式アンソロジー（２）","volume":"","series":"","publisher":"双葉社","pubdate":"2017-03-11","cover":"","author":"クール教信者／著 高津ケイタ／著 雪子／著 カザマアヤミ／著 鮭夫／著 藤沢カミヤ／著 ほか","description":"","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784575849394","title":"つぐもも（１９）","volume":"","series":"","publisher":"双葉社","pubdate":"2017-03-11","cover":"","author":"浜田よしかづ／著","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784575849400","title":"つぐもも　１８．５　公式ガイドブック","volume":"","series":"","publisher":"双葉社","pubdate":"2017-03-11","cover":"","author":"浜田よしかづ／著","description":"","price":"750","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784575849417","title":"ふくねこ（１）","volume":"","series":"","publisher":"双葉社","pubdate":"2017-03-11","cover":"","author":"松沢まり／著","description":"","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784575849424","title":"桐谷さん　ちょっそれ食うんすか！？（２）","volume":"","series":"","publisher":"双葉社","pubdate":"2017-03-11","cover":"","author":"ぽんとごたんだ／著","description":"","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784575849431","title":"蛍火の灯る頃に（２）","volume":"","series":"","publisher":"双葉社","pubdate":"2017-03-11","cover":"","author":"小池ノクト／イラスト 竜騎士０７／著","description":"","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784575961911","title":"クレヨンしんちゃん外伝　エイリアンVS．しんのすけ","volume":"","series":"","publisher":"双葉社","pubdate":"2017-03-11","cover":"","author":"西口達也／イラスト 臼井儀人／著 (株)テレビ朝日／著 シンエイ動画(株)／著","description":"","price":"435","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
 {"isbn":"9784596976093","title":"シークと禁断の美酒","volume":"609","series":"ハーレクインコミックス・キララ","publisher":"ハーパーコリンズ・ジャパン","pubdate":"2017-03-11","cover":"","author":"麻生歩／著 オリヴィア・ゲイツ／原著","description":"","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784596976109","title":"愛を知らない花婿","volume":"610","series":"ハーレクインコミックス・キララ","publisher":"ハーパーコリンズ・ジャパン","pubdate":"2017-03-11","cover":"","author":"日高七緒／著 マヤ・バンクス／原著","description":"","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
@@ -55,11 +103,23 @@
 ,
 {"isbn":"9784596976147","title":"愛人と呼ばれても","volume":"614","series":"ハーレクインコミックス・キララ","publisher":"ハーパーコリンズ・ジャパン","pubdate":"2017-03-11","cover":"","author":"月島綾／著 メラニー・ミルバーン／原著","description":"","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
+{"isbn":"9784622078975","title":"量子力学と経路積分［新版］","volume":"","series":"","publisher":"みすず書房","pubdate":"2017-03-11","cover":"","author":"R.P.ファインマン／著 A.R.ヒッブス／著 D.スタイヤー（校訂）／著 北原和夫／翻訳","description":"経路積分の生みの親、ファインマンによる講義。直観的描像を解析に活かす、もう一つの量子力学。Styerによる校訂を施した新版。","price":"5800","genre":"自然科学","target":"教養","format":"単行本","content":"物理学"}
+,
+{"isbn":"9784622085614","title":"生物科学の歴史","volume":"","series":"","publisher":"みすず書房","pubdate":"2017-03-11","cover":"","author":"ミシェル・モランジュ／著 佐藤直樹／翻訳","description":"著者はフランスの分子生物学者で歴史・哲学研究者。最先端の視座から描く生物科学の「複雑なダイナミクス」の歴史と生命思想の変遷。","price":"5400","genre":"自然科学","target":"教養","format":"単行本","content":"生物学"}
+,
+{"isbn":"9784622085836","title":"アメリカ経済政策入門 建国から現在まで","volume":"","series":"","publisher":"みすず書房","pubdate":"2017-03-11","cover":"","author":"スティーヴン・S・コーエン／著 J・ブラッドフォード・デロング／著 上原裕美子／翻訳","description":"高関税、補助金、インフラ、軍事など、プラグマティックな政策で世界経済を主導してきた歴史を読み解き、今後のアメリカの戦略も提示","price":"2800","genre":"社会科学","target":"教養","format":"単行本","content":"経済・財政・統計"}
+,
+{"isbn":"9784622085973","title":"エコノミックス マンガで読む経済の歴史","volume":"","series":"","publisher":"みすず書房","pubdate":"2017-03-11","cover":"","author":"マイケル・グッドウィン／著 ダン・Ｅ・バー／イラスト 脇山美伸／翻訳","description":"資本主義の誕生から金融危機まで世界の経済350年史。ユーモラスなコマを追えば経済の実態が一目瞭然。世界17ヵ国でロングセラー","price":"3200","genre":"","target":"一般","format":"単行本","content":"経済・財政・統計"}
+,
 {"isbn":"9784756501349","title":"社会問題としての教育問題","volume":"","series":"","publisher":"イザラ書房","pubdate":"2017-03-11","cover":"","author":"ルドルフ・シュタイナー／著 今井重孝／訳","description":"人類はどんな社会を目指せばよいのか。健全な社会はどのように実現できるのか。21世紀の社会が進むべき方向がわかる貴重な本。","price":"2500","genre":"哲学・宗教","target":"一般","format":"単行本","content":"教育"}
 ,
-{"isbn":"9784832248137","title":"がっこうぐらし！（9）","volume":"","series":"フォワードシリーズ","publisher":"芳文社","pubdate":"2017-03-11","cover":"","author":"海法紀光（ニトロプラス）／原著 千葉サドル／イラスト","description":"","price":"590","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784772252966","title":"鳥取砂丘学","volume":"","series":"","publisher":"古今書院","pubdate":"2017-03-11","cover":"https://cover.openbd.jp/9784772252966.jpg","author":"小玉芳敬／編集 永松大／編集 高田健一／編集","description":"砂丘はなぜできるか、不思議な砂模様、砂丘に生きる動植物、人々の暮らしなど、幅広い分野の話題を掲載。写真・図版多数。","price":"3200","genre":"","target":"専門","format":"単行本","content":"自然科学総記"}
 ,
-{"isbn":"9784832248144","title":"はるかなレシーブ（3）","volume":"","series":"フォワードシリーズ","publisher":"芳文社","pubdate":"2017-03-11","cover":"","author":"如意自在／著","description":"","price":"590","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784777020430","title":"めだかStyle","volume":"","series":"","publisher":"ネコ・パブリッシング","pubdate":"2017-03-11","cover":"","author":"","description":"『Aqua Style』特別編集の「メダカ」ワンメイク本。巻頭特集はスタイル別「メダカとの暮らし」。第二特集は「ゼロから始めるメダカ飼育」を予定しています。","price":"1111","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784832248151","title":"なでしこドレミソラ（2）","volume":"","series":"フォワードシリーズ","publisher":"芳文社","pubdate":"2017-03-11","cover":"","author":"みやびあきの／著","description":"","price":"590","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784777020560","title":"空冷ポルシェ・パーフェクトブック","volume":"","series":"","publisher":"ネコ・パブリッシング","pubdate":"2017-03-11","cover":"","author":"","description":"","price":"1852","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"機械"}
+,
+{"isbn":"9784788515154","title":"悲愛 あの日のあなたへ手紙をつづる","volume":"","series":"","publisher":"新曜社","pubdate":"2017-03-11","cover":"","author":"金菱清／編 東北学院大学震災の記録プロジェクト／編集","description":"","price":"2000","genre":"","target":"教養","format":"単行本","content":"社会"}
+,
+{"isbn":"9784794969569","title":"「ポスト真実」時代のネットニュースの読み方","volume":"","series":"","publisher":"晶文社","pubdate":"2017-03-11","cover":"https://cover.openbd.jp/9784794969569.jpg","author":"松林薫／著","description":"偽ニュースにはだまされない！　元日経新聞記者が伝授する、玉石混淆のネットメディアから正しい情報を読み取る方法","price":"1600","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
 ]
