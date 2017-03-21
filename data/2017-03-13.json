@@ -172,4 +172,52 @@
 {"isbn":"9784785959753","title":"ねこぱんち　’17サクラ号","volume":"全1","series":"ねこぱんち　’17サクラ号","publisher":"少年画報社","pubdate":"2017-03-13","cover":"","author":"アンソロジー／著","description":"「キジトラ猫の小梅さん」「猫絵十兵衛 御伽草紙」など大人気連載陣多数のねこ漫画！オール描き下ろしで構成！","price":"449","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784785959760","title":"まねきねこ不動産　6巻","volume":"6","series":"まねきねこ不動産","publisher":"少年画報社","pubdate":"2017-03-13","cover":"","author":"空乃さかな／著","description":"夜逃げした飼い主に置き去りにされ、亜徳不動産に入社をしたクリ太は実は血統書つきのペルシャ猫。\nペット可物件のお客を招き入れてます。社員、顧客、個性あふれるメンバーが繰り広げる不動産４コマ！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784798049694","title":"海自オタがうっかり「中の人」と結婚した件。2","volume":"","series":"","publisher":"秀和システム","pubdate":"2017-03-13","cover":"","author":"たいらさおり／著・イラスト","description":"","price":"925","genre":"コミックス(書)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784798050287","title":"同時通訳者の英単語暗記メソッド111","volume":"","series":"","publisher":"秀和システム","pubdate":"2017-03-13","cover":"","author":"工藤紘実／著","description":"","price":"1500","genre":"語学・辞事典","target":"一般","format":"単行本","content":"英米語"}
+,
+{"isbn":"9784798050478","title":"Android StudioではじめるAndroidプログラミング入門　Android 7＋Android Studio 2対応","volume":"","series":"","publisher":"秀和システム","pubdate":"2017-03-13","cover":"","author":"掌田津耶乃／著","description":"","price":"2800","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784798143156","title":"はじめてのCSS設計 フロントエンドエンジニアが教えるメンテナブルなCSS設計手法","volume":"","series":"Web Engineer's Books","publisher":"翔泳社","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784798143156.jpg","author":"田辺丈士／著 大江遼／著 藤岡龍太／著 安光太郎／著 株式会社アイ・エム・ジェイ／著","description":"モダンWebの制作現場へ、ようこそ！\n保守性・拡張性・再利用性を高めるモジュール設計の基本と実践。\nSMACSS、BEM、モジュール設計、npm、Flexible Boxまで！\n\nCSSのコーディングをしたことのある人であれば、「CSSを指定したら、\n思いもしなかった箇所のスタイルが崩れた」「新たに上書きをしていったら\nCSSが煩雑になった」「CSSファイルの肥大化して、どこを編集したらいいのか\nわからなくなった」といった経験が少なからずあるはずです。\n\n本書は、こうした状況を未然に防ぐための設計手法について、基本から実装方法まで\n解説します。CSSの言語的な特性から、「SMACSS」や「BEM」といったCSS設計の\n方法論、CSSプリプロセッサ「Sass」の導入、さらに、実際にサンプルの\nWebサイト構築フローを追いながら、保守・運用までを考慮した破綻しないCSSを\n設計・実装するまでの具体的なプロセスについて一冊で学べます。\n\n実際にサイトデータをダウンロードして学べるから理解が深まります。\n\n【本書の構成】\n第1部「CSS設計の前提」\n第2部「メンテナブルなCSS」\n第3部「CSS設計のプロセス」\n第4部「CSS設計の実践」\n付録「Flexible Box Layout」\n\n【本書の読者】\n・フロントエンド開発の作法を学びたいWebデザイナー&エンジニア\n・Webアプリケーションを作りたいWebデザイナー\n・フルスタックを目指すWebエンジニア\n\n","price":"2680","genre":"","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784798145280","title":"おうちで学べるアルゴリズムのきほん","volume":"","series":"おうちで学べる","publisher":"翔泳社","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784798145280.jpg","author":"鈴木浩一／著","description":"時代を生き抜く「確かな力」が身に付く","price":"2200","genre":"","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784798150680","title":"マネジメント教科書 ビジネスマネジャー検定試験(R) 過去問題集 第1回～第4回","volume":"","series":"マネジメント教科書","publisher":"翔泳社","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784798150680.jpg","author":"塩島武徳／著","description":"管理職のための検定試験「ビジネスマネジャー」の問題集です！","price":"2000","genre":"","target":"専門","format":"単行本","content":"経営"}
+,
+{"isbn":"9784798151557","title":"法務教科書 マイナンバー実務検定1級合格ガイド","volume":"","series":"法務教科書","publisher":"翔泳社","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784798151557.jpg","author":"古川飛祐／著","description":"過去問を徹底分析したうえで、試験に出るポイントに絞って解説。付属の赤シートで、試験に出る重要事項を確認できる。","price":"2400","genre":"","target":"専門","format":"単行本","content":"法律"}
+,
+{"isbn":"9784829626276","title":"秘蜜の褥","volume":"","series":"","publisher":"プランタン出版","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784829626276.jpg","author":"あさひ木葉／著 小路龍流／イラスト","description":"主上の命により、その実弟・嵯峨野宮を籠絡した美舟。「紫の剣」として主上に侍り体を弄ばれながらも、嵯峨野宮の心を翻弄して……。","price":"600","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784829979105","title":"桜もよう","volume":"","series":"","publisher":"文一総合出版","pubdate":"2017-03-13","cover":"","author":"米美知子／著","description":"南は沖縄から、北海道まで・・・・米美知子が描く桜の美の極致","price":"3500","genre":"自然科学","target":"一般","format":"単行本","content":"写真・工芸"}
+,
+{"isbn":"9784831855664","title":"広島戦災児育成所と山下義信","volume":"","series":"","publisher":"法藏館","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784831855664.jpg","author":"新田光子／著","description":"原爆投下後の広島で戦災遺児を育て上げた山下義信。歴史に埋もれた資料から山下の奮闘と知られざる戦後広島の歴史を明らかにする。","price":"2800","genre":"歴史・地理","target":"一般","format":"単行本","content":"日本歴史"}
+,
+{"isbn":"9784831881809","title":"ことばの向こうがわ 震災の影　仮設の声","volume":"","series":"","publisher":"法藏館","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784831881809.jpg","author":"安部智海／著","description":"東日本大震災後、被災地で行われてきた「仮設住宅居室訪問活動」の様子を情感豊かな文章と多彩なエピソードで語る。","price":"1100","genre":"","target":"一般","format":"単行本","content":"社会"}
+,
+{"isbn":"9784832255739","title":"いただきマス幸せごはん（7）","volume":"","series":"","publisher":"芳文社","pubdate":"2017-03-13","cover":"","author":"西つるみ他／著","description":"","price":"463","genre":"コミックス(廉)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784845849697","title":"すしいち！　7","volume":"","series":"","publisher":"リイド社","pubdate":"2017-03-13","cover":"","author":"小川悦司／イラスト","description":"","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784860695026","title":"おかやまと中国地方の建築家","volume":"","series":"","publisher":"公益社団法人日本建築家協会中国支部岡山地域会","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784860695026.jpg","author":"おかやまと中国地方の建築家編集委員会／編","description":"中国5県で活躍中の建築家49人の代表作と理念を紹介。公共建築物や事業所、店舗、個人住宅などの作品から、その意図、考え方、プ…","price":"1500","genre":"","target":"一般","format":"単行本","content":"建築"}
+,
+{"isbn":"9784861349805","title":"あめと星の降るところ -Complete Book 1-","volume":"","series":"","publisher":"フロンティアワークス","pubdate":"2017-03-13","cover":"","author":"朝丘戻／著 テクノサマタ／イラスト","description":"","price":"676","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784861349812","title":"春と秋とソラの色 -Complete Book 2-","volume":"","series":"","publisher":"フロンティアワークス","pubdate":"2017-03-13","cover":"","author":"朝丘戻／著 yoco／イラスト","description":"","price":"676","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784864120975","title":"版画絵本　宮沢賢治　雪渡り","volume":"","series":"","publisher":"子どもの未来社","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784864120975.jpg","author":"宮沢賢治／文 佐藤国男／画","description":"生命と自然のきらめきを版画で描きだす","price":"1700","genre":"","target":"一般","format":"単行本","content":"教育"}
+,
+{"isbn":"9784870586352","title":"ＤＰＣ請求ＮＡＶＩ　2017年版","volume":"","series":"","publisher":"医学通信社","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784870586352.jpg","author":"須貝和則／著","description":"DPCの基礎知識から請求の実践ノウハウ，運用・管理，データ分析までを１冊に凝縮。16年4月改定（17年2月現在）に完全準拠","price":"2600","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784882081456","title":"机と椅子","volume":"","series":"","publisher":"市井社","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784882081456.jpg","author":"河田日出子／著","description":"","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学詩歌"}
+,
+{"isbn":"9784883034185","title":"帝国・国民・言語 辺境という視点から","volume":"","series":"","publisher":"三元社","pubdate":"2017-03-13","cover":"","author":"平田雅博／著・編集 原聖／著・編集","description":"帝国、国民国家の辺境における多言語状況はどのように対応され、そこに暮らす人々にいかなる結果をもたらしたのか。","price":"2300","genre":"","target":"教養","format":"単行本","content":"外国歴史"}
+,
+{"isbn":"9784899920236","title":"奈良 徹底的に寺あるき　84ヶ寺をめぐるルート・ガイド","volume":"","series":"","publisher":"啓文社書房","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784899920236.jpg","author":"広尾晃／著","description":"寺歩きの名手が歩いて教える観光ガイドには載っていない奈良の名刹84ヶ寺。5つのゾーンをゆっくり寺めぐり「世界遺産奈良」の新…","price":"1200","genre":"","target":"一般","format":"単行本","content":"旅行"}
+,
+{"isbn":"9784907870614","title":"UMA LIFE 2017年第4号","volume":"","series":"","publisher":"メトロポリタンプレス","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784907870614.jpg","author":"編集部／著","description":"乗馬を始める、楽しむ情報マガジン　「ＵＭＡ　ＬＩＦＥ（馬ライフ）」馬と過ごす時間が楽しくなるような国内外の情報が満載です。","price":"1000","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
+,
+{"isbn":"9784908493102","title":"社長がトップ営業マン！の会社は強い","volume":"","series":"","publisher":"万来舎","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784908493102.jpg","author":"戸田裕陽／著","description":"強い会社に変身させるためには、社長自らがトップ営業マンになることが必要。そのために社長のなすべきことは何か。経営コンサルタントと会計事務所経営で実績を上げる著者が、そのポイントをまとめた実践的講義集。\n・得意先と、売れる取引商品を増やすことは、企業の死活問題\n・自分から話しかける習慣をもつと、取引先が増える\n・出会い頭の笑顔が勝負を決める\n・「技で売る」から「心で売る」へ\n・有益情報の提供で、強い信頼関係をつくる\n・「聞く耳をもつ」と人はついてくる\nなど、トップ営業マンを目指す社長への至言やアドバイスに満ちた一冊。\n","price":"1200","genre":"","target":"一般","format":"単行本","content":"経営"}
+,
+{"isbn":"9784908493119","title":"幸せからやって来た悪魔","volume":"","series":"","publisher":"万来舎","pubdate":"2017-03-13","cover":"https://cover.openbd.jp/9784908493119.jpg","author":"井上卓也／著","description":"東京オリンピックが終わってまもなく、癌の超特効薬が開発される。どんな手遅れの癌も１週間で治してしまう夢の薬だった。東京の医大教授である開発者は、１年後、ノーベル医学生理学賞を受賞、一躍世界的有名人となる。ところがある日、その開発者は謎の自殺を遂げてしまう。そして世界は、その後にやって来る悪魔に戦慄することになる。幸せは悪魔と手を組んでいたのだ。","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ]
