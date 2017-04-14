@@ -33,8 +33,6 @@
 ,
 {"isbn":"9784063146875","title":"キラキラ☆プリキュアアラモード　スイーツパクト　へんしんえほん","volume":"","series":"","publisher":"講談社","pubdate":"2017-04-24","cover":"","author":"講談社／編集 東映アニメーション／著","description":"絵替わりカード６枚とミラーカードが付いた、新しいプリキュアの変身絵本。お子さまの手のひらサイズなので、お出かけにも便利です。","price":"740","genre":"","target":"児童","format":"絵本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784063650174","title":"衛藤美彩写真集　話を聞こうか。","volume":"","series":"","publisher":"講談社","pubdate":"2017-04-24","cover":"","author":"ＬＵＣＫＭＡＮ／写真","description":"乃木坂46の”綺麗なお姉さん”・衛藤美彩が、全編シドニーロケで時にお気楽に、時に可愛く、時に大胆に挑んだ最新写真集！","price":"1800","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
-,
 {"isbn":"9784065095485","title":"キラキラ☆プリキュアアラモード　きせかえマグネットえほん","volume":"","series":"","publisher":"講談社","pubdate":"2017-04-24","cover":"","author":"講談社／編集 東映アニメーション／著","description":"『キラキラ☆プリキュアアラモード』の着せ替え遊び絵本。マグネットシールだから、お子さまがどこでも何度でも繰り返し遊べます！","price":"1200","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784065095584","title":"映画　かみさまみならい　ヒミツのここたま　まるごと　だいずかん","volume":"","series":"","publisher":"講談社","pubdate":"2017-04-24","cover":"","author":"講談社／編集","description":"大人気キャラ「ヒミツのここたま」の映画で明らかになるここたま界とここたまの秘密に迫る大図鑑。","price":"740","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"絵画・彫刻"}
@@ -47,11 +45,13 @@
 ,
 {"isbn":"9784098401727","title":"マンガでわかる おうちのルール","volume":"","series":"","publisher":"小学館","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784098401727.jpg","author":"横山浩之／著 明野みる／著","description":"子どもが自ら学ぶ！生活習慣の基礎・基本 \n\n 「しせいをよくしよう」「じぶんでかたづけよう」「ありがとうをくちぐせにしよう」など、小学校入学までに子どもに身に付けさせたい基本的生活習慣を、ギャグタッチの4コマまんがでわかりやすく解説する、オールカラー版のビジュアルテキスト。一見開きごとに1ルールずつを紹介しており、子どもにさりげなく手渡すだけで、夢中で読み進め、自らどんどん学んでいきます。\n 収録ルールには保育園・幼稚園での生活ルールも含まれており、拡大コピーして掲示するなど、保育現場でも活用可能。\n ASD等、発達上の課題を抱える子ども達への支援の一環としても、ぜひご活用ください。\n 小学校受験の準備用テキストとしても、お勧めの一冊です！ \n\n 【編集担当からのおすすめ情報】 \n 大ヒットロングセラー「マンガでわかる よのなかのルール」の未就学児対象バージョン。あのキャラクターたちの過去の姿が描かれています。小学校受験の準備用としてもお勧めの一冊です。","price":"1200","genre":"","target":"一般","format":"単行本","content":"教育"}
 ,
-{"isbn":"9784163906423","title":"おもちゃ絵芳藤","volume":"","series":"","publisher":"文藝春秋","pubdate":"2017-04-24","cover":"","author":"谷津矢車／著","description":"江戸から明治への転換期。歌川国芳の弟子たちが、西欧化の波に翻弄されながらも絵を描き続けようとする、その執念と矜持を描く傑作。","price":"1650","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784163906423","title":"おもちゃ絵芳藤","volume":"","series":"","publisher":"文藝春秋","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784163906423.jpg","author":"谷津矢車／著","description":"江戸から明治への転換期。歌川国芳の弟子たちが、西欧化の波に翻弄されながらも絵を描き続けようとする、その執念と矜持を描く傑作。","price":"1650","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784254505450","title":"起請文と那智参詣曼荼羅","volume":"5","series":"國學院大學貴重書影印叢書","publisher":"朝倉書店","pubdate":"2017-04-24","cover":"","author":"國學院大／編集 千々和到／編集","description":"中世・近世の起請文の影印と熊野那智参詣曼荼羅の全体図・部分図を収録した。","price":"19000","genre":"歴史・地理","target":"専門","format":"全集・双書","content":"総記"}
 ,
-{"isbn":"9784309025582","title":"どんぶらこ","volume":"","series":"","publisher":"河出書房新社","pubdate":"2017-04-24","cover":"","author":"いとうせいこう／著","description":"「なぜ自分だけがこんな目に？」――老々介護の揺れる日常に沈んだ不安は今日も漂流。老いた日本社会の濁りが浮かび上がる。","price":"1650","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784307101851","title":"外来血糖管理マニュアル　理論と実践","volume":"","series":"","publisher":"金原出版","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784307101851.jpg","author":"松田昌文／著","description":"理論を実践につなげる血糖管理本の決定版、外来に進出！","price":"2800","genre":"","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784307203678","title":"患者さん・ご家族・一般市民のための膵がん診療ガイドライン2016の解説","volume":"","series":"","publisher":"金原出版","pubdate":"2017-04-24","cover":"","author":"日本膵臓学会膵癌診療ガイドライン改訂委員会／編集","description":"膵がんを正しく知りたい患者さん・ご家族・市民への33の解答","price":"1800","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
 ,
 {"isbn":"9784309025612","title":"漱石漫談","volume":"","series":"","publisher":"河出書房新社","pubdate":"2017-04-24","cover":"","author":"いとうせいこう／著 奥泉光／著","description":"『こころ』はＢＬ？　『坊っちゃん』は童貞小説？　「文芸漫談」の真髄発揮。『吾輩は猫である』『三四郎』他を読み解く漱石入門書。","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
@@ -63,8 +63,6 @@
 ,
 {"isbn":"9784309277998","title":"フィンセント・ファン・ゴッホ","volume":"","series":"","publisher":"河出書房新社","pubdate":"2017-04-24","cover":"","author":"ボコミラ・ウェルシュ=オフチャロフ／著 ロナルド・ピックヴァンス／著 野中邦子／翻訳 ほか","description":"世紀の発見！　ゴッホの未発表スケッチ65枚が126年ぶりに姿を現した。会計帳簿に描かれた最盛期の貴重な作品を初公開。","price":"10000","genre":"","target":"一般","format":"単行本","content":"絵画・彫刻"}
 ,
-{"isbn":"9784309278346","title":"江戸の旅人　書国漫遊","volume":"","series":"","publisher":"河出書房新社","pubdate":"2017-04-24","cover":"","author":"杉浦日向子／著","description":"漫画家、エッセイスト、江戸風俗研究家として活躍した杉浦日向子の、「毎日新聞」書評集成。愛読書から杉浦ワールドへ！","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
 {"isbn":"9784309278353","title":"奥日光　花と絶景ウォーキング","volume":"","series":"","publisher":"河出書房新社","pubdate":"2017-04-24","cover":"","author":"小杉国夫／著","description":"エリア別の詳細コース案内から絶景写真が撮れるスポット紹介、さらにグルメ情報まで。ウォーキング＆写真愛好家も大満足のガイド本！","price":"1000","genre":"","target":"一般","format":"単行本","content":"旅行"}
 ,
 {"isbn":"9784309286266","title":"白砂糖なし、乳製品なし、卵なし　甘酒で作る麹のおいしいおかず＆スイーツ","volume":"","series":"","publisher":"河出書房新社","pubdate":"2017-04-24","cover":"","author":"小紺有花／著","description":"「飲む点滴」と話題の甘酒を毎日の生活に！　おかずからスイーツまで幅広いレシピに加え、自家製甘酒の作り方や味付け冷凍法なども。","price":"1300","genre":"","target":"一般","format":"単行本","content":"家事"}
@@ -73,17 +71,21 @@
 ,
 {"isbn":"9784309625041","title":"漱石激読","volume":"","series":"河出ブックス","publisher":"河出書房新社","pubdate":"2017-04-24","cover":"","author":"石原千秋／著 小森陽一／著","description":"生誕150年。漱石はまだまだこんなにも深く読める！　漱石研究をリードしてきた名コンビが、漱石文学の豊潤な可能性を掘りおこす。","price":"1800","genre":"","target":"一般","format":"全集・双書","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784327384753","title":"テーマ別 上級で学ぶ日本語〈三訂版〉ワークブック","volume":"","series":"","publisher":"研究社","pubdate":"2017-04-24","cover":"","author":"松田浩志／監修 亀田美保／監修 惟任将彦／著 咲花美紀／著 佐藤真紀／著 立和名房子／著 ほか","description":"『テーマ別 上級で学ぶ日本語（三訂版）』に準拠した補助教材。本冊各課と共通のテーマによる読解・聴解の練習問題のほか、各課の本文に出てくる語彙・漢字・文法の復習問題を併せて収録。別冊解答付き。","price":"2100","genre":"","target":"教養","format":"単行本","content":"日本語"}
+{"isbn":"9784309762531","title":"図説　アイルランドの歴史","volume":"","series":"ふくろうの本／世界の歴史","publisher":"河出書房新社","pubdate":"2017-04-24","cover":"","author":"山本正／著","description":"専門家による歴史ガイド！イギリスからの占領と侵略を受け続けてきた、苦難の歴史と人々の果敢な挑戦。聖パトリック、ケルトの遺跡！","price":"2000","genre":"","target":"一般","format":"全集・双書","content":"外国歴史"}
+,
+{"isbn":"9784327384753","title":"テーマ別 上級で学ぶ日本語〈三訂版〉ワークブック","volume":"","series":"","publisher":"研究社","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784327384753.jpg","author":"松田浩志／監修 亀田美保／監修 惟任将彦／著 咲花美紀／著 佐藤真紀／著 立和名房子／著 ほか","description":"『テーマ別 上級で学ぶ日本語（三訂版）』に準拠した補助教材。本冊各課と共通のテーマによる読解・聴解の練習問題のほか、各課の本文に出てくる語彙・漢字・文法の復習問題を併せて収録。別冊解答付き。","price":"2100","genre":"","target":"教養","format":"単行本","content":"日本語"}
 ,
 {"isbn":"9784327430887","title":"TOEIC® SPEAKING テスト問題集","volume":"","series":"","publisher":"研究社","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784327430887.jpg","author":"ロバート・ヒルキ／著 デイビッド・セイン／著","description":"Questions 1-2: Read a Text Aloud（音読問題）の傾向と対策\nTOEIC® Speaking テスト　Questions 1-2 はこう音読せよ！\nTOEIC® Speaking テスト　Questions 1-2 の頻出表現はこう音読せよ！\nPractice　実践問題\n\nQuestion 3: Describe a Picture（写真描写問題）の傾向と対策\nTOEIC® Speaking テスト　Question 3 はこう解け！\nTOEIC® Speaking テスト　Question 3 の解答に使える定型表現\nPractice　実践問題\nTOEIC® Speaking テスト　Question 3 にはこれが出題される！\n\nQuestions 4-6: Respond to Questions（応答問題）の傾向と対策\nTOEIC® Speaking テスト　Questions 4-6 はこう解け！\nTOEIC® Speaking テスト　Questions 4-6 の頻出質問パターンと定型解答例\nPractice　実践問題\nTOEIC® Speaking テスト　Questions 4-6 にはこれが出題される！\n\nQuestions 7-9: Respond to Questions Using Information Provided（提示された情報に基づく応答問題）の傾向と対策\nTOEIC® Speaking テスト　Questions 7-9 はこう解け！\nTOEIC® Speaking テスト　Questions 7-9 の頻出質問パターンと定型解答例\nPractice　実践問題\nTOEIC® Speaking テスト　Questions 7-9 にはこれが出題される！\n\nQuestion 10: Propose a Solution（解決策を提案する問題）の傾向と対策\nTOEIC® Speaking テスト　Question 10 はこう解け！\nTOEIC® Speaking テスト　Question 10 の定型解答表現　\nPractice　実践問題\nTOEIC® Speaking テスト　Question 10 にはこれが出題される！\n\nQuestion 11: Express an Opinion（意見を述べる問題）の傾向と対策\nTOEIC® Speaking テスト　Question 11 はこう解け！\nTOEIC® Speaking テスト　Question 11 の定型解答表現\nPractice　実践問題\nTOEIC® Speaking テスト　Question 11 にはこれが出題される！\n\n模擬テスト1　TOEIC® Speaking Test 1\n模擬テスト2　TOEIC® Speaking Test 2\n模擬テスト3　TOEIC® Speaking Test 3\n模擬テスト4　TOEIC® Speaking Test 4\n模擬テスト5　TOEIC® Speaking Test 5","price":"2300","genre":"","target":"教養","format":"単行本","content":"英米語"}
 ,
 {"isbn":"9784327430894","title":"TOEIC® WRITING テスト問題集","volume":"","series":"","publisher":"研究社","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784327430894.jpg","author":"ロバート・ヒルキ／著 英語便／著","description":"Questions 1-5: Write a Sentence Based on a Picture（写真描写問題）の傾向と対策\nTOEIC®Writing テスト　Questions 1-5 はこう解け！\nTOEIC®Writing テスト　Questions 1-5 の答案作成で注意すべきこと\nTOEIC®Writing テスト　Questions 1-5 にはこの問題が出題される！　この品詞の使い方の組み合わせを考えてみよう！\nPractice　実践問題\n\nQuestions 6-7: Respond to a Written Request（ Eメール作成問題）の傾向と対策\nTOEIC®Writing テスト　Questions 6-7 はこう解け！\nTOEIC®Writing テスト　Questions 6-7 の答案作成で注意すべきこと\nTOEIC®Writing テスト　Questions 6-7 の答案作成に使えるE メール表現集\nPractice　実践問題\nTOEIC®Writing テスト　Questions 6-7 にはこの問題が出題される！\n\nQuestion 8: Write an Opinion Essay（意見を記述する問題）の 傾向と対策\nTOEIC®Writing テスト　Question 8 はこう解け！\nTOEIC®Writing テスト　Question 8 の答案作成で注意すべきこと\nTOEIC®Writing テスト　Question 8 の答案作成に使えるエッセイ表現集\nPractice　実践問題\nTOEIC®Writing テスト　Question 8 にはこの問題が出題される！\n\n模擬テスト1　TOEIC® Writing Test 1\n模擬テスト2　TOEIC® Writing Test 2\n模擬テスト3　TOEIC® Writing Test 3\n模擬テスト4　TOEIC® Writing Test 4\n模擬テスト5　TOEIC® Writing Test 5","price":"2200","genre":"","target":"教養","format":"単行本","content":"英米語"}
 ,
-{"isbn":"9784327481650","title":"亀井俊介オーラル・ヒストリー","volume":"","series":"","publisher":"研究社","pubdate":"2017-04-24","cover":"","author":"亀井俊介／著","description":"第一部　時代を追って\n　第一章　少年期から大学卒業まで\n　第二章　学問の入り口　大学院時代\n　第三章　東京大学時代I\n　第四章　東京大学時代II \n　第五章　岐阜女子大学時代\n第二部　著作を追って\n　第六章　『サーカスが来た！　アメリカ大衆文化覚書』\n　第七章　『アメリカ文学史講義』全三巻\n　第八章　『有島武郎――世間に対して真剣勝負をし続けて』\n第三部　学びの道を顧みて\n　第九章　わが極私的学問史\n付録　「亀井俊介研究序説」（講演）平石貴樹\n亀井俊介著作目録\n亀井俊介年譜","price":"3000","genre":"","target":"専門","format":"単行本","content":"外国文学、その他"}
+{"isbn":"9784327481650","title":"亀井俊介オーラル・ヒストリー","volume":"","series":"","publisher":"研究社","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784327481650.jpg","author":"亀井俊介／著","description":"第一部　時代を追って\n　第一章　少年期から大学卒業まで\n　第二章　学問の入り口　大学院時代\n　第三章　東京大学時代I\n　第四章　東京大学時代II \n　第五章　岐阜女子大学時代\n第二部　著作を追って\n　第六章　『サーカスが来た！　アメリカ大衆文化覚書』\n　第七章　『アメリカ文学史講義』全三巻\n　第八章　『有島武郎――世間に対して真剣勝負をし続けて』\n第三部　学びの道を顧みて\n　第九章　わが極私的学問史\n付録　「亀井俊介研究序説」（講演）平石貴樹\n亀井俊介著作目録\n亀井俊介年譜","price":"3000","genre":"","target":"専門","format":"単行本","content":"外国文学、その他"}
 ,
 {"isbn":"9784327991340","title":"テーマ別 上級で学ぶ日本語〈三訂版〉ワークブック　CD","volume":"","series":"","publisher":"研究社","pubdate":"2017-04-24","cover":"","author":"松田浩志／監修 亀田美保／監修","description":"『テーマ別 上級で学ぶ日本語 〈三訂版〉 ワークブック』の別売CDです。","price":"2800","genre":"","target":"教養","format":"磁性媒体など","content":"日本語"}
 ,
-{"isbn":"9784335357046","title":"現代実定法入門","volume":"","series":"","publisher":"弘文堂","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784335357046.jpg","author":"原田大樹／著","description":"","price":"2500","genre":"社会科学","target":"教養","format":"単行本","content":"法律"}
+{"isbn":"9784335304767","title":"租税法","volume":"","series":"法律学講座双書","publisher":"弘文堂","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784335304767.jpg","author":"金子宏／著","description":"平成29年度改正の内容もわかる基本書の最新版！","price":"6000","genre":"社会科学","target":"教養","format":"全集・双書","content":"法律"}
+,
+{"isbn":"9784335357046","title":"現代実定法入門 人と法と社会をつなぐ","volume":"","series":"","publisher":"弘文堂","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784335357046.jpg","author":"原田大樹／著","description":"ルールで成り立つ社会。そこで生きる私たちに不可欠な法知識！","price":"2500","genre":"社会科学","target":"教養","format":"単行本","content":"法律"}
 ,
 {"isbn":"9784393119136","title":"仏教の女神たち","volume":"","series":"","publisher":"春秋社","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784393119136.jpg","author":"森雅秀／著","description":"大乗仏教では多数の諸仏・諸菩薩・諸天などが登場するが、そのほとんどが男性である。しかし、なかにはごく少数だが、吉祥天や弁財天などの女性もいる。これが密教になると、その数が急増する。こうした仏教における女性尊格（「女神（じょしん）」ないし「女尊（じょそん）」）のうち、①ターラー、②孔雀明王、③准胝観音、④鬼子母神、⑤吉祥天と弁財天を取り上げ、そのルーツから、仏教に取り込まれた経緯、仏教内での位置づけとその役割、さらにインド・ネパール・チベット・日本などでの信仰・美術・マンダラ・供養法などを総合的に解説する。図版100点。","price":"3000","genre":"哲学・宗教","target":"一般","format":"単行本","content":"仏教"}
 ,
@@ -124,108 +126,4 @@
 {"isbn":"9784562053971","title":"国旗で知る国際情勢","volume":"","series":"","publisher":"原書房","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784562053971.jpg","author":"ティム・マーシャル／著 田口未和／翻訳","description":"「旗」で世界を知る。ベストセラー『恐怖の地政学』の著者が、「旗」に表現された様々な意味――国民性や価値観、歴史と地政学的条件を紹介していく。そしてなぜ私たちは「旗」にこれほど愛着を覚えるのかを明らかにする。","price":"2200","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
 ,
 {"isbn":"9784562054008","title":"タマネギとニンニクの歴史","volume":"","series":"「食」の図書館","publisher":"原書房","pubdate":"2017-04-24","cover":"","author":"マーサ・ジェイ／著 服部千佳子／翻訳","description":"主役ではないが絶対に欠かせず、吸血鬼を撃退し血液と心臓に良い。古代メソポタミアの昔から現代まで、玉ネギやニンニクなどのネギ族と人間の深い関係を描く。暮らし、交易、戦争、医療、魔術…意外な逸話を満載。レシピ付。「食」の図書館シリーズ第Ⅳ期（全10巻）","price":"2200","genre":"","target":"一般","format":"単行本","content":"外国歴史"}
-,
-{"isbn":"9784588010552","title":"我々みんなが科学の専門家なのか？","volume":"1055","series":"叢書・ウニベルシタス","publisher":"法政大学出版局","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784588010552.jpg","author":"ハリー・コリンズ／著 鈴木俊洋／訳","description":"原発、気候変動、ワクチン接種など、特に日常生活に関わる論争での事例とともに、科学論の第一人者が、専門知の捉え方を提言する。","price":"2800","genre":"社会科学","target":"教養","format":"全集・双書","content":"社会科学総記"}
-,
-{"isbn":"9784594611668","title":"コンパクト版　野菜たっぷり！つくりおきサラダとお総菜","volume":"","series":"","publisher":"扶桑社","pubdate":"2017-04-24","cover":"","author":"","description":"","price":"450","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
-,
-{"isbn":"9784768307861","title":"女性を可愛く美しく撮るための究極メソッド","volume":"","series":"","publisher":"玄光社","pubdate":"2017-04-24","cover":"","author":"","description":"頭がい骨の形で撮り方は変わる！\n女性を可愛く美しく撮るための技、徹底解剖！\n","price":"2000","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"写真・工芸"}
-,
-{"isbn":"9784768308486","title":"兎丸愛美 写真集 きっとぜんぶ大丈夫になる","volume":"","series":"","publisher":"玄光社","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784768308486.jpg","author":"兎丸愛美／著 塩原洋／写真","description":"女性ファンを多く持つ\nヌードモデル兎丸愛美の\n私小説的写真集\n\n兎丸愛美は、2014年に写真誌などでヌードモデルとしてデビュー以来、多くの写真家が撮影を望み、彼らを魅了した。飾らない素顔とありのままの裸をさらけだし、多くの女性ファンにも支持を得ている。\nモデルを始めて間もない彼女の日常や揺れ動く感情を写真家 塩原洋氏が、さまざまな角度から切り取った1冊。\n若き頃の兎丸愛美が綴った言葉やショートエッセイも収録。","price":"2500","genre":"芸能・タレント","target":"一般","format":"単行本","content":"写真・工芸"}
-,
-{"isbn":"9784779123191","title":"ブダペシュトを引き剥がす","volume":"","series":"","publisher":"彩流社","pubdate":"2017-04-24","cover":"","author":"戸谷浩／著","description":"眼に見える歴史と忘れられた歴史！\n\nハンガリーの首都ブダペシュトを構成する\n主要な地区を取りあげ、そこに積み重ねられた\n歴史の古層と特殊性を掘り起こし、\n時の流れとともに複雑な“混淆”を経た果ての\n現代を逆照射する。\n\nブダペシュト都市案内から展開される、\n新たな歴史の読み方、方法の試み。\n\n図版４１点収録！","price":"1800","genre":"歴史・地理","target":"一般","format":"単行本","content":"外国歴史"}
-,
-{"isbn":"9784779123207","title":"始動！ 調査報道ジャーナリズム","volume":"4","series":"彩流社ブックレット","publisher":"彩流社","pubdate":"2017-04-24","cover":"","author":"渡辺周／編著 花田達朗／編著 ワセダクロニクル／編著","description":"政府や大企業等の大きな権力を持つ組織の\n不正や腐敗を自力で取材し、\n被害者の立場から報道する<調査報道＞。\n記者クラブ発の「発表報道」との決別宣言が\n早稲田大学の地から発せられた。\n\nジャーナリスト集団が権力が隠す事実を\n「探査し」「掘り起こし」、暴露する。\nジャーナリズムは社会を変える力を取り戻せるのか。\n\n世界では、ピュリッツァー賞を受賞した\n米国のプロパブリカやパナマ文書報道で有名になった\nICIJなど非営利の組織が、調査報道を担う。\n調査報道がジャーナリズムの世界の潮流になっている。\n\n早稲田大学ジャーナリズム研究所が運営する\n調査報道メディア「ワセダクロニクル」創刊に際し\n確認された調査報道の重要性の論理と、\n討論された現場ジャーナリストたちの声を届ける。","price":"1000","genre":"社会科学","target":"一般","format":"単行本","content":"社会"}
-,
-{"isbn":"9784785959968","title":"撮られたい","volume":"全1","series":"撮られたい","publisher":"少年画報社","pubdate":"2017-04-24","cover":"","author":"佐野タカシ／著 今野杏南／原著","description":"仕事も増えずマネージャーからクビを宣告され、彼氏にも振られたグラビアアイドル雨野はな。\nそんな中カメラマン秋崎と知り合い、激しく撮られることに快感を覚えていく…\n人気グラドル今野杏南原作の小説を佐野タカシがコミカライズ！\n","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784785959975","title":"マンガで分かる心療内科　アランの幸福論編","volume":"","series":"","publisher":"少年画報社","pubdate":"2017-04-24","cover":"","author":"ソウ／イラスト ゆうきゆう／原著","description":"幸せになるためにどんな願いでもかなえることができたらあなたは一体何を願いますか？\n世界三大幸福論の一つ「アランの幸福論」をわかりやすくゆうきゆう＆ソウの黄金コンビでご紹介！\n落ち込んだらこれを1冊！","price":"648","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784785959999","title":"KIPPO　7巻","volume":"","series":"","publisher":"少年画報社","pubdate":"2017-04-24","cover":"","author":"田中宏／著","description":"愛息子・久司を白石要に殺された司。\nそして７年後…刑期を終えた要は出所。\n白石家の居場所をつきとめた司は未だ癒えぬ傷を抱えたまま、ケジメをつけようと要を追う。\nそして遂に２人は対峙。一体どうなる!?激震の最新刊！\n","price":"575","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784785960001","title":"外道の歌　3巻","volume":"","series":"","publisher":"少年画報社","pubdate":"2017-04-24","cover":"","author":"渡邊ダイスケ／著","description":"書店も電子書籍も超話題の売れ筋コミック「善悪の屑」の第2部!法で裁けない屑には屑による直接制裁を！残酷でも読み終えた後にスッキリする本当の「正義」の意味を問う問題作！\n善悪シリーズに出てきた洗脳ババア榊ヨシ江の養子が復讐にくる…!?\n","price":"550","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784785960018","title":"みんなの食卓　からあげレシピ","volume":"","series":"","publisher":"少年画報社","pubdate":"2017-04-24","cover":"","author":"アンソロジー／著","description":"漫画に登場するすべての料理のレシピ付きコミックス！\n簡単なものから凝ったものまでわかりやすく作り方を紹介しています！\n漫画も読めてレシピ本にもなって一石二鳥！","price":"429","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784785960025","title":"しーちゃんのごちそう","volume":"","series":"","publisher":"少年画報社","pubdate":"2017-04-24","cover":"","author":"たかなししずえ／著","description":"両親の愛情をたっぷりもらい、そしてご近所の人たちから暖かく見守られ健やかに育つしーちゃんの食卓にはいつも魅力的なメニューがたくさん。\nカレーライス、おこげごはん、あんこう鍋、焼きとり…\n家族で食べるからおいしい１冊を召し上がれ。\n","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784785960032","title":"遠藤靖子は夜迷町に隠れてる　1巻","volume":"","series":"","publisher":"少年画報社","pubdate":"2017-04-24","cover":"","author":"FLOWERCHILD／著","description":"殺人現場を目撃してしまった極貧学生しずえ。\n犯人は眉目秀麗のマドンナ!?ストーカーされ気づけばチャッカリ側にいて。\n薄暗い不穏な学園で起きる快楽殺人者（自称）とのワケあり同棲生活！\n快楽天の人気作家が描くゆるっと日常ギャグ！\n","price":"555","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784787220714","title":"全国の犬像をめぐる 忠犬物語45話","volume":"","series":"","publisher":"青弓社","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784787220714.jpg","author":"青柳健二／著","description":"江戸時代の「魔物を退治してくれた犬」や「自分を犠牲にして主人を助けた犬」「主人のかわりに伊勢参りをした犬」をはじめ、現代では、渋谷の忠犬ハチ公、雪崩から主人を救った新潟の忠犬タマ公、小樽の消防犬ぶん公、日本初のセラピードッグとして活躍した東京のチロリの記念碑、岐阜県・愛知県の主人を守るために交通事故で片足を失った盲導犬サーブ、愛媛県松山市の道徳の教材にも取り上げられた盲目犬ダンの像など、全国各地の忠犬・愛犬の像約60基を紹介する。\n\nほかにも、山形県鶴岡市で伝説のめっけ（滅怪）犬を祀る「大山犬祭り」など、愛犬と人間の関係性を伝える動物や自然との逸話や日本独特の供養の文化、静岡県磐田市の「しっぺい」や奈良県王子町の「雪丸」、長野県駒ケ根市の「スーパー太郎」などの地元の物語から生まれたキャラクターも写真と文章で描き出す。","price":"1800","genre":"歴史・地理","target":"一般","format":"単行本","content":"旅行"}
-,
-{"isbn":"9784791769810","title":"村上春樹を、心で聴く","volume":"","series":"","publisher":"青土社","pubdate":"2017-04-24","cover":"","author":"宮脇俊文／著","description":"","price":"2200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784791769834","title":"歴史のなかの科学","volume":"","series":"","publisher":"青土社","pubdate":"2017-04-24","cover":"","author":"佐藤文隆／著","description":"","price":"2000","genre":"","target":"一般","format":"単行本","content":"自然科学総記"}
-,
-{"isbn":"9784791769841","title":"暗号の数学","volume":"","series":"","publisher":"青土社","pubdate":"2017-04-24","cover":"","author":"ジョシュア・ホールデン／著 松浦俊輔／翻訳","description":"","price":"3200","genre":"","target":"一般","format":"単行本","content":"数学"}
-,
-{"isbn":"9784794810670","title":"ハイン　地の果ての祭典","volume":"","series":"","publisher":"新評論","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784794810670.jpg","author":"アン・チャップマン／著 大川豪司／翻訳","description":"尖った円錐形の仮面、裸身を覆う大胆な模様、不思議なポーズ─。人類学者Ｍ・グシンデが1923年に撮影した一連の写真を初めて見る人は、古いＳＦ映画の一場面か、またはボディペインティング・アートかと思うかもしれない。実はこれは、セルクナムという部族が脈々と続けてきた祭典「ハイン」の扮装のひとつなのだ。\n　セルクナム族と呼ばれる人々は、南米大陸の南端に点在するフエゴ諸島(ティエラ・デル・フエゴ)に住んでいた。そこは人間が定住した最も南の土地、「地の果て」だった。この地域には四つの異なる部族が暮らしていたが、セルクナムはそのなかでも最大のグループだった。\n　主島のフエゴ島とそこに住む人々の存在は、1520年、マゼランの世界周航によって初めて西洋社会に知られた。以後多くの者がこの地を訪れる。「海賊」ドレーク、キャプテン・クック、ダーウィンを乗せたビーグル号、貿易船やアザラシ猟の船、金鉱探索者、キリスト教の伝道師たち、牧場経営者たち─。島民との間に様々な軋轢が生まれ、やがて一九世紀末に至ってフエゴ島は生き地獄と化す。公然と大虐殺が行われ、伝道所に強制収容された人たちの間に伝染病が蔓延し、そこから生きて出た者はわずかだった。フエゴ島民は短期間のうちに絶滅への道を辿り、生粋のセルクナムは1999年に絶えた。\n　多くの西洋人の目に、フエゴ島民の生活は「野蛮」で「惨め」で、自分たちの「文化的生活」とはかけ離れたものと映った。酷寒の地で裸同然で暮らす人々のなかには、拉致され、見せ物にされた者も多くいた。だが、彼らは世界のどこにも似たものの無い独自の文化をもっていた。部外者にはほとんど明かされることのなかった祭典「ハイン」はその白眉だ。本書は、この驚くべき祭典の姿を、残された記録や往時を知る数少ない人たちの証言から丹念に描き出し、「消えた」部族の姿を生き生きと伝えている。（編集部）","price":"3000","genre":"歴史・地理","target":"一般","format":"単行本","content":"民族・風習"}
-,
-{"isbn":"9784797390995","title":"子ども超訳 一生大切にしたい70の名言","volume":"","series":"","publisher":"SBクリエイティブ","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784797390995.jpg","author":"根本浩／著","description":"子供にウケる超訳＆エピソードで一瞬で理解","price":"1200","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
-,
-{"isbn":"9784798050096","title":"深海生物の「なぜそうなった？」がわかる本","volume":"","series":"","publisher":"秀和システム","pubdate":"2017-04-24","cover":"","author":"北村雄一／著・イラスト","description":"深海に住む生物たちの姿形、生態に目を向け、「なぜそのような姿に？」「なぜそういう習性を？」と誰もが思う不思議を解き明かす!!","price":"1500","genre":"自然科学","target":"一般","format":"単行本","content":"生物学"}
-,
-{"isbn":"9784798050881","title":"母親が知らないとヤバイ「男の子」の育て方","volume":"","series":"","publisher":"秀和システム","pubdate":"2017-04-24","cover":"","author":"柳沢幸雄／著","description":"","price":"1300","genre":"教育","target":"一般","format":"単行本","content":"教育"}
-,
-{"isbn":"9784816709340","title":"古唐津復興　陶工　中里重利","volume":"","series":"","publisher":"西日本新聞社","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784816709340.jpg","author":"坂本大／編集 下村佳史／著 坂本美紀／監修","description":"古唐津の技法を人間国宝の父・無庵とともに甦らせた陶工・中里重利の作品集。西日本新聞連載「古唐津復興」を基にした回想録も収録。","price":"3400","genre":"芸術","target":"一般","format":"単行本","content":"写真・工芸"}
-,
-{"isbn":"9784830949333","title":"保険業法2017","volume":"","series":"","publisher":"文眞堂","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784830949333.jpg","author":"石田満／著","description":"情報提供義務の法定化，顧客の意向把握義務の導入、保険募集人の体制整備義務の導入等について、検討した最新の保険業法の体系書","price":"8500","genre":"社会科学","target":"専門","format":"単行本","content":"法律"}
-,
-{"isbn":"9784830949371","title":"人類の歩み 21世紀の分岐点","volume":"6","series":"AN21研究シリーズ","publisher":"文眞堂","pubdate":"2017-04-24","cover":"","author":"大塚友美／著・編集","description":"経済成長に努めた結果、少子高齢化が顕在化。更なる経済発展の障害となりかねない状況を人類の歴史を俯瞰し問題発生の経緯を考察","price":"2800","genre":"社会科学","target":"専門","format":"単行本","content":"社会"}
-,
-{"isbn":"9784830949463","title":"NPO，そしてソーシャルビジネス","volume":"","series":"","publisher":"文眞堂","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784830949463.jpg","author":"坂本恒夫／著・編集 丹野安子／著・編集 菅井徹郎／著・編集","description":"米英日に加え蘭独韓のNPOを取り上げ国際比較の視野を拡大。企業価値の課題と進化の課題を提起し、株式会社、NPOの将来像を説く","price":"2300","genre":"社会科学","target":"専門","format":"単行本","content":"経営"}
-,
-{"isbn":"9784830949487","title":"中国人消費者の行動分析","volume":"","series":"","publisher":"文眞堂","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784830949487.jpg","author":"李玲／著","description":"グローバル・ブランド消費における原産国イメージ、とりわけ中国人の価値観の中核「面子」による影響を実証研究によって明らかに。","price":"3500","genre":"社会科学","target":"専門","format":"単行本","content":"経営"}
-,
-{"isbn":"9784831860224","title":"歴史のなかの東大寺","volume":"２","series":"東大寺の新研究","publisher":"法藏館","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784831860224.jpg","author":"栄原永遠男／編集 佐藤信／編集 吉川真司／編集","description":"東大寺要録研究会において報告された、古代・中世の東大寺に関する最新研究をまとめた学術論集。第２巻は歴史学の成果を中心に収録","price":"17000","genre":"歴史・地理","target":"専門","format":"単行本","content":"日本歴史"}
-,
-{"isbn":"9784832255852","title":"進め！コボちゃん（1）","volume":"","series":"","publisher":"芳文社","pubdate":"2017-04-24","cover":"","author":"植田まさし／著","description":"","price":"600","genre":"コミックス(廉)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784838105625","title":"東京うつわさんぽ　改訂版","volume":"","series":"","publisher":"光村推古書院","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784838105625.jpg","author":"うつわさんぽ編集室／編集","description":"東京で出会えるうつわのショップやレストランなど、「うつわ」にまつわるスポット約90軒を紹介。","price":"1500","genre":"","target":"一般","format":"単行本","content":"旅行"}
-,
-{"isbn":"9784840749473","title":"保険薬事典Plus＋ 平成29年4月版","volume":"","series":"","publisher":"じほう","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784840749473.jpg","author":"薬業研究会／編集","description":"適応・用法も確認できる医療用医薬品リストの定番書籍です。","price":"4600","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
-,
-{"isbn":"9784846531454","title":"フィギュア王№231","volume":"","series":"","publisher":"ワールド・フォト・プレス","pubdate":"2017-04-24","cover":"","author":"","description":"","price":"933","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
-,
-{"isbn":"9784861105470","title":"浅草 2011-2016","volume":"","series":"","publisher":"春風社","pubdate":"2017-04-24","cover":"","author":"初沢克利／写真","description":"2010年代、変わりゆく浅草の風景と人々。この街には、日本人の抱えている本質的矛盾がいかなるものかの一端が見える。","price":"7000","genre":"芸術","target":"一般","format":"単行本","content":"写真・工芸"}
-,
-{"isbn":"9784861137792","title":"楽しいだけで世界一！","volume":"","series":"","publisher":"文屋","pubdate":"2017-04-24","cover":"","author":"林映寿／著","description":"","price":"1500","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
-,
-{"isbn":"9784861349935","title":"黒豹王とツガイの蜜月 ～ハーレムの花嫁～","volume":"","series":"","publisher":"フロンティアワークス","pubdate":"2017-04-24","cover":"","author":"華藤えれな／著 黒田屑／イラスト","description":"","price":"620","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784861826290","title":"灰緑色の戦史 ドイツ国防軍の興亡","volume":"","series":"","publisher":"作品社","pubdate":"2017-04-24","cover":"","author":"大木毅／著","description":"","price":"2800","genre":"歴史・地理","target":"一般","format":"単行本","content":"歴史総記"}
-,
-{"isbn":"9784861826313","title":"ヘーゲル初期論文集成","volume":"","series":"","publisher":"作品社","pubdate":"2017-04-24","cover":"","author":"G・W・F・ヘーゲル／著 村岡晋一／翻訳 吉田達／翻訳","description":"","price":"6800","genre":"哲学・宗教","target":"一般","format":"単行本","content":"哲学"}
-,
-{"publisher":"Ｊリサーチ出版","isbn":"9784863923416","pubdate":"2017-04-24","title":"TOEIC(R)TEST長文読解TARGET600 NEW EDITION","series":"","author":"森田鉄也／著","cover":"https://cover.openbd.jp/9784863923416.jpg","volume":"","description":"パート７の長文読解で効果的にスコアを上げるコンパクトサイズ問題集。厳選問題７１問。トリプルパッセージなど新形式にも完全対応。","price":"1200","genre":"語学・辞事典","target":"実用","format":"単行本","content":"英米語"}
-,
-{"publisher":"Ｊリサーチ出版","isbn":"9784863923423","pubdate":"2017-04-24","title":"TOEIC(R)TEST長文読解TARGET900 NEW EDITION","series":"","author":"森田鉄也／著","cover":"https://cover.openbd.jp/9784863923423.jpg","volume":"","description":"パート７の長文読解で高得点をとるためのコンパクトサイズの問題集。厳選問題７２問。トリプルパッセージなど新形式にも完全対応。","price":"1300","genre":"語学・辞事典","target":"実用","format":"単行本","content":"英米語"}
-,
-{"publisher":"Ｊリサーチ出版","isbn":"9784863923447","pubdate":"2017-04-24","title":"日本語能力試験N2語彙 必修パターン","series":"","author":"佐伯玲子／著 氏原庸子／著","cover":"https://cover.openbd.jp/9784863923447.jpg","volume":"","description":"テキストと問題集が一つになった対策本。６つの問題形式を徹底分析、完全攻略。出題パターンがよくわかり、解き方が確実に身につく。","price":"1600","genre":"語学・辞事典","target":"実用","format":"単行本","content":"日本語"}
-,
-{"isbn":"9784864470988","title":"熊が人を襲うとき","volume":"","series":"","publisher":"つり人社","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784864470988.jpg","author":"米田一彦／著","description":"著者の長年のフィールドワークで培われた圧倒的な知見をもとに、\n1900件を超えるツキノワグマ事故例を独自に分析＆解説。","price":"1800","genre":"","target":"実用","format":"単行本","content":"体育・スポーツ"}
-,
-{"isbn":"9784864470995","title":"和竿大全","volume":"","series":"","publisher":"つり人社","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784864470995.jpg","author":"葛島一美／著","description":"江戸時代から今なお受け継がれる“江戸和竿”文化。本書は戦前から現代の作品まで江戸和竿の世界を堪能できる一冊。","price":"3000","genre":"","target":"実用","format":"単行本","content":"体育・スポーツ"}
-,
-{"isbn":"9784864473002","title":"はじめてのルアー釣り超入門","volume":"9","series":"つり人最強BOOK","publisher":"つり人社","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784864473002.jpg","author":"西野弘章／著","description":"大人気釣り入門&ステップアップ書籍、つり人最強BOOKシリーズ第9作目。西野式ルアー釣りノウハウ解説書。","price":"1500","genre":"","target":"実用","format":"単行本","content":"体育・スポーツ"}
-,
-{"isbn":"9784864473019","title":"みっぴ100％","volume":"","series":"","publisher":"つり人社","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784864473019.jpg","author":"秋丸美帆／著","description":"「みっぴ」の愛称で知られる釣りガール、秋丸美帆さんを特集した単行本。秋丸さんの魅力をあますところなく伝える１冊。","price":"1800","genre":"","target":"実用","format":"単行本","content":"体育・スポーツ"}
-,
-{"isbn":"9784864881210","title":"琉球文学論","volume":"","series":"","publisher":"幻戯書房","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784864881210.jpg","author":"島尾敏雄／著","description":"７７年の大学での一度は封印された講義録。琉球弧の文学を読み解くだけでなく、日本列島の文化の中に位置づけた琉球文化案内。","price":"3200","genre":"","target":"一般","format":"単行本","content":"日本文学総記"}
-,
-{"isbn":"9784865491036","title":"七福神の大阪ツアー","volume":"","series":"","publisher":"ひさかたチャイルド","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784865491036.jpg","author":"くまざわあかね／著 あおきひろえ／イラスト","description":"七福神の神様たちが大阪へ慰安旅行へ出発。大阪の街中を福を授けながら巡っていくと。落語のように笑えて楽しい創作童話。\n笑福亭鶴瓶師匠の写真入り推薦コメント帯付き。","price":"1300","genre":"児童図書","target":"児童","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784865781175","title":"「生きものらしさ」をもとめて","volume":"","series":"","publisher":"藤原書店","pubdate":"2017-04-24","cover":"","author":"大沢文夫／著","description":"日本の生物物理学の創設・開拓・牽引者、大沢文夫のエッセンス！\n単細胞生物ゾウリムシの運動を観察すると、外からの刺激なしで方向転換するなど、“ゆらぎ”を内部にもつ生き物のあり方が見えてくる。これは外部の“仲間”との関係でも変化し、「仲間がいるから自発性が大きい」としか表現できないように見える。ゾウリムシからヒトまで、“自発性”のあり方に段階はあっても、断絶はない。“心”もまた同じである。","price":"1800","genre":"","target":"一般","format":"単行本","content":"自然科学総記"}
-,
-{"isbn":"9784870586437","title":"ＤＰＣ点数早見表　2017年4月増補版","volume":"","series":"","publisher":"医学通信社","pubdate":"2017-04-24","cover":"","author":"医学通信社／著","description":"2017年４月現在の最新版。出来高算定となる高額薬剤，「手術・処置等２」，疑義解釈ＱＡなど，すべての追加告知・通知等を収録。","price":"4500","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
-,
-{"isbn":"9784870586451","title":"受験対策と予想問題集　2017年前期版","volume":"","series":"","publisher":"医学通信社","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784870586451.jpg","author":"医学通信社／著","description":"日本医療保険事務協会主催「診療報酬請求事務能力認定試験」対策本。過去問、オリジナル問題、解答・解説が充実。","price":"2200","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
-,
-{"isbn":"9784870586475","title":"レセプト総点検マニュアル　2017年版","volume":"","series":"","publisher":"医学通信社","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784870586475.jpg","author":"医学通信社／著","description":"2017年4月現在の診療報酬と審査機関の審査基準に準拠した最新版。レセプト審査上の具体的な指標を徹底収録。","price":"2200","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
-,
-{"isbn":"9784908073380","title":"ホロコーストに教訓はあるか","volume":"","series":"","publisher":"えにし書房","pubdate":"2017-04-24","cover":"","author":"マイケル・R.マラス／著 真壁広道／訳","description":"ホロコースト研究に草創期から携わった第一人者ならではの、精確にして誠実な最新のホロコースト研究史。\n歴史から得られる「教訓」があるのかという根源的な問いをベースに、アンナ・ハーレントの著作、「アンネの日記」から最近に至る多くの映画や文学作品にも言及し、ホロコーストを多様な視点から取り上げ、これまでの膨大な研究の発展の成果を丁寧に辿り、課題を概観するとともに「ホロコーストの教訓」の濫用の危険を訴える。\n研究史としてすぐれて貴重な資料であるばかりでなく、「真っ直ぐに正すこと」という歴史学者としての真摯な姿勢を貫き、気の遠くなる基礎調査を積み重ねてきた著者による直言を含む本書は、歴史を学ぶ者全てにとって一つの指針を示すものである。","price":"2300","genre":"","target":"一般","format":"単行本","content":"外国歴史"}
-,
-{"isbn":"9784908875106","title":"せとうちスタイル　Vol.1","volume":"","series":"","publisher":"瀬戸内人","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784908875106.jpg","author":"","description":"瀬戸内の生き方、暮らし方を紹介するライフスタイルブック。創刊号の特集は「尾道と向島」。しまなみ海道の航路図＆時刻表も掲載。","price":"1100","genre":"","target":"一般","format":"単行本","content":"社会"}
-,
-{"isbn":"9784908875168","title":"モノノケマンダラ","volume":"","series":"","publisher":"瀬戸内人","pubdate":"2017-04-24","cover":"https://cover.openbd.jp/9784908875168.jpg","author":"柳生忠平／著","description":"瀬戸内・小豆島の妖怪画家、柳生忠平の初の作品集となるポストカードブック。24枚の代表的な絵画作品を全頁カラーで収録していま…","price":"1400","genre":"芸術","target":"一般","format":"単行本","content":"絵画・彫刻"}
 ]
