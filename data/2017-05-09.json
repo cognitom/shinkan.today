@@ -168,4 +168,24 @@
 {"isbn":"9784591154632","title":"あなたの部下は、なぜ「やる気」のあるふりをするのか","volume":"136","series":"一般書","publisher":"ポプラ社","pubdate":"2017-05-09","cover":"","author":"釘原直樹／著","description":"集団にとって「手抜き」は不可避かつ不可欠？ままならない手抜きにどう向き合うか。手抜き研究の第一人者が18のヒントを提案！","price":"1400","genre":"","target":"一般","format":"単行本","content":"経営"}
 ,
 {"isbn":"9784591154687","title":"（１２７）難民鎖国ニッポンのゆくえ","volume":"127","series":"ポプラ新書","publisher":"ポプラ社","pubdate":"2017-05-09","cover":"","author":"根本かおる／著","description":"","price":"820","genre":"","target":"一般","format":"新書","content":"社会"}
+,
+{"isbn":"9784840461719","title":"新世代の膵癌診療・治療バイブル","volume":"","series":"","publisher":"メディカ出版","pubdate":"2017-05-09","cover":"","author":"藤井努／編集 川井学／編集","description":"国内有力施設の膵臓臨床医による執筆で、現在の膵癌診療・治療のすべてがわかる。日本膵臓学会「膵癌診療ガイドライン2016年版」に基づく標準治療に加え、最先端治療を最新トピックスとして紹介。現時点でのBest of Bestであると胸を張れる（編者序文より）。","price":"10000","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784845850778","title":"タイケン交差点Ｘ（エックス）－ホントにあった赤裸々秘話－","volume":"","series":"","publisher":"リイド社","pubdate":"2017-05-09","cover":"","author":"八月薫／イラスト","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784865940930","title":"みんなのIchigoLatte入門　JavaScriptで楽しむゲーム作りと電子工作","volume":"","series":"","publisher":"リックテレコム","pubdate":"2017-05-09","cover":"https://cover.openbd.jp/9784865940930.jpg","author":"古籏一浩／著 松田優一／著","description":"JavaScriptで、ここまでできる実力派！\n\nIchigoLatte（イチゴラテ）は、\nあの「こどもパソコンIchigoJam（イチゴジャム）」の兄貴分（お姉さん？）のOS。\nこっちはJavaScript（ジャバスクリプト）が走ります。ウェブで使っている言語なので\n手軽にプログラミングできるので、今や大人からこどもたちまで大人気。\n\nIchigoJamと同じ基板なので、自分で組み立てる人なら1500円で購入できます。\nそして、JavaScriptはなかなか強力です。ディスプレイを使ったシューティング\nゲームから、ロボットの制御、各種センサーのまでいろいろ扱えます。\n\nこれはPancake（パンケーキ）、MixJuice（ミックスジュース）、paprika（パプリカ）\nという、いかにも美味しそうな名前の拡張ハードウェアで実現できます。\n「ゲームもやりたい！」「ロボットも動かしたい！」そして、「IoTもやりたい！」\nしかも、「安くあげたい！」そんな人にピッタリの電子基板で遊びまくりましょう。","price":"2700","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784865940947","title":"IoTシステム開発スタートアップ　　プロトタイプで全レイヤをつなぐ","volume":"","series":"","publisher":"リックテレコム","pubdate":"2017-05-09","cover":"https://cover.openbd.jp/9784865940947.jpg","author":"吉澤穂積／著 下拂直樹／著 松村義昭／著 吉本昌平／著 高橋優亮／著 山平哲也／著","description":"本格的なIoTシステム開発の方法・手順を指南します\n\n\nIoTシステムといっても、産業系、家電系、農業系、防災・防犯系・・・と千差万別。\n本当に様々なソリューションがあります。本書では、その中でも監視系に特化した、\n鳥害対策システムをプロトタイプと設定し、具体的なIoTシステムをデバイスのレイヤ、\nネットワークのレイヤ(フィールド層)、そしてデータ解析(プラットフォーム層)\nとセキュリティ(オペレーション層)のレイヤまで一気通貫に作成します。\n\n縦軸をつなぐものとして、デバイス周りはWindows 10 IoT Core、そしてクラウド\n環境での機械学習では、Windows Azureと、ほぼ同じフレームワークを使っている\nのも本書の特色です。\n\nIoTデバイスとしてのRaspberry Piに特化したもの、データ分析に特化したものなど\nなど、IoTを取り巻く技術書は、これまで狭い範囲にフォーカスした書籍しかありませ\nんでした。\n\n本書は、まずは手を動かしてデバイス周りから、クラウド/セキュリティまで本格的にIoTを実現でき\nる体験型の一冊です。\n\nなお、読者特典として購入された方には電子版が漏れなく付いてきます。","price":"2600","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784871544726","title":"社会保障　47２号（2017年初夏号）","volume":"","series":"","publisher":"あけび書房","pubdate":"2017-05-09","cover":"","author":"中央社会保障推進協議会／編集","description":"","price":"463","genre":"","target":"専門","format":"単行本","content":"社会"}
+,
+{"isbn":"9784907234126","title":"THE PRIDE LEXUS LC500／LC500h","volume":"","series":"","publisher":"カーグラフィック","pubdate":"2017-05-09","cover":"https://cover.openbd.jp/9784907234126.jpg","author":"カーグラフィック編集部／編集","description":"２年３ヵ月に及ぶ完全密着取材。LEXUS　LC開発現場の全貌を公開。","price":"3700","genre":"","target":"一般","format":"単行本","content":"機械"}
+,
+{"isbn":"9784907234133","title":"福野礼一郎あれ以後全集3","volume":"3","series":"福野礼一郎あれ以後全集","publisher":"カーグラフィック","pubdate":"2017-05-09","cover":"https://cover.openbd.jp/9784907234133.jpg","author":"福野礼一郎／著","description":"福野礼一郎の単行本未収録作を中心に、2009年から2010年までの作品を時系列でまとめた全集の第三弾。","price":"1500","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784907234140","title":"福野礼一郎あれ以後全集4","volume":"4","series":"福野礼一郎あれ以後全集","publisher":"カーグラフィック","pubdate":"2017-05-09","cover":"https://cover.openbd.jp/9784907234140.jpg","author":"福野礼一郎／著","description":"福野礼一郎の単行本未収録作を中心に、2010年から2011年までの作品を時系列でまとめた全集の第四弾。","price":"1500","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784907865221","title":"UNTITLED RECORDS Vol.11","volume":"11","series":"UNTITLED RECORDS","publisher":"photographers' gallery","pubdate":"2017-05-09","cover":"https://cover.openbd.jp/9784907865221.jpg","author":"北島敬三／著・写真","description":"","price":"2000","genre":"芸術","target":"一般","format":"単行本","content":"写真・工芸"}
+,
+{"isbn":"9784908637476","title":"中学生にジーンと響く道徳話100選 ―道徳力を引き出す“名言逸話”活用授業","volume":"","series":"","publisher":"学芸みらい社","pubdate":"2017-05-09","cover":"","author":"長谷川博之／著","description":"新教科・道徳が注目を集めている今、一番困難といわれる中学校の道徳で実績ある著者が全国からネタを収集。\n","price":"2000","genre":"教育","target":"専門","format":"単行本","content":"教育"}
 ]
