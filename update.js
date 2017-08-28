@@ -40,6 +40,7 @@ stream.fork()
     const yaml = dump(book)
     const data = '---\n' + yaml + '\n---\n'
     writeFileSync(join(bookDir, `${book.isbn}.md`), data)
+    console.log(`${book.isbn}.md created`)
   })
 
 /** 2週間より前の出版日のデータについては、無視リストへ */
