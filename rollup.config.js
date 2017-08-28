@@ -17,8 +17,7 @@ export default {
     commonjs(),
     buble()
   ],
-  context: 'window',
-  format: 'iife'
+  context: 'window'
 }
 
 /**
