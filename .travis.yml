@@ -20,4 +20,6 @@ before_script:
   - ssh-add deploy-key
 script:
   - npm test
+  #- npm run build
+  #- npm run update
   - npm run deploy-from-travis
