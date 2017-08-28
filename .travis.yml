@@ -11,6 +11,7 @@ branches:
     - master
 before_install:
   - export TZ=Asia/Tokyo
+  - openssl aes-256-cbc -K $encrypted_071a486c2ea0_key -iv $encrypted_071a486c2ea0_iv -in deploy-key.enc -out deploy-key -d
 before_script:
   - git config --global user.name "$GIT_NAME"
   - git config --global user.email "$GIT_EMAIL"
