@@ -16,7 +16,7 @@
     "server": "browser-sync start --files 'dist/main.js' --server dist",
     "update": "node --require reify update",
     "deploy": "gh-pages -d dist",
-    "deploy-from-travis": "gh-pages-clean && gh-pages -d dist -r \"git@github.com:cognitom/shinkan.today.git\""
+    "deploy-from-travis": "gh-pages-clean"
   },
   "dependencies": {
     "fecha": "^2.3.1",
