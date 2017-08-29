@@ -14,6 +14,7 @@ before_install:
 before_script:
   - git config --global user.name "cognitom"
   - git config --global user.email "cognitom@gmail.com"
+  - git config remote.origin.url git@github.com:cognitom/shinkan.today.git
   - openssl aes-256-cbc -K $encrypted_071a486c2ea0_key -iv $encrypted_071a486c2ea0_iv -in deploy-key.enc -out deploy-key -d
   - chmod 600 deploy-key
   - eval "$(ssh-agent -s)"
@@ -25,4 +26,4 @@ script:
   #- npm run update
   - git config --global --list
   - git config --local --list
-  - npm run deploy-from-travis
+  - npm run deploy

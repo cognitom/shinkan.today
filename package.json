@@ -15,8 +15,7 @@
     "watch": "chokidar 'src/**' -c 'npm run build'",
     "server": "browser-sync start --files 'dist/main.js' --server dist",
     "update": "node --require reify update",
-    "deploy": "gh-pages -d dist",
-    "deploy-from-travis": "gh-pages-clean"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "fecha": "^2.3.1",
