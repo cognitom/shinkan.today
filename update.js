@@ -20,14 +20,19 @@ const firstDate = moment().subtract(daysBefore, 'days').format('YYYY-MM-DD')
 const ignoreMap = getIgnoreMap()
 const indexStreams = []
 
+let lastData = {}
+
 const stream = highland([`${apiRoot}/coverage`])
   .flatMap(url => highland(request(url))) // openBDに問い合わせ
   .through(parse('*')) // jsonから、ISBNを取得
   .filter(isbn => !shouldIgnore(isbn))
-  .batch(10000) // 10000件ごとにまとめる
+  .batch(1000) // 1000件ごとにまとめる
   .map(isbns => ({method: 'POST', url: `${apiRoot}/get`, form: {isbn: isbns.join(',')}}))
+  .ratelimit(1, 1000)
   .flatMap(opts => highland(request(opts))) // openBDに問い合わせ
+  .map(buffer => buffer.toString().replace(/\uFFFD/g, '')) // 不正な文字を除去
   .through(parse('*')) // jsonから、書誌情報を取得
+  .errors(err => { console.log(err) })
   .map(book => summarize(book)) // 書誌情報を整形
 
 /**
