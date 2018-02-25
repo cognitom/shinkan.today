@@ -19,11 +19,12 @@ before_script:
   - chmod 600 deploy-key
   - eval "$(ssh-agent -s)"
   - ssh-add deploy-key
-  - ls -al
 script:
-  #- npm test
-  #- npm run build
-  #- npm run update
+  - npm test
+  - npm run build
+  - npm run update
   - git config --global --list
   - git config --local --list
+  - ls -al # for debugging
+  - ls -al dist # for debugging
   - npm run deploy

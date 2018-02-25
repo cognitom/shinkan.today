@@ -20,8 +20,6 @@ const firstDate = moment().subtract(daysBefore, 'days').format('YYYY-MM-DD')
 const ignoreMap = getIgnoreMap()
 const indexStreams = []
 
-let lastData = {}
-
 const stream = highland([`${apiRoot}/coverage`])
   .flatMap(url => highland(request(url))) // openBDに問い合わせ
   .through(parse('*')) // jsonから、ISBNを取得
