@@ -31,7 +31,7 @@
 ,
 {"isbn":"9784056113266","title":"きじまりゅうたの食材２つでうまいっ！１４６品","volume":"","series":"ヒットムック料理シリーズ","publisher":"学研プラス","pubdate":"2018-04-03","cover":"","author":"きじまりゅうた／著","description":"野菜プラスもう１食材で作れるおかずを紹介。使う食材が少ないと、手間がはぶけて時短になるうえ、節約にも。","price":"850","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
-{"isbn":"9784056113600","title":"新版　面積迷路","volume":"","series":"学研ムック","publisher":"学研プラス","pubdate":"2018-04-03","cover":"","author":"村上綾一／著","description":"世界で今、注目を集める日本発の傑作パズル「面積迷路」。難しい計算は不要、パズルを楽しみながら論理的思考力を鍛えられる。","price":"680","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+{"isbn":"9784056113600","title":"新版　面積迷路","volume":"","series":"学研ムック","publisher":"学研プラス","pubdate":"2018-04-03","cover":"","author":"村上綾一／著","description":"世界で今、注目を集める日本発の傑作パズル「面積迷路」。難しい計算は不要、パズルを楽しみながら論理的思考力を鍛えらる。","price":"680","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784058009093","title":"管理職試験３６日間２０１９","volume":"","series":"教育ジャーナル選書","publisher":"学研教育みらい","pubdate":"2018-04-03","cover":"","author":"津金邦明／著","description":"管理職選考試験受験者への指導経験豊富な元校長が執筆。１日６０分、６週間で選考試験対策を完成。最新の教育施策情報も充実。","price":"2000","genre":"","target":"専門","format":"単行本","content":"教育"}
 ,
@@ -49,19 +49,9 @@
 ,
 {"isbn":"9784063873993","title":"HUGっと！プリキュア＆プリキュアオールスターズ　まるごと　シールブック","volume":"","series":"","publisher":"講談社","pubdate":"2018-04-03","cover":"","author":"講談社／著","description":"すべてのプリキュア、プリキュアオールスターズのシールがいっぱい！　お話のわかるプリキュア図鑑を完成させてね！","price":"880","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784254168839","title":"サステイナビリティ 地球と人類の課題","volume":"3","series":"地誌トピックス","publisher":"朝倉書店","pubdate":"2018-04-03","cover":"","author":"矢ケ﨑典隆／編集 森島済／編集 横山智／編集","description":"初級から中級向けの地理学シリーズ。第3巻はサスティナビリティをテーマに課題を読み解く。","price":"3200","genre":"歴史・地理","target":"専門","format":"全集・双書","content":"地理"}
+{"isbn":"9784254168839","title":"サステイナビリティ 地球と人類の課題","volume":"3","series":"地誌トピックス","publisher":"朝倉書店","pubdate":"2018-04-03","cover":"","author":"矢ケ﨑典隆／編集 森島済／編集 横山智／編集","description":"初級から中級向けの地理学シリーズ。第3巻はサスティビリティをテーマに課題を読み解く。","price":"3200","genre":"歴史・地理","target":"専門","format":"全集・双書","content":"地理"}
 ,
 {"isbn":"9784254226447","title":"ナノスケール・トランジスタの物理","volume":"4","series":"朝倉電気電子工学大系","publisher":"朝倉書店","pubdate":"2018-04-03","cover":"","author":"名取研二／著","description":"黎明期以降の素子の微細化期に焦点を当て、極微スケールでのトランジスタの機構・物理を解説。","price":"4600","genre":"自然科学","target":"専門","format":"全集・双書","content":"電気"}
 ,
 {"isbn":"9784309921495","title":"エロティック・アートと秘教主義","volume":"","series":"パン・エキゾチカ","publisher":"河出書房新社","pubdate":"2018-04-03","cover":"","author":"相馬俊樹／著","description":"澁澤龍彦、種村季弘らによって伐り開かれた性と闇の文化史を引き継ぎ、現代のエロティック・アートの到達点を描く、孤高の論考集。","price":"2500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784326251261","title":"自己心理学セミナー","volume":"","series":"","publisher":"勁草書房","pubdate":"2018-04-03","cover":"https://cover.openbd.jp/9784326251261.jpg","author":"金築智美／編集","description":"「自分のことをもっと知りたい」「自分の心の健康を保ちたい」「自信がなく人づき合いも苦手」そんな声に応える新しいテキスト。","price":"2000","genre":"哲学・宗教","target":"専門","format":"単行本","content":"心理(学)"}
-,
-{"isbn":"9784326299287","title":"市民を育てる学校","volume":"","series":"","publisher":"勁草書房","pubdate":"2018-04-03","cover":"https://cover.openbd.jp/9784326299287.jpg","author":"佐藤隆之／著","description":"「考える市民」を育成するユニークな実験を行った、アメリカ進歩主義学校であるコロンビア大学附属学校の実践とその成果を分析する。","price":"3500","genre":"教育","target":"専門","format":"単行本","content":"教育"}
-,
-{"isbn":"9784326603053","title":"未来の環境倫理学","volume":"","series":"","publisher":"勁草書房","pubdate":"2018-04-03","cover":"https://cover.openbd.jp/9784326603053.jpg","author":"吉永明弘／編集 福永真弓／編集","description":"実践を支える思想、未来をつくっていく学問。リアルタイムの課題に応答し合い、議論を形成していく時代に沿った新たなテキスト。","price":"2500","genre":"自然科学","target":"専門","format":"単行本","content":"社会"}
-,
-{"isbn":"9784335357510","title":"独占禁止法","volume":"","series":"","publisher":"弘文堂","pubdate":"2018-04-03","cover":"https://cover.openbd.jp/9784335357510.jpg","author":"金井貴嗣／編集 川濵昇／編集 泉水文雄／編集 鈴木孝之／著 武田邦宣／著 田村次朗／著 ほか","description":"最新の法改正に完全対応の基本書","price":"4600","genre":"社会科学","target":"教養","format":"単行本","content":"法律"}
-,
-{"isbn":"9784335357534","title":"会社法","volume":"","series":"","publisher":"弘文堂","pubdate":"2018-04-03","cover":"https://cover.openbd.jp/9784335357534.jpg","author":"髙橋美加／著 笠原武朗／著 久保大作／著 久保田安彦／著","description":"なるほど、そうだったのか！　じっくり納得の好評会社法テキスト、最新版！","price":"2800","genre":"社会科学","target":"教養","format":"単行本","content":"法律"}
 ]
