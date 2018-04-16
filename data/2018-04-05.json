@@ -13,7 +13,7 @@
 ,
 {"isbn":"9784062869782","title":"霞が関で昼食を　三度目の正直","volume":"","series":"","publisher":"講談社","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784062869782.jpg","author":"ふゆの仁子／著 おおやかずみ／著","description":"財務省官僚の立花斎樹と樟栄佑の霞が関を舞台にした、大人だけれど不器用な美味しい恋物語。","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784062869829","title":"雪の王　光の剣","volume":"","series":"","publisher":"講談社","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784062869829.jpg","author":"中村ふみ／ 六七質／著","description":"傑作「政変ファンタジー」クライマックス！飛牙たちは「駕国」へーー。","price":"720","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784062869829","title":"雪の王　光の剣","volume":"","series":"","publisher":"講談社","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784062869829.jpg","author":"中村ふみ／著 六七質／著","description":"傑作「政変ファンタジー」クライマックス！飛牙たちは「駕国」へーー。","price":"720","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784062869836","title":"偽りの花嫁　～大富豪の蜜愛～","volume":"","series":"","publisher":"講談社","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784062869836.jpg","author":"水島忍／著 ウエハラ蜂／著","description":"怪物と噂される大富豪と結婚をした令嬢アリシア。実は彼女は孤児院出身の偽の花嫁だった。秘密を抱え葛藤するアリシアだが。","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -40,4 +40,32 @@
 {"isbn":"9784388808762","title":"cafe-sweets (カフェ-スイーツ) vol.187","volume":"","series":"柴田書店MOOK","publisher":"柴田書店","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784388808762.jpg","author":"柴田書店／編集","description":"菓子・パン職人、カフェオーナーはもちろん\nスイーツ好きも楽しく読める、カフェ・製菓製パンの専門誌","price":"1300","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
 {"isbn":"9784391641493","title":"ウエディングブック No.62","volume":"","series":"生活シリーズ","publisher":"ウインドアンドサン","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784391641493.jpg","author":"ウインドアンドサン／編集","description":"こだわりのドレスを探す花嫁のためのドレス専門誌。最新のドレスや和装のほか、ジュエリーやヘア＆メイクの情報、基礎知識が満載の一冊。","price":"1389","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
+,
+{"isbn":"9784407344363","title":"要点と演習　ビジネス能力検定ジョブパス２級2018年度版","volume":"","series":"","publisher":"実教出版","pubdate":"2018-04-05","cover":"","author":"ビジネス能力検定ジョブパス研究会／著","description":"ビジネス能力検定ジョブパスの対策問題集。図解・イラストも掲載した要点のまとめと、練習問題で構成。巻末に模擬試験問題を掲載。","price":"1900","genre":"","target":"専門","format":"単行本","content":"経営"}
+,
+{"isbn":"9784407344370","title":"要点と演習　ビジネス能力検定ジョブパス３級2018年度版","volume":"","series":"","publisher":"実教出版","pubdate":"2018-04-05","cover":"","author":"ビジネス能力検定ジョブパス研究会／著","description":"ビジネス能力検定ジョブパスの対策問題集。図解・イラストも掲載した要点のまとめと、練習問題で構成。巻末に模擬試験問題を掲載。","price":"1600","genre":"","target":"専門","format":"単行本","content":"経営"}
+,
+{"isbn":"9784411902771","title":"2018年度版１級仏検公式ガイドブック（CD付）","volume":"","series":"","publisher":"駿河台出版社","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784411902771.jpg","author":"","description":"","price":"2600","genre":"","target":"一般","format":"単行本","content":"フランス語"}
+,
+{"isbn":"9784411902788","title":"2018年度版準１級仏検公式ガイドブック（CD付）","volume":"","series":"","publisher":"駿河台出版社","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784411902788.jpg","author":"","description":"","price":"2600","genre":"","target":"一般","format":"単行本","content":"フランス語"}
+,
+{"isbn":"9784411902795","title":"2018年度版２級仏検公式ガイドブック（CD付）","volume":"","series":"","publisher":"駿河台出版社","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784411902795.jpg","author":"","description":"","price":"2500","genre":"","target":"一般","format":"単行本","content":"フランス語"}
+,
+{"isbn":"9784411902801","title":"2018年度版準２級仏検公式ガイドブック（CD付）","volume":"","series":"","publisher":"駿河台出版社","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784411902801.jpg","author":"","description":"","price":"2600","genre":"","target":"一般","format":"単行本","content":"フランス語"}
+,
+{"isbn":"9784411902818","title":"2018年度版３級仏検公式ガイドブック（CD付）","volume":"","series":"","publisher":"駿河台出版社","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784411902818.jpg","author":"","description":"","price":"2300","genre":"","target":"一般","format":"単行本","content":"フランス語"}
+,
+{"isbn":"9784411902825","title":"2018年度版４級仏検公式ガイドブック（CD付）","volume":"","series":"","publisher":"駿河台出版社","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784411902825.jpg","author":"","description":"","price":"2100","genre":"","target":"一般","format":"単行本","content":"フランス語"}
+,
+{"isbn":"9784411902832","title":"2018年度版５級仏検公式ガイドブック（CD付）","volume":"","series":"","publisher":"駿河台出版社","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784411902832.jpg","author":"","description":"","price":"1800","genre":"","target":"一般","format":"単行本","content":"フランス語"}
+,
+{"isbn":"9784414416343","title":"老年期女性の心的世界","volume":"","series":"","publisher":"誠信書房","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784414416343.jpg","author":"西尾ゆう子／著","description":"男女の高齢者の相違に着目した画期的な書。高齢女性を中心に、その心を理解するパラダイムを提供、よりよい心理臨床の可能性を探る","price":"2300","genre":"哲学・宗教","target":"専門","format":"単行本","content":"心理(学)"}
+,
+{"isbn":"9784414416350","title":"職場のラインケア研修マニュアル（ＣＤ付き）","volume":"","series":"","publisher":"誠信書房","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784414416350.jpg","author":"関屋裕希／著 川上憲人／著 堤明純／著","description":"職場のメンタルヘルス対策に必須の、管理職向けの教育研修プログラムを時系列で示す。研修用スライドや配布資料は巻末ＣＤに収録した","price":"2400","genre":"","target":"実用","format":"単行本","content":"心理(学)"}
+,
+{"isbn":"9784414416367","title":"臨床心理士資格試験問題集　４","volume":"","series":"","publisher":"誠信書房","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784414416367.jpg","author":"（公財）日本臨床心理士資格認定協会／監修","description":"臨床心理士を目指す人のための試験問題集の第４弾。平成２６年から２８年までの出題より約４割を正答（解説付き）とともに公開する。","price":"1700","genre":"","target":"専門","format":"単行本","content":"心理(学)"}
+,
+{"isbn":"9784415112732","title":"歩く地図　鎌倉・横浜散歩　２０１９","volume":"","series":"","publisher":"成美堂出版","pubdate":"2018-04-05","cover":"","author":"成美堂出版編集部／編集","description":"","price":"900","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"旅行"}
+,
+{"isbn":"9784416518380","title":"愛鳥のための手づくり飼育グッズ","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2018-04-05","cover":"https://cover.openbd.jp/9784416518380.jpg","author":"武田毅／著","description":"鳥用の飼育グッズを手づくりする提案。鳥のサイズにあったスタンドやおもちゃなどをDIYで制作する。","price":"1500","genre":"","target":"一般","format":"全集・双書","content":"諸芸・娯楽"}
 ]
