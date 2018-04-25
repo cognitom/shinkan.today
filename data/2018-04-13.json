@@ -27,13 +27,13 @@
 ,
 {"isbn":"9784046317704","title":"恐怖コレクター 巻ノ八　裏切りの足音","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784046317704.jpg","author":"佐東みどり／著 鶴田法男／著 よん／イラスト","description":"フシギの赤い手帳が奪われる!?　町が都市伝説の呪いだらけに…","price":"640","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784046317797","title":"１％ （９）にせものカノョ","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784046317797.jpg","author":"このはなさくら／著 高上優里子／イラスト","description":"うそでもいいから、あたし、あなたカノジョになれて幸せでした――。","price":"640","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
+{"isbn":"9784046317797","title":"１％ （９）にせものカノジョ","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784046317797.jpg","author":"このはなさくら／著 高上優里子／イラスト","description":"うそでもいいから、あたし、あなたのカノジョになれて幸せでした――。","price":"640","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784046317834","title":"本当はこわい話 かくされた真実、君は気づける？","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784046317834.jpg","author":"小林丸々／著 ちゃもーい／イラスト","description":"「あっ」と気づくと「ゾッ」とする!?　1話1分どんでん返しストーリー！","price":"640","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
+{"isbn":"9784046317834","title":"本当はこわい話 かくされた真実、君は気づける？","volume":"","series":"","publisher":"ＡＤＯＫＡＷＡ","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784046317834.jpg","author":"小林丸々／著 ちゃもーい／イラスト","description":"「あっ」と気づくと「ゾッ」とする!?　1話1分どんでん返しストーリー！","price":"640","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784046317841","title":"ねこたちからのメッセージ さよなら　弟ねこのヤン","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784046317841.jpg","author":"なりゆきわかこ／著 あやか／イラスト","description":"うちには、ヤンというねこがいました。わたしの大事な弟です。","price":"600","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784046318008","title":"ぼくらの卒業いたずら大作戦　下","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784046318008.jpg","author":"宗田／著 ＹＵＭＥ／イラスト はしもとしん／著・イラスト","description":"ついに、英治がひとみに告白!?　史上最大いたずら、大爆笑の卒業式!!","price":"620","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
+{"isbn":"9784046318008","title":"ぼくらの卒業いたずら大作戦　下","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784046318008.jpg","author":"宗田理／著 ＹＵＭＥ／イラスト はしもとしん／著・イラスト","description":"ついに、英治がひとみに告白!?　史上最大いたずら、大爆笑の卒業式!!","price":"620","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784047350304","title":"転生先が少女漫画の白豚令嬢だった","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784047350304.jpg","author":"桜あげは／著 ひだかなみ／イラスト","description":"累計2000万PV超!! 処刑フラグ回避のため、ダイエットします!!","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -185,29 +185,11 @@
 ,
 {"isbn":"9784199506208","title":"やさしく！ぐーるぐる真紀　③","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-04-13","cover":"","author":"星里もちる／著","description":"ラブコメの旗手・星里もちるが描けば闘いもこんなに「やさしい」！？　家族問題も噴出した最終巻です。","price":"680","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784274222085","title":"解くコツがわかる 小学校教員採用試験　理科問題集 改訂2版","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-04-13","cover":"","author":"松静郎／編集 岩間淳子／編集","description":"小学校教員志望学生のための採用試験合格を目指す理科の問題集。","price":"2000","genre":"自然科学","target":"専門","format":"単行本","content":"自然科学総記"}
+{"isbn":"9784274222085","title":"解くコツがわかる 小学校教員採用試験　理科問題集 改訂2版","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-04-13","cover":"","author":"松原静郎／編集 岩間淳子／編集","description":"小学校教員志望学生のための採用試験合格を目指す理科の問題集。","price":"2000","genre":"自然科学","target":"専門","format":"単行本","content":"自然科学総記"}
 ,
 {"isbn":"9784275020802","title":"社会統計学の伝統と継承","volume":"","series":"","publisher":"御茶の水書房","pubdate":"2018-04-13","cover":"","author":"岩崎俊夫／著","description":"１蜷川統計学とその批判的継承　２社会統計学の展開　３統計学史　４推計学批判　５確立基礎論　６標本調査論争と調査論の展開　７ソ連統計学論争とその後　８計量経済学批判と数学利用　９産業連関論とその応用　10統計分類・国際比較・人権　11物価指数論　12日本の統計事情　－法規と制度の整備－","price":"5800","genre":"社会科学","target":"専門","format":"単行本","content":"経済・財政・統計"}
 ,
 {"isbn":"9784326154524","title":"感情の哲学 分析哲学と現象学","volume":"","series":"","publisher":"勁草書房","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784326154524.jpg","author":"西村清和／著","description":"説明しようとした途端、客観的な概念的思考や論理の手をすり抜けていく感情。分析哲学と現象学からその謎に迫る、心の哲学の最前線。","price":"3500","genre":"哲学・宗教","target":"専門","format":"単行本","content":"哲学"}
 ,
 {"isbn":"9784326451135","title":"「創作子どもポルノ」と子どもの人権","volume":"","series":"","publisher":"勁草書房","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784326451135.jpg","author":"渡辺真由子／著","description":"実在しない子どもの性描写は「表現の自由」で押し切れるのだろうか？ グローバル化時代を見据え、「子どもの人権」について考える。","price":"2700","genre":"社会科学","target":"専門","format":"単行本","content":"法律"}
-,
-{"isbn":"9784336062222","title":"伸ばす！　就活能力・ビジネス日本語力","volume":"","series":"","publisher":"国書刊行会","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784336062222.jpg","author":"学校法人長沼スクール東京日本語学校／編集 小島美智子／監修 植木香／著 木下由紀子／著 ほか","description":"日系企業や日本で働くための「４つの能力」を育てるワークブック。就職活動に必要なスキルと、ビジネス日本語の基礎が、この１冊で!","price":"1800","genre":"語学・辞事典","target":"実用","format":"単行本","content":"日本語"}
-,
-{"isbn":"9784380180057","title":"日本の誇る酒","volume":"","series":"","publisher":"三一書房","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784380180057.jpg","author":"稲垣真美／著","description":"最新版 いい酒、旨い酒！　2017 年秋季までの酒類コンクールで評価を得た名品を紹介。酒蔵、水、米、杜氏、入手可能な美酒を！","price":"2000","genre":"","target":"一般","format":"単行本","content":"家事"}
-,
-{"isbn":"9784385105369","title":"ジュニアクラウン小学英和辞典","volume":"","series":"","publisher":"三省堂","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784385105369.jpg","author":"三省堂編修所／編集","description":"中高につながる辞書引きはジュニクラ！新しい小学校高学年むけ学習英和辞典の登場。約７千項目を収録。\n\n\n","price":"1500","genre":"語学・辞事典","target":"児童","format":"事・辞典","content":"英米語"}
-,
-{"isbn":"9784385105376","title":"ジュニアクラウ小学和英辞典","volume":"","series":"","publisher":"三省堂","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784385105376.jpg","author":"三省堂編修所／編集","description":"中高につながる辞書引きはジュニクラ！新しい小学校高学年むけ学習和英辞典登場。小学生語彙をカバーする約８千項目を収録。\n","price":"1500","genre":"語学・辞事典","target":"児童","format":"事・辞典","content":"英米語"}
-,
-{"isbn":"9784385105383","title":"ジュニアクラウン小学英和・和英辞典","volume":"","series":"","publisher":"三省堂","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784385105383.jpg","author":"三省堂編修所／編集","description":"中高につながる辞書引きはジュニクラ！新しい小学校高学年むけ学習英和・和英辞典登場。約１万５千項目収録。\n\n","price":"2500","genre":"語学・辞事典","target":"児童","format":"事・辞典","content":"英米語"}
-,
-{"isbn":"9784385320229","title":"ピンポイント憲法","volume":"","series":"","publisher":"三省堂","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784385320229.jpg","author":"デイリー法学選書編修委員会／編集","description":"法学部生・ビジネスマン・一般読者向けの最新法学教養シリーズ。憲法編では、人権・統治の基本概念をわかりやすく解説。\n","price":"1600","genre":"社会科学","target":"教養","format":"単行本","content":"法律"}
-,
-{"isbn":"9784385320236","title":"ピンポイント民法","volume":"","series":"","publisher":"三省堂","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784385320236.jpg","author":"デイリー法学選書編修委員会／編集","description":"法学部生・ビジネスマン・一般読者向けの最新法学教養シリーズ。民法編では、最新の民法をわかりやすく解説。\n","price":"1600","genre":"社会科学","target":"教養","format":"単行本","content":"法律"}
-,
-{"isbn":"9784385320243","title":"ピンポイント刑法","volume":"","series":"","publisher":"三省堂","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784385320243.jpg","author":"デイリー法学選書編修委員会／編集","description":"法学部生・ビジネスマン・一般読者向けの最新法学教養シリーズ。理論的に難しい刑法の総論・各論を１冊で誰にでもわかりやすく解説。","price":"1600","genre":"社会科学","target":"教養","format":"単行本","content":"法律"}
-,
-{"isbn":"9784391151664","title":"ウォールポケット家計簿ならがんばらなくても貯まります","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2018-04-13","cover":"https://cover.openbd.jp/9784391151664.jpg","author":"前野彩／著","description":"書かない！　計算しない！　考えない！\nなのにダメダメ家計がよみがえる！\n\n魔法のような家計運用術が、この「ウォールポケット家計簿」です。\nやり方はとっても簡単。\n１週間分のお金を「分けて」「入れて」「使い切る」だけ。\n面倒な費目分けも、レシートの読み解きも、収支の計算も必要なし。\nとにかく、1週間分のお金を「分けて」「入れて」「使い切る」！　それだけでいいんです！\n\nみなさんも、本書を読んで、家計のやりくりから解放されませんか？\n\n","price":"1000","genre":"","target":"一般","format":"単行本","content":"家事"}
 ]
