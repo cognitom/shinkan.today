@@ -17,13 +17,13 @@
 ,
 {"isbn":"9784062209793","title":"えが　うごく！　7にんの　ディズニープリンセス　しあわせの　おはなし","volume":"","series":"","publisher":"講談社","pubdate":"2018-04-28","cover":"","author":"講談社／編集","description":"７人のプリンセスの幸せな名場面を綴った１冊。すべてのお話にレンチキュラーボードがついていて、魔法のように絵が動いて見えます。","price":"1680","genre":"","target":"児童","format":"絵本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784062869812","title":"桜花傾国物語　嵐の中で君と逢う","volume":"","series":"","publisher":"談社","pubdate":"2018-04-28","cover":"","author":"東芙美子／著 由羅カイリ／著","description":"栄華と陰謀が入り乱れる、百花繚乱の平安絵巻第３弾！","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784062869812","title":"桜花傾国物語　嵐の中で君と逢う","volume":"","series":"","publisher":"講談社","pubdate":"2018-04-28","cover":"","author":"東芙美子／著 由羅カイリ／著","description":"栄華と陰謀が入り乱れる、百花乱の平安絵巻第３弾！","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784062869867","title":"ヤクザに惚れられました～フェロモン探偵つくづく受難の日々～","volume":"","series":"","publisher":"講談社","pubdate":"2018-04-28","cover":"","author":"丸木文華／著 相葉キョウコ／著","description":"極道にもモテまくり！　最強フェロモン！　「フェロモン探偵シリーズ」最新作！","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784062869881","title":"VIP　番外編　桎梏","volume":"","series":"","publisher":"講談社","pubdate":"2018-04-28","cover":"","author":"高岡ミズミ／著 沖麻実也／著","description":"大人気シリーズ、待望の番外編！高級会員制クラブＢＭのオーナー・宮原は、創設者の息子・アルフレッドにイギリスへ連れていかれ。","price":"660","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784062869881","title":"VIP　番外編　桎梏","volume":"","series":"","publisher":"講談社","pubdate":"2018-04-28","cover":"","author":"高岡ミズミ／著 沖麻実也／著","description":"大人気シリーズ、待望の番外編！高級会員制クラブＢＭのオーナー・宮原は、創設者の息子・アルフレッドにイギリス連れていかれ。","price":"660","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065114322","title":"サトコとナダ　3","volume":"","series":"","publisher":"星海社","pubdate":"2018-04-28","cover":"","author":"ユペチカ／著 西森マリー／監修","description":"ナダの婚約者が現れ、サトコとナダの楽しい生活にも変化が……！？　『このマンガがすごい！２０１８』オンナ編３位の話題作！","price":"640","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065114322","title":"サトコとナダ　3","volume":"","series":"","publisher":"星海社","pubdate":"2018-04-28","cover":"","author":"ユペチカ／著 西森マリー／監修","description":"ナダの婚約者が現れ、サトコとナダの楽しい生活にも化が……！？　『このマンガがすごい！２０１８』オンナ編３位の話題作！","price":"640","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784074253142","title":"４０才からはじめる、憧れのＹ字バランス","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-04-28","cover":"","author":"ＳＳＳ／監修","description":"５０日間であのＹ字バランスができた！４０才からでも遅くない。硬くなるのは退化、柔軟性はカラダの進化です。","price":"1400","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
@@ -53,15 +53,7 @@
 ,
 {"isbn":"9784306073432","title":"自然エネルギーのソーシャルデザイン","volume":"","series":"","publisher":"鹿島出版会","pubdate":"2018-04-28","cover":"","author":"大内秀明／著・編集 吉野博／著・編集 増田聡／著・編集","description":"東北震災復興の水系モデル「広瀬川水系自然エネルギー・スマートコミュニティ構想」を事例として、地域自立の問題を提起する読本。\n\n仙台都市圏におけるエネルギーの地産地消型ネットワーク構築をめざした「広瀬川水系自然エネルギー・スマートコミュニティ構想」を事例として、エネルギー浪費社会からの転換、地産エネルギー、地域循環型社会、新しいコミュニティ、暮らし方、住まいの省エネと健康・快適性などについて考える。地域の第三次産業革命（低炭素化経済、情報通信革命）への提言。","price":"2300","genre":"","target":"専門","format":"単行本","content":"社会"}
 ,
-{"isbn":"9784326299294","title":"「次の一手」はどう決まるか","volume":"","series":"","publisher":"勁草書房","pubdate":"2018-04-28","cover":"https://cover.openbd.jp/9784326299294.jpg","author":"中谷裕教／著 伊藤毅志／著 勝又清和／著 川妻庸男／著 大熊健司／著","description":"日本将棋連盟、富士通、理化学研究所による「将棋思考プロスプロジェクト」を軸に、人間とAIの違い、さらに思考の仕組みに迫る。","price":"2500","genre":"哲学・宗教","target":"専門","format":"単行本","content":"自然科学総記"}
+{"isbn":"9784326299294","title":"「次の一手」はどう決まるか","volume":"","series":"","publisher":"勁草書房","pubdate":"2018-04-28","cover":"https://cover.openbd.jp/9784326299294.jpg","author":"中谷裕教／著 伊藤毅志／著 勝又清和／著 川妻庸男／著 大熊健司／著","description":"日本将棋連盟、富士通、理化学研究所による「将棋思考プロセスプロジェクト」を軸に、人間とAIの違い、さらに思考の仕組みに迫る。","price":"2500","genre":"哲学・宗教","target":"専門","format":"単行本","content":"自然科学総記"}
 ,
 {"isbn":"9784326351749","title":"戦略の未来","volume":"","series":"","publisher":"勁草書房","pubdate":"2018-04-28","cover":"https://cover.openbd.jp/9784326351749.jpg","author":"コリン・グレイ／著 奥山真司／翻訳","description":"ルトワックやクレフェルトと並ぶ世界最高峰の戦略家が描く戦慄の未来像を直視せよ！ 戦略の論理は永遠に不滅なのだ。","price":"2500","genre":"社会科学","target":"専門","format":"単行本","content":"政治-含む国防軍事"}
-,
-{"isbn":"9784334902292","title":"AKB４８　Ｔｅａｍ８　４th　Anniversary　Book","volume":"","series":"","publisher":"光文社","pubdate":"2018-04-28","cover":"","author":"エンタテインメント編集部／編集","description":"","price":"1296","genre":"芸能・タレント","target":"一般","format":"単行本","content":"諸芸・娯楽"}
-,
-{"isbn":"9784341087005","title":"改訂新版「人間繁盛、商売繁昌」への7つの実践！","volume":"","series":"","publisher":"ごま書房新社","pubdate":"2018-04-28","cover":"","author":"能登清文／著","description":"","price":"1480","genre":"","target":"一般","format":"単行本","content":"経営"}
-,
-{"isbn":"9784388062799","title":"焼物・あしらい便利帳","volume":"","series":"","publisher":"柴田書店","pubdate":"2018-04-28","cover":"https://cover.openbd.jp/9784388062799.jpg","author":"森本泰宏／著","description":"100種類の素材から作る焼物368品に各種あしらい250品以上を一冊に収録","price":"2500","genre":"","target":"実用","format":"単行本","content":"家事"}
-,
-{"isbn":"9784388062843","title":"くわしくて ていねいな お菓子の本","volume":"","series":"","publisher":"柴田書店","pubdate":"2018-04-28","cover":"https://cover.openbd.jp/9784388062843.jpg","author":"新田あゆ子／著","description":"人気菓子店がはじめておしえてくれた、お店と教室のレシピ","price":"1900","genre":"","target":"実用","format":"単行本","content":"家事"}
 ]
