@@ -45,7 +45,7 @@
 ,
 {"isbn":"9784088814803","title":"KISS×DEATH 7","volume":"","series":"","publisher":"集英社","pubdate":"2018-06-04","cover":"","author":"叶恭弘／著","description":"\n\n\n","price":"400","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088814810","title":"奴隷遊戯 4","volume":"","series":"","publisher":"集英社","pubdate":"2018-06-04","cover":"","author":"木村隆志／著 ヤマイナナ／原著","description":"\n\n\n","price":"514","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088814810","title":"奴隷遊戯 4","volume":"","series":"","publisher":"集英社","pubdate":"2018-06-04","cover":"","author":"木村隆志／著 ヤマイナナミ／原著","description":"\n\n\n","price":"514","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784088814902","title":"メルヘン・メドヘン 2","volume":"","series":"","publisher":"集英社","pubdate":"2018-06-04","cover":"","author":"山縣清継／著 松智洋/StoryWorks／原著 中村尚儁／企画 カントク／イラスト","description":"\n\n\n","price":"490","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -77,7 +77,7 @@
 ,
 {"isbn":"9784088815527","title":"ロッキンユー!!! 1","volume":"","series":"","publisher":"集英社","pubdate":"2018-06-04","cover":"","author":"石川香織／著","description":"\n\n\n","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088815534","title":"『キン肉マン』スペシャルスピンオフ『THE超人様』 1","volume":"","series":"","publisher":"集英社","pubdate":"2018-06-04","cover":"","author":"石原まこちん／著","description":"\n\n\n","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088815534","title":"『キン肉マン』スペシャルスピンオフ『THE超人様』 1","volume":"","series":"","publisher":"集英社","pubdate":"2018-06-04","cover":"","author":"石原まこちん著","description":"\n\n\n","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784088815541","title":"サマータイムレンダ 2","volume":"","series":"","publisher":"集英社","pubdate":"2018-06-04","cover":"","author":"田中靖規／著","description":"\n\n\n","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -89,5 +89,5 @@
 ,
 {"isbn":"9784254128819","title":"新版無作為化比較試験","volume":"5","series":"医学統計学シリーズ","publisher":"朝倉書店","pubdate":"2018-06-04","cover":"","author":"丹後俊郎／著","description":"新治療法の効果を評価するためにヒトに施されるRCTのデザインと評価。好評の旧版に加筆・改訂","price":"4500","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
 ,
-{"isbn":"9784254275834","title":"ディープラーニグ入門","volume":"","series":"FinTechライブラリー","publisher":"朝倉書店","pubdate":"2018-06-04","cover":"","author":"津田博史／監修 嶋田康史／著・編集","description":"FinTechで活用されるディープラーニングの実装をていねいに紹介した入門書","price":"3600","genre":"社会科学","target":"専門","format":"全集・双書","content":"経営"}
+{"isbn":"9784254275834","title":"ディープラーニング入門","volume":"","series":"FinTechライブラリー","publisher":"朝倉書店","pubdate":"2018-06-04","cover":"","author":"津田博史／監修 嶋田康史／著・編集","description":"FinTechで活用されるディープラーニングの実装をていねいに紹介した入門書","price":"3600","genre":"社会科学","target":"専門","format":"全集・双書","content":"経営"}
 ]
