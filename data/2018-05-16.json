@@ -67,7 +67,7 @@
 ,
 {"isbn":"9784265851249","title":"あかずきんちゃん","volume":"","series":"あかちゃんどうわえほん","publisher":"岩崎書店","pubdate":"2018-05-16","cover":"https://cover.openbd.jp/9784265851249.jpg","author":"アッティリオ・カッシネリ／著 さとうのりか／翻訳","description":"90歳を過ぎてなお創作を続ける、イタリアの〈マエストロ〉による名作童話絵本。赤ちゃんのファーストブックにおすすめです。","price":"1400","genre":"","target":"児童","format":"絵本","content":"外国文学小説"}
 ,
-{"isbn":"9784265851256","title":"3びきのこぶた","volume":"","series":"あかちゃんどうわえほん","publisher":"岩崎書店","pubdate":"2018-05-16","cover":"https://cover.openbd.jp/9784265851256.jpg","author":"アッティリオ・カシネリ／著 さとうのりか／翻訳","description":"90歳を過ぎてなお創作を続ける、イタリアの〈マエストロ〉による名作童話絵本。赤ちゃんのファーストブックにおすすめです。","price":"1400","genre":"","target":"児童","format":"絵本","content":"外国文学小説"}
+{"isbn":"9784265851256","title":"3びきのこぶた","volume":"","series":"あかちゃんどうわえほん","publisher":"岩崎書店","pubdate":"2018-05-16","cover":"https://cover.openbd.jp/9784265851256.jpg","author":"アッティリオ・カッシネリ／著 さとうのりか／翻訳","description":"90歳を過ぎてなお創作を続ける、イタリアの〈マエストロ〉による名作童話絵本。赤ちゃんのファーストブックにおすすめです。","price":"1400","genre":"","target":"児童","format":"絵本","content":"外国文学小説"}
 ,
 {"isbn":"9784265851263","title":"ブレーメンのおんがくたい","volume":"","series":"あかちゃんどうわえほん","publisher":"岩崎書店","pubdate":"2018-05-16","cover":"https://cover.openbd.jp/9784265851263.jpg","author":"アッティリオ・カッシネリ／著 さとうのりか／翻訳","description":"90歳を過ぎてなお創作を続ける、イタリアの〈マエストロ〉による名作童話絵本。赤ちゃんのファーストブックにおすすめです。","price":"1400","genre":"","target":"児童","format":"絵本","content":"外国文学小説"}
 ,
@@ -80,4 +80,8 @@
 {"isbn":"9784309979441","title":"諸星大二郎　＜大増補新版＞","volume":"","series":"文藝別冊","publisher":"河出書房新社","pubdate":"2018-05-16","cover":"","author":"諸星大二郎／著","description":"萩尾望都、山岸凉子ほか豪華寄稿陣。星野之宣との新規対談、描き下ろしマンガ、単行本未収録作など、増補内容も大充実。","price":"1500","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"コミックス・劇画"}
 ,
 {"isbn":"9784309979458","title":"夏目漱石　増補新版","volume":"","series":"文藝別冊","publisher":"河出書房新社","pubdate":"2018-05-16","cover":"","author":"奥泉光／編集","description":"奥泉光の漱石山房記念館レポをはじめ大増補！　充実のエッセイ、対談、図解、作品案内などから文豪の魅力に迫る永久保存版ガイド！","price":"1300","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784334950262","title":"伊醬油で神ごはん","volume":"","series":"","publisher":"光文社","pubdate":"2018-05-16","cover":"","author":"八代恵美子／著・編集","description":"","price":"1300","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784380180064","title":"思想はいまなにを語るべきか","volume":"","series":"","publisher":"三一書房","pubdate":"2018-05-16","cover":"https://cover.openbd.jp/9784380180064.jpg","author":"高橋哲哉／著 前田朗／著","description":"明治維新１５０年、天皇代替、東京オリンピック。これらを奇貨とした「改憲」の動き。私たちはいま如何に思考し、行動すべきか？","price":"1600","genre":"","target":"一般","format":"単行本","content":"社会"}
 ]
