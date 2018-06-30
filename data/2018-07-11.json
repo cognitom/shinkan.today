@@ -17,7 +17,7 @@
 ,
 {"isbn":"9784053046550","title":"生物基礎","volume":"","series":"いまから２週間で本気出す","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"学研プラス／編集","description":"生物基礎の要点だけを厳選してまとめました。２週間で効率よく取り組めます。確認テストつき。日常学習～大学入試対応。","price":"980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"生物学"}
 ,
-{"isbn":"9784053047281","title":"高校　生物基礎","volume":"","series":"ルーズリーフ参考書","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"学研プラス／編集","description":"一枚ずつはがして使えるルーズリーフ型参考書。コクヨのキャンパスルーズーフとコラボ。生物基礎の要点がぎゅっとまとまる！","price":"980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"生物学"}
+{"isbn":"9784053047281","title":"高校　生物基礎","volume":"","series":"ルーズリーフ参考書","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"学研プラス／編集","description":"一枚ずつはがして使えるルーズリーフ型参考書。コクヨのキャンパスルーズリーフとコラボ。生物基礎の要点がぎゅっとまとまる！","price":"980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"生物学"}
 ,
 {"isbn":"9784053047366","title":"中学理科用語をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやすく","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"学研プラス／編集","description":"大人気用語集がリニューアル。テストに出る重要用語を，イラストやキャラクター入りでやさしく解説。オールカラー。","price":"1100","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"自然科学総記"}
 ,
@@ -59,7 +59,7 @@
 ,
 {"isbn":"9784065120095","title":"幽霊彼氏（1）","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"おぐりイコ／著","description":"一緒に暮らしているのに会えない２人――。想い合っているのにすれ違う暮らし――。それでも彼が帰ってくるのを待っている。","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065120149","title":"ベストエイト（1）","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"ヨンチャン／著","description":"勝つために求められるのは、強靭な肉体と精神。そんストイックな世界に１ミリも興味がない主人公。前途多難な大学生活が始まる！","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065120149","title":"ベストエイト（1）","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"ヨンチャン／著","description":"勝つために求められるのは、強靭な肉体と精神。そんなストイックな世界に１ミリも興味がない主人公。前途多難な大学生活が始まる！","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065120187","title":"デガウザー（1）","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"渡辺潤／著","description":"世界最大の都市伝説×国家転覆サスペンス！！","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -85,7 +85,7 @@
 ,
 {"isbn":"9784074316519","title":"おいしい甘酒レシピ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-07-11","cover":"","author":"金丸絵里加／著","description":"「飲む点滴」甘酒は、料理に使うと体にいい＆料理が一段とおいしくなる！　砂糖や牛乳、生クリームにおきかえてヘルシー","price":"1200","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
-{"isbn":"9784074317707","title":"なぜ？で始める将棋の基本","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-07-11","cover":"","author":"佐藤友康／著","description":"「詰み以外に負ける方法がある？」「と金と金はどっちが強い？」など、知っているようで知らない将棋の「なぜ？」に答える一冊！","price":"1000","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
+{"isbn":"9784074317707","title":"なぜ？で始める将棋の基本","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-07-11","cover":"","author":"佐藤友康／著","description":"「詰み以外に負ける法がある？」「と金と金はどっちが強い？」など、知っているようで知らない将棋の「なぜ？」に答える一冊！","price":"1000","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784074325443","title":"新装版　秋草愛の色えんぴつイラストレッスン","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-07-11","cover":"","author":"秋草愛／著","description":"ＬＩＮＥスタンプで人気のイラストレーター、秋草愛が２４色色えんぴつで動物、花、スイーツなど描き方を詳しく指南する本","price":"1200","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
 ,
@@ -102,56 +102,4 @@
 {"isbn":"9784255010762","title":"折る土偶ちゃん　ー作って発掘・縄文おりがみー","volume":"","series":"","publisher":"朝日出版社","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784255010762.jpg","author":"譽田亜紀子／著 COCHAE／著","description":"ストレッチしていたり、体育座りしていたり、顔から腕が生えていたり、瞑想していたり。\nその自由すぎる造形で現代人を魅了し、「掘り出されたフィギュア」とも言われる土偶。\nなかでも選りすぐりの超個性派「土偶ちゃん」たち20体が、「折り紙」として登場！\n\nページをペリペリはがすとそのまま折り紙に。折り図と、初心者や苦手な人でも取り組みやすい折り線付きです。\nそれぞれ写真＋プロフィールがわかる解説も掲載。学びながら折ることで、土偶の新たな魅力が立ちあがります。\n\n文：譽田亜紀子／折り紙＋装丁：COCHAE\n\n収録おりがみ「土偶ちゃん」たち\n\n縄文のビーナス／縄文の女神／中空土偶／合掌土偶／仮面の女神／チビーナス／顔から両腕出てる土偶\n結っチャイナ土偶／芸術肌な筒形土偶／グラマラス土偶／不思議顔の人面獣／ストレッチ土偶／ハート形土偶\n子宝の女神 ラヴィ／笑う岩偶／叫ぶ土偶／ロマンチックな土偶／50’s系結髪土偶／瞑想する巨神兵土偶／遮光器土偶","price":"1650","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784274506994","title":"2018年公表問題版 一種電工技能試験 DVD付き","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-07-11","cover":"","author":"オーム社／編集","description":"『2018年版 第一種電気工事士技能試験公表問題の合格解答』の予想問題をベースに、全問題の作業映像をDVDに収録した書籍。","price":"3200","genre":"","target":"専門","format":"単行本","content":"電気"}
-,
-{"isbn":"9784330891187","title":"かいていとっきゅう　しんかいせん","volume":"","series":"","publisher":"交通新聞社","pubdate":"2018-07-11","cover":"","author":"平田昌広／著 平田景／イラスト","description":"「しんかいせん」は、海の中をゆく特別な列車。東京駅を出発すると、三浦半島から相模湾、駿河湾を抜けて、西へ西へと進みます。乗客は、さまざまな海の生き物をながめたり、海底駅で珍しい駅弁を買ったり…。巻末見返しには路線図も。深海の世界を旅する気分が味わえるお話です。","price":"1300","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784330894188","title":"散歩の達人　東京駅・丸の内・八重洲・大手町","volume":"","series":"旅の手帖ＭＯＯＫ","publisher":"交通新聞社","pubdate":"2018-07-11","cover":"","author":"","description":"2014年11月発売のMOOK『東京駅・丸の内・八重洲さんぽ』発売から3年半。現在、駅周辺はさらにめざましく変化し、新たな施設や店が登場している。八重洲エリアの大規模な再開発も進み、大手町など周辺のオフィス街エリアも様相が変化。そんな東京駅周辺を詳細エリアに分け、最新スポットから定番の老舗、穴場まで紹介。店情報だけでなく、街の歴史など小ネタも充実しています。観光客はもちろん、界隈で働く方もデイリーに活用できるような、より分かりやすく、東京駅周辺を“街”として歩いて楽しめるガイドです！","price":"815","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"旅行"}
-,
-{"isbn":"9784330895185","title":"ＪＲ鉄道車両パーフェクト最新版","volume":"","series":"トラベルＭＯＯＫ","publisher":"交通新聞社","pubdate":"2018-07-11","cover":"","author":"","description":"JRグループ各社の現役車両を、形式や列車・目的別に収録。およそすべての列車・車種をコンプリートしたカタログです。新幹線や特急列車、観光・SL列車から豪華列車に至るまで、エクステリアやインテリアの詳細情報をオールカラーで紹介。通勤用車両や機関車、事業用車両のデータも網羅しています。東海道新幹線新形式N700Sをはじめ、話題の新型車両・観光列車、改造車両が続々登場！","price":"1600","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"交通・通信"}
-,
-{"isbn":"9784334753801","title":"怪談","volume":"","series":"光文社古典新訳文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"ラフカディオ・ハーン／著 南條竹則／翻訳","description":"","price":"820","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
-,
-{"isbn":"9784334753818","title":"失われた時を求めて　６","volume":"","series":"光文社古典新訳文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"プルースト／著 高遠弘美／翻訳","description":"","price":"1260","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
-,
-{"isbn":"9784334776794","title":"検断 聡四郎巡検譚（二）","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"上田秀人／著","description":"","price":"620","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776800","title":"天使の棲む部屋 問題物件","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"大倉崇裕／著","description":"","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776817","title":"森のシェフぶたぶた","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"矢崎存美／著","description":"","price":"500","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776824","title":"猿島館の殺人　新装版","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"折原一／著","description":"","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776831","title":"惨殺犯 警視庁特命遊撃班","volume":"","series":"光文社文庫","publisher":"光文","pubdate":"2018-07-11","cover":"","author":"南英男／著","description":"","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776848","title":"天鳴地動 アルスラーン戦記⑭","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"田中芳樹／著","description":"","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776855","title":"行き止まりの殺意　新装版","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"赤川次郎／著","description":"","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776862","title":"影の車 松本清張プレミアム・ミステリー","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"松本清張／著","description":"","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776879","title":"ビコーズ　新装版","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"佐藤正午／著","description":"","price":"760","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776886","title":"獅子の門　朱雀編","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"夢枕獏／著","description":"","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776893","title":"秘剣横雲 ひなげ雨竜剣（二）","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"坂岡真／著","description":"","price":"600","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776909","title":"人情馬鹿物語","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"川口松太郎／著","description":"","price":"900","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776916","title":"人形の影","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"岡本綺堂／著","description":"","price":"800","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776923","title":"ためらい始末 大江戸木戸番始末（八）","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"喜安幸夫／著","description":"","price":"620","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776930","title":"ゆめかない膳 南蛮おたね夢料理（七）","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"倉阪鬼一郎／著","description":"","price":"620","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776947","title":"ふたたびの虹","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"中島久枝／著","description":"","price":"600","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334776954","title":"巡る桜 上絵師　律の似面絵帖","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"知野みさき／著","description":"","price":"660","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334787462","title":"消えた日本史の謎","volume":"","series":"光文社知恵の森文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"友清哲／著","description":"","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本歴史"}
-,
-{"isbn":"9784334787479","title":"〝引きこもり主夫投資家〟が教える　グーグル検索だけでお金持ちになる方法","volume":"","series":"光文社知恵の森文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"午堂登紀雄／著","description":"","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784388062836","title":"パフェ","volume":"","series":"","publisher":"柴田書店","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784388062836.jpg","author":"柴田書店／編集","description":"人気店のパフェの構成とパーツのレシピ、盛りつけのコツを、たっぷりとご紹介","price":"3000","genre":"","target":"実用","format":"単行本","content":"家事"}
-,
-{"isbn":"9784393444221","title":"「それでもなお」の文学","volume":"","series":"","publisher":"春秋社","pubdate":"2018-07-11","cover":"","author":"川本三郎／著","description":"坂口安吾から中島京子、山川方夫まで、生のはかなさを描いた作家に焦点をあてる文芸評論。３・１１後を生きる私たちに必要な一冊。","price":"2000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ]
