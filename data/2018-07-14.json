@@ -27,11 +27,11 @@
 ,
 {"isbn":"9784046317230","title":"新訳　十五少年漂流記","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784046317230.jpg","author":"ジュール・ベルヌ／著 番由美子／翻訳 けーしん／イラスト","description":"冒険物語の最高傑作！　子どもだけで無人島２年間のサバイバル！","price":"640","genre":"","target":"児童","format":"新書","content":"外国文学小説"}
 ,
-{"isbn":"9784046317667","title":"こちらパーティー編集部っ！（１１） サイン会は大混乱！","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784046317667.jpg","author":"深海ゆずは／著 榎木りか／イラスト","description":"ゆのがついに告白されちゃう!!　いったい、だれから!?","price":"640","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
+{"isbn":"9784046317667","title":"こちらパーティ編集部っ！（１１） サイン会は大混乱！","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784046317667.jpg","author":"深海ゆずは／著 榎木りか／イラスト","description":"ゆのがついに告白されちゃう!!　いったい、だれから!?","price":"640","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784046317766","title":"怪盗レッド１５ 最高のパートナーを信じろ☆の巻","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784046317766.jpg","author":"秋木真／著 しゅー／イラスト","description":"たった１人で「怪盗レッド」として戦うことになったアスカは!?","price":"660","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784046317940","title":"ポチっと発明 ピカちんキット キミのピメキで大発明!?","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784046317940.jpg","author":"加藤綾子／著","description":"大人気アニメがつばさ文庫になって登場！","price":"680","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
+{"isbn":"9784046317940","title":"ポチっと発明 ピカちんキット キミのピラメキで大発明!?","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784046317940.jpg","author":"加藤綾子／著","description":"大人気アニメがつばさ文庫になって登場！","price":"680","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784046318121","title":"いみちぇん！（１２） 嵐を呼ぶ少女、来る！","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784046318121.jpg","author":"あさばみゆき／著 市井あさ／イラスト","description":"モモと千方はどこに行ったの！？　新キャラ登場☆第１２巻！","price":"640","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
 ,
@@ -73,6 +73,8 @@
 ,
 {"isbn":"9784047352612","title":"白猫プロジェクト　ひこうじま公園　3","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784047352612.jpg","author":"コロプラ／企画・監修 松平鶴次郎侍／著","description":"白猫プロジェクトコミック「ひこうじま公園」第3巻!","price":"650","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
+{"isbn":"9784065123034","title":"ふたりはプリキュア名言集　わたしたちはぜったい負けない","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-14","cover":"","author":"講談社／編集","description":"元プリキュア少女たちが幼いときに初めて心を揺さぶられたセリフの宝箱。１５年後、社会の扉の前にいる彼女たちにエールを贈る名言集","price":"1200","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
 {"isbn":"9784106107726","title":"人生に信念はいらない 考える禅入門","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2018-07-14","cover":"","author":"細川晋輔／著","description":"人生をより豊かなものにするため、柔らかな“心の柱”を見つけよう。注目の禅僧のデビュー作！","price":"760","genre":"","target":"一般","format":"新書","content":"仏教"}
 ,
 {"isbn":"9784106107733","title":"政策至上主義","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2018-07-14","cover":"","author":"石破茂／著","description":"この国には解決策が必要だ――ひたすら政策を磨き続けてきた政治家からの熱きメッセージ。","price":"760","genre":"","target":"一般","format":"新書","content":"政治-含む国防軍事"}
@@ -92,10 +94,4 @@
 {"isbn":"9784274506970","title":"拾って覚える！ 実践　電気工事積算入門","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-07-14","cover":"","author":"福岡県電気工事業工業組合／編集","description":"電気工事を行う際に必要な積算業務。実際の図面を使って「拾い出し作業」をしながら、体験的に理解していく。","price":"2484","genre":"工業・工学","target":"専門","format":"単行本","content":"電気"}
 ,
 {"isbn":"9784330904184","title":"高速バス時刻表　2018夏・秋","volume":"","series":"トラベルＭＯＯＫ","publisher":"交通新聞社","pubdate":"2018-07-14","cover":"","author":"","description":"北海道から九州まで、全国の高速バスの時刻を収録。途中休憩の有無や乗車券の予約・購入方法なども掲載した、「高速バス」ガイドのオリジナル決定版。","price":"1048","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"旅行"}
-,
-{"isbn":"9784380180002","title":"ペリーとともに","volume":"","series":"","publisher":"三一書房","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784380180002.jpg","author":"フレデリック,トラウトマン／著 座本勝之／翻訳","description":"2020年、浦賀奉行所が三百周年を迎える。ペリーに随行した従軍画家、ハイネの目を通して描かれる、幕末日本の人々、風景・風俗。","price":"2800","genre":"歴史・地理","target":"一般","format":"単行本","content":"旅行"}
-,
-{"isbn":"9784413112659","title":"シャンシャンの夏休み　夏の思出ポストカードブック","volume":"","series":"","publisher":"青春出版社","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784413112659.jpg","author":"青春出版社／編集","description":"シャンシャンの可愛い写真入りで、暑中お見舞いや夏のごあいさつに活用できるポストカードなど、計16枚を収録！","price":"1000","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
-,
-{"isbn":"9784418181261","title":"入れるだけ～♪のダッチオーブンレシピＦＩＬＥ","volume":"","series":"ＢＩＧＭＡＮスペシャル","publisher":"世界文化社","pubdate":"2018-07-14","cover":"","author":"小雀陣二／著","description":"材料を入れるだけで、鉄鍋が勝手に美味しくしてくれる！あっという間のお手軽料理。ダッチオーブンレシピ集。","price":"630","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ]

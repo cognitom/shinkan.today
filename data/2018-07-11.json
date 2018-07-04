@@ -41,9 +41,9 @@
 ,
 {"isbn":"9784058009444","title":"１週間で美腹筋ができる本","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"桑崎寛／監修","description":"女性らしい曲線がありながら、うっすら縦線の入った美しいおなか「２パックアブス」を、１週間でつくるトレーニング法を紹介。","price":"880","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
-{"isbn":"9784058114858","title":"小学生の英ドリル　３冊セット","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"学研プラス／編集","description":"小学生向けの英語ドリルの全３冊セット。豊富な練習問題で、「聞く・読む・書く」力が定着する。ＣＤつき。","price":"2550","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"英米語"}
+{"isbn":"9784058114858","title":"小学生の英語ドリル　３冊セット","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"学研プラス／編集","description":"小学生向けの英語ドルの全３冊セット。豊富な練習問題で、「聞く・読む・書く」力が定着する。ＣＤつき。","price":"2550","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"英米語"}
 ,
-{"isbn":"9784058114865","title":"１０日間成　中１・２の総復習　５教科　５冊セット","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"学研プラス／編集","description":"高校入試対策はこの１冊から！【基礎の確認】と【完成テスト】をじ，中１・２の内容を１０日間でスピーディーに復習できます。","price":"2500","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"総記"}
+{"isbn":"9784058114865","title":"１０日間完成　中１・２の総復習　５教科　５冊セット","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"学研プラス／編集","description":"高校入試対策はこの１冊から！【基礎の確認】と【完成テスト】を通じ，中１・２の内容を１０日間でスピーディに復習できます。","price":"2500","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"総記"}
 ,
 {"isbn":"9784062210348","title":"ゲンバクとよばれた少年","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"中村由一／著 渡辺考／著 宮尾和孝／著","description":"被爆者であり被差別部落出身者でもある著者が語る半生。ＥＴＶ特集『原爆と沈黙～長崎浦上の受難～』の内容を、子ども向けに書籍化。","price":"1200","genre":"","target":"児童","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
@@ -55,7 +55,7 @@
 ,
 {"isbn":"9784065119549","title":"頭文字D　埼玉沸騰編　啓介VS．渉、決着！　迫るエリア最終戦　アンコール刊行！","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"しげの秀一／著","description":"埼玉エリア天王山！","price":"556","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065119853","title":"おおきく振りかぶって　ホントのエース編","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"ひぐちアサ／著","description":"県外の高校に進学した卑屈で弱気な投手・三橋。強引に入部させられたのは、全員１年生に女監督という創設まもない野球部だった！","price":"583","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065119853","title":"おおきく振りかぶって　ホントのエース編","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"ひぐちアサ／著","description":"県外の高校に進学した卑屈で弱気な投手・三橋。強引に入部させられたのは、全員１年生に女監督という創設まもい野球部だった！","price":"583","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065120095","title":"幽霊彼氏（1）","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"おぐりイコ／著","description":"一緒に暮らしているのに会えない２人――。想い合っているのにすれ違う暮らし――。それでも彼が帰ってくるのを待っている。","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -77,17 +77,21 @@
 ,
 {"isbn":"9784065122792","title":"はじめの一歩（10）","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"森川ジョージ／著","description":"","price":"720","genre":"","target":"一般","format":"文庫","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065123003","title":"鉄道博物館のすべて100","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"オフィス３０３／編集","description":"鉄道博物館の見どころ１００個が詰まった一冊！","price":"680","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"交通・通信"}
+{"isbn":"9784065122846","title":"自民党本流と保守本流　保守二党ふたたび","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"田中秀征／著","description":"いまの日本政治の危機の本質は保守本流の不在にある。政界有数の論客が、自民党結党の源流まで遡り、戦後政治を解明した画期的論考！","price":"1600","genre":"","target":"一般","format":"単行本","content":"政治-含む国防軍事"}
+,
+{"isbn":"9784065123003","title":"鉄道博物館のすべて100","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784065123003.jpg","author":"オフィス３０３／編集","description":"鉄道博物館の見どころ１００個が詰まった一冊！","price":"680","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"交通・通信"}
 ,
 {"isbn":"9784065124833","title":"佐野ひなこ写真集　最高のひなこ","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"佐野ひなこ／著","description":"佐野ひなこ、２年ぶりの撮り下ろし写真集！　過去最高のボディ、過去最高の露出、過去最高の表現力。”完熟”ひなこ、ここにアリ！","price":"2200","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
 ,
 {"isbn":"9784065126936","title":"賭博覇王伝　零　命懸けの選抜試験、開幕！！編　アンコール刊行！！","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"福本伸行／著","description":"※","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
+{"isbn":"9784065131060","title":"完全保存版　ロシアワールドカップ　サッカー日本代表の全記録","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"","author":"講談社／著","description":"サッカー日本代表の決定的瞬間を満載した完全保存版写真集。ワールドカップの大舞台で強豪チームと渡り合った西野ジャパンの軌跡","price":"926","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
+,
 {"isbn":"9784074311316","title":"あらゆることを実践してきたからわかる　本当にがんに効いたこと","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-07-11","cover":"","author":"織田英嗣／著","description":"５年生存率２０％未満。ありとあらゆることを試してきたからわかる、再発率の高い食道がんを克服した命のメソッドとは","price":"1300","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
 ,
-{"isbn":"9784074316519","title":"おいしい甘酒レシピ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-07-11","cover":"","author":"金丸絵里加／著","description":"「飲む点滴」甘酒は、料理に使うと体にいい＆料理が一段とおいしくなる！　砂糖や牛乳、生クリームにおきかえてヘルシー","price":"1200","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784074316519","title":"おいしい甘酒レシ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-07-11","cover":"","author":"金丸絵里加／著","description":"「飲む点滴」甘酒は、料理に使うと体にいい＆料理が一段とおいしくなる！　砂糖や牛乳、生クリームにおきかえてヘルシー","price":"1200","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
-{"isbn":"9784074317707","title":"なぜ？で始める将棋の基本","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-07-11","cover":"","author":"佐藤友康／著","description":"「詰み以外に負ける方法がある？」「と金と金はどっちが強い？」など、知っているようで知らない将棋のなぜ？」に答える一冊！","price":"1000","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
+{"isbn":"9784074317707","title":"なぜ？で始める将棋の基本","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-07-11","cover":"","author":"佐藤友康／著","description":"「詰み以外に負ける方法がある？」「と金と金はどっちが強い？」など、知っているようで知らない将棋の「なぜ？」に答える一冊！","price":"1000","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784074325443","title":"新装版　秋草愛の色えんぴつイラストレッスン","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-07-11","cover":"","author":"秋草愛／著","description":"ＬＩＮＥスタンプで人気のイラストレーター、秋草愛が２４色色えんぴつで動物、花、スイーツなど描き方を詳しく指南する本","price":"1200","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
 ,
@@ -150,14 +154,4 @@
 {"isbn":"9784334787462","title":"消えた日本史の謎","volume":"","series":"光文社知恵の森文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"友清哲／著","description":"","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本歴史"}
 ,
 {"isbn":"9784334787479","title":"〝引きこもり主夫投資家〟が教える　グーグル検索だけでお金持ちになる方法","volume":"","series":"光文社知恵の森文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"午堂登紀雄／著","description":"","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784388062836","title":"パフェ","volume":"","series":"","publisher":"柴田書店","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784388062836.jpg","author":"柴田書店／編集","description":"人気店のパフェの構成とパーツのレシピ、盛りつけのコツを、たっぷりとご紹介","price":"3000","genre":"","target":"実用","format":"単行本","content":"家事"}
-,
-{"isbn":"9784393444221","title":"「それでもなお」の文学","volume":"","series":"","publisher":"春秋社","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784393444221.jpg","author":"川本三郎／著","description":"坂口安吾から中島京子、山川方夫まで、生のはかなさを描いた作家に焦点をあてる文芸評論。３・１１後を生きる私たちに必要な一冊。","price":"2000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784416618646","title":"大きな犬と暮らす Vol.2","volume":"","series":"愛犬の友 Premium","publisher":"誠文堂新光社","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784416618646.jpg","author":"愛犬の友編集部／編集","description":"","price":"2400","genre":"ムック","target":"実用","format":"単行本","content":"生物学"}
-,
-{"isbn":"9784422100401","title":"私はできる","volume":"","series":"","publisher":"創元社","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784422100401.jpg","author":"Ｂ・スイートランド／著 桑名一央／翻訳","description":"夢、仕事、結婚――人生のあらゆる局面を成功に導く秘訣は、すべて自分の中にある。自己実現のための座右の書。","price":"1350","genre":"","target":"一般","format":"単行本","content":"心理(学)"}
-,
-{"isbn":"9784422201627","title":"縄文力で生き残れ","volume":"","series":"","publisher":"創元社","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784422201627.jpg","author":"望月昭秀／著","description":"現代人に不足しているジョーモン的発想を仕事術として昇華。話題のフリーペーパー『縄文ZINE』から生まれた、新しい縄文本。","price":"1200","genre":"歴史・地理","target":"一般","format":"単行本","content":"日本歴史"}
 ]
