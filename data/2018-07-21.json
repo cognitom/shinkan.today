@@ -17,7 +17,7 @@
 ,
 {"isbn":"9784048938853","title":"ドラマティック・アイロニー４","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-21","cover":"https://cover.openbd.jp/9784048938853.jpg","author":"なま子／著","description":"運命の相手に出会った瞬間そうとわかれば、こんな風に傷つかず済んだのに。","price":"580","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784048938860","title":"次はさせてね４","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-21","cover":"https://cover.openbd.jp/9784048938860.jpg","author":"榎木りか／著","description":"甘いこと、ずっといっぱい。かしこみかしこみラブコメディ","price":"580","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784048938860","title":"次はさてね４","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-21","cover":"https://cover.openbd.jp/9784048938860.jpg","author":"榎木りか／著","description":"甘いこと、ずっといっぱい。かしこみかしこみラブコメディ","price":"580","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784048939911","title":"チョコレート・コンフュージョン　2","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-21","cover":"https://cover.openbd.jp/9784048939911.jpg","author":"三池ろむこ／著 星奏なつめ／原著 カスヤナガト／著・イラスト","description":"がんばり過ぎて、疲れた時に。笑えて泣ける最強ラブコメディ！","price":"600","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -33,13 +33,15 @@
 ,
 {"isbn":"9784198646547","title":"鯖","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-07-21","cover":"","author":"赤松利市／著","description":"第一回大藪春彦新人賞受賞者、受賞第一作長篇！　貧困に生きる人間の悍ましさを抉る問題作。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784198646554","title":"一億円のさようなら","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-07-21","cover":"","author":"白石一文／著","description":"発覚した妻の巨額隠し資産。続々と明らかになる家族のヒミツ。俺はもう家族も会社も信じない。直木賞作家、文句なしの最高傑作！","price":"1900","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784198646554","title":"一億円のさようなら","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-07-21","cover":"","author":"白石一文／著","description":"発覚した妻の巨額隠し資産。続々と明らかになる家族のヒミツ。俺はもう家族も会社も信じない。直木賞作家、文なしの最高傑作！","price":"1900","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784198646585","title":"日本語は哲学する言語である","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-07-21","cover":"","author":"小浜逸郎／著","description":"デカルトやハイデガーはどこで間違えたのか？　西洋哲学が逢着したアポリアを日本語を哲学することで乗り越える画期的論考！","price":"2000","genre":"哲学・宗教","target":"一般","format":"単行本","content":"哲学"}
 ,
 {"isbn":"9784198646622","title":"駄カメラ大百科","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-07-21","cover":"","author":"石井正則／著","description":"昔のコンパクトフィルムカメラを中心に、カメラの価格としては駄菓子感覚、でも十分楽しめる「駄カメラ」の魅力を伝える一冊。","price":"2000","genre":"芸能・タレント","target":"実用","format":"単行本","content":"写真・工芸"}
 ,
-{"isbn":"9784265081578","title":"やまのおんがく","volume":"","series":"","publisher":"岩崎書店","pubdate":"2018-07-21","cover":"https://cover.openbd.jp/9784265081578.jpg","author":"室井さと子／著","description":"風の音、川のせせらぎ、鳥のさえずり。山にはたくさんの音があるんだね。あれ、よく見ると動物たちがあちこち隠れているぞ！","price":"1400","genre":"","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
+{"isbn":"9784198646646","title":"癒しのプノンペン・シェムリアップ","volume":"","series":"","publisher":"東京ニュース通信社","pubdate":"2018-07-21","cover":"","author":"西村清志郎／著","description":"注目のエリア首都プノンペンとアンコールワットおよび周辺の情報を、カンボジアのスペシャリスト西村清志郎さんが紹介。","price":"1500","genre":"","target":"一般","format":"単行本","content":"旅行"}
+,
+{"isbn":"9784265081578","title":"やまのおんがく","volume":"","series":"","publisher":"岩崎書店","pubdate":"2018-07-21","cover":"https://cover.openbd.jp/9784265081578.jpg","author":"室井さと子／著","description":"風の音、川のせせらぎ、鳥のさえずり。山にはたくさんの音があるんだね。あれ、よく見ると動物たちがあちこち隠れている！","price":"1400","genre":"","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784265802388","title":"デートで初めて行った映画は何ですか？","volume":"","series":"","publisher":"岩崎書店","pubdate":"2018-07-21","cover":"https://cover.openbd.jp/9784265802388.jpg","author":"柴田こずえ／著","description":"20代～60代、学生、シェフ、映画監督、音楽家、イラストレーター、本屋さん店主、様々な時代＆職業の人達の切ない思い出。","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
