@@ -65,7 +65,7 @@
 ,
 {"isbn":"9784047352339","title":"麻実くんはガチ恋じゃない！ １","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784047352339.jpg","author":"ひととせはるひ／著","description":"若手舞台俳優と舞台俳優オタク（♂）がおくる、すれ違いラブコメディ！","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784047352346","title":"ヒミツの結城さん","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784047352346.jpg","author":"黒井モリー／著","description":"結城さんの裏の顔、俺だけに見せてください――","price":"680","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784047352346","title":"ヒミツの結さん","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784047352346.jpg","author":"黒井モリー／著","description":"結城さんの裏の顔、俺だけに見せてください――","price":"680","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784047352353","title":"見た目良ければすべて良し","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784047352353.jpg","author":"カワセワカ／著","description":"うまく挿れられたら、ひとつ言うこと聞いてやる","price":"680","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -77,7 +77,7 @@
 ,
 {"isbn":"9784065123034","title":"ふたりはプリキュア名言集　わたしたちはぜったい負けない","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784065123034.jpg","author":"講談社／編集 東映アニメーション／原著","description":"元プリキュア少女たちが幼いときに初めて心を揺さぶられたセリフの宝箱。１５年後、社会の扉の前にいる彼女たちにエールを贈る名言集","price":"1200","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784106107726","title":"人生に信念はいらない 考える禅入門","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784106107726.jpg","author":"細川晋輔／著","description":"人生をより豊かなものにするため、柔らかな“心の柱”を見つけよう。注目の禅僧のデビュー作！","price":"760","genre":"","target":"一般","format":"新書","content":"仏教"}
+{"isbn":"9784106107726","title":"人生に信念はらない 考える禅入門","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784106107726.jpg","author":"細川晋輔／著","description":"人生をより豊かなものにするため、柔らかな“心の柱”を見つけよう。注目の禅僧のデビュー作！","price":"760","genre":"","target":"一般","format":"新書","content":"仏教"}
 ,
 {"isbn":"9784106107733","title":"政策至上主義","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784106107733.jpg","author":"石破茂／著","description":"この国には解決策が必要だ――ひたすら政策を磨き続けてきた政治家からの熱きメッセージ。","price":"760","genre":"","target":"一般","format":"新書","content":"政治-含む国防軍事"}
 ,
@@ -89,15 +89,7 @@
 ,
 {"isbn":"9784265860289","title":"少女探偵アガサ⑥日本編　最終回をうばいかえせ","volume":"","series":"少女探偵アガサ","publisher":"岩崎書店","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784265860289.jpg","author":"サー・スティーヴ・スティーヴンソン／著 中井はるの／翻訳 ｐａｔｔｙ／イラスト","description":"大人気漫画の原稿と作家を守るために来日したアガサたち。漫画家、横綱、温泉、浴衣。初めての経験にアガサとラリーは大興奮！","price":"980","genre":"","target":"児童","format":"全集・双書","content":"外国文学小説"}
 ,
-{"isbn":"9784274222405","title":"インテリアコーディネーター2次試験 合格のポイント","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-07-14","cover":"","author":"石川はるな／著 井上国博／著 佐田博佳／著 丸山正記／著 三上孝明／著 山田信亮／著","description":"本書はインテリアコーディネーター2次試験の試験対策書。現場経験の少ない方々にもわかりやすいよう、懇切丁寧に解説。","price":"2900","genre":"","target":"専門","format":"単行本","content":"建築"}
-,
 {"isbn":"9784274222429","title":"機構学 第2版","volume":"","series":"絵ときでわかる","publisher":"株式会社オーム社","pubdate":"2018-07-14","cover":"","author":"宇津木諭／著 住野和男／著 林俊一／著","description":"機械設計の基礎となる機構学について、イラストでわかりやすく徹底解説！","price":"2300","genre":"工業・工学","target":"専門","format":"単行本","content":"機械"}
 ,
 {"isbn":"9784274506970","title":"拾って覚える！ 実践　電気工事積算入門","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-07-14","cover":"","author":"福岡県電気工事業工業組合／編集","description":"電気工事を行う際に必要な積算業務。実際の図面を使って「拾い出し作業」をしながら、体験的に理解していく。","price":"2484","genre":"工業・工学","target":"専門","format":"単行本","content":"電気"}
-,
-{"isbn":"9784326351756","title":"冷戦史","volume":"","series":"","publisher":"勁草書房","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784326351756.jpg","author":"ロバート・マクマン／著 青野利彦／監修 平井和也／翻訳","description":"現代世界はどこから来たのか？ 今も続く北朝鮮問題などの混迷を生み出した冷戦の歴史を、コンパクトにわかりやすく紐解いてゆく！","price":"3200","genre":"","target":"専門","format":"単行本","content":"政治-含む国防軍事"}
-,
-{"isbn":"9784326603060","title":"鉄道少年たちの時代 想像力の社会史","volume":"","series":"","publisher":"勁草書房","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784326603060.jpg","author":"辻泉／著","description":"なぜ「僕ら」は鉄道が好きなのか？ 広がりゆく少年たちの想像力、変わりゆく日本社会を追う。本邦初の社会学的研究。宮台真司絶賛！","price":"4200","genre":"","target":"専門","format":"単行本","content":"社会"}
-,
-{"isbn":"9784330904184","title":"高速バス時刻表　2018夏・秋","volume":"","series":"トラベルＭＯＯＫ","publisher":"交通新聞社","pubdate":"2018-07-14","cover":"https://cover.openbd.jp/9784330904184.jpg","author":"","description":"全国の高速バス時刻掲載！\n便利で安い！高速バスでの帰省や観光にはこの一冊！！","price":"1048","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"旅行"}
 ]
