@@ -35,9 +35,15 @@
 ,
 {"isbn":"9784101801278","title":"ケーキ王子の名推理３","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2018-07-28","cover":"https://cover.openbd.jp/9784101801278.jpg","author":"七月隆文／著","description":"","price":"550","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101801308","title":"マリー・アントワネトの日記 Ｒｏｓｅ","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2018-07-28","cover":"https://cover.openbd.jp/9784101801308.jpg","author":"吉川トリコ／著","description":"","price":"550","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784101801308","title":"マリー・アントワネットの日記 Ｒｏｓｅ","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2018-07-28","cover":"https://cover.openbd.jp/9784101801308.jpg","author":"吉川トリコ／著","description":"","price":"550","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784101801315","title":"マリー・アントワネットの日記 Ｂｌｅｕ","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2018-07-28","cover":"https://cover.openbd.jp/9784101801315.jpg","author":"吉川トリコ／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784101801322","title":"だから見るなといったのに","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2018-07-28","cover":"https://cover.openbd.jp/9784101801322.jpg","author":"恩田陸／著 芦沢央／著 海猫沢めろん／著 織守きょうや／著 さやか／著 小林泰三／著 ほか","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784320113404","title":"線形代数セミナー","volume":"","series":"","publisher":"共立出版","pubdate":"2018-07-28","cover":"https://cover.openbd.jp/9784320113404.jpg","author":"金谷健一／著","description":"本書は，大量のデータを扱う際などに用いられる線形代数を，抽象的な高次元空間を直観的にイメージするのに役立つだけでなく，どのような目的のためにはどのような処理を行えばよいかという指針ともなる，“幾何学的な解釈”も含めて解説していく。\nすべての根幹として射影という概念を最初にとりあげ，また特異値分解の計算を行列式や逆行列や固有値の計算と同等の「行列の基本演算」とみなし，議論を進めていく。\n　応用で標準的に用いられている内容を中心とし，過度の一般化を避けることにより，記述が簡潔で，理解しやすい構成となっている。また理解を容易にするよう，各章の末尾では基本的な用語やポイントをまとめ，演習問題を付している。巻末には付録として，本文に関係する線形代数の基礎知識，および関連する数学的事項をまとめ，1冊で議論を完結できるようにしている。本書の多くの部分は和文英文併記となっており，今後の英語論文執筆などの助けともなる。","price":"2300","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
+,
+{"isbn":"9784326403585","title":"意思主義をめぐる法的思索","volume":"","series":"","publisher":"勁草書房","pubdate":"2018-07-28","cover":"","author":"今村与一／著","description":"当事者の意思を最大限に尊重し、所有権移転の原因となる諸契約の成立やその効果を根拠づける「意思主義」とは何か。","price":"5800","genre":"","target":"専門","format":"単行本","content":"法律"}
+,
+{"isbn":"9784326449651","title":"家事法の理論・実務・判例2","volume":"","series":"","publisher":"勁草書房","pubdate":"2018-07-28","cover":"","author":"道垣内弘人／編集 松原正明／編集","description":"研究者、裁判官、弁護士が家事法の当面する問題を分析、実務と法理論との架橋を確かなものとし将来の法制度を展望する、年報第2号。","price":"4000","genre":"","target":"専門","format":"全集・双書","content":"法律"}
 ]

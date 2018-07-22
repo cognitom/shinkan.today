@@ -5,7 +5,7 @@
 ,
 {"isbn":"9784041065686","title":"恐竜キングダム（５） ジュラ紀で迷子に!?","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784041065686.jpg","author":"レッドコード／著 アルビー／著 エアーチーム／著・イラスト 小林快次／監修","description":"ジュラ紀をローラースケートで大冒険！","price":"960","genre":"","target":"児童","format":"全集・双書","content":"自然科学総記"}
 ,
-{"isbn":"9784052047848","title":"ハムスターがおうちにやってきた！","volume":"","series":"動物の飼い方がわかるまんが鑑","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"岡野祐士／監修","description":"ハムスターと仲良く暮らす方法を，まんがとかわいい写真で解説。上手なお世話のしかたからコミュニケーションまでよくわかる！","price":"1200","genre":"児童図書","target":"児童","format":"図鑑","content":"生物学"}
+{"isbn":"9784052047848","title":"ハムスターがおうちにやってきた！","volume":"","series":"動物の飼い方がわかるまんが図鑑","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"岡野祐士／監修","description":"ハムスターと仲良く暮らす方法を，まんがとかわいい写真で解説。上手なお世話のしかたからコミュニケーションまでよくわかる！","price":"1200","genre":"児童図書","target":"児童","format":"図鑑","content":"生物学"}
 ,
 {"isbn":"9784052048456","title":"リラックマ　おけいこ（３・４・５歳）","volume":"","series":"学研わくわく知育ドリル","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"榊原洋一／監修","description":"大人気キャラクターリラックマと一緒に学べる知育ドリル。楽しみながらおけいこできる１００枚以上のシールふろく付き。","price":"820","genre":"児童図書","target":"児童","format":"全集・双書","content":"教育"}
 ,
@@ -15,11 +15,11 @@
 ,
 {"isbn":"9784053046543","title":"化学基礎","volume":"","series":"いまから２週間で本気出す","publisher":"学研プラス","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784053046543.jpg","author":"学研プラス／編集","description":"化学基礎の要点だけを厳選してまとめました。２週間で効率よく取り組めます。確認テストつき。日常学習～大学入試対応。","price":"980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"化学"}
 ,
-{"isbn":"9784053046550","title":"生物基礎","volume":"","series":"いまから２週間で本気出す","publisher":"学研プラス","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784053046550.jpg","author":"学研プラス／編集","description":"生物基礎の要点だけを厳選してまとめました。２週間で効率よく取り組めます。確認テストつき。日常学習～大学入試対応。","price":"980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"生物学"}
+{"isbn":"9784053046550","title":"生物基礎","volume":"","series":"いまから２週間で本気出す","publisher":"学研プラス","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784053046550.jpg","author":"学研プラス／編集","description":"生基礎の要点だけを厳選してまとめました。２週間で効率よく取り組めます。確認テストつき。日常学習～大学入試対応。","price":"980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"生物学"}
 ,
 {"isbn":"9784053047281","title":"高校　生物基礎","volume":"","series":"ルーズリーフ参考書","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"学研プラス／編集","description":"一枚ずつはがして使えるルーズリーフ型参考書。コクヨのキャンパスルーズリーフとコラボ。生物基礎の要点がぎゅっとまとまる！","price":"980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"生物学"}
 ,
-{"isbn":"9784053047366","title":"中学理科用語をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやす","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"学研プラス／編集","description":"大人気用語集がリニューアル。テストに出る重要用語を，イラストやキャラクター入りでやさしく解説。オールカラー。","price":"1100","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"自然科学総記"}
+{"isbn":"9784053047366","title":"中学理科用語をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやすく","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"学研プラス／編集","description":"大人気用語集がリニューアル。テストに出る重要用語を，イラストやキャラクター入りでやさしく解説。オールカラー。","price":"1100","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"自然科学総記"}
 ,
 {"isbn":"9784053047397","title":"中学社会科用語をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやすく","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"学研プラス／編集","description":"大人気用語集がリニューアル。テストに出る重要用語を，イラストやキャラクター入りでやさしく解説。オールカラー。","price":"1100","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"社会科学総記"}
 ,
@@ -45,7 +45,7 @@
 ,
 {"isbn":"9784058114865","title":"１０日間完成　中１・２の総復習　５教科　５冊セット","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-07-11","cover":"","author":"学研プラス／編集","description":"高校入試対策はこの１冊から！【基礎の確認】と【完成テスト】を通じ，中１・２の内容を１０日間でスピーディーに復習できます。","price":"2500","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"総記"}
 ,
-{"isbn":"9784062210348","title":"ゲンバクとよばれた少年","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784062210348.jpg","author":"中村由一／著 渡辺考／著 宮尾和孝／著","description":"被爆者であり被差別部落出身者でもある著者が語る半生。ＥＴＶ特集『原爆と沈黙～長崎浦上の受難～』の内容を、子ども向けに書籍化。","price":"1200","genre":"","target":"児童","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784062210348","title":"ゲンバクとよばれた少","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784062210348.jpg","author":"中村由一／著 渡辺考／著 宮尾和孝／著","description":"被爆者であり被差別部落出身者でもある著者が語る半生。ＥＴＶ特集『原爆と沈黙～長崎浦上の受難～』の内容を、子ども向けに書籍化。","price":"1200","genre":"","target":"児童","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784062210539","title":"鳥達のバラード　アンプラグド","volume":"","series":"","publisher":"講談社","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784062210539.jpg","author":"泉啓子／著","description":"みんな、寂しさとか悲しみとか、ひとつひとつ違う名前の荷物を抱えている。中学生のリアルな心のゆらぎを描いた、泉啓子待望の新作！","price":"1300","genre":"","target":"児童","format":"単行本","content":"日本文学、小説・物語"}
 ,
@@ -101,7 +101,7 @@
 ,
 {"isbn":"9784093523424","title":"堕落","volume":"","series":"","publisher":"小学館","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784093523424.jpg","author":"高橋和巳／著","description":"戦後、突然の凶行に走った男の“心の曠野” \n\n かつて理想に燃え、幻の帝国「満洲国」建設に青春を賭けた主人公の青木隆造――。\n\n敗戦後は福祉事業団兼愛園の園長となり混血児収容、保護教育を自己の責務として全うするのだったが、その内面には果てない曠野が拡がっていた。\n\nその業績が表彰された時、彼は突如崩壊し、凶行に走る。自己の内部にわだかまる「見極めがたい曠野のイメージ」と「喪った時間の痛み」とが「隠微な軋み音」を響かせ解かれてゆく。\n\n全共闘世代に多大な影響を与え早世した作家・高橋和巳が、日本民族の夢想と悲劇をえぐり出した、晩年の問題作が甦る。","price":"500","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784093523431","title":"青い山脈","volume":"","series":"","publisher":"小学館","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784093523431.jpg","author":"石坂洋次郎／著","description":"主題歌と共に色あせない青春小説の金字塔 \n\n 戦後まもない1947年に新聞小説として連載され人気沸騰。その後、いちやく大ベストセラーとなった青春小説の代名詞ともいえる作品。\n\n元々、高校教師であった筆者・坂洋次郎が、東北地方の私立女子高校を舞台に、戦前の暗くじめじめした封建性を打破し、民主的な社会の実現を目指す人々の姿を爽やかに描きあげ、新風を巻き起こした。\n\n幾度も映画化され、作品発表から70年余を経た現在でもまったく色あせない瑞々しい傑作である。\n\n","price":"600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784093523431","title":"青い山脈","volume":"","series":"","publisher":"小学館","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784093523431.jpg","author":"石坂洋次郎／著","description":"主題歌と共に色あせない青春小説の金字塔 \n\n 戦後まもない1947年に新聞小説として連載され人気沸騰。その後、いちやく大ベストセラーとなった青春小説の代名詞ともいえる作品。\n\n元々、高校教師であった筆者・石坂洋次郎が、東北地方の私立女子高校を舞台に、戦前の暗くじめじめした封建性を打破し、民主的な社会の実現を目指す人々の姿を爽やかに描きあげ、新風を巻き起こした。\n\n幾度も映画化され、作品発表から70年余を経た現在でもまったく色あせない瑞々しい傑作である。\n\n","price":"600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784097355625","title":"まるもふびよりシールブック","volume":"","series":"","publisher":"小学館","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784097355625.jpg","author":"サンリオ／著・監修","description":"","price":"600","genre":"","target":"児童","format":"絵本","content":"絵画・彫刻"}
 ,
@@ -110,4 +110,50 @@
 {"isbn":"9784255010762","title":"折る土偶ちゃん　ー作って発掘・縄文おりがみー","volume":"","series":"","publisher":"朝日出版社","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784255010762.jpg","author":"譽田亜紀子／著 COCHAE／著","description":"ストレッチしていたり、体育座りしていたり、顔から腕が生えていたり、瞑想していたり。\nその自由すぎる造形で現代人を魅了し、「掘り出されたフィギュア」とも言われる土偶。\nなかでも選りすぐりの超個性派「土偶ちゃん」たち20体が、「折り紙」として登場！\n\nページをペリペリはがすとそのまま折り紙に。折り図と、初心者や苦手な人でも取り組みやすい折り線付きです。\nそれぞれ写真＋プロフィールがわかる解説も掲載。学びながら折ることで、土偶の新たな魅力が立ちあがります。\n\n文：譽田亜紀子／折り紙＋装丁：COCHAE\n\n収録おりがみ「土偶ちゃん」たち\n\n縄文のビーナス／縄文の女神／中空土偶／合掌土偶／仮面の女神／チビーナス／顔から両腕出てる土偶\n結っチャイナ土偶／芸術肌な筒形土偶／グラマラス土偶／不思議顔の人面獣／ストレッチ土偶／ハート形土偶\n子宝の女神 ラヴィ／笑う岩偶／叫ぶ土偶／ロマンチックな土偶／50’s系結髪土偶／瞑想する巨神兵土偶／遮光器土偶","price":"1650","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784274506994","title":"2018年公表問題版 一種電工技能試験 DVD付き","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784274506994.jpg","author":"オーム社／編集","description":"『2018年版 第一種電気工事士技能試験公表問題の合格解答』の予想問題をベースに、全問題の作業映像をDVDに収録した書籍。","price":"3200","genre":"","target":"専門","format":"単行本","content":"電気"}
+,
+{"isbn":"9784330891187","title":"かいていとっきゅう　しんかいせん","volume":"","series":"","publisher":"交通新聞社","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784330891187.jpg","author":"平田昌広／著 平田景／イラスト","description":"いろんな　いきものが　くらす\n\nしんかいの　せかいへ　しゅっぱつだ！","price":"1300","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784330895185","title":"ＪＲ鉄道車両パーフェクト最新版","volume":"","series":"トラベルＭＯＯＫ","publisher":"交通新聞社","pubdate":"2018-07-11","cover":"https://cover.openbd.jp/9784330895185.jpg","author":"","description":"現役のＪＲ車両＆列車コレクション","price":"1600","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"交通・通信"}
+,
+{"isbn":"9784334753801","title":"怪談","volume":"","series":"光文社古典新訳文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"ラフカディオ・ハーン／著 南條竹則／翻訳","description":"","price":"820","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784334753818","title":"失われた時を求めて　６","volume":"","series":"光文社古典新訳文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"プルースト／著 高遠弘美／翻訳","description":"","price":"1260","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784334776794","title":"検断 聡四郎巡検譚（二）","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"上田秀人／著","description":"","price":"620","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776800","title":"天使の棲む部屋 問題物件","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"大倉崇裕／著","description":"","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776817","title":"森のシェフぶたぶた","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"矢崎存美／著","description":"","price":"500","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776824","title":"猿島館の殺人　新装版","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"折原一／著","description":"","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776831","title":"惨殺犯 警視庁特命遊撃班","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"南英男／著","description":"","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776848","title":"天鳴地動 アルスラーン戦記⑭","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"田中芳樹／著","description":"","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776855","title":"行き止まりの殺意　新装版","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"赤川次郎／著","description":"","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776862","title":"影の車 松本清張プレミアム・ミステリー","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"松本清張／著","description":"","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776879","title":"ビコーズ　新装版","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"佐藤正午／著","description":"","price":"760","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776886","title":"獅子の門　朱雀編","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"夢枕獏／著","description":"","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776893","title":"秘剣横雲 ひなげし雨竜剣（二）","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"坂岡真／著","description":"","price":"600","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776909","title":"人情馬鹿物語","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"川口松太郎／著","description":"","price":"900","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776916","title":"人形の影","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"岡本綺堂／著","description":"","price":"800","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776923","title":"ためらい始末 大江戸木戸番始末（八）","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"喜安幸夫／著","description":"","price":"620","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776930","title":"ゆめかない膳 南蛮おたね夢料理（七）","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"倉阪鬼一郎／著","description":"","price":"620","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776947","title":"ふたたびの虹","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"中島久枝／著","description":"","price":"600","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334776954","title":"巡る桜 上絵師　律の似面絵帖","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"知野みさき／著","description":"","price":"660","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334787462","title":"消えた日本史の謎","volume":"","series":"光文社知恵の森文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"友清哲／著","description":"","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本歴史"}
+,
+{"isbn":"9784334787479","title":"〝引きこもり主夫投資家〟が教える　グーグル検索だけでお金持ちになる方法","volume":"","series":"光文社知恵の森文庫","publisher":"光文社","pubdate":"2018-07-11","cover":"","author":"午堂登紀雄／著","description":"","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ]
