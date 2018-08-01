@@ -11,7 +11,7 @@
 ,
 {"isbn":"9784048962865","title":"MARVEL ショルダーバッグBOOK　【特別付録】2WAYショルダーバッグ","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784048962865.jpg","author":"ディズニー／著・イラスト","description":"機能性抜群！　「MARVEL」の2WAYショルダーバッグが登場！","price":"1480","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784048963237","title":"くり返し作りたいベストシリーズ　vol.14 くり返し作りたい「ラクうまだれ」がギュッと一冊に！","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784048963237.jpg","author":"","description":"くり返し作りたいレタスクラブのベストシリーズ","price":"400","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
+{"isbn":"9784048963237","title":"くり返し作りたいベストシリーズ　vol.14 くり返し作りたい「ラクうまだれ」がギッと一冊に！","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784048963237.jpg","author":"","description":"くり返し作りたいレタスクラブのベストシリーズ","price":"400","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
 {"isbn":"9784048963473","title":"GLAY　Walker　2018函館","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784048963473.jpg","author":"","description":"函館での撮り下ろし満載！ GLAY×函館ムック第2弾が発売","price":"1000","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
@@ -51,5 +51,51 @@
 ,
 {"isbn":"9784107902504","title":"振袖日和 ２０２０年度版","volume":"","series":"新潮ムック","publisher":"新潮社","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784107902504.jpg","author":"株式会社スタジオポルト／編集","description":"ヘアも帯結びもわたし流！　王道古典柄から個性派トレンドまで新作振袖が勢揃い。帯結び、ヘアメイク、ネイル、新作小物までしっかりサポート。信頼の一冊です。","price":"1050","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784130513296","title":"〈翻訳〉のさなかにある社会正義","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784130513296.jpg","author":"齋藤直子／編集 ポール・スタンディッシュ／編集 今井康雄／編集","description":"正しい自己の確立，異物を排除した領域に打ち立てられる正義……．社会正義論が熱心に語られつつ現実政治では排除的になる世界．これを読みかえるヒントとして酒井直樹の〈翻訳〉に注目し，教育思想に留まらない国内外一線の論者が対話する刺激的な論集．","price":"4600","genre":"","target":"専門","format":"単行本","content":"教育"}
+{"isbn":"9784130513296","title":"〈翻訳〉のさなかにある社会正義","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784130513296.jpg","author":"齋藤直子／編集 ポー・スタンディッシュ／編集 今井康雄／編集","description":"正しい自己の確立，異物を排除した領域に打ち立てられる正義……．社会正義論が熱心に語られつつ現実政治では排除的になる世界．これを読みかえるヒントとして酒井直樹の〈翻訳〉に注目し，教育思想に留まらない国内外一線の論者が対話する刺激的な論集．","price":"4600","genre":"","target":"専門","format":"単行本","content":"教育"}
+,
+{"isbn":"9784198943738","title":"新帝擁立 雅や京ノ介","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-08-02","cover":"","author":"麻倉一矢／著","description":"朝廷、幕府、南朝。三つ巴の勢力争いは怒涛の結末へ！　「雅や京ノ介」シリーズ、完結篇。","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198943745","title":"俠客四 拵屋銀次郎半畳記","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-08-02","cover":"","author":"門田泰明／著","description":"幕閣を支配する前の老中首座が将軍暗殺と大坂新幕府を画策！？　大坂へ向かう銀次郎の命運は！？","price":"690","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198943752","title":"飯綱颪 十六夜長屋日月抄","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-08-02","cover":"","author":"仁木英之／著","description":"記憶を失った巨漢を助けた甚六は、彼の過去に巻き込まれて……。『僕僕先生』シリーズなどで人気の著者、幻の傑作時代小説！","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198943769","title":"空と海と陸を結ぶ境港","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-08-02","cover":"","author":"西村京太郎／著","description":"連続人犯の標的は、１８歳・小柄・子猫のようにしなやかな肉体と愛らしい顔の女性だっ！？　最新の全著作リストを収録。","price":"660","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198943776","title":"うつけ世に立つ 岐阜信長譜","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-08-02","cover":"","author":"早見俊／著","description":"その男、魔王か――？それとも真の文化人か？“岐阜”を作り、市場を開き、鵜飼を育て、笑いを愛した信長の真実の姿が明らかに！","price":"870","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198943783","title":"真赤な子犬 &lt","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-08-02","cover":"","author":"日影丈吉／著","description":"自殺しようと準備した毒入りステーキを食い意地のはった政治家が勝手に食べてしまってさあ大変！　名作ミステリ、堂々復刊","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198943790","title":"「安心」を得る","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-08-02","cover":"","author":"平井正修／著","description":"歴代首相はじめ政財界人が、なぜこの寺に通うのか？　姿勢と呼吸を調えることで、心は調う。心の澱を溶かす禅のたしかな力とは？","price":"780","genre":"文庫","target":"一般","format":"文庫","content":"心理(学)"}
+,
+{"isbn":"9784198943806","title":"ヒット・エンド・ラン","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-08-02","cover":"","author":"広谷鏡子／著","description":"池上彰氏絶賛！　瀬戸内を舞台に、ロックと野球をこよなく愛する少女の、ちょっぴり切なくて甘酸っぱい物語。","price":"650","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198943813","title":"十手狩り 松平蒼二郎始末帳四","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-08-02","cover":"","author":"牧秀彦／著","description":"闇仕置を生業とする松平蒼二郎、実は白河藩主松平定信の隠し子である。火付盗賊改長官に正体を暴かれそうになった蒼二郎は…。","price":"660","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198943820","title":"淫ら人妻の秘蜜","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-08-02","cover":"","author":"睦月影郎／著","description":"幼な妻、半熟妻、熟れ妻、教育ママ、欲求不満ママ…フェチの帝王睦月影郎がネチネチじゅるじゅると描く、匂い立つ人妻達の性態！","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198943837","title":"電球交換士の憂鬱","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-08-02","cover":"","author":"吉田篤弘／著","description":"人々の未来を明るく灯すはずなのに。電球交換士は今日も事件に巻き込まれる！謎と不思議が絶妙にブレンドした連作ミステリー！","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198943844","title":"いのち買うてくれ","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-08-02","cover":"","author":"好村兼一／著","description":"正義とは、命とは。貧苦と闘う武士がたどり着いた真理とは。魂震える時代小説大作が待望の文庫化！","price":"760","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784313121874","title":"要求・作成・審議が1冊でわかる　予算の見方・つくり方　平成30年版","volume":"","series":"","publisher":"学陽書房","pubdate":"2018-08-02","cover":"","author":"小笠原春夫／著","description":"平成30年度地方財政計画、地方債計画等をふまえた最新版！","price":"7300","genre":"","target":"実用","format":"単行本","content":"法律"}
+,
+{"isbn":"9784313753013","title":"本多忠勝","volume":"","series":"","publisher":"学陽書房","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784313753013.jpg","author":"野信二／著","description":"この男、強すぎる！圧倒的武勇で家康の天下取りの力となった徳川四天王とおそれられた剛将の生涯。","price":"780","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784409241219","title":"原発事故後の子ども保養支援","volume":"","series":"","publisher":"人文書院","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784409241219.jpg","author":"疋田香澄／著","description":"当事者のための第三の選択肢。保養支援の現場に立ち続けてきた著者が問う、日本社会の現実とその未来。","price":"2000","genre":"","target":"一般","format":"単行本","content":"社会"}
+,
+{"isbn":"9784413045476","title":"2025年のブロックチェーン革命","volume":"","series":"","publisher":"青春出版社","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784413045476.jpg","author":"水野操／著","description":"遠くない将来、ブロックチェーンによって「信用」の仕組みは大きく変わります。知識ゼロからでも、スッキリ理解できる1冊。","price":"840","genre":"","target":"一般","format":"新書","content":"経済・財政・統計"}
+,
+{"isbn":"9784413045483","title":"図説　『日本書紀』と『宋書』で読み解く！謎の四世紀と倭の五王","volume":"","series":"","publisher":"青春出版社","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784413045483.jpg","author":"瀧音能之／監修","description":"「空白の世紀」と呼ばれる150年間と、その後の倭国の実像、日本人の知られざる源流に、ふんだんな地図と文献史料で迫る。","price":"1200","genre":"","target":"一般","format":"新書","content":"日本歴史"}
+,
+{"isbn":"9784413045490","title":"やってはいけない「長男」の相続","volume":"","series":"","publisher":"青春出版社","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784413045490.jpg","author":"税理士法人レガシィ／著","description":"長男はもちろん、それ以外の家族も知っておきたいモメない秘訣を、日本一相続を見てきた税理士法人が解説。","price":"830","genre":"","target":"一般","format":"新書","content":"法律"}
+,
+{"isbn":"9784413045506","title":"ＡＩ時代に「頭がいい」とはどういうことか","volume":"","series":"","publisher":"青春出版社","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784413045506.jpg","author":"米山公啓／著","description":"現役の脳神経内科医が、これからの時代に求められる頭の鍛え方、能力の磨き方を指南する一冊。","price":"920","genre":"","target":"一般","format":"新書","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784413112673","title":"モノの見方が変わる大人の地理力","volume":"","series":"","publisher":"青春出版社","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784413112673.jpg","author":"ワールド・リサーチ・ネット／編集","description":"各地域の産業や名産品など、大人の会話に使える知識から、地形、境界線など、地理にまつわるナゾと不思議まで気になる話が満載。","price":"1200","genre":"歴史・地理","target":"一般","format":"単行本","content":"地理"}
+,
+{"isbn":"9784416618264","title":"工作でわかるモノのしくみ","volume":"","series":"子供の科学STEM体験ブック","publisher":"誠文堂新光社","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784416618264.jpg","author":"ニック・アーノルド／著 ガリレオ工房／監修","description":"人工知能時代を生きる子供たちにとって、不可欠の知識とスキルを学ぶ新しい教育理念「STEM教育」を実践できる科学絵本。","price":"2000","genre":"教育","target":"一般","format":"単行本","content":"自然科学総記"}
+,
+{"isbn":"9784416618271","title":"クイズ＆パズルでわかる数と図形のナゾ","volume":"","series":"子供の科学STEM体験ブック","publisher":"誠文堂新光社","pubdate":"2018-08-02","cover":"https://cover.openbd.jp/9784416618271.jpg","author":"コリン・スチュアート／著 ガリレオ工房／監修","description":"人工知能時代を生きる子供たちにとって、不可欠の知識とスキルを学ぶ新しい教育理念「STEM教育」を実践できる科学絵本。","price":"2000","genre":"教育","target":"一般","format":"単行本","content":"自然科学総記"}
+,
+{"isbn":"9784418181315","title":"振袖大好き！２０１９－２０２０","volume":"","series":"別冊家庭画報","publisher":"世界文化社","pubdate":"2018-08-02","cover":"","author":"","description":"成人式のためのお洒落な振袖スタイルブック。最新の振袖と人気の髪型、着付けと帯結び、マナー入門など必要な情報を網羅しました。","price":"1200","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ]

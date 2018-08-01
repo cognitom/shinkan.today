@@ -87,7 +87,7 @@
 ,
 {"isbn":"9784044004026","title":"鬼と日本人","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784044004026.jpg","author":"小松和彦／著","description":"鬼とは何者か？　説話・伝承・芸能、絵画から縦横無尽に読み解く。","price":"880","genre":"","target":"一般","format":"文庫","content":"民族・風習"}
 ,
-{"isbn":"9784044004057","title":"続 仏教語源散策","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784044004057.jpg","author":"中村元／編集・著","description":"愚痴、律、以心伝心──。語源から分け入る仏教入門、好評続篇","price":"920","genre":"","target":"一般","format":"文庫","content":"仏教"}
+{"isbn":"9784044004057","title":"続 仏教語源散策","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784044004057.jpg","author":"中村元／編集・著","description":"愚痴、律儀、以心伝心──。語源から分け入る仏教入門、好評続篇","price":"920","genre":"","target":"一般","format":"文庫","content":"仏教"}
 ,
 {"isbn":"9784044004095","title":"サンスクリット版縮訳　法華経  現代語訳","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784044004095.jpg","author":"植木雅俊／翻訳・解説","description":"法華経入門の決定版。","price":"1160","genre":"","target":"一般","format":"文庫","content":"仏教"}
 ,
@@ -107,11 +107,11 @@
 ,
 {"isbn":"9784053047991","title":"中学社会　白地図書きこみノート","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784053047991.jpg","author":"学研プラス／編集","description":"中学地理を白地図形式でトレーニング。テストに出る内容だけに絞り込んであるから、効率的に学習できる。カラー版で見やすい。","price":"900","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"地理"}
 ,
-{"isbn":"9784053048004","title":"中学社会　歴史年表書きこみノート","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784053048004.jpg","author":"学研プラス／編集","description":"中学歴史を年表形式でトレーニング。テストに出る内容だけに絞り込んであるから、効率的に学習できる。カラー版で見やすい。","price":"900","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"歴史総記"}
+{"isbn":"9784053048004","title":"中学社会　歴史年表書きこみノート","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784053048004.jpg","author":"学研プラス／編集","description":"中学歴史を年表形式でトレーニング。テストに出る内容だけに絞り込んであるら、効率的に学習できる。カラー版で見やすい。","price":"900","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"歴史総記"}
 ,
 {"isbn":"9784053048011","title":"中学１年生からの脱出","volume":"","series":"謎解き×５教科攻略","publisher":"学研プラス","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784053048011.jpg","author":"学研プラス／編集","description":"人気の「謎解き」で中学の勉強ができる参考書。中１の５教科の要点がつまったひらめき問題で、遊び感覚で楽しく勉強できる。","price":"1400","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"総記"}
 ,
-{"isbn":"9784053048028","title":"中学２年生からの脱出","volume":"","series":"謎解き×５教科攻略","publisher":"学研プラス","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784053048028.jpg","author":"学研プラス／編集","description":"人気の「謎解き」で中学の勉強ができる参考書。中２の５教科の要点がつまったひらめき問題で、遊び感覚で楽しく勉強できる。","price":"1400","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"総記"}
+{"isbn":"9784053048028","title":"中学２年生からの脱出","volume":"","series":"謎解き×５教科攻略","publisher":"学研プラス","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784053048028.jpg","author":"学研プラス／編集","description":"人気の「謎解き」で中学の勉強ができる参考書。中２の５教の要点がつまったひらめき問題で、遊び感覚で楽しく勉強できる。","price":"1400","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"総記"}
 ,
 {"isbn":"9784053048042","title":"自分だけの思考力で合格する　「いのち」思考の小論文","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784053048042.jpg","author":"竹内麦村／著","description":"「結論」「起承転結」、専門知識、全て不要。必要なのは「思考の足跡」のみ。人の心に訴える小論文の書き方を教える。","price":"1500","genre":"学参","target":"学参II(高校)","format":"単行本","content":"日本語"}
 ,
@@ -136,4 +136,32 @@
 {"isbn":"9784130611626","title":"宇宙旅行入門","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784130611626.jpg","author":"高野忠／編集 パトリックコリンズ／編集 日本宇宙旅行協会／編集","description":"はじめに（高野　忠）\n序　章　宇宙旅行の夢に魅かれて（富野由悠季）\n第1章　宇宙旅行とは何か（浅川恵司）\n第2章　これまでと，これからの宇宙旅行（長谷川敏紀）\n第3章　ロケットや宇宙船――宇宙旅行の技術と安全性（高野　忠）\n第4章　多様なツーリズムと宇宙旅行（水野紀男）\n第5章　宇宙旅行の需要を探る（浅川恵司）\n第6章　宇宙旅行をマーケティングする（荒井　誠）\n第7章　宇宙旅行の経済効果（パトリック・コリンズ）\n第8章　日本から宇宙に行けないのはなぜ――法整備の現状と展望（内富素子）\n第9章　宇宙旅行服――宇宙機から宇宙ホテルまで（大貫美鈴）\n第10章　宇宙酔いから精神負担まで――宇宙旅行と健康，準備（広崎朋史）\n終　章　宇宙旅行を日本で実現するための課題と克服（内田和義）\nおわりに（斉藤博栄）\n\nIntroduction to Space Tourism\nTadashi TAKANO, Patrick COLLINS and The Space Tourism Society Japan, Editors","price":"4900","genre":"","target":"専門","format":"単行本","content":"工学・工学総記"}
 ,
 {"isbn":"9784160089310","title":"まほろば十三湊","volume":"","series":"","publisher":"文藝春秋","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784160089310.jpg","author":"古川きょう／著","description":"室町時代、北方世界の覇者であった安東氏。海外交易の利潤をもとに「浄土」をつくろうとした人びとがいた。胸躍る歴史小説。","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784262152400","title":"親子で遊ぼう　あやとり　だいすき！","volume":"","series":"","publisher":"池田書店","pubdate":"2018-07-24","cover":"","author":"福田けい／監修","description":"・定番だけでなく、オリジナルのあやとりも満載！","price":"1200","genre":"","target":"児童","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784262155166","title":"いちばんよくわかる　刺しゅうのきほん","volume":"","series":"","publisher":"池田書店","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784262155166.jpg","author":"日本アートクラフト協会／監修 西村眞理／監修","description":"基本のステッチの刺し方、図案のサンプル、既製品に刺して楽しむアイデアが満載！","price":"1200","genre":"","target":"実用","format":"単行本","content":"家事"}
+,
+{"isbn":"9784262155326","title":"たのしくことばが身につく！　なぞなぞ1000","volume":"","series":"","publisher":"池田書店","pubdate":"2018-07-24","cover":"","author":"高橋啓恵／著 深谷圭助／監修","description":"なぞなぞで遊びながら、語彙を増やす！","price":"970","genre":"","target":"児童","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784272794096","title":"月刊クレスコ　８月号","volume":"","series":"","publisher":"大月書店","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784272794096.jpg","author":"クレスコ編集委員会全日本教職員組合（全教）／編集","description":"特集＝楽しい、おいしい、うれしい！　学校給食","price":"476","genre":"","target":"一般","format":"全集・双書","content":"教育"}
+,
+{"isbn":"9784274222498","title":"ラクラクかる！　4類消防設備士　集中ゼミ 改訂2版","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784274222498.jpg","author":"オーム社／編集","description":"４類消防設備士の試験対策書。最新の出題傾向の分析と、豊富な講師経験にもとづいて、合格に必要なポイントをおさえた決定版。","price":"2300","genre":"","target":"専門","format":"単行本","content":"建築"}
+,
+{"isbn":"9784309027142","title":"老人のライセンス","volume":"","series":"","publisher":"河出書房新社","pubdate":"2018-07-24","cover":"","author":"村松友視／著","description":"類まれなる観察眼で、味わい深い老人を見つめ続けてきた著者が、老成を極めた達人たちを描き、満開の人間力にせまる！極上のエッセイ","price":"780","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784309248721","title":"３０代からの「異業種」転職　成功の極意","volume":"","series":"","publisher":"河出書房新社","pubdate":"2018-07-24","cover":"","author":"武元康明／著","description":"30代からでも未経験職種でも。自分の資質を知り自分の「価値」を売るノウハウを分かりやすく解説した異業種転職マニュアル決定版！","price":"1450","genre":"","target":"一般","format":"単行本","content":"社会"}
+,
+{"isbn":"9784309248738","title":"世界史の真相は通貨で読み解ける","volume":"","series":"","publisher":"河出書房新社","pubdate":"2018-07-24","cover":"","author":"宮崎正勝／著","description":"通貨とその仕組みの変化から読みとけば、歴史の必然は腑に落ちる。電子マネーや仮想通貨の誕生がその延長線上にあることもわかる！","price":"820","genre":"","target":"一般","format":"単行本","content":"歴史総記"}
+,
+{"isbn":"9784309279602","title":"最新版　保険はこの５つから選びなさい","volume":"","series":"","publisher":"河出書房新社","pubdate":"2018-07-24","cover":"","author":"長尾義弘／著","description":"本当に価値ある保険を実名であげ、他がダメな理由を解説。2018年の標準利率と標準生命表の改訂、商品のスペック変更を反映。","price":"1500","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784391641639","title":"NHKガッテン！ がんばらないで健康長寿に！最高のラク効く体操","volume":"","series":"生活シリーズ","publisher":"主婦と生活社","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784391641639.jpg","author":"NHK科学・環境番組部／編集 主婦と生活社「NHKガッテン！」編集班／編集","description":"「体操」というと、身構えてしまう人もいるのでは？\nでも本書で紹介しているのは、ちょっと手を動かすとか、腰をくねくねさせるとか。\n「毎日続けなければ！」と負担に思わなくていいし、「真剣にとり組まなくちゃ！」と意気込まなくてもいいんです。\n寝る前に、テレビを見ながら、料理しながら、信号待ちをしながら……と「やってみよう！」と思ったときにすぐできるから、長続きが成功するのです。\nじつはこうした体操こそ、健康な体をつくってくれることが昨今の研究でわかってきたのです。\n長生きホルモン増！　血管力アップ！　筋力若返り！　骨筋力アップ！　痛み改善！　脳スッキリ！　\nさあ今日から最高の「ラク効く体操」で、健康長寿を目指しましょう。","price":"880","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
+,
+{"isbn":"9784393333631","title":"労働者のための漫画の描き方教室","volume":"","series":"","publisher":"春秋社","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784393333631.jpg","author":"川崎昌平／著","description":"過重労働から心を守るために、漫画を描こう。懸命に働くすべての社畜に贈る、忙しい日常でも実践できる、生き抜くための方法論。","price":"1800","genre":"","target":"一般","format":"単行本","content":"社会"}
+,
+{"isbn":"9784415325125","title":"相続の諸手続きと届出がすべてわかる本　’１８～’１９年版","volume":"","series":"","publisher":"成美堂出版","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784415325125.jpg","author":"河原崎弘／監修","description":"安心して相続するために、どう動けばいいのかを「基礎知識編」と「手続きガイド編」の2段階構成で、わかりやすく完全ガイド。相続の手続きを何から始めればいいのかがひと目でわかる。\n財産評価から相続税の計算方法、申請まで、相続税申告の基本知識と手続きを解説。届出書類の作成方法は、記入実例を多数収録。円満相続をするための生前対策の基本知識と手続きも紹介。\n小規模宅地等評価の特例措置の厳格化など、最新税制に完全対応！","price":"1400","genre":"","target":"実用","format":"単行本","content":"社会科学総記"}
+,
+{"isbn":"9784415325149","title":"相続と贈与がわかる本　’１８～’１９年版","volume":"","series":"","publisher":"成美堂出版","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784415325149.jpg","author":"桒原亜矢子／監修","description":"相続問題に直面している人には、相続税・贈与税の申告・納付の方法、計算方法などが手にとるようにわかる一冊。\n長期作戦で生前からの節税対策を考える人には、税金のしくみから賢い税金対策をわかりやすくアドバイス。\nQ&Aとコラムでさらに知りたいことが詳しくわかる。便利なお役立ち情報も満載。\n小規模宅地等評価の特例措置の厳格化など、最新税制に完全対応！","price":"1200","genre":"","target":"実用","format":"単行本","content":"社会科学総記"}
+,
+{"isbn":"9784415325163","title":"いちばんわかりやすい　相続・贈与の本　’１８～’１９年版","volume":"","series":"","publisher":"成美堂出版","pubdate":"2018-07-24","cover":"https://cover.openbd.jp/9784415325163.jpg","author":"曽根恵子著","description":"相続に関する決まりごとや相続税・贈与税のしくみ、手続きの流れをわかりやすく解説。\n\n実際にあった相続に関する事例と、具体的なアドバイスを多数掲載。\nトラブルを未然に防ぐ遺言書の活用方法、財産の整理と生前対策・贈与の効果的な使い方など、安心・円満にできる相続対策のすべてがわかる。\n最新税制に完全対応！","price":"1200","genre":"","target":"実用","format":"単行本","content":"社会科学総記"}
 ]
