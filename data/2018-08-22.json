@@ -31,7 +31,7 @@
 ,
 {"isbn":"9784054066489","title":"須田亜香里写真集　可愛くなる方法","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-08-22","cover":"","author":"須田亜香里／著 根本好伸／写真","description":"ＳＫＥ４８・須田亜香里が大人の表情を解禁する待望の１ｓｔソロ写真集！特製ポストカード（４種類の内１枚）付き","price":"1800","genre":"芸能・タレント","target":"一般","format":"単行本","content":"写真・工芸"}
 ,
-{"isbn":"9784054066649","title":"部屋をおしゃれにリメイクする本","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-08-22","cover":"","author":"学研プラス／編集","description":"リメイクシートやはがせる壁紙などのお手軽ＤＩＹアイテム、初心者でも楽しめる簡単なＤＩＹで、部屋を模様替えするヒントを紹介","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784054066649","title":"部屋をおしゃれにリメイクする本","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-08-22","cover":"","author":"学研プラス／編集","description":"リメイクシートやはがせる壁紙などのお手軽ＤＩＹアイテム、初心者でも楽しめる簡単なＤＩＹで、部屋を模替えするヒントを紹介","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784054066694","title":"勝者になるための８４の提言","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-08-22","cover":"","author":"里崎智也／著","description":"働き方改革が叫ばれる昨今、ビジネスパーソンが成功するにはどんな心構え、どんな行動が必要か？　里崎智也が９９の提言で綴る！","price":"1400","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
@@ -63,9 +63,11 @@
 ,
 {"isbn":"9784065127070","title":"アンネ・フランク","volume":"","series":"","publisher":"講談社","pubdate":"2018-08-22","cover":"","author":"岡田好惠／著 佐竹美保／著","description":"アンネ・フランクは１９２９年にドイツに生まれたユダヤ人の少女です。ユダヤ人迫害のために途絶えた１５年の生涯を紹介します。","price":"740","genre":"","target":"児童","format":"新書","content":"伝記"}
 ,
-{"isbn":"9784065128633","title":"ルパンレンジャーVSパトレンジャーとあそぼう！ビクトリー","volume":"","series":"","publisher":"講談社","pubdate":"2018-08-22","cover":"","author":"講談社／編集 大島康嗣／写真 高橋良明／写真","description":"エックストレインゴールドがＶＳチェンジャーに装できる！　とくべつなビークルでＶＳバトルゲームで新戦士とビクトリーをつかめ！","price":"925","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
+{"isbn":"9784065128633","title":"ルパンレンジャーVSパトレンジャーとあそぼう！ビクトリー","volume":"","series":"","publisher":"講談社","pubdate":"2018-08-22","cover":"","author":"講談社／編集 大島康嗣／写真 高橋良明／写真","description":"エックストレインゴールドがＶＳチェンジャーに装着できる！　とくべつなビークルでＶＳバトルゲームで新戦士とビクトリーをつかめ！","price":"925","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
 ,
 {"isbn":"9784065128671","title":"最後の馬賊　「帝国」の将軍・李守信","volume":"","series":"","publisher":"講談社","pubdate":"2018-08-22","cover":"","author":"楊海英／著","description":"チンギスハーンの子孫を奉じて戦いつづけた馬賊出身の将軍。大国に臆さぬ魅力的な人物像と、草原に展開したモンゴル独立の夢を描く。","price":"2200","genre":"","target":"一般","format":"単行本","content":"外国歴史"}
+,
+{"isbn":"9784065128701","title":"太平洋　その深層で起こっていること","volume":"","series":"","publisher":"講談社","pubdate":"2018-08-22","cover":"","author":"蒲生俊敬／著","description":"はなぜ、「深海」に魅かれるのか？　海底火山から海溝底まで、「最大にして最深の海」で繰り広げられる、おどろきの地球史！","price":"1000","genre":"","target":"一般","format":"新書","content":"自然科学総記"}
 ,
 {"isbn":"9784065128718","title":"フォッサマグナ　日本列島を分断する巨大地溝の正体","volume":"","series":"","publisher":"講談社","pubdate":"2018-08-22","cover":"","author":"藤岡換太郎／著","description":"日本列島を東西に真っ二つにするフォッサマグナはなぜできたのか？　いまだに謎だらけの「巨大な割れ目」に地球科学の大御所が挑む！","price":"1000","genre":"","target":"一般","format":"新書","content":"天文・地学"}
 ,
@@ -97,31 +99,11 @@
 ,
 {"isbn":"9784309227399","title":"スピリチュアル国家アメリカ","volume":"","series":"","publisher":"河出書房新社","pubdate":"2018-08-22","cover":"","author":"稲垣伸一／著","description":"19世紀アメリカで起こったスピリチュアルブームを切り口に、新たな視点でアメリカの歴史と現在を読み解く画期的な一冊。","price":"2000","genre":"","target":"一般","format":"単行本","content":"外国歴史"}
 ,
-{"isbn":"9784309248745","title":"「ゴースト血管」に効く！　１分かかと上げ下げ","volume":"","series":"","publisher":"河出書房新社","pubdate":"2018-08-22","cover":"","author":"伊賀瀬道也／著","description":"毛細血管の消失が重な病気の原因だった！NHKスペシャルでも紹介された「ゴースト血管」化を防ぐ簡単な方法を専門家が伝授。","price":"1250","genre":"","target":"一般","format":"単行本","content":"医学・歯学・薬学"}
+{"isbn":"9784309248745","title":"「ゴースト血管」に効く！　１分かかと上げ下げ","volume":"","series":"","publisher":"河出書房新社","pubdate":"2018-08-22","cover":"","author":"伊賀瀬道也／著","description":"毛細血管の消失が重大な病気の原因だった！NHKスペシャルでも紹介された「ゴースト血管」化を防ぐ簡単な方法を専門家が伝授。","price":"1250","genre":"","target":"一般","format":"単行本","content":"医学・歯学・薬学"}
 ,
 {"isbn":"9784309248769","title":"発達障害の人による「私たちの就活」","volume":"","series":"","publisher":"河出書房新社","pubdate":"2018-08-22","cover":"","author":"発達障害者の自立・就労を支援する会／編集 宮尾益知／監修","description":"発達障害の人たちを仕事に導く就労移行を支援する人や会社の役割と実際のプログラムとは？　就職するための工夫や暮らし方を紹介。","price":"1300","genre":"","target":"一般","format":"単行本","content":"医学・歯学・薬学"}
 ,
 {"isbn":"9784309279664","title":"失敬な招喚","volume":"","series":"","publisher":"河出書房新社","pubdate":"2018-08-22","cover":"","author":"エドワード・ゴーリー／著 柴田元幸／翻訳","description":"悪魔に召喚されたのは、いったい誰なのか？　ナンセンスで不気味なゴーリー・ワールド全開の大傑作！","price":"1200","genre":"","target":"一般","format":"単行本","content":"絵画・彫刻"}
 ,
 {"isbn":"9784309979519","title":"高畑勲","volume":"","series":"文藝別冊","publisher":"河出書房新社","pubdate":"2018-08-22","cover":"","author":"河出書房新社編集部／編集","description":"日本のアニメーションに革新をもたらした静かなる巨人・高畑勲。アニメ作品にとどまらないその偉大な功績をさまざまな視点から考察。","price":"1300","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
-,
-{"isbn":"9784326504480","title":"発展する台湾企業","volume":"","series":"","publisher":"勁草書房","pubdate":"2018-08-22","cover":"","author":"朝元照雄／著","description":"台湾企業研究三部作の最終巻。本書では台湾プラスチックグループ、研華、大立光電、日月光および豊泰の5社の発展戦略を解明する。","price":"4000","genre":"","target":"専門","format":"単行本","content":"経済・財政・統計"}
-,
-{"isbn":"9784327238025","title":"ことばの基礎 ２ 第2巻 動詞と構文","volume":"","series":"シリーズ 英文法を解き明かす ——現代英語の文法と語法","publisher":"研究社","pubdate":"2018-08-22","cover":"https://cover.openbd.jp/9784327238025.jpg","author":"大室剛志／著 内田聖二／編集 八木克正／編集 安井泉／編集","description":"英文法が「核」となる構文（＝基本形）とそのまわりにある「周辺」的な構文（＝変種）の寄せ集めで構成されていることを明らかにする","price":"2400","genre":"","target":"専門","format":"全集・双書","content":"英米語"}
-,
-{"isbn":"9784327452841","title":"ネイティブ発想で学ぶ　英語の決定詞","volume":"","series":"","publisher":"研究社","pubdate":"2018-08-22","cover":"https://cover.openbd.jp/9784327452841.jpg","author":"ロバート・ヒルキ／著 玉木史惠／著","description":"決定詞の「各種用法／基本的な用法」「発展的な用法」を、ネイティブスピーカー感覚の生き生きとした例文で、わかりやすく説明する。","price":"1800","genre":"語学・辞事典","target":"一般","format":"単行本","content":"英米語"}
-,
-{"isbn":"9784327472368","title":"グロリアーナの祝祭","volume":"","series":"","publisher":"研究社","pubdate":"2018-08-22","cover":"https://cover.openbd.jp/9784327472368.jpg","author":"竹村はるみ／著","description":"エリザベス朝文学におけるエリザベス一世の文学的表象を分析し、文学と祝祭を両輪とするこの時代特有の精神風土を浮かび上がらせる。","price":"4800","genre":"","target":"専門","format":"単行本","content":"外国文学、その他"}
-,
-{"isbn":"9784334912345","title":"ボーダレス","volume":"","series":"","publisher":"光文社","pubdate":"2018-08-22","cover":"","author":"誉田哲也／著","description":"","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334912352","title":"洗濯屋三十次郎","volume":"","series":"","publisher":"光文社","pubdate":"2018-08-22","cover":"","author":"野中ともそ／著","description":"","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334912369","title":"徳川慶喜公への斬奸状","volume":"","series":"","publisher":"光文社","pubdate":"2018-08-22","cover":"","author":"須田狗一／著","description":"","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334950415","title":"女子のための「手に職」図鑑","volume":"","series":"","publisher":"光文社","pubdate":"2018-08-22","cover":"","author":"華井由利奈／著","description":"","price":"1200","genre":"","target":"一般","format":"単行本","content":"社会"}
-,
-{"isbn":"9784334950422","title":"１日１分「首わしづかみ」で脳脊髄液を流しなさい","volume":"","series":"","publisher":"光文社","pubdate":"2018-08-22","cover":"","author":"宮城旺照／著","description":"","price":"1300","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
-,
-{"isbn":"9784334950446","title":"オタクだけど、オトナなので。","volume":"","series":"","publisher":"光文社","pubdate":"2018-08-22","cover":"","author":"推しやし委員会／著","description":"","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ]
