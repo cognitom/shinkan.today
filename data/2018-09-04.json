@@ -7,7 +7,7 @@
 ,
 {"isbn":"9784041071540","title":"お兄ちゃんは背が小さい　（１）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-09-04","cover":"https://cover.openbd.jp/9784041071540.jpg","author":"冬野ケイ／著","description":"私の新しいお兄ちゃんは、手乗りサイズでした。","price":"580","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784041071564","title":"ＤＩＶＥ!!　（２）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-09-04","cover":"https://cover.openbd.jp/9784041071564.jpg","author":"森絵都／原著 紅柴るづる／著 ヤスダスズヒト／企画 アニメ「DIVE!!」製作委員会／著","description":"「飛び込み」の才能が花開くにつれて歪む人間模様。 葛藤の末、知季は!?","price":"580","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784041071564","title":"ＤＩＶＥ!!　（２）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-09-04","cover":"https://cover.openbd.jp/9784041071564.jpg","author":"森絵都／原著 紅柴るづ／著 ヤスダスズヒト／企画 アニメ「DIVE!!」製作委員会／著","description":"「飛び込み」の才能が花開くにつれて歪む人間模様。 葛藤の末、知季は!?","price":"580","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784041071571","title":"ＤＩＶＥ!!　（３）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-09-04","cover":"https://cover.openbd.jp/9784041071571.jpg","author":"森絵都／原著 紅柴るづる／著 ヤスダスズヒト／企画 アニメ「DIVE!!」製作委員会／著","description":"「飛び込み競技」に全てを懸ける少年たちの青春ストーリー、完結！","price":"580","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -39,7 +39,7 @@
 ,
 {"isbn":"9784058007006","title":"コンバージョン数を最大化する７つの極意","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-09-04","cover":"","author":"長橋真吾／著","description":"Ｗｅｂ広告制作のプロが解説する管理画面情報ばかりに頼らないリスティング広告やＦａｃｅｂｏｏｋ広告の劇的改善ポイントとは？","price":"1500","genre":"コンピュータ","target":"実用","format":"単行本","content":"電子通信"}
 ,
-{"isbn":"9784065128275","title":"沖縄アンダーグラウンド　売春街を生きた者たち","volume":"","series":"","publisher":"講談社","pubdate":"2018-09-04","cover":"","author":"藤井誠二／著","description":"「特飲街」と呼ばれた売春の街。沖縄の戦後史の闇を妖しい光で照らし続け、浄化運動の波に消された街を活写した渾身のルポルタージュ","price":"2000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784065128275","title":"沖縄アンダーグラウンド　売街を生きた者たち","volume":"","series":"","publisher":"講談社","pubdate":"2018-09-04","cover":"","author":"藤井誠二／著","description":"「特飲街」と呼ばれた売春の街。沖縄の戦後史の闇を妖しい光で照らし続け、浄化運動の波に消された街を活写した渾身のルポルタージュ","price":"2000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784074343362","title":"足うらゾーンマッサージ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-09-04","cover":"","author":"五十嵐康彦／著","description":"ツボより位置がわかりやすくて押しやすい！足うらの反射区もみで悩みの痛み・こり・疲れが一挙に解消！","price":"780","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
@@ -147,11 +147,9 @@
 ,
 {"isbn":"9784167911461","title":"世界史の10人","volume":"","series":"","publisher":"文藝春秋","pubdate":"2018-09-04","cover":"","author":"出口治明／著","description":"ライフネット生命創業者から大学学長に転身した著者が、世界史上の真のリーダー十人を紹介。東西・男女にわたる人選に注目。","price":"760","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784167911485","title":"数字を一思い浮かべろ","volume":"","series":"","publisher":"文藝春秋","pubdate":"2018-09-04","cover":"","author":"ジョン・ヴァードン／著 浜野アキオ／翻訳","description":"頭に思い浮かべた数字を当ててしまう手紙の謎。一面の雪景色の中で消える殺人者の足跡……謎解きと警察小説を融合させた野心作。","price":"1170","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+{"isbn":"9784167911485","title":"数字を一つ思い浮かべろ","volume":"","series":"","publisher":"文藝春秋","pubdate":"2018-09-04","cover":"","author":"ジョン・ヴァードン／著 浜野アキオ／翻訳","description":"頭に思い浮かべた数字を当ててしまう手紙の謎。一面の雪景色の中で消える殺人者の足跡……謎解きと警察小説を融合させた野心作。","price":"1170","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
 {"isbn":"9784167911492","title":"天人唐草 自選作品集","volume":"","series":"","publisher":"文藝春秋","pubdate":"2018-09-04","cover":"","author":"山岸凉子／著","description":"毒親に育てられたり育児放棄された子供が大人になったらどうなるのか。山岸凉子の天才ぶりを余すことなく伝える究極のトラウマ漫画。","price":"780","genre":"","target":"一般","format":"文庫","content":"コミックス・劇画"}
 ,
 {"isbn":"9784167991333","title":"朝が来る","volume":"","series":"","publisher":"文藝春秋","pubdate":"2018-09-04","cover":"https://cover.openbd.jp/9784167991333.jpg","author":"辻村深月／著","description":"不妊治療の末、特別養子縁組で息子を得た夫婦は朝斗と名付けて幸せに暮らしていた。だが五年後、子供を返してほしいとの連絡が――。","price":"700","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784307203784","title":"がん薬物療法に伴う皮膚障害アトラス&マネジメント","volume":"","series":"","publisher":"金原出版","pubdate":"2018-09-04","cover":"","author":"日本がんサポーティブケア学会／編集","description":"がん薬物療法完遂のために、知っておくべき皮膚症状と対策49例","price":"3500","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
 ]
