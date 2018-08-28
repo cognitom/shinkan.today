@@ -57,9 +57,9 @@
 ,
 {"isbn":"9784065127506","title":"U12（7）","volume":"","series":"","publisher":"講談社","pubdate":"2018-09-07","cover":"","author":"闇川コウ／著","description":"ロリコンに追い詰められた少女達が出会った「二次元オタク」が、地獄の中に感動の嵐を呼ぶ！","price":"670","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065127551","title":"わたしが強くしたい神（1）","volume":"","series":"","publisher":"講談社","pubdate":"2018-09-07","cover":"","author":"厘のミキ／著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065127551","title":"わたが強くしたい神（1）","volume":"","series":"","publisher":"講談社","pubdate":"2018-09-07","cover":"","author":"厘のミキ／著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065128756","title":"クロハと虹介　黒き魔女の嬉遊曲（1）","volume":"","series":"","publisher":"講談社","pubdate":"2018-09-07","cover":"","author":"白梅ナズナ／著 成田良悟／原著","description":"成田悟原作、超幸運黒髪少女×超不幸筋肉少年の物語、待望の続刊！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065128756","title":"クロハと虹介　黒き魔女の嬉遊曲（1）","volume":"","series":"","publisher":"講談社","pubdate":"2018-09-07","cover":"","author":"白梅ナズナ／著 成田良悟／原著","description":"成田良悟原作、超幸運黒髪少女×超不幸筋肉少年の物語、待望の続刊！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065128930","title":"社畜フランケン（2）","volume":"","series":"","publisher":"講談社","pubdate":"2018-09-07","cover":"","author":"鳥屋／著","description":"過労死体から出来上がった＜社畜＞フランケンは仕事が大好き！休日有休要りません。ブラックなのに愛と勇気で溢れてる第２巻！","price":"610","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -87,7 +87,7 @@
 ,
 {"isbn":"9784074337859","title":"無敵の東大脳クイズ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-09-07","cover":"","author":"伊沢拓司／監修 ｑｕｉｚｋｎｏｃｋ／著","description":"最強の東大クイズ王　伊沢拓司がまとめた、知力、知識といった脳力を身につけ「東大脳」に近づける無敵のクイズ本","price":"1000","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784074340309","title":"一生使えるかぎ針あみと棒針あみの基本","volume":"","series":"実用Ｎｏ．１シリーズ","publisher":"主婦の友社","pubdate":"2018-09-07","cover":"","author":"ミカ＊ユカ／著","description":"初めて手あみをする人、テクニックを詳しく知りたい人に最適な入門書。１冊でかぎ針あみと棒針あみ両方の基礎を丁寧に解説","price":"1400","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784074340309","title":"一生使えるかぎ針あみと棒針あみの基","volume":"","series":"実用Ｎｏ．１シリーズ","publisher":"主婦の友社","pubdate":"2018-09-07","cover":"","author":"ミカ＊ユカ／著","description":"初めて手あみをする人、テクニックを詳しく知りたい人に最適な入門書。１冊でかぎ針あみと棒針あみ両方の基礎を丁寧に解説","price":"1400","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784097268147","title":"くまのプーさん またあの森で会おう","volume":"","series":"","publisher":"小学館","pubdate":"2018-09-07","cover":"","author":"ブリタニールビアーノ／著 マイクウォール／イラスト 中村有以／翻訳","description":"映画のスピンオフ絵本が登場！ \n\n 「人生には、風船とハチミツよりも大切なことがあるんだよ！ ぼくはもう子どもじゃない。大人なんだ！」\n\nいつかきっと、100エーカーの森にロビンはまた来てくれると信じていた、くまのプーさん。\nしかし、大人になったロビンにとって、“大切なもの”はすっかり変わってしまったようで――。\n\nこの再会は、森の仲間たちに、どんな奇跡を起こすのか――!?","price":"1400","genre":"","target":"児童","format":"絵本","content":"演劇・映画"}
 ,
@@ -101,15 +101,7 @@
 ,
 {"isbn":"9784307470469","title":"学校薬剤師のための学校環境衛生試験法","volume":"","series":"","publisher":"金原出版","pubdate":"2018-09-07","cover":"","author":"公益社団法人日本薬学会／編集 公益社団法人日本薬剤師会／編集","description":"改正「学校環境衛生基準」に基づいた、学校薬剤師必携の書！","price":"3600","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
 ,
-{"isbn":"9784334950460","title":"神山まりあのガハハ育児語録","volume":"","series":"","publisher":"光文社","pubdate":"2018-09-07","cover":"","author":"神山まりあ／著","description":"","price":"1500","genre":"芸能・タレント","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784334950460","title":"神山まりあのガハハ育児語録","volume":"","series":"","publisher":"光文社","pubdate":"2018-09-07","cover":"","author":"神山まり／著","description":"","price":"1500","genre":"芸能・タレント","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784388062959","title":"Theサラダ＆スープ500","volume":"","series":"","publisher":"柴田書店","pubdate":"2018-09-07","cover":"","author":"柴田書店／編集","description":"野菜たっぷりビタミンサラダ340＋具だくさんのバランススープ161","price":"1800","genre":"","target":"実用","format":"単行本","content":"家事"}
-,
-{"isbn":"9784416618189","title":"トラスパレンテのパン哲学","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2018-09-07","cover":"https://cover.openbd.jp/9784416618189.jpg","author":"森直史／著","description":"中目黒の人気屋・トラスパレンテが貫く「パン哲学」を、作り方、品ぞろえ、経営などから徹底解剖！","price":"2400","genre":"","target":"実用","format":"単行本","content":"家事"}
-,
-{"isbn":"9784416618912","title":"TUCK STITCH ナンシー・マーチャントの引き上げ編み","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2018-09-07","cover":"https://cover.openbd.jp/9784416618912.jpg","author":"ナンシー・マーチャント／著 西村知子／監修","description":"基本技法である引き上げ編みを応用した97点の模様編みとその模様を使った作品を8点収録。基本動作は写真付きで解説しています。","price":"2200","genre":"","target":"婦人","format":"単行本","content":"家事"}
-,
-{"isbn":"9784416618967","title":"月の満ちかけをながめよう","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2018-09-07","cover":"https://cover.openbd.jp/9784416618967.jpg","author":"相馬充／監修 森雅之／イラスト","description":"身近で不思議な存在の月。月の満ちかけに関わる色々なことを、手描きのイラストとともにわかりやすく解説。","price":"1400","genre":"自然科学","target":"一般","format":"単行本","content":"天文・地学"}
-,
-{"isbn":"9784416718186","title":"亥年のゆる文字年賀状 筆ペンで書く","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2018-09-07","cover":"","author":"宇田川一美／著","description":"筆ペンで書くゆる文字で、心のこもった手書きの年賀状の書き方や、そのままつかえる実用例を多数紹介します。","price":"1100","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
 ]
