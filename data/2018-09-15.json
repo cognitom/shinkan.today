@@ -37,7 +37,7 @@
 ,
 {"isbn":"9784047352551","title":"令嬢エリザベスの華麗なる身代わり生活　３","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-09-15","cover":"https://cover.openbd.jp/9784047352551.jpg","author":"江本マシメサ／著 雲屋ゆきお／イラスト","description":"高慢令嬢の痛快身代わり劇（バトル）、ファンタスティックに終幕――!!","price":"660","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784047352858","title":"艦隊これくしょん　-艦これ-　アンソロジーコミック　横須賀鎮守府編21","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-09-15","cover":"https://cover.openbd.jp/9784047352858.jpg","author":"ホビーWEB編集部・編／編集","description":"アンソロコミック横須賀鎮守府編21巻、出撃するぜ！","price":"650","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784047352858","title":"艦隊これくしょん　-艦これ-　アンソロジーコミック　横須賀鎮守府編21","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-09-15","cover":"https://cover.openbd.jp/9784047352858.jpg","author":"ホビーWEB編集部・編／編集","description":"アンソロコミック横須賀守府編21巻、出撃するぜ！","price":"650","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784047352865","title":"幻獣調査員　2","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-09-15","cover":"https://cover.openbd.jp/9784047352865.jpg","author":"lack／企画 綾里けいし／原著 星野倖一郎／著","description":"人と幻獣の関わりが生む、残酷で優しい幻想幻獣譚――。","price":"650","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -58,18 +58,3 @@
 {"isbn":"9784047353503","title":"ミギとダリ　２","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-09-15","cover":"https://cover.openbd.jp/9784047353503.jpg","author":"佐野菜見／著","description":"「笑い」と「サスペンス」の衝撃作、最新第二巻！","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784048842211","title":"句集　一  角川俳句叢書　日本の俳人１００","volume":"","series":"","publisher":"角川文化振興財団","pubdate":"2018-09-15","cover":"https://cover.openbd.jp/9784048842211.jpg","author":"三村純也／著","description":"〈いわし雲丹波一国覆ひたる〉","price":"2700","genre":"","target":"一般","format":"単行本","content":"日本文学詩歌"}
-,
-{"isbn":"9784254163551","title":"図説 日本の島","volume":"","series":"","publisher":"朝倉書店","pubdate":"2018-09-15","cover":"https://cover.openbd.jp/9784254163551.jpg","author":"平岡昭利／編集 須山聡／編集 宮内久光／編集","description":"国内の特徴ある島嶼を対象に，地理，自然から歴史，産業，文化等をビジュアルに紹介。","price":"4500","genre":"歴史・地理","target":"専門","format":"単行本","content":"地理"}
-,
-{"isbn":"9784259565909","title":"チーズ好きのパティシエが教える　濃厚チーズケーキ","volume":"","series":"","publisher":"家の光協会","pubdate":"2018-09-15","cover":"","author":"長谷川哲夫／著","description":"チーズ好きのパティシエが、家庭向けに作りやすくアレンジした\nおいしいチーズケーキレシピ。\nベイクド、スフレ、レアの基本の３タイプをはじめ、\nバリエーション豊かな全45レシピを紹介。\nワンランク上の濃厚なチーズケーキが作れます！\n","price":"1500","genre":"","target":"一般","format":"単行本","content":"家事"}
-,
-{"isbn":"9784259565916","title":"はじめてでもおいしく作れる　フライパン煮物","volume":"","series":"","publisher":"家の光協会","pubdate":"2018-09-15","cover":"","author":"河野雅子／著","description":"和食の基本は煮物です。でも、少しメンドクサイ……。\nそこで、フライパンひとつで手軽にできる\nおいしい煮物のレシピを紹介します。\n定番ものからだしいらずの簡単煮物、旬の素材を使った季節の一品まで、\nこの一冊で完全マスター！\n料理ビギナーにおすすめです！\n","price":"1200","genre":"","target":"一般","format":"単行本","content":"家事"}
-,
-{"isbn":"9784259565923","title":"大人の汁めし かけめし","volume":"","series":"","publisher":"家の光協会","pubdate":"2018-09-15","cover":"","author":"市瀬悦子／著","description":"忙しい日など、ささっとごはんを済ませたいときにぴったり！　\nごはんにスープや煮込みをかけるだけ！　\nスープにごはんを入れるだけ！ \nワンプレート＆ワンボウルでできるから、片付けもらっくらく！　\n汁やあんがしみしみのごはんはだれもが大好きで、文句なしにおいしい！\n","price":"1300","genre":"","target":"一般","format":"単行本","content":"家事"}
-,
-{"isbn":"9784274222603","title":"Javaで学ぶ自然言語処理と機械学習","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-09-15","cover":"https://cover.openbd.jp/9784274222603.jpg","author":"杉本徹／著 岩下志乃／著","description":"自然言語処理における機械学習の利用について、Javaによるプログラム例を多数掲載し、わかりやすく解説。","price":"2600","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784313002944","title":"財政小六法　平成３１年版","volume":"","series":"","publisher":"学陽書房","pubdate":"2018-09-15","cover":"https://cover.openbd.jp/9784313002944.jpg","author":"財政会計法規編集室／編集","description":"財政法、会計法、予算決算・会計令、物品管理法等の法令に参照条文を付した\n法規集","price":"4800","genre":"","target":"実用","format":"単行本","content":"法律"}
-,
-{"isbn":"9784323074191","title":"教室に幽霊がいる!?","volume":"","series":"","publisher":"金の星社","pubdate":"2018-09-15","cover":"https://cover.openbd.jp/9784323074191.jpg","author":"","description":"教育実習に来ている先生がコンピューター室で泣いていた。秀太たちが先生のパソコンにいたずらをしたせいに違いない。放課後、秀太たちはあやまりに行くが、先生はいない。だが、壁の前に先生によく似た女の先生が現れた!?","price":"1300","genre":"児童図書","target":"児童","format":"単行本","content":"日本文学、小説・物語"}
-]
