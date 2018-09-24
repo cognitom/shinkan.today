@@ -1,5 +1,5 @@
 [
-{"isbn":"9784041066362","title":"火の鳥７ 乱世編（上）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-09-29","cover":"https://cover.openbd.jp/9784041066362.jpg","author":"手塚治虫／著","description":"天才手塚治虫が遺した不滅のライワーク。","price":"880","genre":"","target":"一般","format":"文庫","content":"コミックス・劇画"}
+{"isbn":"9784041066362","title":"火の鳥７ 乱世編（上）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-09-29","cover":"https://cover.openbd.jp/9784041066362.jpg","author":"手塚治虫／著","description":"天才手塚治虫が遺した不滅のライフワーク。","price":"880","genre":"","target":"一般","format":"文庫","content":"コミックス・劇画"}
 ,
 {"isbn":"9784041066379","title":"火の鳥８ 乱世編（下）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-09-29","cover":"https://cover.openbd.jp/9784041066379.jpg","author":"手塚治虫／著","description":"天才手塚治虫が遺した不滅のライフワーク。","price":"880","genre":"","target":"一般","format":"文庫","content":"コミックス・劇画"}
 ,
@@ -83,9 +83,9 @@
 ,
 {"isbn":"9784074313495","title":"「だけ」レシピ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-09-29","cover":"","author":"市瀬悦子／著","description":"５２１人アンケートでわかった「よく使う＆使いたい食材トップ５５」を、できるだけ簡単に、最高においしく食べるためのレシピ集","price":"1000","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
-{"isbn":"9784074328345","title":"こころのクスリＢＯＯＫＳ　よくわかるパニック症・広場恐怖症・ＰＴＳＤ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-09-29","cover":"","author":"貝谷久宣／監修","description":"突然、激しい動悸などの発作と強い不安に襲われるパニック障害と、強いストレス原因で起きるＰＴＳＤの治療法を丁寧に解説。","price":"1400","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
+{"isbn":"9784074328345","title":"こころのクスリＢＯＯＫＳ　よくわかるパニック症・広場恐怖症・ＰＴＳＤ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-09-29","cover":"","author":"貝谷久宣／監修","description":"突然、激しい動悸などの発作と強い不安に襲われるパニック障害と、強いストレスが原因で起きるＰＴＳＤの治療法を丁寧に解説。","price":"1400","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
 ,
-{"isbn":"9784074331994","title":"日本のカッコいい公務員図鑑","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-09-29","cover":"","author":"秋山謙一郎／監修 開発社／編集","description":"高校生、大学生のなりたい職業第１位！海上保安官、国税専門官ほかッコいい公務員をビジュアル化。難易度、将来性データつき","price":"1300","genre":"","target":"一般","format":"図鑑","content":"社会"}
+{"isbn":"9784074331994","title":"日本のカッコいい公務員図鑑","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-09-29","cover":"","author":"秋山謙一郎／監修 開発社／編集","description":"高校生、大学生のなりたい職業第１位！海上保安官、国税専門官ほかカッコいい公務員をビジュアル化。難易度、将来性データつき","price":"1300","genre":"","target":"一般","format":"図鑑","content":"社会"}
 ,
 {"isbn":"9784074337040","title":"プライスレスレシピ　実は１００ｇ１００円台の肉で。簡単・安い・カラダにいい。お値段以上の革命レシピ。","volume":"","series":"","publisher":"主婦の友社","pubdate":"2018-09-29","cover":"","author":"野口真紀／著","description":"究極の新・節約おかず。いつもの肉で簡単・安い・豪華に見え・キレイになれる、野口真紀の等身大レシピ。全部３ステップ以内！","price":"1280","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
@@ -93,13 +93,11 @@
 ,
 {"isbn":"9784197105168","title":"趣味とスマホ　Vol.1","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-09-29","cover":"","author":"","description":"スマホアプリを使うと、やりたいことや趣味がもっと楽しくなる","price":"880","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784197806270","title":"めしばな刑事タチバナ　31","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-09-29","cover":"","author":"坂戸佐兵衛／著 旅井とり／著","description":"『めしばな刑事タチバナ』最新巻は、近頃人気の「冷やしラーメン」。加えて、菓子パン冷凍ワザなど、オドロキの１２篇を収録。","price":"560","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784197806270","title":"めしばな刑事タチバナ　31","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-09-29","cover":"","author":"坂戸佐兵衛／著 旅井とり／著","description":"『めしばな刑事タチバナ』最新巻は、近頃気の「冷やしラーメン」。加えて、菓子パン冷凍ワザなど、オドロキの１２篇を収録。","price":"560","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784198270346","title":"小屋ライフ　Vol.002","volume":"","series":"","publisher":"CLASSIX","pubdate":"2018-09-29","cover":"","author":"","description":"本書は日本国内だけに留まらず、世界の小屋ライフをテーマにした１冊です。","price":"1200","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784198270391","title":"キャンプ・グッズ・マガジン　Vol.4","volume":"","series":"","publisher":"CLASSIX","pubdate":"2018-09-29","cover":"","author":"","description":"キャンプグッズ・マガジンは、メジャーブランドから、ヴィンテージまで\n一冊で網羅したキャンプ道具の専門誌です。","price":"926","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784296100606","title":"30日でマスター ずるい！ エクセル仕事術","volume":"","series":"日経ホームマガジ","publisher":"日経ＢＰ","pubdate":"2018-09-29","cover":"https://cover.openbd.jp/9784296100606.jpg","author":"日経トレンディ／編集","description":"4つの基礎をぞれぞれ1週間かけてじっくり学習します。特別講座も合わせて、30日でエクセルの実用知識が身につくはず！\n","price":"1000","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"経営"}
-,
-{"isbn":"9784323890555","title":"どんななきごえ？ おとのでる　どうぶつずかん　えいごつき","volume":"","series":"","publisher":"金の星社","pubdate":"2018-09-29","cover":"https://cover.openbd.jp/9784323890555.jpg","author":"","description":"","price":"2300","genre":"児童図書","target":"児童","format":"絵本","content":"生物学"}
+{"isbn":"9784296100606","title":"30日でマスター ずるい！ エクセル仕事術","volume":"","series":"日経ホームマガジン","publisher":"日経ＢＰ","pubdate":"2018-09-29","cover":"https://cover.openbd.jp/9784296100606.jpg","author":"日経トレンディ／編集","description":"4つの基礎をぞれぞれ1週間かけてじっくり学習します。特別講座も合わせて、30日でエクセルの実用知識が身につくはず！\n","price":"1000","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"経営"}
 ]
