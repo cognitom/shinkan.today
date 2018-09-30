@@ -35,7 +35,7 @@
 ,
 {"isbn":"9784065133200","title":"初めての水墨画　楽しく描ける基本とコツ","volume":"","series":"","publisher":"講談社","pubdate":"2018-10-11","cover":"","author":"矢形嵐酔／著","description":"難しそうな水墨画も、基本とコツさえわかれば、ぐっと身近で楽しい趣味になります。若くして水墨画界をけん引する矢形嵐酔先生監修。","price":"1600","genre":"","target":"実用","format":"全集・双書","content":"絵画・彫刻"}
 ,
-{"isbn":"9784065134726","title":"犬の車いす物語","volume":"","series":"","publisher":"講談社","pubdate":"2018-10-11","cover":"","author":"沢田俊子／著","description":"飼い犬の車いすで元気になったのをきっかけに、車いす作りを始めた川西ご夫妻。どんな犬たちが車いすを作ってもらったのでしょう？","price":"620","genre":"","target":"児童","format":"新書","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784065134726","title":"犬の車いす物語","volume":"","series":"","publisher":"講談社","pubdate":"2018-10-11","cover":"","author":"沢田俊子／著","description":"飼い犬の車いすで元気になったのをきっかけに、車いす作りを始めた川ご夫妻。どんな犬たちが車いすを作ってもらったのでしょう？","price":"620","genre":"","target":"児童","format":"新書","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784065134740","title":"夜カフェ（1）","volume":"","series":"","publisher":"講談社","pubdate":"2018-10-11","cover":"","author":"倉橋燿子／著 たま／著","description":"中学受験に失敗した中１の花美。人間関係でつまづき、居場所を見つけようともがく花美が、叔母が営むカフェで出会ったのは？","price":"650","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
 ,
@@ -51,15 +51,15 @@
 ,
 {"isbn":"9784103521310","title":"没イチ","volume":"","series":"","publisher":"新潮社","pubdate":"2018-10-11","cover":"","author":"小谷みどり／著","description":"「没イチ」とは妻や夫を亡くした人々──。自身も没イチの著者が語る、「悲しみは癒えずとも亡き人の分も人生を楽しむ」ススメとは？","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784163908717","title":"沈黙のパレド","volume":"","series":"","publisher":"文藝春秋","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784163908717.jpg","author":"東野圭吾／著","description":"秋祭りのパレードで、ある殺人が起きる。容疑者は街の人々全て！ 哀しき復讐者たちが、湯川や草薙、内海薫の前に立ちはだかる。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784163908717","title":"沈黙のパレード","volume":"","series":"","publisher":"文藝春秋","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784163908717.jpg","author":"東野圭吾／著","description":"秋祭りのパレードで、ある殺人が起きる。容疑者は街の人々全て！ 哀しき讐者たちが、湯川や草薙、内海薫の前に立ちはだかる。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784163909110","title":"わたしの家族の明治日本","volume":"","series":"","publisher":"文藝春秋","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784163909110.jpg","author":"ジョアンナ・シェルトン／著 滝沢謙三／翻訳 滝沢カレン・アン／翻訳","description":"百四十年前、一人の米国人宣教師がやってきた。トーマス・アレクサンダー、二十七歳。激動の日本の黎明期を外国人の視点から知る。","price":"2000","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
+{"isbn":"9784163909110","title":"わたし家族の明治日本","volume":"","series":"","publisher":"文藝春秋","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784163909110.jpg","author":"ジョアンナ・シェルトン／著 滝沢謙三／翻訳 滝沢カレン・アン／翻訳","description":"百四十年前、一人の米国人宣教師がやってきた。トーマス・アレクサンダー、二十七歳。激動の日本の黎明期を外国人の視点から知る。","price":"2000","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
 ,
 {"isbn":"9784198647148","title":"ムーミン谷のすべて","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-10-11","cover":"","author":"フィリップ・アーダー／著 徳間書店児童書編集部／翻訳","description":"ファン必携の、ムーミンの魅力をたっぷりつめこんだ豪華な本","price":"4000","genre":"児童図書","target":"児童","format":"単行本","content":"外国文学、その他"}
 ,
 {"isbn":"9784296100668","title":"まるわかり！人工知能 2019 ビジネス戦略","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784296100668.jpg","author":"日経xTECH／日経コンピュータ／編集","description":"人工知能ビジネス戦略・活用の全貌をこの一冊で網羅！","price":"2400","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
 ,
-{"isbn":"9784296100750","title":"まるわかり！ＩｏＴビジネス 2019　50の厳選事例","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784296100750.jpg","author":"日経xTECH／日経コンピュータ／編","description":"気になる会社のIoT事例が分かる。IoTビジネスのヒントが詰まった1冊","price":"2400","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
+{"isbn":"9784296100750","title":"まるわかり！ＩｏＴビジネス 2019　50の厳選事例","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784296100750.jpg","author":"日経xTECH／日経コンピュータ／編集","description":"気になる会社のIoT事例が分かる。IoTビジネスのヒントが詰まった1冊","price":"2400","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
 ,
 {"isbn":"9784309279558","title":"バレリーナは、どこ？","volume":"","series":"","publisher":"河出書房新社","pubdate":"2018-10-11","cover":"","author":"アビゲイル・ゴー／イラスト アンナ・クレイボーン／著 斎藤静代／翻訳","description":"絵さがしで遊びながら、大定番のバレエ１０作品のストーリーが学べるイギリス発の画期的絵本。キラキラしたカバーでギフトにも。","price":"2000","genre":"","target":"一般","format":"単行本","content":"音楽・舞踊"}
 ,
