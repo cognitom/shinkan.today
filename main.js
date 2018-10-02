@@ -363,10 +363,7 @@
 
   function parseHeaders(rawHeaders) {
     var headers = new Headers();
-    // Replace instances of \r\n and \n followed by at least one space or horizontal tab with a space
-    // https://tools.ietf.org/html/rfc7230#section-3.2
-    var preProcessedHeaders = rawHeaders.replace(/\r?\n[\t ]+/g, ' ');
-    preProcessedHeaders.split(/\r?\n/).forEach(function(line) {
+    rawHeaders.split(/\r?\n/).forEach(function(line) {
       var parts = line.split(':');
       var key = parts.shift().trim();
       if (key) {
@@ -385,7 +382,7 @@
     }
 
     this.type = 'default';
-    this.status = options.status === undefined ? 200 : options.status;
+    this.status = 'status' in options ? options.status : 200;
     this.ok = this.status >= 200 && this.status < 300;
     this.statusText = 'statusText' in options ? options.statusText : 'OK';
     this.headers = new Headers(options.headers);
@@ -452,8 +449,6 @@
 
       if (request.credentials === 'include') {
         xhr.withCredentials = true;
-      } else if (request.credentials === 'omit') {
-        xhr.withCredentials = false;
       }
 
       if ('responseType' in xhr && support.blob) {
@@ -501,7 +496,7 @@ var T_FUNCTION = 'function';
 var XLINK_NS = 'http://www.w3.org/1999/xlink';
 var SVG_NS = 'http://www.w3.org/2000/svg';
 var XLINK_REGEX = /^xlink:(\w+)/;
-var WIN = typeof window === T_UNDEF ? /* istanbul ignore next */ undefined : window;
+var WIN = typeof window === T_UNDEF ? undefined : window;
 var RE_SPECIAL_TAGS = /^(?:t(?:body|head|foot|[rhd])|caption|col(?:group)?|opt(?:ion|group))$/;
 var RE_SPECIAL_TAGS_NO_OPTION = /^(?:t(?:body|head|foot|[rhd])|caption|col(?:group)?)$/;
 var RE_EVENTS_PREFIX = /^on/;
@@ -511,7 +506,7 @@ var CASE_SENSITIVE_ATTRIBUTES = {
     'preserveaspectratio': 'preserveAspectRatio'
   };
 var RE_BOOL_ATTRS = /^(?:disabled|checked|readonly|required|allowfullscreen|auto(?:focus|play)|compact|controls|default|formnovalidate|hidden|ismap|itemscope|loop|multiple|muted|no(?:resize|shade|validate|wrap)?|open|reversed|seamless|selected|sortable|truespeed|typemustmatch)$/;
-var IE_VERSION = (WIN && WIN.document || /* istanbul ignore next */ {}).documentMode | 0;
+var IE_VERSION = (WIN && WIN.document || {}).documentMode | 0;
 
 /**
  * Create a generic DOM node
@@ -540,6 +535,7 @@ var styleNode;
 // Create cache and shortcut to the correct property
 var cssTextProp;
 var byName = {};
+var remainder = [];
 var needsInject = false;
 
 // skip the following code on the server
@@ -573,7 +569,8 @@ var styleManager = {
    * @param { String } name - if it's passed we will map the css to a tagname
    */
   add: function add(css, name) {
-    byName[name] = css;
+    if (name) { byName[name] = css; }
+    else { remainder.push(css); }
     needsInject = true;
   },
   /**
@@ -585,19 +582,10 @@ var styleManager = {
     needsInject = false;
     var style = Object.keys(byName)
       .map(function (k) { return byName[k]; })
-      .join('\n');
+      .concat(remainder).join('\n');
     /* istanbul ignore next */
     if (cssTextProp) { cssTextProp.cssText = style; }
     else { styleNode.innerHTML = style; }
-  },
-
-  /**
-   * Remove a tag style of injected DOM later.
-   * @param {String} name a registered tagname
-   */
-  remove: function remove(name) {
-    delete byName[name];
-    needsInject = true;
   }
 };
 
@@ -1833,17 +1821,6 @@ function mkdom(tmpl, html, isSvg) {
   return el
 }
 
-var EVENT_ATTR_RE = /^on/;
-
-/**
- * True if the event attribute starts with 'on'
- * @param   { String } attribute - event attribute
- * @returns { Boolean }
- */
-function isEventAttribute(attribute) {
-  return EVENT_ATTR_RE.test(attribute)
-}
-
 /**
  * Loop backward all the parents tree to detect the first custom parent tag
  * @param   { Object } tag - a Tag instance
@@ -2011,7 +1988,6 @@ function makeVirtual(src, target) {
  * @param { ref } the dom reference location
  */
 function makeReplaceVirtual(tag, ref) {
-  if (!ref.parentNode) { return }
   var frag = createFragment();
   makeVirtual.call(tag, frag);
   ref.parentNode.replaceChild(frag, ref);
@@ -2190,19 +2166,15 @@ function updateExpression(expr) {
     return
   }
 
-  switch (true) {
-  // handle events binding
-  case isFunction(value):
-    if (isEventAttribute(attrName)) {
-      setEventHandler(attrName, value, dom, this);
-    }
-    break
+
+  // event handler
+  if (isFunction(value)) {
+    setEventHandler(attrName, value, dom, this);
   // show / hide
-  case isToggle:
+  } else if (isToggle) {
     toggleVisibility(dom, attrName === HIDE_DIRECTIVE ? !value : value);
-    break
   // handle attributes
-  default:
+  } else {
     if (expr.bool) {
       dom[attrName] = value;
     }
@@ -2360,7 +2332,7 @@ function tag$1(name, tmpl, css, attrs, fn) {
     if (isFunction(css))
       { fn = css; }
     else
-      { styleManager.add(css, name); }
+      { styleManager.add(css); }
   }
 
   name = name.toLowerCase();
@@ -2407,11 +2379,7 @@ function mount$2(selector, tagName, opts) {
         setAttribute(root, IS_DIRECTIVE, tagName);
       }
 
-      tag = mount$1(
-        root,
-        riotTag || root.tagName.toLowerCase(),
-        isFunction(opts) ? opts() : opts
-      );
+      tag = mount$1(root, riotTag || root.tagName.toLowerCase(), opts);
 
       if (tag)
         { tags.push(tag); }
@@ -2422,7 +2390,7 @@ function mount$2(selector, tagName, opts) {
   // inject styles into DOM
   styleManager.inject();
 
-  if (isObject(tagName) || isFunction(tagName)) {
+  if (isObject(tagName)) {
     opts = tagName;
     tagName = 0;
   }
@@ -2512,8 +2480,7 @@ function update$2() {
 }
 
 function unregister$1(name) {
-  styleManager.remove(name);
-  return delete __TAG_IMPL[name]
+  __TAG_IMPL[name] = null;
 }
 
 var version$1 = 'WIP';
@@ -2637,6 +2604,7 @@ function moveVirtual(src, target) {
  * @param   { Object } expr - object containing the keys used to extend the children tags
  * @param   { * } key - value to assign to the new object returned
  * @param   { * } val - value containing the position of the item in the array
+ * @param   { Object } base - prototype object for the new item
  * @returns { Object } - new object containing the values of the original item
  *
  * The variables 'key' and 'val' are arbitrary.
@@ -2644,8 +2612,8 @@ function moveVirtual(src, target) {
  * and on the expression used on the each tag
  *
  */
-function mkitem(expr, key, val) {
-  var item = {};
+function mkitem(expr, key, val, base) {
+  var item = base ? create(base) : {};
   item[expr.key] = key;
   if (expr.pos) { item[expr.pos] = val; }
   return item
@@ -2656,9 +2624,9 @@ function mkitem(expr, key, val) {
  * @param   { Array } items - array containing the current items to loop
  * @param   { Array } tags - array containing all the children tags
  */
-function unmountRedundant(items, tags, filteredItemsCount) {
+function unmountRedundant(items, tags) {
   var i = tags.length;
-  var j = items.length - filteredItemsCount;
+  var j = items.length;
 
   while (i > j) {
     i--;
@@ -2772,6 +2740,7 @@ function _each(dom, parent, expr) {
   var isAnonymous = !__TAG_IMPL[tagName];
   var isVirtual = dom.tagName === 'VIRTUAL';
   var oldItems = [];
+  var hasKeys;
 
   // remove the each property from the original tag
   removeAttribute(dom, LOOP_DIRECTIVE);
@@ -2796,7 +2765,6 @@ function _each(dom, parent, expr) {
     var isObject = !isArray(items) && !isString(items);
     var root = placeholder.parentNode;
     var tmpItems = [];
-    var hasKeys = isObject && !!items;
 
     // if this DOM was removed the update here is useless
     // this condition fixes also a weird async issue on IE in our unit test
@@ -2804,34 +2772,35 @@ function _each(dom, parent, expr) {
 
     // object loop. any changes cause full redraw
     if (isObject) {
-      items = items ? Object.keys(items).map(function (key) { return mkitem(expr, items[key], key); }) : [];
+      hasKeys = items || false;
+      items = hasKeys ?
+        Object.keys(items).map(function (key) { return mkitem(expr, items[key], key); }) : [];
+    } else {
+      hasKeys = false;
     }
 
-    // store the amount of filtered items
-    var filteredItemsCount = 0;
+    if (ifExpr) {
+      items = items.filter(function (item, i) {
+        if (expr.key && !isObject)
+          { return !!tmpl(ifExpr, mkitem(expr, item, i, parent)) }
+
+        return !!tmpl(ifExpr, extend(create(parent), item))
+      });
+    }
 
     // loop all the new items
-    each(items, function (_item, index) {
-      var i = index - filteredItemsCount;
-      var item = !hasKeys && expr.key ? mkitem(expr, _item, index) : _item;
-
-      // skip this item because it must be filtered
-      if (ifExpr && !tmpl(ifExpr, extend(create(parent), item))) {
-        filteredItemsCount ++;
-        return
-      }
-
+    each(items, function (_item, i) {
+      var item = !hasKeys && expr.key ? mkitem(expr, _item, i) : _item;
       var itemId = getItemId(keyAttr, _item, item, hasKeyAttrExpr);
-      // reorder only if the items are not objects
-      // or a key attribute has been provided
-      var doReorder = !isObject && mustReorder && typeof _item === T_OBJECT || keyAttr;
+      // reorder only if the items are objects
+      var doReorder = mustReorder && typeof _item === T_OBJECT && !hasKeys;
       var oldPos = oldItems.indexOf(itemId);
       var isNew = oldPos === -1;
       var pos = !isNew && doReorder ? oldPos : i;
       // does a tag exist in this position?
       var tag = tags[pos];
       var mustAppend = i >= oldItems.length;
-      var mustCreate = doReorder && isNew || !doReorder && !tag || !tags[i];
+      var mustCreate =  doReorder && isNew || !doReorder && !tag;
 
       // new tag
       if (mustCreate) {
@@ -2888,7 +2857,7 @@ function _each(dom, parent, expr) {
     });
 
     // remove the redundant tags
-    unmountRedundant(items, tags, filteredItemsCount);
+    unmountRedundant(items, tags);
 
     // clone the items array
     oldItems = tmpItems.slice();
@@ -2989,14 +2958,17 @@ var IfExpr = {
   update: function update() {
     this.value = tmpl(this.expr, this.tag);
 
-    if (!this.stub.parentNode) { return }
-
     if (this.value && !this.current) { // insert
       this.current = this.pristine.cloneNode(true);
       this.stub.parentNode.insertBefore(this.current, this.stub);
       this.expressions = parseExpressions.apply(this.tag, [this.current, true]);
     } else if (!this.value && this.current) { // remove
-      this.unmount();
+      unmountAll(this.expressions);
+      if (this.current._tag) {
+        this.current._tag.unmount();
+      } else if (this.current.parentNode) {
+        this.current.parentNode.removeChild(this.current);
+      }
       this.current = null;
       this.expressions = [];
     }
@@ -3004,14 +2976,6 @@ var IfExpr = {
     if (this.value) { update$1.call(this.tag, this.expressions); }
   },
   unmount: function unmount() {
-    if (this.current) {
-      if (this.current._tag) {
-        this.current._tag.unmount();
-      } else if (this.current.parentNode) {
-        this.current.parentNode.removeChild(this.current);
-      }
-    }
-
     unmountAll(this.expressions || []);
   }
 };
@@ -3092,8 +3056,9 @@ function parseExpressions(root, mustIncludeRoot) {
     }
 
     if (tagImpl && (dom !== root || mustIncludeRoot)) {
-      var hasIsDirective = getAttribute(dom, IS_DIRECTIVE);
-      if(isVirtual && !hasIsDirective) { // handled in update
+      if(isVirtual) { // handled in update
+        if (getAttribute(dom, IS_DIRECTIVE))
+          { warn(("Virtual tags shouldn't be used together with the \"" + IS_DIRECTIVE + "\" attribute - https://github.com/riot/riot/issues/2511")); }
         // can not remove attribute like directives
         // so flag for removal after creation to prevent maximum stack error
         setAttribute(dom, 'virtualized', true);
@@ -3105,9 +3070,6 @@ function parseExpressions(root, mustIncludeRoot) {
 
         expressions.push(tag); // no return, anonymous tag, keep parsing
       } else {
-        if (hasIsDirective && isVirtual)
-          { warn(("Virtual tags shouldn't be used together with the \"" + IS_DIRECTIVE + "\" attribute - https://github.com/riot/riot/issues/2511")); }
-
         expressions.push(
           initChild(
             tagImpl,
@@ -3337,7 +3299,7 @@ function createTag(impl, conf, innerHTML) {
   if ( conf === void 0 ) conf = {};
 
   var tag = conf.context || {};
-  var opts = conf.opts || {};
+  var opts = extend({}, conf.opts);
   var parent = conf.parent;
   var isLoop = conf.isLoop;
   var isAnonymous = !!conf.isAnonymous;
@@ -3349,26 +3311,20 @@ function createTag(impl, conf, innerHTML) {
   var instAttrs = [];
   // expressions on this type of Tag
   var implAttrs = [];
-  var tmpl = impl.tmpl;
   var expressions = [];
   var root = conf.root;
   var tagName = conf.tagName || getName(root);
   var isVirtual = tagName === 'virtual';
-  var isInline = !isVirtual && !tmpl;
+  var isInline = !isVirtual && !impl.tmpl;
   var dom;
-
-  if (isInline || isLoop && isAnonymous) {
-    dom = root;
-  } else {
-    if (!isVirtual) { root.innerHTML = ''; }
-    dom = mkdom(tmpl, innerHTML, isSvg(root));
-  }
 
   // make this tag observable
   if (!skipAnonymous) { observable$1(tag); }
-
   // only call unmount if we have a valid __TAG_IMPL (has name property)
   if (impl.name && root._tag) { root._tag.unmount(true); }
+
+  // not yet mounted
+  define(tag, 'isMounted', false);
 
   define(tag, '__', {
     impl: impl,
@@ -3394,35 +3350,34 @@ function createTag(impl, conf, innerHTML) {
     head: null
   });
 
-  // tag protected properties
-  return [
-    ['isMounted', false],
-    // create a unique id to this tag
-    // it could be handy to use it also to improve the virtual dom rendering speed
-    ['_riot_id', uid()],
-    ['root', root],
-    ['opts', opts, { writable: true, enumerable: true }],
-    ['parent', parent || null],
-    // protect the "tags" and "refs" property from being overridden
-    ['tags', {}],
-    ['refs', {}],
-    ['update', function (data) { return componentUpdate(tag, data, expressions); }],
-    ['mixin', function () {
-      var mixins = [], len = arguments.length;
-      while ( len-- ) mixins[ len ] = arguments[ len ];
+  // create a unique id to this tag
+  // it could be handy to use it also to improve the virtual dom rendering speed
+  define(tag, '_riot_id', uid()); // base 1 allows test !t._riot_id
+  define(tag, 'root', root);
+  extend(tag, { opts: opts }, item);
+  // protect the "tags" and "refs" property from being overridden
+  define(tag, 'parent', parent || null);
+  define(tag, 'tags', {});
+  define(tag, 'refs', {});
 
-      return componentMixin.apply(void 0, [ tag ].concat( mixins ));
-  }],
-    ['mount', function () { return componentMount(tag, dom, expressions, opts); }],
-    ['unmount', function (mustKeepRoot) { return tagUnmount(tag, mustKeepRoot, expressions); }]
-  ].reduce(function (acc, ref) {
-    var key = ref[0];
-    var value = ref[1];
-    var opts = ref[2];
+  if (isInline || isLoop && isAnonymous) {
+    dom = root;
+  } else {
+    if (!isVirtual) { root.innerHTML = ''; }
+    dom = mkdom(impl.tmpl, innerHTML, isSvg(root));
+  }
 
-    define(tag, key, value, opts);
-    return acc
-  }, extend(tag, item))
+  define(tag, 'update', function (data) { return componentUpdate(tag, data, expressions); });
+  define(tag, 'mixin', function () {
+    var mixins = [], len = arguments.length;
+    while ( len-- ) mixins[ len ] = arguments[ len ];
+
+    return componentMixin.apply(void 0, [ tag ].concat( mixins ));
+  });
+  define(tag, 'mount', function () { return componentMount(tag, dom, expressions, opts); });
+  define(tag, 'unmount', function (mustKeepRoot) { return tagUnmount(tag, mustKeepRoot, expressions); });
+
+  return tag
 }
 
 /**
