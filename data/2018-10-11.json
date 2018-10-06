@@ -51,17 +51,17 @@
 ,
 {"isbn":"9784103521310","title":"没イチ","volume":"","series":"","publisher":"新潮社","pubdate":"2018-10-11","cover":"","author":"小谷みどり／著","description":"「没イチ」とは妻や夫を亡くした人々──。自身も没イチの著者が語る、「悲しみは癒えずとも亡き人の分も人生を楽しむ」ススメとは？","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784163908717","title":"沈黙のパレード","volume":"","series":"","publisher":"文藝春秋","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784163908717.jpg","author":"東野圭吾／著","description":"秋祭りのレードで、ある殺人が起きる。容疑者は街の人々全て！ 哀しき復讐者たちが、湯川や草薙、内海薫の前に立ちはだかる。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784163908717","title":"沈黙のパレード","volume":"","series":"","publisher":"文藝春秋","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784163908717.jpg","author":"東野圭吾／著","description":"秋祭りのパレードで、ある殺人が起きる。容疑者は街の人々全て！ 哀しき復讐者たちが、湯川や草薙、内海薫の前に立ちはだかる。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784163909110","title":"わたしの家族の明治日本","volume":"","series":"","publisher":"文藝春秋","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784163909110.jpg","author":"ジョアンナ・シェルトン／著 滝沢謙三／翻訳 滝沢カレン・アン／翻訳","description":"百四十年前、一人の米国人宣教師がやってきた。トーマス・アレクサンダー、二十七歳。激動の日本の黎明期を外国人の視点から知る。","price":"2000","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
 ,
 {"isbn":"9784198647148","title":"ムーミン谷のすべて","volume":"","series":"","publisher":"徳間書店","pubdate":"2018-10-11","cover":"","author":"フィリップ・アーダー／著 徳間書店児童書編集部／翻訳","description":"ファン必携の、ムーミンの魅力をたっぷりつめこんだ豪華な本","price":"4000","genre":"児童図書","target":"児童","format":"単行本","content":"外国文学、その他"}
 ,
-{"isbn":"9784296100668","title":"まるわかり！人工知能 2019 ビジネス戦略","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784296100668.jpg","author":"日経xTECH／日経コンピュータ／編集","description":"人工知能ビジネス戦略・活用の全貌をこの一冊で網羅！","price":"2400","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
+{"isbn":"9784296100668","title":"まわかり！人工知能 2019 ビジネス戦略","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784296100668.jpg","author":"日経xTECH／日経コンピュータ／編集","description":"人工知能ビジネス戦略・活用の全貌をこの一冊で網羅！","price":"2400","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
 ,
 {"isbn":"9784296100750","title":"まるわかり！ＩｏＴビジネス 2019　50の厳選事例","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784296100750.jpg","author":"日経xTECH／日経コンピュータ／編集","description":"気になる会社のIoT事例が分かる。IoTビジネスのヒントが詰まった1冊","price":"2400","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
 ,
-{"isbn":"9784309279558","title":"バレリーナは、どこ？","volume":"","series":"","publisher":"河出書房新社","pubdate":"2018-10-11","cover":"","author":"アビゲイル・ゴー／イラスト アンナ・クレイボーン／著 斎藤静代／翻訳","description":"絵さがしで遊びながら、大定番のバレエ１０作品のストーリーが学べるイギリス発の画期的絵本。キラキラしたカバーでギフトにも。","price":"2000","genre":"","target":"一般","format":"単行本","content":"音楽・舞踊"}
+{"isbn":"9784309279558","title":"バレリーナは、どこ？","volume":"","series":"","publisher":"河出書新社","pubdate":"2018-10-11","cover":"","author":"アビゲイル・ゴー／イラスト アンナ・クレイボーン／著 斎藤静代／翻訳","description":"絵さがしで遊びながら、大定番のバレエ１０作品のストーリーが学べるイギリス発の画期的絵本。キラキラしたカバーでギフトにも。","price":"2000","genre":"","target":"一般","format":"単行本","content":"音楽・舞踊"}
 ,
 {"isbn":"9784313001947","title":"地方自治小六法　平成3１年版","volume":"","series":"","publisher":"学陽書房","pubdate":"2018-10-11","cover":"","author":"地方自治制度研究会／監修","description":"伝統ある自治法規集の決定版！自治法施行令など平成３０年通常国会までの改正を収録！","price":"4000","genre":"","target":"実用","format":"単行本","content":"法律"}
 ,
@@ -74,6 +74,4 @@
 {"isbn":"9784334902346","title":"太田奈緒ファースト写真集　背伸びの高さ","volume":"","series":"","publisher":"光文社","pubdate":"2018-10-11","cover":"","author":"エンタテインメント編集部／編集","description":"","price":"1852","genre":"芸能・タレント","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784335651830","title":"名医が教える病気の見つけ方","volume":"","series":"","publisher":"弘文堂","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784335651830.jpg","author":"掛谷和俊／著","description":"「がんには症状が無い」――20万例を超える胃腸内視鏡検査の実績をふまえて名医が警告・提案","price":"1500","genre":"","target":"教養","format":"単行本","content":"医学・歯学・薬学"}
-,
-{"isbn":"9784416618110","title":"うさぎの時間 no.22","volume":"22","series":"うさぎの時間","publisher":"誠文堂新光社","pubdate":"2018-10-11","cover":"https://cover.openbd.jp/9784416618110.jpg","author":"うさぎの時間編集部／編集","description":"うさぎと仲良くなる方法を大特集。鳴かないはずのうさぎの「おしゃべり」についても検証します。保存版は「爪切り」と「災害備蓄」。","price":"1500","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ]
