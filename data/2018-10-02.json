@@ -5,7 +5,7 @@
 ,
 {"isbn":"9784052049040","title":"０さい～４さい　こどもずかん英語つき　よくばりバージョン","volume":"","series":"こどもずかん","publisher":"学研プラス","pubdate":"2018-10-02","cover":"","author":"よしだじゅんこ／イラスト","description":"どうぶつ、たべもの、のりものなど、こどもの大好きなジャンル別に、姿と名前を並べました。英語でのよびかたも並記しています。","price":"1280","genre":"児童図書","target":"児童","format":"絵本","content":"教育"}
 ,
-{"isbn":"9784053043801","title":"まぜ単","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-10-02","cover":"https://cover.openbd.jp/9784053043801.jpg","author":"船登惟希／著","description":"「合格のためなら、どんなｓａｃｒｉｆｉｃｅでも払う」……重要英単語を和に混ぜた「まぜ文」で英単語を学ぶ本。","price":"1100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"英米語"}
+{"isbn":"9784053043801","title":"まぜ単","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-10-02","cover":"https://cover.openbd.jp/9784053043801.jpg","author":"船登惟希／著","description":"「合格のためなら、どんなｓａｃｒｉｆｉｃｅでも払う」……重要英単語を和文に混ぜた「まぜ文」で英単語を学ぶ本。","price":"1100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"英米語"}
 ,
 {"isbn":"9784054066656","title":"小さな恋のものがたり　第４４集","volume":"","series":"","publisher":"学研プラス","pubdate":"2018-10-02","cover":"https://cover.openbd.jp/9784054066656.jpg","author":"みつはしちかこ／著","description":"４３集で片恋にひとつの区切りをつけた、主人公のチッチ。その後のチッチの日常を描いた、心温まる抒情まんが。","price":"600","genre":"コミックス(書)","target":"一般","format":"単行本","content":"コミックス・劇画"}
 ,
@@ -66,4 +66,20 @@
 {"isbn":"9784413045544","title":"なぜか、やる気がそがれる 問題な職場","volume":"","series":"","publisher":"青春出版社","pubdate":"2018-10-02","cover":"https://cover.openbd.jp/9784413045544.jpg","author":"見波利幸／著","description":"上司と部下の「やる気の歯車」ががっちり噛み合い、上司の負担が７～８割減る「最強のマネジメント術」を紹介！","price":"890","genre":"","target":"教養","format":"新書","content":"経営"}
 ,
 {"isbn":"9784413112680","title":"シャンシャンの冬　ポストカード＆シールブック","volume":"","series":"","publisher":"青春出版社","pubdate":"2018-10-02","cover":"https://cover.openbd.jp/9784413112680.jpg","author":"青春出版社／編集","description":"ご好評につき、ポストカードブック第3弾！　今回は初めて「ゆるふわオリジナルパンダイラスト」が入ったシール集を４シート収録。","price":"1000","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784413231022","title":"マッキンゼーで学んだ感情コントロールの技術","volume":"","series":"","publisher":"青春出版社","pubdate":"2018-10-02","cover":"https://cover.openbd.jp/9784413231022.jpg","author":"大嶋祥誉／著","description":"個人だけでなく、チーム・組織の感情コントロール術も紹介した、ストレスフルな時代を生きるビジネスパーソン必読の一冊！","price":"1400","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
+,
+{"isbn":"9784416518953","title":"花束・ブーケの発想と作り方","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2018-10-02","cover":"https://cover.openbd.jp/9784416518953.jpg","author":"フローリスト編集部／編集","description":"花束作りの発想と作り方を中心に基本から上級者向けまで掲載した花束アイデアブック。100点以上のリースの作例が掲載。","price":"2000","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784416618936","title":"棒針編みのあみぐるみ","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2018-10-02","cover":"https://cover.openbd.jp/9784416618936.jpg","author":"伊吹広子／著","description":"棒針編みで作る犬、猫、ハリネズミ、ライオン、ナマケモノなど、動物のあみぐるみを25点収録。プロセス写真付きで丁寧に解説。","price":"1500","genre":"","target":"実用","format":"単行本","content":"家事"}
+,
+{"isbn":"9784419065485","title":"社会福祉法人の事務処理体制の向上支援業務","volume":"","series":"","publisher":"税務経理協会","pubdate":"2018-10-02","cover":"https://cover.openbd.jp/9784419065485.jpg","author":"岩波一泰／著","description":"会計専門家による支援業務に関する実務書。「財務会計に関する事務処理体制に係る支援項目リスト」の各項目について解説。","price":"3400","genre":"社会科学","target":"専門","format":"単行本","content":"経営"}
+,
+{"isbn":"9784434247224","title":"日と月と刀〈一〉","volume":"10","series":"完本 丸山健二全集","publisher":"柏艪舎","pubdate":"2018-10-02","cover":"https://cover.openbd.jp/9784434247224.jpg","author":"丸山健二／著","description":"時は乱世の室町時代。刀鍛冶に拾われ育てられた無名丸は自ら鍛えた〈草の刀〉と、育ての親が鍛えた〈星の刀〉携え放浪の旅に出る。","price":"6000","genre":"全集","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784434247231","title":"日と月と刀〈二〉","volume":"11","series":"完本 丸山健二全集","publisher":"柏艪舎","pubdate":"2018-10-02","cover":"https://cover.openbd.jp/9784434247231.jpg","author":"丸山健二／著","description":"時は乱世の室町時代。刀鍛冶に拾われ育てられた無名丸は自ら鍛えた〈草の刀〉と、育ての親が鍛えた〈星の刀〉を携え放浪の旅に出る。","price":"6500","genre":"全集","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784434247248","title":"日と月と刀〈三〉","volume":"12","series":"完本 丸山健二全集","publisher":"柏艪舎","pubdate":"2018-10-02","cover":"https://cover.openbd.jp/9784434247248.jpg","author":"丸山健二／著","description":"時は乱世の室町時代。刀鍛冶に拾われ育てられた無名丸は自ら鍛えた〈草の刀〉と、育ての親が鍛えた〈星の刀〉を携え放浪の旅に出る。","price":"6000","genre":"全集","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784434247255","title":"日と月と刀〈四〉","volume":"13","series":"完本 丸山健二全集","publisher":"柏艪舎","pubdate":"2018-10-02","cover":"https://cover.openbd.jp/9784434247255.jpg","author":"丸山健二／著","description":"時は乱世の室町時代。刀鍛冶に拾われ育てられた無名丸は自ら鍛えた〈草の刀〉と、育ての親が鍛えた〈星の刀〉を携え放浪の旅に出る。","price":"6000","genre":"全集","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ]
