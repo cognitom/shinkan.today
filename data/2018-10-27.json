@@ -3,9 +3,9 @@
 ,
 {"isbn":"9784065131084","title":"上杉謙信　「義の武将」の激情と苦悩","volume":"","series":"","publisher":"星海社","pubdate":"2018-10-27","cover":"","author":"今福匡／著","description":"「戦国最強」「義の武将」は史実か？　本当に妻帯していなかったのか？　最新研究に基づき、謙信の生涯をたどり直す。","price":"1000","genre":"","target":"一般","format":"新書","content":"日本歴史"}
 ,
-{"isbn":"9784065132555","title":"私はあなたの瞳の林檎","volume":"","series":"","publisher":"講談社","pubdate":"2018-10-27","cover":"","author":"舞城王太郎／著","description":"舞城王太郎、新プロジェクト発動！　２ヵ月連続刊行１冊目、恋篇。１０代で炸裂した恋心は、人になった「私」をまだ脅かしている。","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784065132555","title":"私はあなたの瞳の林檎","volume":"","series":"","publisher":"講談社","pubdate":"2018-10-27","cover":"","author":"舞城王太郎／著","description":"舞城王太郎、新プロジェクト発動！　２ヵ月連続刊行１冊目、恋篇。１０代で炸裂した恋心は、大人になった「私」をまだ脅かしている。","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065133651","title":"はりねずみくんの　あかいマフラー","volume":"","series":"","publisher":"講談社","pubdate":"2018-10-27","cover":"","author":"はらだよしこ／著","description":"大好きなばあばからもらったマフラーを遊んでいるうちになくしてしまったハリネズミくん。泣きながらばあばのもとを訪ねると……。","price":"1400","genre":"","target":"児童","format":"絵本","content":"絵画・彫刻"}
+{"isbn":"9784065133651","title":"りねずみくんの　あかいマフラー","volume":"","series":"","publisher":"講談社","pubdate":"2018-10-27","cover":"","author":"はらだよしこ／著","description":"大好きなばあばからもらったマフラーを遊んでいるうちになくしてしまったハリネズミく。泣きながらばあばのもとを訪ねると……。","price":"1400","genre":"","target":"児童","format":"絵本","content":"絵画・彫刻"}
 ,
 {"isbn":"9784065134290","title":"竹画廊レターブック","volume":"","series":"","publisher":"星海社","pubdate":"2018-10-27","cover":"","author":"竹／著","description":"イラストレーター・竹の人気連載「竹画廊」がレターブックに。飾ってよし、送ってよしの華麗なる便箋を厳選集約。贈り物にもどうぞ。","price":"2500","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
@@ -37,15 +37,15 @@
 ,
 {"isbn":"9784101484211","title":"蒼猫のいる家","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2018-10-27","cover":"","author":"篠田節子／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101801391","title":"レトロゲームファクトリー","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2018-10-27","cover":"","author":"柳井政和／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784101801391","title":"レトロゲームファクトリー","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2018-10-27","cover":"https://cover.openbd.jp/9784101801391.jpg","author":"柳井政和／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101801407","title":"スクールカースト殺人同窓会","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2018-10-27","cover":"","author":"堀内公太郎／著","description":"","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784101801407","title":"スクールカースト殺人同窓会","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2018-10-27","cover":"https://cover.openbd.jp/9784101801407.jpg","author":"堀内公太郎／著","description":"","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101801414","title":"奇譚蒐集録 弔い少女の鎮魂歌","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2018-10-27","cover":"","author":"清水朔／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784101801414","title":"奇譚蒐集録 弔い少女の鎮魂歌","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2018-10-27","cover":"https://cover.openbd.jp/9784101801414.jpg","author":"清水朔／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784296100521","title":"実践！医療英語 こんなとき、英語で何と言う？","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2018-10-27","cover":"https://cover.openbd.jp/9784296100521.jpg","author":"グローバルヘルスケア財団／監修","description":"急増する外国人患者さんに安心して治療を受けてもらうためのコミュニケーションの基本を、86の場面に沿って紹介","price":"2400","genre":"医学","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
 ,
 {"isbn":"9784296100552","title":"プライマリ・ケア医のための糖尿病診療入門","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2018-10-27","cover":"https://cover.openbd.jp/9784296100552.jpg","author":"岩岡秀明／著","description":"最新のエビデンスに基いた、糖尿病の治療方針の組み立て方、指導の勘所、薬の使い分けなどをベテラン糖尿病専門医が紹介","price":"3800","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
 ,
-{"isbn":"9784296100569","title":"小説「逆転ホスピタル」で学ぶ　医療経営フレームワーク入門","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2018-10-27","cover":"https://cover.openbd.jp/9784296100569.jpg","author":"渋谷明隆／著 中澤達／著 栗田かほる／著 佐々木善信／著","description":"小説仕立てで、ストーリーを追いながら、病院経営の実際と経営戦略立案のイロハを学べるビジネス書です。","price":"2800","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
+{"isbn":"9784296100569","title":"小説「逆転ホスピタル」で学ぶ　医療経営フレームワーク入門","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2018-10-27","cover":"https://cover.openbd.jp/9784296100569.jpg","author":"渋谷明隆／著 中澤達／著 栗田かほる／著 佐々木善信／著","description":"小説仕立てで、ストーリーを追いながら、病院経営の実際と経営戦略立案のイロハ学べるビジネス書です。","price":"2800","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
 ]
