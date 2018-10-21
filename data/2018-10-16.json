@@ -11,9 +11,9 @@
 ,
 {"isbn":"9784065131343","title":"新装版　はやぶさ新八御用帳（九）　王子稲荷の女","volume":"","series":"","publisher":"講談社","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784065131343.jpg","author":"平岩弓枝／著","description":"正月三ケ日を過ぎた頃、王子稲荷近くで殺しが起こった。しかしその亡骸が見つからない。南町奉行の懐刀、隼新八郎が挑む怪事件第九弾","price":"660","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065131497","title":"継続捜査ゼミ","volume":"","series":"","publisher":"講談社","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784065131497.jpg","author":"今野敏／","description":"元ノンキャリ警察官の大学教授と女子大生五人が継続捜査案件＝「コールドケース（未解決事件）」の解決に挑む新シリーズ第１作！","price":"820","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784065131497","title":"継続捜査ゼミ","volume":"","series":"","publisher":"講談社","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784065131497.jpg","author":"今野敏／著","description":"元ノンキャリ警察官の大学教授と女子大生五人が継続捜査案件＝「コールドケース（未解決事件）」の解決に挑む新シリーズ第１作！","price":"820","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065132050","title":"文庫版　ルー＝ガルー　忌避すべき狼","volume":"","series":"","publisher":"講談社","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784065132050.jpg","author":"京極夏彦／著","description":"端末という鎖に繋がれた少女たちは自由を求め、連続殺人鬼と闘う。百鬼夜行シリーズに連なる近未来を生きる少女たちの冒険譚。","price":"1300","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784065132050","title":"文庫版　ルー＝ガルー　忌避すべき狼","volume":"","series":"","publisher":"講談社","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784065132050.jpg","author":"京極夏彦／著","description":"端末とい鎖に繋がれた少女たちは自由を求め、連続殺人鬼と闘う。百鬼夜行シリーズに連なる近未来を生きる少女たちの冒険譚。","price":"1300","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065132128","title":"小説　昭和元禄落語心中","volume":"","series":"","publisher":"講談社","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784065132128.jpg","author":"東芙美子／著 雲田はるこ／原著 羽原大介／著","description":"ドラマ『昭和元禄落語心中』ノベライズ！　芸の絆に結ばれた熱い友情、師弟や男女の情愛、別れ、そして親友の死をめぐる謎を描く！","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -41,7 +41,7 @@
 ,
 {"isbn":"9784274222719","title":"わかる！解ける！第二種電気工事士筆記試験　計算問題　超入門","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784274222719.jpg","author":"武原春輝／著","description":"計算問題が苦手な読者を対象に、計算問題を解くための受験参考書として必要な知識（数学や電気の基礎）に絞ってやさしく丁寧に解説。","price":"1500","genre":"","target":"専門","format":"単行本","content":"電気"}
 ,
-{"isbn":"9784274222740","title":"コンピュータハイジャッキング","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784274222740.jpg","author":"酒井和哉／著","description":"コードの動きやメモリ上のスタック、データの状態なを丁寧に解説。プログラムがハッキングされる様を具体的に見える解説をする。","price":"3000","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+{"isbn":"9784274222740","title":"コンピュータハイジャッキング","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784274222740.jpg","author":"酒井和哉／著","description":"コードの動きやメモリ上のスタック、データの状態などを丁寧に解説。プログラムがハッキングされる様を具体的に見える解説をする。","price":"3000","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
 ,
 {"isbn":"9784274507076","title":"2019年版 エネルギー管理士（電気分野）過去問題集","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784274507076.jpg","author":"オーム社／編集","description":"「エネルギー管理士」電気分野試験用の受験対策問題集。過去12年間の全問題についての解答解説を収録。","price":"2200","genre":"","target":"専門","format":"単行本","content":"電気"}
 ,
@@ -57,11 +57,13 @@
 ,
 {"isbn":"9784385140636","title":"三省堂現代新国語辞典　第六版","volume":"","series":"","publisher":"三省堂","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784385140636.jpg","author":"小野正弘／編集 市川孝／編集 見坊豪紀／編集 飯間浩明／編集 中里理子／編集 鳴海伸一／編集 ほか","description":"最新教科書や入試問題の調査により大型辞書にも載っていない語句・語義まで丹念に採録。難解な評論文キーワードへの対応も強化。","price":"2800","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"日本語"}
 ,
-{"isbn":"9784385324531","title":"ケータイ社労士Ⅰ　２０１９ 労働法","volume":"","series":"","publisher":"三省堂","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784385324531.jpg","author":"近江直樹／著","description":"初版でいきなりベストセラーとなった本書が年度版化！第Ⅰ巻は労働法働き方改革関連法完全対応。１課見開き完結。","price":"1600","genre":"","target":"実用","format":"単行本","content":"法律"}
+{"isbn":"9784385324531","title":"ケータイ社労士Ⅰ　２０１９ 労働法","volume":"","series":"","publisher":"三省堂","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784385324531.jpg","author":"近江直樹／著","description":"初版でいきなりベストセラーとなった本書が年度版化！第Ⅰ巻は労働法。働き方改革関連法完全対応。１課見開き完結。","price":"1600","genre":"","target":"実用","format":"単行本","content":"法律"}
 ,
 {"isbn":"9784385324548","title":"ケータイ社労士Ⅱ　２０１９ 社会保険法","volume":"","series":"","publisher":"三省堂","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784385324548.jpg","author":"近江直樹／著","description":"初版でいきなりベストセラーとなった本書が年度版化！第Ⅱ巻は社会保険法。法令改正完全対応。１課見開き完結。","price":"1600","genre":"","target":"実用","format":"単行本","content":"法律"}
 ,
 {"isbn":"9784391641677","title":"主婦と生活 お料理家計簿 2019年版","volume":"","series":"別冊主婦と生活","publisher":"主婦と生活社","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784391641677.jpg","author":"主婦と生活社／編集","description":"雑誌『主婦と生活』の付録として昭和25年に誕生し、現在までロングセラーとして愛され続ける家計簿。費目が色分けされて書きやすい記帳欄や、フリーメモスペースも多く、日記兼用に活用する読者も多数です。\n巻頭特集や記帳欄の充実した料理レシピが、日々のおかず作りのヒントになって、献立に悩む人の強い味方に。\n別冊付録「季節の花のスケジュールカレンダー」は、予定が書き込みやすいと毎年大好評。2019年版は目に鮮やかなフラワーブーケの写真で、お部屋に飾っても華やぎます。\nとじ込み付録の「領収書ポケット」も、レシートの保管や整理に大活躍するアイテムです。","price":"880","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
 {"isbn":"9784405086975","title":"SHINSEI　Health　and　Sports　ゴルフルールBOOK","volume":"","series":"","publisher":"新星出版社","pubdate":"2018-10-16","cover":"https://cover.openbd.jp/9784405086975.jpg","author":"新星出版社編集部／編集","description":"2019年1月から近年にない大改訂をする新・ゴルフルール。本書は、状況別にルールをひと目でわかるイラストと簡潔な解説で掲載。","price":"850","genre":"","target":"実用","format":"単行本","content":"体育・スポーツ"}
+,
+{"isbn":"9784415227740","title":"実用六法　平成３１年版","volume":"","series":"","publisher":"成美堂出版","pubdate":"2018-10-16","cover":"","author":"加藤晋介／監修","description":"実務・ビジネス・くしに役立つ基本的な法令・条文を厳選収録。見やすいようにカタカナ法文を「ひらがな」表記に改めているので、各種資格試験対策にも最適。\n過去1年間で話題になった法案は成立状況を掲載。改正部分がひと目でわかるように条数を白ヌキで表示、改正部分の右横にラインを引いています。\n民法、商法、働き方改革関連法、刑法、著作権法、生活保護法などの改正に対応！","price":"1600","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"法律"}
 ]
