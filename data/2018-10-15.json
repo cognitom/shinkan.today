@@ -91,7 +91,7 @@
 ,
 {"isbn":"9784254516685","title":"方言の語彙 日本語を彩る地域語の世界","volume":"8","series":"シリーズ〈日本語の語彙〉 8","publisher":"朝倉書店","pubdate":"2018-10-15","cover":"https://cover.openbd.jp/9784254516685.jpg","author":"小林隆／編集","description":"方言の語彙を，自然，歴史，発想，分布，世代，継承，社会支援との関係など様々な観点から探る。","price":"3700","genre":"語学・辞事典","target":"専門","format":"全集・双書","content":"日本語"}
 ,
-{"isbn":"9784254610635","title":"スタンダード人間栄養学 食品の安全性","volume":"","series":"","publisher":"朝倉書店","pubdate":"2018-10-15","cover":"https://cover.openbd.jp/9784254610635.jpg","author":"上田成子／編集 桑原祥浩／著 鎌田洋一／著","description":"食品の安全性に関する情報を,図表を用い解説したテキスト。管理栄養士国試ガイドライン準拠","price":"2400","genre":"自然科学","target":"専門","format":"単行本","content":"家事"}
+{"isbn":"9784254610635","title":"スタンダード人間栄養学 食品の安全性","volume":"","series":"","publisher":"朝倉書店","pubdate":"2018-10-15","cover":"https://cover.openbd.jp/9784254610635.jpg","author":"上田成子／編集 桑原祥浩／著 鎌田洋一／著","description":"食品の安全性に関する情報を,図表を用い解説したキスト。管理栄養士国試ガイドライン準拠","price":"2400","genre":"自然科学","target":"専門","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784260035408","title":"音声障害治療学","volume":"","series":"","publisher":"医学書院","pubdate":"2018-10-15","cover":"","author":"廣瀬肇／著","description":"音声障害の“治療”に焦点をあてる音声障害治療の理論的背景と最新の医学的治療、言語聴覚士による行動学的アプローチを解説する。音声障害治療は、医療の一環として医学的適応があることが大前提だが、これと患者の行動変容をめざす音声障害への行動学的治療（本書では音声治療と同義とする）が、診療の現場で併用される例もあることは言うまでもない。音声障害治療の第一人者である医師と言語聴覚士によるコラボレーション。","price":"5000","genre":"","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
 ,
@@ -121,11 +121,9 @@
 ,
 {"isbn":"9784416618196","title":"焼肉語辞典","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2018-10-15","cover":"https://cover.openbd.jp/9784416618196.jpg","author":"田辺晋太郎／監修 平井さくら／イラスト","description":"焼肉にまつわるさまざまな用語を、多数のイラストを交えて解説した、まったく新しい焼肉の辞典！","price":"1500","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784416718346","title":"ジ・アート・オブ Horizon Zero Dawn","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2018-10-15","cover":"https://cover.openbd.jp/9784416718346.jpg","author":"ポール・デイヴィス／著 江原健／翻訳 大島陸／監修・翻訳","description":"全界累計実売本数760万本を突破したアクションRPGの傑作『Horizon Zero Dawn』のアート集の邦訳版","price":"3500","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+{"isbn":"9784416718346","title":"ジ・アート・オブ Horizon Zero Dawn","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2018-10-15","cover":"https://cover.openbd.jp/9784416718346.jpg","author":"ポール・デイヴィス／著 江原健／翻訳 大島陸／監修・翻訳","description":"全世界累計実売本数760万本を突破したアクションRPGの傑作『Horizon Zero Dawn』のアート集の邦訳版","price":"3500","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784418182527","title":"はじめての盆栽　失敗しない８つのコツ","volume":"","series":"","publisher":"世界文化社","pubdate":"2018-10-15","cover":"","author":"山田香織／著","description":"NHKテレビ「趣味の園芸」講師をはじめマスコミでおなじみの人気盆栽家が作った、新しい盆栽の入門書。","price":"1600","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784418188239","title":"しかけがいっぱい！どうぶつたちのおうちづくり","volume":"","series":"","publisher":"世界文化社","pubdate":"2018-10-15","cover":"","author":"モイラバターフィールド／著 ティムハッチンソン／イラスト","description":"かわいいイラストで、動物たちの驚きの“おうちづくり”を楽しく紹介する、イギリス発のしかけ絵本。","price":"2200","genre":"","target":"児童","format":"絵本","content":"生物学"}
-,
-{"isbn":"9784476033786","title":"北東アジア市民圏構想","volume":"","series":"","publisher":"第三文明社","pubdate":"2018-10-15","cover":"https://cover.openbd.jp/9784476033786.jpg","author":"佐藤優／著 金惠京／著","description":"日本・韓国・北朝鮮・中国・ロシア、揺れる北東アジアを巡る諸問題を作家・佐藤優氏と国際法学者・金惠京氏が語り合う未来への対話。","price":"1400","genre":"","target":"一般","format":"単行本","content":"政治-含む国防軍事"}
 ]
