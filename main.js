@@ -1326,6 +1326,8 @@ function create(src) {
 
 var settings$1 = extend(create(brackets.settings), {
   skipAnonymousTags: true,
+  // the "value" attributes will be preserved
+  keepValueAttributes: false,
   // handle the auto updates on any DOM event
   autoUpdate: true
 });
@@ -2110,9 +2112,11 @@ function updateExpression(expr) {
   var ref = this.__;
   var isAnonymous = ref.isAnonymous;
   var parent = dom && (expr.parent || dom.parentNode);
+  var keepValueAttributes = settings$1.keepValueAttributes;
   // detect the style attributes
   var isStyleAttr = attrName === 'style';
   var isClassAttr = attrName === 'class';
+  var isValueAttr = attrName === 'value';
 
   var value;
 
@@ -2151,7 +2155,18 @@ function updateExpression(expr) {
   }
 
   // remove original attribute
-  if (expr.attr && (!expr.wasParsedOnce || !hasValue || value === false)) {
+  if (expr.attr &&
+      (
+        // the original attribute can be removed only if we are parsing the original expression
+        !expr.wasParsedOnce ||
+        // or its value is false
+        value === false ||
+        // or if its value is currently falsy...
+        // We will keep the "value" attributes if the "keepValueAttributes"
+        // is enabled though
+        (!hasValue && (!isValueAttr || isValueAttr && !keepValueAttributes))
+      )
+  ) {
     // remove either riot-* attributes or just the attribute name
     removeAttribute(dom, getAttribute(dom, expr.attr) ? expr.attr : attrName);
   }
@@ -2207,7 +2222,7 @@ function updateExpression(expr) {
       dom[attrName] = value;
     }
 
-    if (attrName === 'value' && dom.value !== value) {
+    if (isValueAttr && dom.value !== value) {
       dom.value = value;
     } else if (hasValue && value !== false) {
       setAttribute(dom, attrName, value);
@@ -3508,6 +3523,11 @@ var riot$1 = extend({}, core, {
   util: util,
 });
 
+/**
+ * Simple client-side router
+ * @module riot-route
+ */
+
 var RE_ORIGIN = /^.+?\/\/+[^/]+/;
 var EVENT_LISTENER = 'EventListener';
 var REMOVE_EVENT_LISTENER = 'remove' + EVENT_LISTENER;
@@ -3528,7 +3548,6 @@ var central = observable$1();
 var started = false;
 var routeFound = false;
 var debouncedEmit;
-var base;
 var current;
 var parser;
 var secondParser;
@@ -3584,6 +3603,7 @@ function start(autoExec) {
   win[ADD_EVENT_LISTENER](POPSTATE, debouncedEmit);
   win[ADD_EVENT_LISTENER](HASHCHANGE, debouncedEmit);
   doc[ADD_EVENT_LISTENER](clickEvent, click);
+
   if (autoExec) { emit(true); }
 }
 
@@ -3620,6 +3640,7 @@ function getPathFromRoot(href) {
  * @returns {string} path from base
  */
 function getPathFromBase(href) {
+  var base = route$1._.base;
   return base[0] === '#'
     ? (href || loc.href || '').split(base)[1] || ''
     : (loc ? getPathFromRoot(href) : href || '').replace(base, '')
@@ -3638,6 +3659,7 @@ function emit(force) {
       current = path;
     }
   });
+
   if (isRoot) {
     var first;
     while (first = emitStack.shift()) { first(); } // stack increses within this call
@@ -3663,6 +3685,8 @@ function click(e) {
     || el.href.indexOf(loc.href.match(RE_ORIGIN)[0]) === -1 // cross origin
   ) { return }
 
+  var base = route$1._.base;
+
   if (el.href !== loc.href
     && (
       el.href.split('#')[0] === loc.href.split('#')[0] // internal jump
@@ -3685,7 +3709,7 @@ function go(path, title, shouldReplace) {
   // Server-side usage: directly execute handlers for the path
   if (!hist) { return central[TRIGGER]('emit', getPathFromBase(path)) }
 
-  path = base + normalize(path);
+  path = route$1._.base + normalize(path);
   title = title || doc.title;
   // browsers ignores the second parameter `title`
   shouldReplace
@@ -3747,11 +3771,15 @@ prot.r = function(filter, action) {
     filter = '/' + normalize(filter);
     this.$.push(filter);
   }
+
   this.on(filter, action);
 };
 
 var mainRouter = new Router();
 var route$1 = mainRouter.m.bind(mainRouter);
+
+// adding base and getPathFromBase to route so we can access them in route.tag's script
+route$1._ = { base: null, getPathFromBase: getPathFromBase };
 
 /**
  * Create a sub router
@@ -3771,7 +3799,7 @@ route$1.create = function() {
  * @param {(str|RegExp)} arg - a new base or '#' or '#!'
  */
 route$1.base = function(arg) {
-  base = arg || '#';
+  route$1._.base = arg || '#';
   current = getPathFromBase(); // recalculate current path
 };
 
@@ -3814,6 +3842,7 @@ route$1.stop = function () {
       win[REMOVE_EVENT_LISTENER](HASHCHANGE, debouncedEmit);
       doc[REMOVE_EVENT_LISTENER](clickEvent, click);
     }
+
     central[TRIGGER]('stop');
     started = false;
   }
@@ -3828,8 +3857,7 @@ route$1.start = function (autoExec) {
     if (win) {
       if (document.readyState === 'interactive' || document.readyState === 'complete') {
         start(autoExec);
-      }
-      else {
+      } else {
         document.onreadystatechange = function () {
           if (document.readyState === 'interactive') {
             // the timeout is needed to solve
@@ -3839,6 +3867,7 @@ route$1.start = function (autoExec) {
         };
       }
     }
+
     started = true;
   }
 };
@@ -3871,7 +3900,7 @@ riot$1.tag2('route', '<virtual if="{show}"><yield></yield></virtual>', '', '', f
     var this$1 = this;
 
     this.show = false;
-    this.parent.route(opts.path, function () {
+    var showRoute = function () {
       var arguments$1 = arguments;
 
       var args = [], len = arguments.length;
@@ -3886,7 +3915,18 @@ riot$1.tag2('route', '<virtual if="{show}"><yield></yield></virtual>', '', '', f
       });
       this$1.parent.select(this$1);
       this$1.parent.update();
-    });
+    };
+
+    var getPathFromBase = !!window && !!window.route && !!window.route._
+                               ? window.route._.getPathFromBase
+                               : function () { return ''; };
+
+    if(opts.path === getPathFromBase()){
+
+      setTimeout(showRoute, 0);
+    }
+
+    this.parent.route(opts.path, showRoute);
 
     function flatten(tags) {
       return Object.keys(tags)

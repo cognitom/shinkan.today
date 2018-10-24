@@ -33,7 +33,7 @@
 ,
 {"isbn":"9784040729992","title":"【騎乗スキル】で美少女とヤリたい放題するだけで、最強騎士生活","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-10-20","cover":"https://cover.openbd.jp/9784040729992.jpg","author":"草薙アキ／著 福きつね／イラスト","description":"モン娘とイチャイチャしながら【騎乗スキル】で乗りこなせ！","price":"600","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041071410","title":"未来のミライ　ＡＲＴＢＯＯＫ","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-10-20","cover":"https://cover.openbd.jp/9784041071410.jpg","author":"日本テレビ・スタジオ地図LLP／監修","description":"未来のミライ」の美術と技術をこの１冊に！","price":"3200","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+{"isbn":"9784041071410","title":"未来のミライ　ＡＲＴＢＯＯＫ","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-10-20","cover":"https://cover.openbd.jp/9784041071410.jpg","author":"日本テレビ・スタジオ地図LLP／監修","description":"「未来のミライ」の美術と技術をこの１冊に！","price":"3200","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784046021700","title":"小学生から身につけたい 一生役立つ語彙力の育て方","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-10-20","cover":"https://cover.openbd.jp/9784046021700.jpg","author":"石黒圭／著 柏野和佳子／著","description":"学習の根源、「語彙力」を育てれば、勉強が好きになる！","price":"1400","genre":"","target":"実用","format":"単行本","content":"日本語"}
 ,
@@ -91,7 +91,7 @@
 ,
 {"isbn":"9784199805288","title":"パンと僕のモモちゃん　②","volume":"","series":"","publisher":"ノース・スターズ・ピクチャーズ","pubdate":"2018-10-20","cover":"","author":"うさとさや／著","description":"同居する伯母・モモへ恋心をよせる、甥っ子・シロ（１２歳）。シロはある日、自分とモモの本当の関係を知ってしまい…。","price":"580","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784199805295","title":"火色の文楽　③","volume":"","series":"","publisher":"ノース・スターズ・ピクチャーズ","pubdate":"2018-10-20","cover":"","author":"北駒生／著","description":"「あさめしまえ」の北駒生が圧倒的筆致で描く伝統芸能“文楽”、その果て無き“芸道”の物語。最終第③巻。","price":"580","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784199805295","title":"火色の文楽　③","volume":"","series":"","publisher":"ノース・スターズ・ピクチャーズ","pubdate":"2018-10-20","cover":"","author":"北駒生／著","description":"「あさめしまえ」の北駒生が圧倒的筆致でく伝統芸能“文楽”、その果て無き“芸道”の物語。最終第③巻。","price":"580","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784199805301","title":"いぶり暮らし　⑧","volume":"","series":"","publisher":"ノース・スターズ・ピクチャーズ","pubdate":"2018-10-20","cover":"","author":"大島千春／著","description":"「燻製クラムチャウダー」など秋冬にピッタリな燻製料理が満載！！今年こそ始めたい燻製グルメが堪能できる最新刊です！","price":"580","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -128,6 +128,4 @@
 {"isbn":"9784413211239","title":"栄養と味、９割も損してる！残念な料理","volume":"","series":"","publisher":"青春出版社","pubdate":"2018-10-20","cover":"https://cover.openbd.jp/9784413211239.jpg","author":"ホームライフ取材班／編集","description":"意外に知られていない、食材や調理道具の正しい使い方や、味つけをはじめとした調理法を伝えます。","price":"1000","genre":"","target":"一般","format":"新書","content":"家事"}
 ,
 {"isbn":"9784424267010","title":"小学　100％丸暗記　歴史年代","volume":"","series":"","publisher":"受験研究社","pubdate":"2018-10-20","cover":"https://cover.openbd.jp/9784424267010.jpg","author":"小学教育研究会／著・編集","description":"口調のよいゴロ合わせとゆかいなマンガで，小学校で学習する歴史の重要年代を丸暗記できるポケットサイズの暗記本です。","price":"880","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"歴史総記"}
-,
-{"isbn":"9784485221266","title":"最短攻略 技能検定 機械保全 電気系保全作業 学科・実技 -1・2級対応- 改訂新版","volume":"","series":"","publisher":"電気書院","pubdate":"2018-10-20","cover":"","author":"技能検定問題研究会／著","description":"技能検定　機械保全　電気系保全作業1・2級は本書で最短攻略！\n学科試験は、過去の出題傾向を分析し、項目ごとに学習できるようにまとめました。得意分野は読み飛ばし、苦手分野は細かく確認できるように編集しました。\n実技試験は、試験を突破するためのコツをわかりやすく解説してあります。また、スマホを使えば動画でも確認できるようにしました。本書を使って練習することが合格への最短攻略となります。","price":"2800","genre":"","target":"専門","format":"単行本","content":"電気"}
 ]
