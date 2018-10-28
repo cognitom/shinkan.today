@@ -65,7 +65,7 @@
 ,
 {"isbn":"9784274216565","title":"ISO21500から読み解く　プロジェクトマネジメント","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-11-10","cover":"https://cover.openbd.jp/9784274216565.jpg","author":"榎本徹／著","description":"ISO21500の内容を詳説。実質的なプロジェクトマネジメントの適用が図れる内容。","price":"2500","genre":"工業・工学","target":"専門","format":"単行本","content":"工学・工学総記"}
 ,
-{"isbn":"9784274222870","title":"実装 強化学習","volume":"","series":"","publisher":"株会社オーム社","pubdate":"2018-11-10","cover":"https://cover.openbd.jp/9784274222870.jpg","author":"伊藤一之／著","description":"強化学習の基礎からロボットへの実装までを解説した実務書。プグラミングはC言語で、ロボットへの実装までを解説。","price":"2500","genre":"工業・工学","target":"専門","format":"単行本","content":"機械"}
+{"isbn":"9784274222870","title":"実装 強化学習","volume":"","series":"","publisher":"株式会社オーム社","pubdate":"2018-11-10","cover":"https://cover.openbd.jp/9784274222870.jpg","author":"伊藤一之／著","description":"強化学習の基礎からロボットへの実装までを解説した実務書。プログラミングはC言語で、ロボットへの実装までを解説。","price":"2500","genre":"工業・工学","target":"専門","format":"単行本","content":"機械"}
 ,
 {"isbn":"9784276145801","title":"もっと音楽が好きになる　上達の基本 フルート","volume":"","series":"","publisher":"音楽之友社","pubdate":"2018-11-10","cover":"https://cover.openbd.jp/9784276145801.jpg","author":"神田寛明／著","description":"毎日の練習が「上達」の繰り返しになる！一流奏者の「基本」は入門に役立ち、中上級者には新たな世界を拓く。基礎練シート付き。\n","price":"1600","genre":"芸術","target":"教養","format":"単行本","content":"音楽・舞踊"}
 ,
@@ -74,4 +74,12 @@
 {"isbn":"9784276145849","title":"もっと音楽が好きになる　上達の基本 サクソフォーン","volume":"","series":"","publisher":"音楽之友社","pubdate":"2018-11-10","cover":"https://cover.openbd.jp/9784276145849.jpg","author":"平野公崇／著","description":"毎日の練習が「上達」の繰り返しになる！一流奏者の「基本」は入門に役立ち、中上級者には新たな世界を拓く。基礎練シート付き。\n","price":"1600","genre":"芸術","target":"教養","format":"単行本","content":"音楽・舞踊"}
 ,
 {"isbn":"9784276145856","title":"もっと音楽が好きになる　上達の基本 トランペット","volume":"","series":"","publisher":"音楽之友社","pubdate":"2018-11-10","cover":"https://cover.openbd.jp/9784276145856.jpg","author":"高橋敦／著","description":"毎日の練習が「上達」の繰り返しになる！一流奏者の「基本」は入門に役立ち、中上級者には新たな世界を拓く。基礎練シート付き。\n","price":"1600","genre":"","target":"教養","format":"単行本","content":"音楽・舞踊"}
+,
+{"isbn":"9784406062688","title":"のんのんとふしぎなクリスマス","volume":"","series":"のんのんかぞくとあそぼ！","publisher":"新日本出版社","pubdate":"2018-11-10","cover":"","author":"森のくじら／イラスト グループ・コロンブス／著","description":"「プレゼントはまだかなあ」のんのんが夜空を見ていると、大きな光とともに何かが落ちてきました。なと光の正体はサンタさん！？","price":"1300","genre":"","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784406062770","title":"えっ！ わたしだけの学校？","volume":"","series":"","publisher":"新日本出版社","pubdate":"2018-11-10","cover":"","author":"劉旭恭／著 松本猛／翻訳","description":"春になって学校に行ったら、生徒はわたしだけ。みんな別の学校に行ってしまった―。「学校がつぶれてしまう」と心配する先生たちは…","price":"1500","genre":"","target":"児童","format":"絵本","content":"外国文学小説"}
+,
+{"isbn":"9784406062855","title":"ASEANの奇跡 平和の生態系","volume":"","series":"","publisher":"新日本出版社","pubdate":"2018-11-10","cover":"","author":"キショール・マブバニ／著 ジェフェリー・スン／著 黒柳米司／翻訳","description":"創設から半世紀、東南アジアに平和と発展をもたらしたＡＳＥＡＮ。地域の代表的論客がその歩みを検証する。今日の世界へのヒントも。","price":"3000","genre":"","target":"一般","format":"単行本","content":"政治-含む国防軍事"}
+,
+{"isbn":"9784407346220","title":"技術者倫理","volume":"","series":"","publisher":"実教出版","pubdate":"2018-11-10","cover":"https://cover.openbd.jp/9784407346220.jpg","author":"秋山仁／監修 森野数博／監修 藤本義彦／編集 木原滋哉／編集 天内和人／編集","description":"新しいタイプの技術者倫理のテキスト。コミュニケーションの基本から異文化理解まで、海外の生産現場でも通用する内容を一冊に。","price":"2100","genre":"","target":"専門","format":"単行本","content":"工学・工学総記"}
 ]
