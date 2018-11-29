@@ -47,13 +47,13 @@
 ,
 {"isbn":"9784041077382","title":"軍神虎は花嫁Ωを甘やかす","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784041077382.jpg","author":"市川紗弓／著 一夜人見／イラスト","description":"軍神の力を宿す堅物騎士×救国のオメガの、異世界トリップラブ！","price":"660","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041077399","title":"後宮を飛び出したとある側室の話","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784041077399.jpg","author":"はなのみやこ／著 香坂あきほ／イラスト","description":"高い志を持つ王太子×聡明な元側室＋大国の王が織りなす国と恋を巡る物語","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784041077399","title":"後宮を飛び出したとある側室の話","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784041077399.jpg","author":"はなのみやこ／著 香坂あきほ／イラスト","description":"高い志を持つ王太子×聡明な元側室＋大国の王織りなす国と恋を巡る物語","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784041077405","title":"蘇獣師の召喚","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784041077405.jpg","author":"あまちかひろむ／イラスト マキ／著","description":"異世界の強力な術師×不思議な力を隠し持った大学生の異世界トリップラブ","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784041078358","title":"魔王討伐すら出来る俺、異世界最強の賭博師になる","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784041078358.jpg","author":"セツナセイ／著 ｍｍｕ／イラスト","description":"この男――最弱職にして最強！【超規格外】賭博師による空前の英雄譚！！","price":"620","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041078396","title":"この世界で9番目ぐらいな俺、異世界人の監視役に駆り出されました3","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784041078396.jpg","author":"東雲立風／著 あれっくす／イラスト","description":"『災厄の数字　VS『正体不明』――世界の命運を懸けた、全面戦争勃発！","price":"660","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784041078396","title":"この世界で9番目ぐらいな俺、異世界人の監視役に駆り出されました3","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784041078396.jpg","author":"東雲立風／著 あれっくす／イラスト","description":"『災厄の数字』　VS『正体不明』――世界の命運を懸けた、全面戦争勃発！","price":"660","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784047354142","title":"神様の御用人４","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784047354142.jpg","author":"ユキムラ／著 浅葉なつ／原著 くろのくろ／企画","description":"神様と人間の繋がりと絆を描く、フリーター御用人物語。","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -95,9 +95,19 @@
 ,
 {"isbn":"9784274507052","title":"電験三種なるほど数学","volume":"","series":"","publisher":"オーム社","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784274507052.jpg","author":"深澤一幸／著","description":"数学単元ごとに電験三種レベルの問題と数学をリンクし、「数学の使い方・解き方」をわかりやすく解説。","price":"2000","genre":"","target":"専門","format":"単行本","content":"電気"}
 ,
-{"isbn":"9784274507113","title":"マイクロマウスではじめよう　ロボットプログラミング入門","volume":"","series":"","publisher":"オーム社","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784274507113.jpg","author":"株式会社アールティ／編集 「ロボコンマガジン」編集部／編集","description":"この1冊からロボットプログラミングをはじめよう！ロボット総合情報誌「ロボコンマガジン」での好評連載を単行本化！","price":"2600","genre":"工業・工学","target":"専門","format":"単行本","content":"機械"}
+{"isbn":"9784274507113","title":"マクロマウスではじめよう　ロボットプログラミング入門","volume":"","series":"","publisher":"オーム社","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784274507113.jpg","author":"株式会社アールティ／編集 「ロボコンマガジン」編集部／編集","description":"この1冊からロボットプログラミングをはじめよう！ロボット総合情報誌「ロボコンマガジン」での好評連載を単行本化！","price":"2600","genre":"工業・工学","target":"専門","format":"単行本","content":"機械"}
 ,
 {"isbn":"9784274507168","title":"第二種電気工事士筆記完全マスター（第2版）","volume":"","series":"","publisher":"オーム社","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784274507168.jpg","author":"オーム社／編集","description":"第二種電気工事士「筆記試験」の標準テキスト。効率よく、バランスよく学習できる一冊。","price":"1800","genre":"","target":"専門","format":"単行本","content":"電気"}
 ,
 {"isbn":"9784296100491","title":"データマネジメント知識体系ガイド　第二版","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784296100491.jpg","author":"DAMAInternational／著 DAMA日本支部Metafindコンサルティング株式会社／翻訳","description":"データを制するものはビジネスを制す データから価値を生むための知識を網羅\n","price":"12000","genre":"","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784396115579","title":"自分マーケティング　一点突破で「その他大勢」から抜け出す","volume":"","series":"","publisher":"祥伝社","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784396115579.jpg","author":"川上徹也／著","description":"自分マーケティング　一点突破で「その他大勢」から抜け出す","price":"800","genre":"","target":"一般","format":"新書","content":"経営"}
+,
+{"isbn":"9784396115586","title":"徳川家康の江戸プロジェクト","volume":"","series":"","publisher":"祥伝社","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784396115586.jpg","author":"門井慶喜／著","description":"徳川家康の江戸プロジェクト","price":"800","genre":"","target":"一般","format":"新書","content":"日本歴史"}
+,
+{"isbn":"9784396616748","title":"お母さんは心配症！？　ヒヨくんあっくん育児日記","volume":"","series":"","publisher":"祥伝社","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784396616748.jpg","author":"やまもとりえ／著","description":"お母さんは心配症！？","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784418181506","title":"レクリエ　２０１９－１・２月","volume":"","series":"別冊家庭画報","publisher":"世界文化社","pubdate":"2018-12-01","cover":"","author":"","description":"高齢者介護施設の現場で必要なレクリエーションのプランを提供するレクリエーション情報誌。パズルやぬり絵も盛りだくさん。","price":"1806","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"社会"}
+,
+{"isbn":"9784473042224","title":"実践 取り合わせのヒント　12","volume":"","series":"淡交テキスト","publisher":"淡交社","pubdate":"2018-12-01","cover":"https://cover.openbd.jp/9784473042224.jpg","author":"小澤宗誠／著 本間宗寿／著 小林宗美／著 依田徹／著 淡交社編集局／編集","description":"12月に知りたい歳時記・故事・物語、意匠・銘のあれこれを一冊に。稽古・茶会がより充実するよう取り合わせを楽しく学びましょう。","price":"600","genre":"","target":"実用","format":"全集・双書","content":"諸芸・娯楽"}
 ]
