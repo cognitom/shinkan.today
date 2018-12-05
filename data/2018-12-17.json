@@ -7,13 +7,13 @@
 ,
 {"isbn":"9784040653600","title":"触れたいカラダ","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2018-12-17","cover":"https://cover.openbd.jp/9784040653600.jpg","author":"榎木しめじ／著","description":"「キス以外なら、何してもいいよ」謎多き客×カラダを売る青年","price":"680","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784047333659","title":"＃コンパス　戦闘摂理解析システム　オフィャルアートブック2018","volume":"","series":"","publisher":"Ｇｚブレイン","pubdate":"2018-12-17","cover":"https://cover.openbd.jp/9784047333659.jpg","author":"","description":"新ヒーロー、コラボヒーロー追加！","price":"3000","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+{"isbn":"9784047333659","title":"＃コンパス　戦闘摂理解析システム　オフィシャルアートブック2018","volume":"","series":"","publisher":"Ｇｚブレイン","pubdate":"2018-12-17","cover":"https://cover.openbd.jp/9784047333659.jpg","author":"","description":"新ヒーロー、コラボヒーロー追加！","price":"3000","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784065120750","title":"ゲゲゲの鬼太郎（10）","volume":"","series":"","publisher":"講談社","pubdate":"2018-12-17","cover":"","author":"水木しげる／著","description":"","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065130476","title":"子どもといく　東京ディズニーランド　ナビガイド　2019－2020　シール100枚つき","volume":"","series":"","publisher":"講談社","pubdate":"2018-12-17","cover":"","author":"講談社／編集 本社写真部／写真","description":"東京ディズニーランドを子どもと一緒に楽しみたい、そんなママ＆パ向けのパークガイド最新版。ディズニーキャラクターシール付き！","price":"1200","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"旅行"}
+{"isbn":"9784065130476","title":"子どもといく　東京ディズニーランド　ナビガイド2019－2020　シール100枚つき","volume":"","series":"","publisher":"講談社","pubdate":"2018-12-17","cover":"","author":"講談社／編集 本社写真部／写真","description":"東京ディズニーランドを子どもと一緒に楽しみたい、そんなママ＆パパ向けのパークガイド最新版。ディズニーキャラクターシール付き！","price":"1200","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"旅行"}
 ,
-{"isbn":"9784065132500","title":"五等分の花嫁（7）","volume":"","series":"","publisher":"講談社","pubdate":"2018-12-17","cover":"","author":"春場ねぎ／著","description":"家庭教師を継続することになった風太郎。次そは「全教科赤点回避」！　風太郎と中野家五つ子の楽しい一年が幕を開ける──！！","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065132500","title":"五等分の花嫁（7）","volume":"","series":"","publisher":"講談社","pubdate":"2018-12-17","cover":"","author":"春場ねぎ／著","description":"家庭教師を継続することになった風太郎。次こそは「全教科赤点回避」！　風太郎と中野家五つ子の楽しい一年が幕を開ける──！！","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065133965","title":"不滅のあなたへ（9）","volume":"","series":"","publisher":"講談社","pubdate":"2018-12-17","cover":"","author":"大今良時／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -21,7 +21,7 @@
 ,
 {"isbn":"9784065134849","title":"This　Man　その顔を見た者には死を（3）","volume":"","series":"","publisher":"講談社","pubdate":"2018-12-17","cover":"","author":"恵広史／著 花林ソラ／原著","description":"かつての親友でディスマンの最有力容疑者、九品寺の元へ向かう斗。そして、明らかになるディスマンの“真の動機”とは！？","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065134856","title":"川柳少女（7）","volume":"","series":"","publisher":"講談社","pubdate":"2018-12-17","cover":"","author":"五十嵐正邦／著","description":"七々子と五町、それぞれの願いと想いが込められた運命のクリスマスがやってくる……。","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065134856","title":"川柳少女（7）","volume":"","series":"","publisher":"講談社","pubdate":"2018-12-17","cover":"","author":"五十嵐正邦／著","description":"七々子と五町、それぞれの願いと想いが込められた命のクリスマスがやってくる……。","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065134870","title":"オリエント（3）","volume":"","series":"","publisher":"講談社","pubdate":"2018-12-17","cover":"","author":"大高忍／著","description":"小雨田城に迫る小鬼の群れ！　圧政から家族を守るため、城主・小雨田英雄に、つぐみが立ち向かう！！","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -61,27 +61,11 @@
 ,
 {"isbn":"9784309256115","title":"ちいさんぽのせつなかわいい図鑑（仮）","volume":"","series":"","publisher":"河出書房新社","pubdate":"2018-12-17","cover":"","author":"ちいさんぽ／著","description":"SNSで大人気のイラストレーター、ちいさんぽの初めてのイラストブック！　心がなごむ、かわいくっておいしそうな彼らが大集合。","price":"1050","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
+{"isbn":"9784309287089","title":"堀内友紀の動物たちの刺繍絵","volume":"","series":"","publisher":"河出書房新社","pubdate":"2018-12-17","cover":"","author":"堀内友紀／著","description":"一度目にしたら忘れられない、美しい“刺繍絵”が初の書籍化！　代表作を完全収録＆図解。気軽に楽しめるワンポイント図案も紹介。","price":"1550","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
 {"isbn":"9784327441180","title":"（続）特派員直伝 とらべる英会話","volume":"","series":"","publisher":"研究社","pubdate":"2018-12-17","cover":"https://cover.openbd.jp/9784327441180.jpg","author":"読売新聞国際部／著 TheJapanNews／著","description":"★トラベルにトラブルは付き物だ！\n★待望の「続編」です。\n本書は『読売新聞』（日曜日付）の「えいご工房」という英語学習ページに好評連載中の「特派員直伝 とらべる英会話」の86回分をまとめたものです。執筆しているのは読売新聞国際部の34人の海外特派員で、彼らが現地を飛び回る中で知った、旅や日常生活で役立つフレーズを臨場感あふれるエピソードとともに紹介します。語学の専門家が書くような教養的なエッセイと違い、彼らの体験（実話）が軽妙なタッチできわめて〈実用的〉に書かれているところが特徴です。今回も同様に、執筆した34人の特派員の「人となり」も簡単にご紹介します。","price":"1300","genre":"語学・辞事典","target":"一般","format":"単行本","content":"英米語"}
 ,
 {"isbn":"9784327490249","title":"対訳 読売新聞「編集手帳」","volume":"","series":"","publisher":"研究社","pubdate":"2018-12-17","cover":"https://cover.openbd.jp/9784327490249.jpg","author":"読売新聞／著 TheJapanNews／著","description":"★人気コラム「編集手帳」で英語を学ぶ\n『読売新聞』の朝刊1面に毎日掲載されている人気のコラム「編集手帳」。その英訳版は、『読売新聞』の英字紙であるThe Japan News に連載されています。2014～2017年の連載から79回分をセレクトし、1冊にまとめたのが本書です。\n「編集手帳」の珠玉の名作を、英語で読める・聞けるのが特徴です。「身近な話題について英語で読みたいが、時事ニュースは堅すぎて読みにくい」という方におすすめ。\n英語の音声は研究社ホームページから無料ダウンロード。","price":"1400","genre":"語学・辞事典","target":"一般","format":"単行本","content":"英米語"}
 ,
 {"isbn":"9784335314599","title":"商法","volume":"","series":"","publisher":"弘文堂","pubdate":"2018-12-17","cover":"https://cover.openbd.jp/9784335314599.jpg","author":"伊藤真／監修 伊藤塾／著","description":"法律学習のスタート地点に立つ読者に贈る、伊藤真の「商法」入門！","price":"1900","genre":"","target":"教養","format":"全集・双書","content":"法律"}
-,
-{"isbn":"9784388154418","title":"フードコーディネーター教本2019","volume":"","series":"","publisher":"柴田書店","pubdate":"2018-12-17","cover":"","author":"日本フードコーディネーター協会／編集","description":"食の専門家、フードコーディネーターのバイブル最新版！","price":"3000","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
-,
-{"isbn":"9784405049390","title":"2019→2020年版　図解まるわかり 時事用語","volume":"","series":"","publisher":"新星出版社","pubdate":"2018-12-17","cover":"","author":"ニュース・リテラシー研究所／著・編集","description":"2018年に起こった重要時事、47項目＋巻頭カラー・ニュースの疑問を完全図解。大判、ページ2/3にわたる豊富なイラスト図解。","price":"1000","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
-,
-{"isbn":"9784405093676","title":"筋肉がプリッとよみがえる！おしりスクワット","volume":"","series":"","publisher":"新星出版社","pubdate":"2018-12-17","cover":"","author":"藤本陽平／著","description":"本書は、人生100年時代と言われる今、人生になぜおしりの筋肉が大切なのかを解説。「おしりスクワット」のやり方を細かく公開！","price":"1100","genre":"","target":"実用","format":"単行本","content":"家事"}
-,
-{"isbn":"9784416519073","title":"ハンバーガーの発想と組み立て","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2018-12-17","cover":"https://cover.openbd.jp/9784416519073.jpg","author":"白根智彦／著 吉澤清太／監修","description":"パティ、ース、自家製パーツの作り方から、注目店まで。日本グルメバーガー界のレジェンドが奥深きハンバーガーの世界を紹介。","price":"2500","genre":"","target":"実用","format":"単行本","content":"家事"}
-,
-{"isbn":"9784416718216","title":"画家のブックデザイン","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2018-12-17","cover":"https://cover.openbd.jp/9784416718216.jpg","author":"小林真理／著","description":"ブックデザインの源流である「装幀と装画」を見直し、その重要性と楽しみを、著名な画家の美装本を多数取り上げ、紹介。","price":"2600","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
-,
-{"isbn":"9784416718445","title":"特殊無線技士問題・解答集 2019年版","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2018-12-17","cover":"https://cover.openbd.jp/9784416718445.jpg","author":"QCQ企画／編集","description":"業務に使用する無線通信に関わる国家資格である、特殊無線技士の5資格を取得するための試験問題集の最新版。","price":"2400","genre":"","target":"実用","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784416718452","title":"星空ガイド2019","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2018-12-17","cover":"https://cover.openbd.jp/9784416718452.jpg","author":"藤井旭／著・企画","description":"2019年の天文現象をカレンダー風にまとめた星空ガイドブック。毎月の天文現象をやさしく解説、観察時刻、観察方法を紹介。","price":"1000","genre":"自然科学","target":"一般","format":"単行本","content":"天文・地学"}
-,
-{"isbn":"9784480864628","title":"２　移民って、なに？どうして移住するの？","volume":"","series":"","publisher":"筑摩書房","pubdate":"2018-12-17","cover":"","author":"池上彰／監修 稲葉茂勝／著 こどもくらぶ／編集","description":"ニュースでよく聞く「難民」。じつは日本にとっても大問題！　第2巻は、近年日本でも増え続けている移民の歴史と現状がわかります。","price":"2800","genre":"","target":"一般","format":"全集・双書","content":"政治-含む国防軍事"}
-,
-{"isbn":"9784480873989","title":"映画と芸術と生と","volume":"","series":"","publisher":"筑摩書房","pubdate":"2018-12-17","cover":"https://cover.openbd.jp/9784480873989.jpg","author":"岡田温司／著","description":"画家の伝記映画に取材し、美術と映画の両者を自在に横断しつつ、芸術家という表象の可能性や多様性を解き明かす新しい映画論。","price":"3400","genre":"","target":"一般","format":"単行本","content":"演劇・映画"}
 ]
