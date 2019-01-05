@@ -5,7 +5,7 @@
 ,
 {"isbn":"9784003403310","title":"日本国憲法","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784003403310.jpg","author":"長谷部恭男／解説","description":"戦後日本の憲法体制を理解するのに欠かせない基本文書を集め，解説を付した．市民必携のハンディな一冊．","price":"680","genre":"","target":"一般","format":"文庫","content":"法律"}
 ,
-{"isbn":"9784006003982","title":"反転する福祉国家","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-01-17","cover":"","author":"水島治郎／著","description":"オランダにおける雇用・福祉改革と移民排除．対極に見える現実の背後にある複雑な論理を探る．","price":"1340","genre":"","target":"一般","format":"文庫","content":"政治-含む国防軍事"}
+{"isbn":"9784006003982","title":"反転する福祉国家","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-01-17","cover":"","author":"水島治郎／著","description":"オランダにおける雇用・福祉改革と移民排除．対極的に見える現実の背後にある複雑な論理を探る．","price":"1340","genre":"","target":"一般","format":"文庫","content":"政治-含む国防軍事"}
 ,
 {"isbn":"9784006003999","title":"テレビ的教養 一億総博知化への系譜","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-01-17","cover":"","author":"佐藤卓己／著","description":"テレビは本当に「一億総白痴化」をもたらしたのか？　〈教養のメディア〉としてのテレビ史を活写する．","price":"1540","genre":"","target":"一般","format":"文庫","content":"社会"}
 ,
@@ -19,7 +19,7 @@
 ,
 {"isbn":"9784040654270","title":"こいつはダメだと知っている　crossroads","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784040654270.jpg","author":"吉田実加／著","description":"「俺がお前を好きだってこと、いい加減信じろよ――」","price":"680","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784040654287","title":"オレを守ると誓ってよ　more!","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784040654287.jpg","author":"木田さっつ／著","description":"「気持ちいいから、もっと触って」切なくエロい芸能界BL、感動の完結！","price":"680","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784040654287","title":"オレを守ると誓ってよ　more!","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784040654287.jpg","author":"田さっつ／著","description":"「気持ちいいから、もっと触って」切なくエロい芸能界BL、感動の完結！","price":"680","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784041051443","title":"角川まんが学習シリーズ まんが人物伝 武田信玄と上杉謙信","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784041051443.jpg","author":"山本博文／監修","description":"戦国最強のライバル武将・武田信玄vs上杉謙信！","price":"850","genre":"","target":"児童","format":"全集・双書","content":"伝記"}
 ,
@@ -39,21 +39,21 @@
 ,
 {"isbn":"9784065133057","title":"絵でわかるマクロ経済学","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"茂木喜久雄／著","description":"まずは入門レベルをしっかり理解しよう。わかりやすい例とイラストでていねいに解説。最新の公務員試験にもバッチリ対応ずみ！","price":"2200","genre":"","target":"専門","format":"全集・双書","content":"経済・財政・統計"}
 ,
-{"isbn":"9784065133262","title":"ドリトル先生アフリカゆき　The　Story　of　Doctor　Dolittle","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"ヒュー．ロフティング著","description":"動物の言葉を教わったら患者が動物だけになったドリトル先生。ある日ツバメが届けた伝言を聞き、サルを救いにアフリカへ旅立ちます！","price":"800","genre":"","target":"実用","format":"文庫","content":"外国文学小説"}
+{"isbn":"9784065133262","title":"ドリトル先生アフリカゆき　The　Story　of　Doctor　Dolittle","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"ヒュー．ロフティング／著","description":"動物の言葉を教わったら患者が動物だけになったドリトル先生。ある日ツバメが届けた伝言を聞き、サル救いにアフリカへ旅立ちます！","price":"800","genre":"","target":"実用","format":"文庫","content":"外国文学小説"}
 ,
-{"isbn":"9784065134863","title":"マコさんは死んでも自立しない（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"千田大輔／著","description":"マコさんの水着が見られる「サマーリゾト編」とマコさんのメイド服が見られる「文化祭編」を収録。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065134863","title":"マコさんは死んでも自立しない（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"千田大輔／著","description":"マコさんの水着が見られる「サマーリゾート編」とマコさんのメイド服が見られる「文化祭編」を収録。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065134894","title":"ダイヤのA　act2（15）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"寺嶋裕二／著","description":"","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065138052","title":"ねこのつけしっぽ","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"吉田愛／著","description":"短いしっぽのねこがくらす街に起きた大事件！　長いしっぽに憧れたねこたちが知る多様性のすばらしさ。自分のことが好きになる絵本。","price":"1400","genre":"","target":"児童","format":"絵本","content":"絵画・彫刻"}
 ,
-{"isbn":"9784065138748","title":"東京卍リベンジャーズ（10）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"和久井健／著","description":"今回のタイムリープの鍵は、チーム“黒龍（ブラックドラゴン）”！　柴兄弟の深い闇が、タケミチを追い詰める！！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065138748","title":"東京卍リベンジャーズ（10）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"和久井健／著","description":"今回タイムリープの鍵は、チーム“黒龍（ブラックドラゴン）”！　柴兄弟の深い闇が、タケミチを追い詰める！！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065138779","title":"七つの大罪（35）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"鈴木央／著","description":"天下分け目のキャメロット。「閃光」のリュドシエル、唯我独尊エスカノール、天下一マーリン　ｖｓ．　最凶Ｗ指南役！　頂上決戦！！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065138786","title":"七つの大罪（35）限定版","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"鈴木央／著","description":"ラバーキーホルダー２個付き限定版鈴木央描き下ろしの「ディアンヌ」＆「ゴウセル」が、やわらかラバー素材のキーチャームに！","price":"1250","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065138786","title":"七つの大罪（35）限定版","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"鈴木央／著","description":"ラバーキーホルダー２個付き限定版。鈴木央描き下ろしの「ディアンヌ」＆「ゴウセル」が、やわらかラバー素材のキーチャームに！","price":"1250","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065139370","title":"彼女、お借りします（8）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"宮島礼吏／著","description":"少し近づきつつある、和也と水原。そこへ忍び寄るのはマミの影！　さらに、るかの策略で水原にとんでもない“誤解”をされて…？","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065139370","title":"彼女、お借りします（8）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"宮島礼吏／著","description":"少し近づきつつある、和也水原。そこへ忍び寄るのはマミの影！　さらに、るかの策略で水原にとんでもない“誤解”をされて…？","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065139387","title":"化物語（4）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"西尾維新／原著 大暮維人／著","description":"新章「するがモンキー」開演！　『掟上今日子の備忘録』西尾維新×『エア・ギア』大暮維人で繰り広げる〈物語〉！","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -107,7 +107,7 @@
 ,
 {"isbn":"9784065146217","title":"仕事と心の流儀","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"丹羽宇一郎／著","description":"「問題が多いことを喜べ。それは懸命に生きている証だ」。修羅場を乗り越えてきた大先輩からすべてのビジネスパーソンに贈るエール。","price":"860","genre":"","target":"一般","format":"新書","content":"経営"}
 ,
-{"isbn":"9784074328864","title":"手紙とはがきの書き出しと結び　きちんとマナーハンドブック","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-01-17","cover":"","author":"杉本祐子／著","description":"日本ならではの自然の移ろいを表現する二十四節気七十二候を巧みに利用して品格のある手紙やはがきがすんなりと書ける１冊。","price":"1100","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784074328864","title":"手紙とはがきの書き出しとび　きちんとマナーハンドブック","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-01-17","cover":"","author":"杉本祐子／著","description":"日本ならではの自然の移ろいを表現する二十四節気七十二候を巧みに利用して品格のある手紙やはがきがすんなりと書ける１冊。","price":"1100","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784074337798","title":"包丁　まな板　ボウル必要なし　コンロ１つで自炊Ｌｅｓｓｏｎ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-01-17","cover":"","author":"金丸絵里加／著","description":"ひとり暮らしでキッチンが狭い！　そんな人は包丁、まな板、ボウルを使わない簡単クッキングがオススメ！","price":"1200","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
@@ -121,13 +121,13 @@
 ,
 {"isbn":"9784087210637","title":"本当はこわい排尿障害","volume":"","series":"","publisher":"集英社","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784087210637.jpg","author":"高橋知宏／著","description":"尿漏れや頻尿など、中高年の約半数は何らの「排尿障害」を抱えていると言う著者。\nしかもそれは一見排尿とは無関係そうな陰部の痛みや痒み、胃痛や幻臭症などを引き起す。\n膀胱と排尿の恐るべき真実とは。","price":"800","genre":"","target":"一般","format":"新書","content":"医学・歯学・薬学"}
 ,
-{"isbn":"9784087210644","title":"近現代日本史との対話 幕末・維新─戦前編","volume":"","series":"","publisher":"集英社","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784087210644.jpg","author":"成田龍一／著","description":"その時代を動かしてきた原理(システム)を分析することで、無関係に見える出来事がつながりを持って理解できる。\n近現代日本の営みを物語のように楽しめる一冊。高校の新必修科目「歴史総合」にも対応!","price":"1300","genre":"","target":"一般","format":"新書","content":"日本歴史"}
+{"isbn":"9784087210644","title":"近現代日本史との対 幕末・維新─戦前編","volume":"","series":"","publisher":"集英社","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784087210644.jpg","author":"成田龍一／著","description":"その時代を動かしてきた原理(システム)を分析することで、無関係に見える来事がつながりを持って理解できる。\n近現代日本の営みを物語のように楽しめる一冊。高校の新必修科目「歴史総合」にも対応!","price":"1300","genre":"","target":"一般","format":"新書","content":"日本歴史"}
 ,
 {"isbn":"9784087210651","title":"「通貨」の正体","volume":"","series":"","publisher":"集英社","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784087210651.jpg","author":"浜矩子／著","description":"通貨の本質を見極めぬまま、世界各国は金融政策を行い、財政赤字を積み上げ、通貨への信頼に傷をつけている。\nその末路は貿易戦争と恐慌だ。世界経済が危険水域に近づく中の必読の書!","price":"820","genre":"","target":"一般","format":"新書","content":"経済・財政・統計"}
 ,
 {"isbn":"9784106107962","title":"ちょいバカ戦略","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2019-01-17","cover":"","author":"小口覺／著","description":"ちょっと見おバカ、でもしたたかにヒットを生む戦略とは。視界が一気に開ける逆転のビジネス書。","price":"740","genre":"","target":"一般","format":"新書","content":"経済・財政・統計"}
 ,
-{"isbn":"9784106107979","title":"リベラルを潰せ","volume":"","series":"新潮新書","publisher":"潮社","pubdate":"2019-01-17","cover":"","author":"金子夏樹／著","description":"リベラリズムの世界的浸透に、保守の反撃が始まった。その思想、資金、驚異の組織力を描き出す。","price":"800","genre":"","target":"一般","format":"新書","content":"政治-含む国防軍事"}
+{"isbn":"9784106107979","title":"リベラルを潰せ","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2019-01-17","cover":"","author":"金子夏樹／著","description":"リベラリズムの世界的浸透に、保守の反撃が始まった。その思想、資金、驚異の組織力を描き出す。","price":"800","genre":"","target":"一般","format":"新書","content":"政治-含む国防軍事"}
 ,
 {"isbn":"9784106107986","title":"昆虫は美味い！","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2019-01-17","cover":"","author":"内山昭一／著","description":"フグの白子もマグロのトロも、かなわない?!　「採って、食べる」究極のグルメがここにある。","price":"760","genre":"","target":"一般","format":"新書","content":"生物学"}
 ,
@@ -152,14 +152,4 @@
 {"isbn":"9784309256177","title":"若冲伝","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-01-17","cover":"","author":"佐藤康宏／著","description":"注目著しい謎の絵師・若冲。その画業、魅力のすべてを多くの図版とともに解き明かす。第一人者による書き下ろし決定版。","price":"2400","genre":"","target":"一般","format":"単行本","content":"絵画・彫刻"}
 ,
 {"isbn":"9784309279954","title":"星と海の楽園","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-01-17","cover":"","author":"KAGAYA／著","description":"生命あふれる海の青と星々の輝く夜空の青……ＫＡＧＡＹＡが今届けたい、惑星地球の奇跡。見たこともない美しい世界が広がる写真集！","price":"1950","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
-,
-{"isbn":"9784405072862","title":"500円ではじめよう　かわいい！楽しい！ぬりえブック　ひみつの島の星祭り　The Star Festival of the Secret Island","volume":"","series":"","publisher":"新星出版社","pubdate":"2019-01-17","cover":"","author":"クリハラマリ／著","description":"500円なのに、かわいい！小さなリスともに島に散らばった星を探して1日を過ごすストーリーも楽しめる塗り絵になっています。","price":"500","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
-,
-{"isbn":"9784434254826","title":"百歳を超えた北海道人","volume":"","series":"","publisher":"柏艪舎","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784434254826.jpg","author":"小森学／写真・文","description":"百年を生きたすべての方に、心からの敬意と感謝を捧げたい。百歳を超えて人生を謳歌する、58人の北海道人の表情を切り取った写…","price":"3500","genre":"芸術","target":"一般","format":"単行本","content":"写真・工芸"}
-,
-{"isbn":"9784474065185","title":"６６の改革項目と事例でつかむ 議会改革実践マニュアル","volume":"","series":"","publisher":"第一法規","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784474065185.jpg","author":"早稲田大学マニフェスト研究所議会改革調査部会／著","description":"早稲田大学マニフェスト研究所が実施する「議会改革度調査」のデータをもとに、地方議会の現状と課題、先進事例、実践手法を解説","price":"2500","genre":"","target":"一般","format":"単行本","content":"法律"}
-,
-{"isbn":"9784474065895","title":"現代日本の公務員人事――政治・行政改革は人事システムをどう変えたか","volume":"","series":"","publisher":"第一法規","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784474065895.jpg","author":"大谷基道／編集 河合晃一／編集","description":"一連の政治・行政改革で、中央省庁及び地方自治体の公務員人事システムがどのように変化したかを実証的に分析し、今後の展望を示す。","price":"2900","genre":"","target":"一般","format":"単行本","content":"政治-含む国防軍事"}
-,
-{"isbn":"9784487811465","title":"小・中学校で英語を教えるための必携テキスト：コアカリキュラム対応","volume":"","series":"","publisher":"東京書籍","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784487811465.jpg","author":"中村典生／監修 矢野淳／著 林裕子／著 鈴木渉／著 巽徹／著","description":"小学校英語の必修化に伴い、教員免許を取る学生が小・中学生への英語の教え方を学べて、大学の先生は学生にどう教えるべきかがわかる","price":"2400","genre":"教育","target":"専門","format":"単行本","content":"教育"}
 ]
