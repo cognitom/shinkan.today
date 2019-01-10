@@ -35,15 +35,15 @@
 ,
 {"isbn":"9784065120774","title":"ゲゲゲの鬼太郎（11）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"水木しげる／著","description":"『少年マガジン』初連載の鬼太郎が、新書サイズで甦る！　第１１巻は「牛鬼」や「妖怪反物」など全１２話を収録！！","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065133057","title":"絵でわかるマクロ経済学","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"茂木喜久雄／著","description":"まずは入門レベルをしっかり理解しよう。わかりやすい例とイラストでていねいに解説。最新の公務員試験にもバッチリ対応ずみ！","price":"2200","genre":"","target":"専門","format":"全集・双書","content":"経済・財政・統計"}
+{"isbn":"9784065133057","title":"絵でわかるマクロ経済学","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784065133057.jpg","author":"茂木喜久雄／著","description":"まずは入門レベルをしっかり理解しよう。わかりやすい例とイラストでていねいに解説。最新の公務員試験にもバッチリ対応ずみ！","price":"2200","genre":"","target":"専門","format":"全集・双書","content":"経済・財政・統計"}
 ,
 {"isbn":"9784065133262","title":"ドリトル先生アフリカゆき　The　Story　of　Doctor　Dolittle","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"ヒュー．ロフティング／著","description":"動物の言葉を教わったら患者が動物だけになったドリトル先生。ある日ツバメが届けた伝言を聞き、サルを救いにアフリカへ旅立ちます！","price":"800","genre":"","target":"実用","format":"文庫","content":"外国文学小説"}
 ,
 {"isbn":"9784065134863","title":"マコさんは死んでも自立しない（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"千田大輔／著","description":"マコさんの水着が見られる「サマーリゾート編」とマコさんのメイド服が見られる「文化祭編」を収録。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065134894","title":"ダイヤのA　act2（15）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"寺嶋裕二／著","description":"","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065134894","title":"ダイヤのA　act2（15）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"寺嶋裕二／著","description":"大会まで残り１か月、最終調整に入る青道は恒例の夏合宿を迎える。まもなく、夏を戦う２０人のベンチ入りメンバーが決まる‥‥。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065138052","title":"ねこのつけしっぽ","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"吉田愛／著","description":"短いしっぽのねこがくらす街に起きた大事件！　長いしっぽに憧れたねこたちが知る多様性のすばらしさ。自分のことが好きになる絵本。","price":"1400","genre":"","target":"児童","format":"絵本","content":"絵画・彫刻"}
+{"isbn":"9784065138052","title":"ねこのつけしっぽ","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784065138052.jpg","author":"吉田愛／著","description":"短いしっぽのねこがくらす街に起きた大事件！　長いしっぽに憧れたねこたちが知る多様性のすばらしさ。自分のことが好きになる絵本。","price":"1400","genre":"","target":"児童","format":"絵本","content":"絵画・彫刻"}
 ,
 {"isbn":"9784065138748","title":"東京卍リベンジャーズ（10）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"和久井健／著","description":"今回のタイムリープの鍵は、チーム“黒龍（ブラックドラゴン）”！　柴兄弟の深い闇が、タケミチを追い詰める！！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -65,9 +65,9 @@
 ,
 {"isbn":"9784065142141","title":"すごい分子　世界は六角形でできている","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"佐藤健太郎／著","description":"有機化学の象徴ともいえる「芳香環化合物」をめぐるドラマを稀代のサイエンスライターが描く。自然に有機化学が身に付く新しい入門書","price":"1000","genre":"","target":"一般","format":"新書","content":"化学"}
 ,
-{"isbn":"9784065142332","title":"ぼくは本を読んでいる。","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"ひこ・田中／著","description":"親の書棚にあった古びた文庫本を、なぜかこっそり読み始めたルカ。「読書離れ」なんて言わないで！　本好きでなくても読書はできる！","price":"1400","genre":"","target":"児童","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784065142332","title":"ぼくは本を読んでいる。","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784065142332.jpg","author":"ひこ・田中／著","description":"親の書棚にあった古びた文庫本を、なぜかこっそり読み始めたルカ。「読書離れ」なんて言わないで！　本好きでなくても読書はできる！","price":"1400","genre":"","target":"児童","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065142981","title":"機械学習スタートアップシリーズ　Pythonで学ぶ強化学習　入門から実践まで","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"久保隆宏／著","description":"強化学習が実装できる！　エンジニアのために、Ｐｙｔｈｏｎのサンプルコードとともに、ゼロからていねいに解説。コードも公開！","price":"2800","genre":"","target":"専門","format":"単行本","content":"数学"}
+{"isbn":"9784065142981","title":"機械学習スタートアップシリーズ　Pythonで学ぶ強化学習　入門から実践まで","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784065142981.jpg","author":"久保隆宏／著","description":"強化学習が実装できる！　エンジニアのために、Ｐｙｔｈｏｎのサンプルコードとともに、ゼロからていねいに解説。コードも公開！","price":"2800","genre":"","target":"専門","format":"単行本","content":"数学"}
 ,
 {"isbn":"9784065143001","title":"青天（2）","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"Ｃボ／著","description":"青天の秘密を解き明かせ！伝説のプレーヤー・空ビヨンドに敗れたルイは、リベンジを果たすため、彼女と行動を共にするのだが！？","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -97,7 +97,7 @@
 ,
 {"isbn":"9784065144657","title":"不自然な宇宙　宇宙はひとつだけなのか？","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"須藤靖／著","description":"宇宙の外側に何があるのか？　私たちの住む宇宙の他に“別の宇宙”は存在するのか？　最先端の物理学がこの究極の問いに挑む！","price":"1000","genre":"","target":"一般","format":"新書","content":"天文・地学"}
 ,
-{"isbn":"9784065144756","title":"13の理由　新装版","volume":"","series":"","publisher":"星海社","pubdate":"2019-01-17","cover":"","author":"ジェイ・アッシャー／著 横槍メンゴ／イラスト 武富博子／翻訳","description":"話題のＮｅｔｆｌｉｘドラマ『１３の理由』原作小説の完全版！横槍メンゴの新規カバー、ドラマ視聴者も楽しめる傑作社会派ミステリ！","price":"1300","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
+{"isbn":"9784065144756","title":"13の理由　新装版","volume":"","series":"","publisher":"星海社","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784065144756.jpg","author":"ジェイ・アッシャー／著 横槍メンゴ／イラスト 武富博子／翻訳","description":"話題のＮｅｔｆｌｉｘドラマ『１３の理由』原作小説の完全版！横槍メンゴの新規カバー、ドラマ視聴者も楽しめる傑作社会派ミステリ！","price":"1300","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
 ,
 {"isbn":"9784065144886","title":"放課後のイケメンごはん","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-17","cover":"","author":"平山景子／著","description":"ハラペコＪＫ・網名さんと学園１のイケメン・岡野くんが、学校帰りにおいしい物を探し求める、放課後カップル・グルメコメディ！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -122,4 +122,14 @@
 {"isbn":"9784087210644","title":"近現代日本史との対話 幕末・維新─戦前編","volume":"","series":"","publisher":"集英社","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784087210644.jpg","author":"成田龍一／著","description":"その時代を動かしてきた原理(システム)を分析することで、無関係に見える出来事がつながりを持って理解できる。\n近現代日本の営みを物語のように楽しめる一冊。高校の新必修科目「歴史総合」にも対応!","price":"1300","genre":"","target":"一般","format":"新書","content":"日本歴史"}
 ,
 {"isbn":"9784087210651","title":"「通貨」の正体","volume":"","series":"","publisher":"集英社","pubdate":"2019-01-17","cover":"https://cover.openbd.jp/9784087210651.jpg","author":"浜矩子／著","description":"通貨の本質を見極めぬまま、世界各国は金融政策を行い、財政赤字を積み上げ、通貨への信頼に傷をつけている。\nその末路は貿易戦争と恐慌だ。世界経済が危険水域に近づく中の必読の書!","price":"820","genre":"","target":"一般","format":"新書","content":"経済・財政・統計"}
+,
+{"isbn":"9784106107962","title":"ちょいバカ戦略","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2019-01-17","cover":"","author":"小口覺／著","description":"ちょっと見おバカ、でもしたたかにヒットを生む戦略とは。視界が一気に開ける逆転のビジネス書。","price":"740","genre":"","target":"一般","format":"新書","content":"経済・財政・統計"}
+,
+{"isbn":"9784106107979","title":"リベラルを潰せ","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2019-01-17","cover":"","author":"金子夏樹／著","description":"リベラリズムの世界的浸透に、保守の反撃が始まった。その思想、資金、驚異の組織力を描き出す。","price":"800","genre":"","target":"一般","format":"新書","content":"政治-含む国防軍事"}
+,
+{"isbn":"9784106107986","title":"昆虫は美味い！","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2019-01-17","cover":"","author":"内山昭一／著","description":"フグの白子もマグロのトロも、かなわない?!　「採って、食べる」究極のグルメがここにある。","price":"760","genre":"","target":"一般","format":"新書","content":"生物学"}
+,
+{"isbn":"9784106107993","title":"もっと言ってはいけない","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2019-01-17","cover":"","author":"橘玲／著","description":"遺伝、知能、人種、格差……人気作家が明かす、決して口外できない、残酷で不愉快な人間社会のタブー。","price":"800","genre":"","target":"一般","format":"新書","content":"社会"}
+,
+{"isbn":"9784107902511","title":"Ｄｒ．週刊新潮 ２０１９","volume":"","series":"新潮ムック","publisher":"新潮社","pubdate":"2019-01-17","cover":"","author":"「週刊新潮」編集部／編集","description":"","price":"880","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"医学・歯学・薬学"}
 ]
