@@ -37,7 +37,7 @@
 ,
 {"isbn":"9784046022462","title":"定期テスト～高校入試対策 中学理科の点数が面白いほどとれる一問一答","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-01-26","cover":"https://cover.openbd.jp/9784046022462.jpg","author":"岩本将志／著","description":"中学理科が得意科目に！アウトプット力ＵＰでテスト・入試に強くなれる！","price":"950","genre":"","target":"学参I(小中)","format":"単行本","content":"自然科学総記"}
 ,
-{"isbn":"9784046023018","title":"発音記号キラ辞典","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-01-26","cover":"https://cover.openbd.jp/9784046023018.jpg","author":"Daccifrom英語物語／著 リチャード川口／著","description":"全ての発音記号をまとめてキャラ化！","price":"1400","genre":"","target":"一般","format":"単行本","content":"英米語"}
+{"isbn":"9784046023018","title":"発音記号キャラ辞典","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-01-26","cover":"https://cover.openbd.jp/9784046023018.jpg","author":"Daccifrom英語物語／著 リチャード川口／著","description":"全ての発音記号をまとめてキャラ化！","price":"1400","genre":"","target":"一般","format":"単行本","content":"英米語"}
 ,
 {"isbn":"9784046041401","title":"すぐに真似できる　天才たちの習慣１００","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-01-26","cover":"https://cover.openbd.jp/9784046041401.jpg","author":"教養総研／著","description":"天才たち100人の「素晴らしき習慣」を今こそ学べ！","price":"1500","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
 ,
@@ -63,9 +63,29 @@
 ,
 {"isbn":"9784065143278","title":"噛む力が弱った人のおいしい長生きごはん　誤嚥を防ぐ！","volume":"","series":"","publisher":"講談社","pubdate":"2019-01-26","cover":"","author":"クリコ／著 阿部仁子／監修","description":"がんの夫を７ｋｇ太らせたメニュー大公開！　えびフライからパンケーキまで、家族と一緒に食べる楽しさ。味、見た目、栄養も大満足！","price":"1300","genre":"","target":"婦人","format":"単行本","content":"家事"}
 ,
-{"isbn":"9784087816563","title":"伝える人、永六輔 『大往生の日々","volume":"","series":"","publisher":"集英社","pubdate":"2019-01-26","cover":"","author":"井上一夫／著","description":"\n\n\n","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784087816563","title":"伝える人、永六輔 『大往生』の日々","volume":"","series":"","publisher":"集英社","pubdate":"2019-01-26","cover":"","author":"井上一夫／著","description":"\n\n\n","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784152098320","title":"サンデル教授、中国哲学に出会う","volume":"","series":"","publisher":"早川書房","pubdate":"2019-01-26","cover":"https://cover.openbd.jp/9784152098320.jpg","author":"マイケル・サンデル／編集 ポール・ダンブロージョ／編集 鬼澤忍／翻訳","description":"ハーバード大学教授、マイケル・サンデルの新境地。彼の共同体主義は、儒教を始めとする伝統的な中国哲学とどのように共鳴するのか？","price":"2700","genre":"","target":"一般","format":"単行本","content":"哲学"}
 ,
 {"isbn":"9784163909615","title":"まよなかの青空","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-01-26","cover":"","author":"谷瑞恵／著","description":"「あおぞら号」には、幸運を呼び寄せる男の子が潜んでいる――後悔だらけの人生をもう一度やり直すため、過去と向き合う再生の物語。","price":"1350","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198647544","title":"ありなのだ。 橋本ありな写真集","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-01-26","cover":"","author":"橋本ありな／著 富田恭透／写真","description":"「ＤＭＭアダルトアワード２０１８最優秀女優賞」橋本ありなの４ｔｈ写真集。透明感あふれる彼女の魅力が詰まった１１２ページ。","price":"3600","genre":"芸能・タレント","target":"一般","format":"単行本","content":"写真・工芸"}
+,
+{"isbn":"9784199009419","title":"次男のはじめての痴話喧嘩","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-01-26","cover":"","author":"菅野彰／著 二宮悦巳／イラスト","description":"花屋のカップルをメインに、編集者×作家の長男カップルも混迷を深める、待望の文庫「毎日晴天！」シリーズ文庫最新刊！！","price":"620","genre":"文庫","target":"一般","format":"文庫","content":"演劇・映画"}
+,
+{"isbn":"9784199009426","title":"触れて感じて、堕ちればいい","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-01-26","cover":"","author":"すとう茉莉沙／著 みずかねりょう／イラスト","description":"エブリスタＢＬ合戦、キャラ文庫賞受賞作の文庫化第一弾！！","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"演劇・映画"}
+,
+{"isbn":"9784199009433","title":"俺が好きなら咬んでみろ","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-01-26","cover":"","author":"中原一也／著 小野浜こわし／イラスト","description":"長年秘めた恋情と真犯人──はっきりさせないと死にきれない?　ヴァンパイアの刑事とその親友がコンビを組んで事件解決！？","price":"620","genre":"文庫","target":"一般","format":"文庫","content":"演劇・映画"}
+,
+{"isbn":"9784274222511","title":"化学史への招待","volume":"","series":"","publisher":"オーム社","pubdate":"2019-01-26","cover":"","author":"化学史学会／編集","description":"「化学の歴史」の知識を、平易な本文と図表でわかりやすく解説。興味を引く逸話が満載。","price":"2500","genre":"自然科学","target":"専門","format":"単行本","content":"自然科学総記"}
+,
+{"isbn":"9784274223181","title":"2019-2020年版 公害防止管理者試験 大気関係 合格テキスト","volume":"","series":"","publisher":"オーム社","pubdate":"2019-01-26","cover":"","author":"青山芳之／著","description":"試験の全体像を素早く把握し、合格に必要な知識を短期間で習得できるようコンパクトにまとめた。章末に重要項目シート付。","price":"2800","genre":"","target":"専門","format":"単行本","content":"工学・工学総記"}
+,
+{"isbn":"9784274223204","title":"よくわかる環境科学","volume":"","series":"","publisher":"オーム社","pubdate":"2019-01-26","cover":"","author":"鈴木孝弘／著","description":"身のまわりの環境に関連する環境科学の基礎知識を取り上げ、現代の環境問題が発生するまでのメカニズム等をまとめた教科書。","price":"2400","genre":"自然科学","target":"専門","format":"単行本","content":"工学・工学総記"}
+,
+{"isbn":"9784274223211","title":"自動車工学入門　第３版","volume":"","series":"","publisher":"オーム社","pubdate":"2019-01-26","cover":"","author":"齋輝夫／著","description":"これから自動車工学を学ぶ方や自動車産業に携わる方に向けて自動車の基本原理・構造・機能を、技術的・工業的な観点から解説。","price":"2400","genre":"工業・工学","target":"専門","format":"単行本","content":"機械"}
+,
+{"isbn":"9784274223228","title":"ミヤケン先生の合格講義！2級建設機械施工技術検定試験","volume":"","series":"","publisher":"オーム社","pubdate":"2019-01-26","cover":"","author":"宮入賢一郎／著","description":"「2級建設機械施工技士」の試験対策書。解説範囲を2級の1種・2種にしぼり、しかも出題傾向分析をベースとしたわかりやすい内容。","price":"3500","genre":"","target":"専門","format":"単行本","content":"土木"}
+,
+{"isbn":"9784274507229","title":"2019年版 第3種冷凍機械責任者試験 過去問題集","volume":"","series":"","publisher":"オーム社","pubdate":"2019-01-26","cover":"","author":"石原鉄郎／著","description":"過去問題8年分とその解答解説を掲載。過去問題は年度ごとに収録し、問題中の記述は正誤にかかわらず全て解説を行った。","price":"3000","genre":"","target":"専門","format":"単行本","content":"機械"}
 ]
