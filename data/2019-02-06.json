@@ -39,7 +39,7 @@
 ,
 {"isbn":"9784065146903","title":"Back　Street　Girls　ゴクドルズ　下積み編！","volume":"","series":"","publisher":"講談社","pubdate":"2019-02-06","cover":"","author":"ジャスミン・ギュ／著","description":"ヤクザが美少女アイドルになったら売れちゃったよ、オイ！！","price":"593","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065149775","title":"ラレルパラダイス（6）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2019-02-06","cover":"","author":"岡本倫／著","description":"リールの３人娘の秘密が丸ハダカ！希望と欲望と描き下ろしいっぱい☆待望のパラレルブックレット４つき超豪華特装版！！","price":"1100","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065149775","title":"パラレルパラダイス（6）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2019-02-06","cover":"","author":"岡本倫／著","description":"リールの３人娘の秘密が丸ハダカ！希望と欲望と描き下ろしいっぱい☆待望のパラレルブックレット４つき超豪華特装版！！","price":"1100","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065150054","title":"ハンツー×トラッシュ（16）限定版","volume":"","series":"","publisher":"講談社","pubdate":"2019-02-06","cover":"","author":"こばやしひよこ／著","description":"描き下ろしノーパン読み切り＆フルカラーコミック収録の小冊子付き限定版！恋とお色気が加速する水球部青春コメディ！","price":"1100","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -80,4 +80,22 @@
 {"isbn":"9784152098375","title":"予測マシンの世紀","volume":"","series":"","publisher":"早川書房","pubdate":"2019-02-06","cover":"https://cover.openbd.jp/9784152098375.jpg","author":"アジェイ・アグラワル／著 ジョシュア・ガンズ／著 アヴィ・ゴールドファーブ／著 小坂恵理／翻訳","description":"ＡＩが予測のコストを下げ、経済のルールが根本から書き換わりつつある。この激変期を勝ち抜くための競争戦略は？　孫泰蔵氏推薦","price":"1700","genre":"","target":"一般","format":"単行本","content":"経済・財政・統計"}
 ,
 {"isbn":"9784254128413","title":"経済・ファイナンスのためのカルマンフィルター入門","volume":"","series":"統計ライブラリー","publisher":"朝倉書店","pubdate":"2019-02-06","cover":"https://cover.openbd.jp/9784254128413.jpg","author":"森平爽一郎／著","description":"経済・金融系での応用事例豊富な実践的入門書。理論から分析までExcelを使いながら実践的に学習。","price":"4000","genre":"社会科学","target":"専門","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784309256177","title":"若冲伝","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-02-06","cover":"","author":"佐藤康宏／著","description":"注目著しい謎の絵師・若冲。その画業、魅力のすべてを多くの図版とともに解き明かす。第一人者による書き下ろし決定版。","price":"2400","genre":"","target":"一般","format":"単行本","content":"絵画・彫刻"}
+,
+{"isbn":"9784309416298","title":"完全版　本能寺の変　４３１年目の真実","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-02-06","cover":"","author":"明智憲三郎／著","description":"光秀の末裔が科学的研究手法で解き明かした、本能寺の変の真実とは？　信長自らの計画が、千載一遇のチャンスとなる！？","price":"790","genre":"","target":"一般","format":"文庫","content":"日本歴史"}
+,
+{"isbn":"9784309416458","title":"Ｑ１０　１","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-02-06","cover":"","author":"木皿泉／著","description":"","price":"800","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784309416465","title":"Ｑ１０　２","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-02-06","cover":"","author":"木皿泉／著","description":"Q10の秘密を知り、彼女のリセットボタンを押した平太は連れ去られたQ10にもう一度会いたいと願うが――未来を描くオマケ収録！","price":"800","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784309416649","title":"青が破れる","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-02-06","cover":"","author":"町屋良平／著","description":"その冬、おれの身近で三人の大切なひとが死んだ――著者デビュー作遂に文庫化！　対談＝尾崎世界観氏、マンガ＝マキヒロチ氏を併録。","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784309416656","title":"死者の輪舞","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-02-06","cover":"","author":"泡坂妻夫／著 新保博久／解説","description":"競馬場で男が殺された事件を皮切りに容疑者が次から次へと殺される殺人リレーが始まった――警視庁の海方＆小湊の刑事コンビが挑む！","price":"890","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784309416670","title":"天皇と賤民の国","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-02-06","cover":"","author":"沖浦和光／著","description":"先住民族と、征圧したヤマト王朝の形成史を軸に、日本単一民族論を批判し、天皇制、賤民史、部落問題を考察。増補新版。","price":"860","genre":"","target":"一般","format":"文庫","content":"民族・風習"}
+,
+{"isbn":"9784309464855","title":"夢の本","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-02-06","cover":"","author":"ホルヘ・ルイス・ボルヘス／著 堀内研二／翻訳","description":"『ギルガメシュ』『聖書』『千夜一夜物語』『紅楼夢』から、ニーチェ、カフカなど113篇。独自の視点で編まれた夢のアンソロジー。","price":"1200","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784309464886","title":"シャーロック・ホームズ入門百科","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-02-06","cover":"","author":"小林司／著 東山あかね／著","description":"日本を代表するシャーロッキアン夫妻が贈る決定版入門書。全作品のあらすじや基礎データ、名探偵の生涯や数々の逸話など情報満載。","price":"830","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
 ]
