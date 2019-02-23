@@ -23,7 +23,7 @@
 ,
 {"isbn":"9784065147450","title":"終わった漫画家（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-06","cover":"","author":"福満しげゆき／著","description":"","price":"670","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065147658","title":"新装版　対の絆　（上）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-06","cover":"","author":"吉原理恵子／著 蓮川愛／著","description":"この世界にたった二人きり、森に生きる「貴腐」族。リュウとタカは唯一無二の一対。その絆から逃れることができない宿命の二人。","price":"720","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784065147658","title":"新装版　対の絆　（上）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-06","cover":"","author":"吉原理恵子／著 蓮川愛／著","description":"この世界にたった二人きり、森に生きる「貴腐」族。リュウとタカは唯一無二の一対。その絆から逃れることができい宿命の二人。","price":"720","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065147955","title":"賭博堕天録カイジ　24億脱出編（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-06","cover":"","author":"福本伸行／著","description":"２４億円もの大金を手に入れたカイジとマリオとチャン。あまりにもかさばる現金を手にした３人の、大逃走劇。","price":"670","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -43,7 +43,7 @@
 ,
 {"isbn":"9784065148082","title":"なんでここに先生が！？（6）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-06","cover":"","author":"蘇募ロウ／著","description":"","price":"1100","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065148266","title":"アルキメデスの大戦（13）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-06","cover":"","author":"三田紀房／著","description":"櫂が生み出した戦艦「大和」、建造開始！そして、櫂に命の危機ーー！三田紀房が描く激動の日本海軍エンターテインメント第１３巻！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065148266","title":"アルキメデスの大戦（13）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-06","cover":"","author":"三田紀房／著","description":"櫂が生み出した戦艦「大和」、建造開始！そして、櫂に命危機ーー！三田紀房が描く激動の日本海軍エンターテインメント第１３巻！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065148419","title":"アダマスの魔女たち（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-06","cover":"","author":"今井ユウ／著","description":"突如、コカンから大金を生み出す体になった高校生の佐藤雪也。その日から妖しい美女が誘惑しにやって来る。超過激なハーレムコメディ","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -88,56 +88,4 @@
 {"isbn":"9784150414504","title":"ハンターキラー 潜航せよ 下","volume":"","series":"","publisher":"早川書房","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784150414504.jpg","author":"ジョージ・ウォーレス／著 ドン・キース／著 山中朝晶／翻訳","description":"","price":"900","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
 {"isbn":"9784152098443","title":"荒野にて","volume":"","series":"","publisher":"早川書房","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784152098443.jpg","author":"ウィリー・ヴローティン／著 北田絵里子／翻訳","description":"孤独な15歳の少年は、殺処分が決まった老競走馬をひそかに連れ出し、遠くに住む伯母のもとへ荒野を行く旅に出る。感動の映画化原作","price":"2000","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
-,
-{"isbn":"9784254131253","title":"ファーストステップ 宇宙の物理","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-03-06","cover":"","author":"嶺重慎／著","description":"宇宙物理学の初級テキスト。多くの予備知識なく基礎概念や一般原理の理解に至る丁寧な解説。","price":"3300","genre":"自然科学","target":"専門","format":"単行本","content":"物理学"}
-,
-{"isbn":"9784254141061","title":"水素エネルギーの事典","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784254141061.jpg","author":"水素エネルギー協会／編集","description":"水素エネルギー分野の研究を始める研究者、水素産業に興味がある学生・大学院生のための入門書","price":"5000","genre":"自然科学","target":"専門","format":"事・辞典","content":"化学"}
-,
-{"isbn":"9784254252699","title":"ゴムの補強","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-03-06","cover":"","author":"粷谷信三／著 加藤淳／著 池田裕子／著","description":"ゴムの実用上，もっとも基本的かつ重要な技術のひとつである「補強」を体系的に解説．","price":"4000","genre":"工業・工学","target":"専門","format":"単行本","content":"その他の工業"}
-,
-{"isbn":"9784254440294","title":"実践 風景計画学","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-03-06","cover":"","author":"日本造園学会・風景計画研究推進委員会／監修 古谷勝則／編集 伊藤弘／編集","description":"人と環境の関係に基づく「風景」について，実際の事例も交えて分析・計画・実施管理等を解説。","price":"3400","genre":"自然科学","target":"専門","format":"単行本","content":"農林業"}
-,
-{"isbn":"9784309416687","title":"エンキョリレンアイ","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-03-06","cover":"","author":"小手鞠るい／著","description":"22歳の誕生日、花音が出会った運命の彼はアメリカ留学を控えていた。遠く離れても、熱く思い続けるふたりの恋。純愛120％小説。","price":"780","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784309416694","title":"バッハ","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-03-06","cover":"","author":"吉田秀和／著","description":"マタイ受難曲、ロ短調ミサ、ブランデンブルク、ゴルトベルク、無伴奏チェロ……。リヒター、ビルスマから、グルダ、グールドまで。","price":"800","genre":"","target":"一般","format":"文庫","content":"音楽・舞踊"}
-,
-{"isbn":"9784309416700","title":"心霊殺人事件 安吾全推理短篇","volume":"","series":"河出文庫KAWADEノスタルジック　探偵・怪奇・幻想シリーズ","publisher":"河出書房新社","pubdate":"2019-03-06","cover":"","author":"坂口安吾／著","description":"「投手殺人事件」「南京虫殺人事件」「選挙殺人事件」「山の神殺人」「正午の殺人」「心霊殺人事件」「能面の秘密」「アンゴウ」など","price":"740","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784309416717","title":"グローバライズ ＧＬＯＢＡＲＩＳＥ","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-03-06","cover":"","author":"木下古栗／著","description":"稠密な文体と描写、文学的技巧を尽くして爆発的瞬間を描く――加速する現代に屹立する十二篇。「犯罪捜査」の改作を加えた完全版。","price":"760","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784309416731","title":"１４歳からの哲学入門","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-03-06","cover":"","author":"飲茶／著","description":"ニーチェ、デカルト、ヒューム、カント、ヘーゲル、キルケゴール、サルトル、デリダ…偉大な哲学者たちも一皮むけば厨二病だった!?","price":"850","genre":"","target":"一般","format":"文庫","content":"哲学"}
-,
-{"isbn":"9784309464893","title":"触れることの科学","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-03-06","cover":"","author":"デイヴィッド・Ｊ・リンデン／著 岩坂彰／翻訳","description":"触れ合い、温かい／冷たい、痛みやかゆみ、性的な快感まで――科学界随一のエンターテイナーが誘う触覚＝皮膚感覚のワンダーランド。","price":"880","genre":"","target":"一般","format":"文庫","content":"生物学"}
-,
-{"isbn":"9784309464909","title":"わたしは英国王に給仕した","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-03-06","cover":"","author":"ボフミル・フラバル／著 阿部賢一／翻訳","description":"ナチス占領、そして共産主義時代のチェコを舞台に、給仕人から百万長者になった男の波瀾の人生を描き出す、滑稽で奇想天外な大傑作。","price":"1200","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
-,
-{"isbn":"9784313653672","title":"さる先生の「全部やろうはバカやろう」","volume":"","series":"","publisher":"学陽書房","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784313653672.jpg","author":"坂本良晶／著","description":"このやり方なら、「教育の生産性」がどんどん上がる！","price":"1600","genre":"教育","target":"一般","format":"単行本","content":"教育"}
-,
-{"isbn":"9784313653689","title":"新卒時代を乗り切る！　教師１年目の教科書","volume":"","series":"","publisher":"学陽書房","pubdate":"2019-03-06","cover":"","author":"野中信行／著","description":"この１冊で、教師１年目を乗り切る！","price":"1600","genre":"教育","target":"一般","format":"単行本","content":"教育"}
-,
-{"isbn":"9784313653696","title":"子どもが一気に集中する！　授業スイッチ１０１","volume":"","series":"","publisher":"学陽書房","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784313653696.jpg","author":"山中伸之／著","description":"子どもを一気に授業に授業に惹き込む！　集中・やる気アップの授業導入アイデア集！","price":"1700","genre":"教育","target":"一般","format":"単行本","content":"教育"}
-,
-{"isbn":"9784334912703","title":"機捜２３５","volume":"","series":"","publisher":"光文社","pubdate":"2019-03-06","cover":"","author":"今野敏／著","description":"","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784416519974","title":"マンガでわかる文楽","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784416519974.jpg","author":"マンガでわかる文楽編集部／編集 上島カンナ／イラスト 公益財団法人文楽協会（協力）／著","description":"愛、復讐、義理人情…。人形の時代劇ミュージカルは昼メロも真っ青の大スペクタクル！　初心者もマニアもはまる鑑賞ポイント満載。","price":"1600","genre":"","target":"一般","format":"単行本","content":"演劇・映画"}
-,
-{"isbn":"9784416619407","title":"カップデリ 持ちよりパーティやお弁当に","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784416619407.jpg","author":"信太康代／著","description":"女子会や花見など、料理を持ち寄る機会に便利なカップ入りのオードブル、サラダ、丼ものやデザートなどを紹介します。","price":"1400","genre":"","target":"実用","format":"単行本","content":"家事"}
-,
-{"isbn":"9784416619636","title":"カラー実体配線図で作る真空管アンプ","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784416619636.jpg","author":"MJ無線と実験編集部／編集","description":"カラー実体配線図を使って回路図が苦手でも作れる真空管アンプを12機種掲載しています","price":"2500","genre":"","target":"実用","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784422101231","title":"齋藤孝が読む　カーネギー『人を動かす』","volume":"","series":"22歳からの社会人になる教室①","publisher":"創元社","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784422101231.jpg","author":"齋藤孝／著","description":"不朽の名著『人を動かす』を、教育学者の齋藤孝が読み解き、今日的な事例と実践的なノウハウを交えながら解説する。","price":"1400","genre":"","target":"一般","format":"全集・双書","content":"心理(学)"}
-,
-{"isbn":"9784422701202","title":"あの日からの或る日の絵とことば","volume":"","series":"","publisher":"創元社","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784422701202.jpg","author":"筒井大介／編集 阿部海太／著 荒井良二／著 飯野和好／著 石黒亜矢子／著 植田真／著 ほか","description":"震災をめぐる或る日の記憶〈絵と言葉〉荒井良二、飯野和好、ささめやゆき、ツペラツペラ、ミロコマチコ、ヨシタケシンスケ、他","price":"1700","genre":"","target":"一般","format":"単行本","content":"絵画・彫刻"}
-,
-{"isbn":"9784473042934","title":"久保修　切り絵画家の半生","volume":"","series":"","publisher":"淡交社","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784473042934.jpg","author":"久保修／著","description":"切り絵画家久保修の47年間の作品と半生を集大成。日本の春夏秋冬の美を表した作品、海外の風物とともに、人生まで楽しめる一冊。","price":"2000","genre":"芸術","target":"一般","format":"単行本","content":"絵画・彫刻"}
-,
-{"isbn":"9784474066304","title":"リスクマネジメントのプロセスと実務　増補版","volume":"","series":"","publisher":"第一法規","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784474066304.jpg","author":"有限責任監査法人トーマツ／著 仁木一彦／編集・監修","description":"図解を交え、リスク、クライシスマネジメントの全体像、基本動作、PDCAを解説。また、具体的な実例で対応策、課題を解説。","price":"2800","genre":"","target":"実用","format":"単行本","content":"経営"}
-,
-{"isbn":"9784474066502","title":"神弁協叢書 弁護士実務に効く　判例にみる宗教法人の法律問題","volume":"","series":"","publisher":"第一法規","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784474066502.jpg","author":"本間久雄／著","description":"宗教法人法、墓地埋葬法、民事法、刑事法等、宗教法人が関わる法規・制度において、問題となる法律問題を関係判例をもとに解説。","price":"4300","genre":"","target":"実用","format":"単行本","content":"法律"}
-,
-{"isbn":"9784491035888","title":"実践！新学習指導要領　基本が分かる 外国語活動・外国語科の授業","volume":"","series":"","publisher":"東洋館出版社","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784491035888.jpg","author":"外国語活動・外国語科実践研究会／編集","description":"文部科学省職員、研究者、教師など、外国語教育のスペシャリストが新学習指導要領に基づく外国語活動・外国語の授業の在り方を解説！","price":"2300","genre":"","target":"専門","format":"単行本","content":"教育"}
-,
-{"isbn":"9784491036359","title":"実践！　常勝ドイツのプレッシングメソッド","volume":"","series":"","publisher":"東洋館出版社","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784491036359.jpg","author":"ラルフ・ペーター／著 須田芳正／監修 福岡正高／翻訳","description":"本書は、ドイツサッカー協会のコーチングスタッフを務める著者が、「プレッシング」を解説し、そのトレーニング方法も掲載した１冊。","price":"1850","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
-,
-{"isbn":"9784525500818","title":"臨床アロマセラピー","volume":"","series":"","publisher":"南山堂","pubdate":"2019-03-06","cover":"https://cover.openbd.jp/9784525500818.jpg","author":"今西二郎／著 相原由花／著 岸田聡子／著","description":"アロマセラピーを実践するための極意をこの一冊に！\n多病が多くを占める臨床現場で自信を持ってアロマセラピーを実践するためには，豊富な知識と経験から得られた多角的な視点が必要である．\nそこで本書は，具体例を挙げながら，アロマセラピーの最新エビデンスを含めた基礎知識から，患者対応の際に悩むであろうポイントやピットフォール，さらにはエキスパートの思考プロセスまでを解説する．","price":"2000","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
 ]
