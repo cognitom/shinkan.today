@@ -15,7 +15,7 @@
 ,
 {"isbn":"9784007308598","title":"シンプレクティック幾何学","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-03-13","cover":"https://cover.openbd.jp/9784007308598.jpg","author":"深谷賢治／著","description":"グロモフ以後，飛躍的に発展した大域シンプレクティック幾何学を，ミラー対称性との関係も含めて概説する．","price":"9600","genre":"","target":"専門","format":"単行本","content":"数学"}
 ,
-{"isbn":"9784007308604","title":"群論","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-03-13","cover":"https://cover.openbd.jp/9784007308604.jpg","author":"寺田至／著 原田耕一郎／著","description":"群の構造に関する基本的な知識に加え，群の作用と表現について，例を通じて実感を培いながら学ぶ．","price":"7300","genre":"","target":"専門","format":"単行本","content":"数学"}
+{"isbn":"9784007308604","title":"群論","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-03-13","cover":"https://cover.openbd.jp/9784007308604.jpg","author":"寺田至／著 原田耕一郎／著","description":"群の構造に関する基本的な知識に加え，群の作用と表現について，例を通じて実感を培いなら学ぶ．","price":"7300","genre":"","target":"専門","format":"単行本","content":"数学"}
 ,
 {"isbn":"9784007308611","title":"位相幾何","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-03-13","cover":"https://cover.openbd.jp/9784007308611.jpg","author":"佐藤肇／著","description":"意味のある最も簡単な例を具体的に調べることで，数学的対象物を手の中で確かめ，その質感を会得しよう．","price":"3500","genre":"","target":"専門","format":"単行本","content":"数学"}
 ,
@@ -28,8 +28,6 @@
 {"isbn":"9784048961769","title":"小林由依1st写真集「感情の構図」","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-13","cover":"https://cover.openbd.jp/9784048961769.jpg","author":"小林由依／著 鈴木心／写真","description":"欅坂46 小林由依1st写真集！  撮影の舞台はイギリス!!","price":"1800","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
 ,
 {"isbn":"9784065140123","title":"蜜血姫とヴァンパイア（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"冬織透真／著","description":"「蜜血」と呼ばれる極上の血を持つ女子高生を守るのは、吸血鬼のボディガード。禁断でピュアなドラマティックラブストーリー！","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784065142592","title":"教養としての将棋","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"羽生善治／著 梅原猛／著 尾本恵市／著・編集","description":"将棋は指さなくても面白い。「観るファン」のための初めての本格的将棋ガイド。羽生永世七冠、梅原猛氏らが将棋の魅力を語り尽くす！","price":"880","genre":"","target":"一般","format":"新書","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784065143117","title":"孟子　全訳注","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"宇野精一／翻訳","description":"宇野精一による格調高い現代語訳で孟子の教えの精髄を伝える。儒教の必読書。（原本：『全釈漢文大系２　孟子』集英社刊）","price":"1690","genre":"","target":"一般","format":"文庫","content":"哲学"}
 ,
@@ -59,7 +57,7 @@
 ,
 {"isbn":"9784065148068","title":"老猫ユキポンと漫画家父ちゃんのお仕事なし（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"東和広／著","description":"「ユキポンのお仕事」完結から１５年。無職の中年漫画家となった作者が綴る、哀しくも愛しき総天然色ニャンコ・エッセイ・コミック！","price":"1204","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065148099","title":"アスペル・カノジョ（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"萩本創八／原著 森田蓮次／著","description":"”生きづらい”ふたりが送る、不安定な幸せの物語。","price":"670","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065148099","title":"アスペル・カノジョ（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"萩本創八／原著 森田蓮次／著","description":"同居生活も、もう１ヵ月。生きるのが不得意なふたりがいっしょに過ごした、ふたりぼっち物語。","price":"670","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065148129","title":"メイクはただの魔法じゃないの　ビギナーズ","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"六多いくみ／著","description":"元・美容部員でメイク好きの少女マンガ家・六花なるみがメイクやコスメにまつわる相談にこたえるハウツーメイク漫画エッセイ！","price":"900","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -89,7 +87,7 @@
 ,
 {"isbn":"9784065149409","title":"ベストバウト　オブ　はじめの一歩！　宮田一郎VS．ランディー・ボーイJr　東洋太平洋フェザー級王座統一戦編","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"森川ジョージ／著","description":"＊","price":"648","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065149461","title":"ジパング　「大和」VS．「みらい」全面衝突　アンコール刊行","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"かわぐちかいじ／著","description":"原爆を積んだ巨大戦艦「大和」が突き進む、”史実にはない歴史”の行く末！　不可視の航路に角松の「みらい」が立ちはだかる！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065149461","title":"ジパング　「大和」VS．「みらい」全面衝　アンコール刊行","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"かわぐちかいじ／著","description":"原爆を積んだ巨大戦艦「大和」が突き進む、”史実にはない歴史”の行く末！　不可視の航路に角松の「みらい」が立ちはだかる！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065149515","title":"蟲籠奇譚（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"西塚ｅｍ／著","description":"すべての悩める生き物に捧ぐ――。","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -105,7 +103,7 @@
 ,
 {"isbn":"9784065149935","title":"阿部くんに狙われてます（2）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"岩井あき／著","description":"「勝負だな――俺から逃げ切るか、俺が捕まえるか。」強引に攻めてくる猛獣男子に惚れたら負け！？　全力ラブチェイス！","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065149980","title":"メンズライフ（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"渡辺あゆ／著","description":"イケメン男子寮で、女子なのはひみつ。この恋もひみ。大人気の男子寮ラブ第３巻☆","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065149980","title":"メンズライフ（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"渡辺あゆ／著","description":"イケメン男子寮で、女子なのはひみつ。この恋もひみつ。大人気の男子寮ラブ第３巻☆","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065150023","title":"HUGっと！プリキュア（2）プリキュアコレクション","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"上北ふたご／著 東堂いづみ／原著","description":"「ＨＵＧっと！プリキュア」まんがオリジナルのドタバタ＆感動な日常ストーリー！","price":"950","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -152,4 +150,14 @@
 {"isbn":"9784074345724","title":"Ｎｅｗ！　ＣＤつき　基礎英語ができない大人の英会話","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-13","cover":"","author":"デイビッド・セイン／著","description":"基礎英語もわからない人も、ネイティブがよく使う簡単なパターンを覚えれば会話に困らない。音声も聞けて、楽々インプット！","price":"1400","genre":"","target":"一般","format":"単行本","content":"英米語"}
 ,
 {"isbn":"9784074351466","title":"健康寿命を延ばすための薬食術","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-13","cover":"","author":"池上文雄／著","description":"多種類の食材をバランスよく食べることが最高のクスリ。現代薬学と漢方に精通した著者が家族と体現した薬を減らせる「薬食術」。","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
+,
+{"isbn":"9784163909837","title":"精神科医が教える3秒で部下に好かれる方法","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-03-13","cover":"https://cover.openbd.jp/9784163909837.jpg","author":"伊藤直／著","description":"三五〇社以上の顧問医を務めて見た「部下を追い込んでしまう上司」。何がいけないのか？ どうすればいい？ 全部詳しく教えます！","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784197806331","title":"おかあさんはアフロぶた","volume":"","series":"","publisher":"エコーズ","pubdate":"2019-03-13","cover":"","author":"土田完／著","description":"食いしん坊なおかあさんのアフロぶた、マイペースなおやじタコ、漫画家のむしけらーー仲良し家族のほっこり日常ダイアリー！","price":"1000","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199506710","title":"ねこむすめ道草日記　⑱","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-03-13","cover":"","author":"いけ／著","description":"連載１２年…ついにタイトルどおり黒菜が日記を書きます！","price":"680","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199506727","title":"セントールの悩み　⑱","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-03-13","cover":"","author":"村山慶／著","description":"ヒロインは…ケンタウロス女子高生！","price":"680","genre":"コミックス(書)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199506734","title":"カイと怪獣のタネ　③","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-03-13","cover":"","author":"ひらりん／著","description":"タネから生まれた怪獣達と共に繰り広げる「大冒険活劇」！忘れていたワクワクがたくさん詰まっています！","price":"680","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ]
