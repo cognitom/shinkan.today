@@ -41,7 +41,7 @@
 ,
 {"isbn":"9784065146842","title":"花のことば辞典　四季を愉しむ","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"https://cover.openbd.jp/9784065146842.jpg","author":"倉嶋厚／監修 宇田川眞人／著・編集","description":"どんな小さな花にも物語がある。日本の四季を彩る１０４１の花を取り上げ、由来や逸話、慣用句まで紹介。文字で鑑賞する、花の辞典！","price":"1110","genre":"","target":"一般","format":"文庫","content":"日本語"}
 ,
-{"isbn":"9784065147047","title":"クッキングパパ　あさりめし","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"うえやまとち／著","description":"ウキウキする春。浮かれつつも、仕事や勉強もがんばろう！　ごほうびはパパのおいしい料理で！！","price":"333","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065147047","title":"クッキングパパ　あさりめし","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"うえやまとち／著","description":"ウキウキする春。浮かれつつも、仕事や勉強もがんばろう！　ごほうびはパパのおいしい料理で！","price":"333","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065147511","title":"未熟なふたりでございますが（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"カワハラ恋／著","description":"ニコニコ漫画年間ランキング２０１８ユーザーマンガ部門第１位獲得「クールな嫁との新婚生活」ストーリー版本編が単行本化！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -85,7 +85,7 @@
 ,
 {"isbn":"9784065148990","title":"傘寿まり子（9）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"おざわゆき／著","description":"話題沸騰！　８０歳のおばあちゃんの冒険譚。いよいよ動き始めた、商店街でのファッションショー企画。しかし新たな問題続出で…？","price":"610","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065149027","title":"ブラット・ハント　ちゅっ（2）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"山田デイジー／著","description":"いろんな「好き」と「嫌い」が交錯する学校思春期迷子のための少女漫画できました。悩める女子の新バイブル・ファンタジー第２巻☆","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065149027","title":"ブラット・ハント　ちゅっ（2）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"山田デイジー／著","description":"いろんな「好き」と「嫌い」が交錯する学校。思春期迷子のための少女漫画できました。悩める女子の新バイブル・ファンタジー第２巻☆","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065149409","title":"ベストバウト　オブ　はじめの一歩！　宮田一郎VS．ランディー・ボーイJr　東洋太平洋フェザー級王座統一戦編","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"","author":"森川ジョージ／著","description":"＊","price":"648","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -145,11 +145,21 @@
 ,
 {"isbn":"9784065155141","title":"いやでも物理が面白くなる〈新版〉　「止まれ」の信号はなぜ世界共通で赤なのか？","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-13","cover":"https://cover.openbd.jp/9784065155141.jpg","author":"志村史夫／著","description":"難しくて退屈なのは「学校物理」のせいだった！　朝日や夕日はなぜ赤い？　身近な「なぜ？」から始まる誰でも楽しめる「超」入門書。","price":"1100","genre":"","target":"一般","format":"新書","content":"物理学"}
 ,
-{"isbn":"9784073404347","title":"新　女苦道伝れい　２","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-13","cover":"","author":"信田朋嗣／企画 叶精作／イラスト","description":"『ＣＯＭＩＣ魂』の人気作・第２巻…２カ月連続刊行！　母はくノ一。金髪の娘・沙羅と共に、れいは江戸の平和のため悪を斬る！","price":"880","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784073404347","title":"新　女苦道伝れい　２","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-13","cover":"https://cover.openbd.jp/9784073404347.jpg","author":"信田朋嗣／企画 叶精作／イラスト","description":"『ＣＯＭＩＣ魂』の人気作・第２巻…２カ月連続刊行！　母はくノ一。金髪の娘・沙羅と共に、れいは江戸の平和のため悪を斬る！","price":"880","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784074328055","title":"マンガでわかる　食べてうつぬけ　鉄欠乏女子救出ガイド","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-13","cover":"","author":"奥平智之／著 いしいまき／イラスト","description":"「マンガでわかるココロの不調回復　食べてうつぬけ」のさらによくわかる実践版。全編ほぼマンガと、簡単レシピとアドバイス満載","price":"1100","genre":"","target":"実用","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784074328055","title":"マンガでわかる　食べてうつぬけ　鉄欠乏女子救出ガイド","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-13","cover":"https://cover.openbd.jp/9784074328055.jpg","author":"奥平智之／著 いしいまき／イラスト","description":"「マンガでわかるココロの不調回復　食べてうつぬけ」のさらによくわかる実践版。全編ほぼマンガと、簡単レシピとアドバイス満載","price":"1100","genre":"","target":"実用","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784074345724","title":"Ｎｅｗ！　ＣＤつき　基礎英語ができない大人の英会話","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-13","cover":"","author":"デイビッド・セイン／著","description":"基礎英語もわからない人も、ネイティブがよく使う簡単なパターンを覚えれば会話に困らない。音声も聞けて、楽々インプット！","price":"1400","genre":"","target":"一般","format":"単行本","content":"英米語"}
+{"isbn":"9784074345724","title":"Ｎｅｗ！　ＣＤつき　基礎英語ができない大人の英会話","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-13","cover":"https://cover.openbd.jp/9784074345724.jpg","author":"デイビッド・セイン／著","description":"基礎英語もわからない人も、ネイティブがよく使う簡単なパターンを覚えれば会話に困らない。音声も聞けて、楽々インプット！","price":"1400","genre":"","target":"一般","format":"単行本","content":"英米語"}
 ,
-{"isbn":"9784074351466","title":"健康寿命を延ばすための薬食術","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-13","cover":"","author":"池上文雄／著","description":"多種類の食材をバランスよく食べることが最高のクスリ。現代薬学と漢方に精通した著者が家族と体現した薬を減らせる「薬食術」。","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784074351466","title":"健康寿命を延ばすための薬食術","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-13","cover":"https://cover.openbd.jp/9784074351466.jpg","author":"池上文雄／著","description":"多種類の食材をバランスよく食べることが最高のクスリ。現代薬学と漢方に精通した著者が家族と体現した薬を減らせる「薬食術」。","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
+,
+{"isbn":"9784163909837","title":"精神科医が教える3秒で部下に好かれる方法","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-03-13","cover":"https://cover.openbd.jp/9784163909837.jpg","author":"伊藤直／著","description":"三五〇社以上の顧問医を務めて見た「部下を追い込んでしまう上司」。何がいけないのか？ どうすればいい？ 全部詳しく教えます！","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784197806331","title":"おかあさんはアフロぶた","volume":"","series":"","publisher":"エコーズ","pubdate":"2019-03-13","cover":"","author":"土田完／著","description":"食いしん坊なおかあさんのアフロぶた、マイペースなおやじタコ、漫画家のむしけらーー仲良し家族のほっこり日常ダイアリー！","price":"1000","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199506710","title":"ねこむすめ道草日記　⑱","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-03-13","cover":"","author":"いけ／著","description":"連載１２年…ついにタイトルどおり黒菜が日記を書きます！","price":"680","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199506727","title":"セントールの悩み　⑱","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-03-13","cover":"","author":"村山慶／著","description":"ヒロインは…ケンタウロス女子高生！","price":"680","genre":"コミックス(書)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199506734","title":"カイと怪獣のタネ　③","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-03-13","cover":"","author":"ひらりん／著","description":"タネから生まれた怪獣達と共に繰り広げる「大冒険活劇」！忘れていたワクワクがたくさん詰まっています！","price":"680","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ]
