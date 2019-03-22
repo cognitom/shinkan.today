@@ -93,7 +93,7 @@
 ,
 {"isbn":"9784074371976","title":"ペテン師は静かに眠りたい　３","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-30","cover":"","author":"片里鴎／著 岡谷／イラスト","description":"麻薬の横行、仲間の裏切り…!? 失敗したら即始末、戦争の責任を押し付けられたペテン師が命懸けで復興計画に取り組む。","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784074372348","title":"異世界食堂　５","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-30","cover":"","author":"犬塚惇平／著 エナミカツミ／イラスト","description":"異世界グルメファンタジー待望の第５弾。書籍限定、アニメBD特典エピソードも一挙掲載！！","price":"630","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784074372348","title":"異世界食堂　５","volume":"","series":"","publisher":"主婦友社","pubdate":"2019-03-30","cover":"","author":"犬塚惇平／著 エナミカツミ／イラスト","description":"異世界グルメファンタジー待望の第５弾。書籍限定、アニメBD特典エピソードも一挙掲載！！","price":"630","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784074372638","title":"座るだけでやせる骨盤まくら　おしりリセットチェアー","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784074372638.jpg","author":"中村奈緒子／監修","description":"自身も12キロをやせを実現した中村奈緒子が「座るだけでやせる」骨盤まくらを開発。みるみる横からのシルエットが変わります！","price":"1980","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
@@ -114,4 +114,8 @@
 {"isbn":"9784272409273","title":"科学がひらくスマート農業・漁業","volume":"","series":"","publisher":"大月書店","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784272409273.jpg","author":"中野明正／監修 河合義隆／監修 小泉光久／著 寺坂安里／イラスト","description":"太陽光やLEDの光と養液を使って、工場のなかでレタスやイチゴなどの野菜をつくる植物工場、つみ取りや収穫のロボット化を紹介。","price":"2600","genre":"","target":"児童","format":"全集・双書","content":"農林業"}
 ,
 {"isbn":"9784272409280","title":"科学がひらくスマート農業・漁業","volume":"","series":"","publisher":"大月書店","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784272409280.jpg","author":"桑山岳人／監修 岩田尚孝／監修 白砂孔明／監修 小泉光久／著 寺坂安里／イラスト","description":"牛の飼育や乳しぼりの機械化、三元豚などのブタの品種改良の技術、ニワトリの卵の人工ふ化からパック詰めまでの機械化などを紹介。","price":"2600","genre":"","target":"児童","format":"全集・双書","content":"農林業"}
+,
+{"isbn":"9784276142190","title":"言葉で味わうリズム唱入門","volume":"","series":"","publisher":"音楽之友社","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784276142190.jpg","author":"高橋千佳子／著","description":"リズムを“読む”のではなく“唱える”ことで、そのリズムらしさの表現を目指す。問題集と著者秘伝の便利な「リズム表」付き。<b…","price":"1600","genre":"芸術","target":"教養","format":"単行本","content":"音楽・舞踊"}
+,
+{"isbn":"9784296102365","title":"土日で学べるプログラミング入門","volume":"","series":"日経BPパソコンベストムック","publisher":"日経ＢＰ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784296102365.jpg","author":"日経ソフトウエア／編集","description":"土日の2日間くらいで読める、そしてプログラミングを楽しめる、入門者向けの記事を多数収録しています。\n","price":"2300","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
 ]

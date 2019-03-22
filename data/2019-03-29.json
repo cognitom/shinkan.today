@@ -23,7 +23,7 @@
 ,
 {"isbn":"9784065133101","title":"資本主義と闘った男　宇沢弘文と経済学の世界","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-29","cover":"","author":"佐々木実／著","description":"","price":"2700","genre":"","target":"一般","format":"単行本","content":"社会"}
 ,
-{"isbn":"9784065139349","title":"OAD付き　転生したらスライムだった件（11）限定版","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-29","cover":"","author":"川上泰樹／著 伏瀬／原著 みっつばー／著","description":"魔国連邦初の相撲大会が勃発！　シュナが、シオンが熱闘！　ミリムも参戦！？　完全新作オリジナルアニメがついてくる限定版！","price":"3685","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065139349","title":"OAD付き　転生したらスライムだった件（11）限定版","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-29","cover":"","author":"川上泰樹／著 伏瀬／原著 みっつばー／著","description":"魔国連邦初の相撲大会が勃発！　シュナが、シオンが熱闘！　ミリムも参戦！？　完新作オリジナルアニメがついてくる限定版！","price":"3685","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065142721","title":"Disney　Princess　ディズニープリンセスと幸せの花言葉","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-29","cover":"","author":"講談社／編集 柘植彩子／イラスト","description":"ディズニープリンセスと花言葉が、あなたに幸せをもたらす！　いつもがんばっている自分へのご褒美に。新たな門出を祝う贈り物にも！","price":"1300","genre":"","target":"一般","format":"単行本","content":"演劇・映画"}
 ,
@@ -35,7 +35,9 @@
 ,
 {"isbn":"9784065147801","title":"転生したらスライムだった件（11）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-29","cover":"","author":"川上泰樹／著 伏瀬／原著 みっつばー／著","description":"ＷＥＢで人気の異世界モノ名作を、原作者完全監修でコミカライズ！巻末には原作者書き下ろしの短編小説を収録！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065148525","title":"こども百科ミニ　どうぶつ","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-29","cover":"","author":"オフィス３０３／編集","description":"見やすく、持ちやすい、ハンディサイズのこども向け動物図鑑。ご家庭でも、おでかけでも。３歳～６歳向け。全かな。","price":"780","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"自然科学総記"}
+{"isbn":"9784065148525","title":"こども百科ミニ　どうぶつ","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-29","cover":"https://cover.openbd.jp/9784065148525.jpg","author":"オフィス３０３／編集","description":"見やすく、持ちやすい、ハンディサイズのこども向け動物図鑑。ご家庭でも、おでかけでも。３歳～６歳向け。全かな。","price":"780","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"自然科学総記"}
+,
+{"isbn":"9784065148556","title":"ムーミン全集［新版］1　ムーミン谷の彗星","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-29","cover":"https://cover.openbd.jp/9784065148556.jpg","author":"トーベ・ヤンソン／著 下村隆一／翻訳","description":"５０年以上愛されてきた「ムーミン」の原典、待望の改訂版！クリアになったさしえ、読みやすくなった翻訳、おしゃれなカバーが目印！","price":"1500","genre":"","target":"児童","format":"全集・双書","content":"外国文学小説"}
 ,
 {"isbn":"9784065148570","title":"転スラ日記　転生したらスライムだった件（2）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-29","cover":"","author":"伏瀬／原著 柴／著 みっつばー／著","description":"「転生したらスライムだった件」スライム増殖中！リムル達の日常をふんだんに描いた４コマスピンオフ！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -146,4 +148,10 @@
 {"isbn":"9784265020782","title":"うまれたよ！　クラゲ","volume":"","series":"","publisher":"岩崎書店","pubdate":"2019-03-29","cover":"https://cover.openbd.jp/9784265020782.jpg","author":"武田晋一／写真 ボコヤマクリタ／著","description":"海水浴場で見かけるミズクラゲ。実は変身をくりかえすふしぎな生き物！クラゲはどんなふうに生まれるのでしょうか？","price":"2200","genre":"","target":"児童","format":"絵本","content":"生物学"}
 ,
 {"isbn":"9784265020799","title":"うまれたよ！　イモリ","volume":"","series":"","publisher":"岩崎書店","pubdate":"2019-03-29","cover":"https://cover.openbd.jp/9784265020799.jpg","author":"関慎太郎／著","description":"イモリの卵は水草の葉にひとつずつ産みつけられます。卵は日に日に変化して、オタマジャクシのような赤ちゃんが誕生しました！","price":"2200","genre":"","target":"児童","format":"絵本","content":"生物学"}
+,
+{"isbn":"9784275021021","title":"進化するアメリカ産業と地域の盛衰","volume":"","series":"","publisher":"御茶の水書房","pubdate":"2019-03-29","cover":"","author":"明石芳彦（大阪商業大学教授・大阪市立大学名誉教授）／著","description":"産業の変化はアメリカの都市・地域にいかなる影響を及ぼしたのか","price":"3200","genre":"社会科学","target":"専門","format":"単行本","content":"経済・財政・統計"}
+,
+{"isbn":"9784275021069","title":"人口減少社会のコミュニティ・プラクティス","volume":"","series":"","publisher":"御茶の水書房","pubdate":"2019-03-29","cover":"","author":"仁科伸子／著","description":"著しい人口減少を経験した大都市シカゴの実証分析","price":"4300","genre":"社会科学","target":"専門","format":"単行本","content":"社会"}
+,
+{"isbn":"9784296102174","title":"検証 平成建築史","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2019-03-29","cover":"https://cover.openbd.jp/9784296102174.jpg","author":"内藤廣＋日経アーキテクチュア／著","description":"バブル崩壊後の30年間で、建築に何が起こったのか。内藤廣氏をナビゲーターとして「平成」の災害・事件・建築デザインを検証します","price":"3200","genre":"歴史・地理","target":"専門","format":"単行本","content":"建築"}
 ]
