@@ -7,7 +7,7 @@
 ,
 {"isbn":"9784041076743","title":"心霊探偵八雲１１ 魂の代償","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784041076743.jpg","author":"神永学／著","description":"シリーズ累計680万部の超人気ミステリー、最新刊!!","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041078624","title":"よたんぼう","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784041078624.jpg","author":"桂歌蔵／著","description":"あがけ！もがけ！みがけ！　師匠へのオマージュをこめて捧げる落語青春小説","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784041078624","title":"よたんぼう","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784041078624.jpg","author":"桂歌蔵／著","description":"あがけ！もがけ！みがけ！　師匠のオマージュをこめて捧げる落語青春小説","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784041079454","title":"逃げ出せなかった君へ","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784041079454.jpg","author":"安藤祐介／著","description":"働くことを通して生きるとは何かを問う。命と仕事の６つの物語。","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
@@ -44,8 +44,6 @@
 {"isbn":"9784047355811","title":"交通事故で頭を強打したらどうなるか？","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784047355811.jpg","author":"大和ハジメ／著","description":"トラックと衝突し頭を強打した作者のノンフィクション・コミックエッセイ!","price":"1000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784047355828","title":"クトゥルフ神話TRPG クトゥルフ・タブレット","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784047355828.jpg","author":"マイケル・ラボシエ、内山靖二郎、帆志みなみほか／著 坂本雅之／アーカム・メンバーズ／編集","description":"『クトゥルフ神話TRPG』の特性を生かしたオムニバス形式ソースブック!","price":"3800","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
-,
-{"isbn":"9784047355873","title":"もっと、ずっと、ぎゅっと。","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784047355873.jpg","author":"あさひな／著","description":"ラブラブカップル胸キュンストーリー。イチャイチャドキドキが止まらない…","price":"1000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784047355927","title":"お天気お姉さんＶＴｕｂｅｒ ウェザーロイドＡｉｒｉのソラヨミのススメ。","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784047355927.jpg","author":"ウェザーロイドＴｙｐｅＡＡｉｒｉ／著 株式会社ウェザーニューズ／監修","description":"VTuber Airiと学ぶ天気を味方につける方法","price":"1400","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
@@ -93,11 +91,23 @@
 ,
 {"isbn":"9784074372348","title":"異世界食堂　５","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-30","cover":"","author":"犬塚惇平／著 エナミカツミ／イラスト","description":"異世界グルメファンタジー待望の第５弾。書籍限定、アニメBD特典エピソードも一挙掲載！！","price":"630","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784074372638","title":"座るだけでやせる骨盤まくら　おしりリセットチェアー","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784074372638.jpg","author":"中村奈緒子／監修","description":"自身も12キロをやせを実現した中村奈緒子が「座るだけでやせる」骨盤まくらを開発。みるみる横からのシルエットが変わります！","price":"1980","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784074372638","title":"座るだけでやせる骨盤まくら　おしりリセットチェアー","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784074372638.jpg","author":"Ｎａｏｋｏ／監修","description":"自身も12キロをやせを実現した中村奈緒子が「座るだけでやせる」骨盤まくらを開発。みるみる横からのシルエットが変わります！","price":"1980","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784074373239","title":"樹木希林さんからの手紙","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784074373239.jpg","author":"ＮＨＫ『クローズアップ現代＋』＋『知るしん』制作班／著","description":"今まで知られていなかった、樹木希林さんが直筆の手紙で一般の方を励まし続けていた感動の物語を手紙とともにご紹介します。","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784074373819","title":"僕の諭吉おじさん","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-30","cover":"","author":"見鳥望／著 ｕｓｉ／イラスト","description":"衝撃の短編ミステリーが大幅加筆して文庫で登場！　 「諭吉おじさん」の秘密とは?　母親の真の姿に戦慄が走る! ?","price":"610","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784074376599","title":"名医が教える最短で授かる不妊治療","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784074376599.jpg","author":"浅田義正／著","description":"妊娠に本当に必要な正しい知識と、ベストな状態＆最短ルートで授かるための不妊治療の進め方をどこよりも詳しくアドバイス！","price":"1200","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784197806348","title":"めしばな刑事タチバナ　33","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-03-30","cover":"","author":"坂戸佐兵衛／著 旅井とり／著","description":"『めしばな刑事タチバナ』最新３３巻は、なつかしの「ＯＨ！　８０年代お菓子」。読んだら、即食べたくなる、欲望直結の最新刊！","price":"560","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784198270520","title":"キャンプ・グッズ・マガジン　Vol.6","volume":"","series":"","publisher":"CLASSIX","pubdate":"2019-03-30","cover":"","author":"","description":"本書はキャンプ道具にフォーカスした専門書として２０１７年より発刊。今号で第６号となります。","price":"926","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+,
+{"isbn":"9784198270537","title":"小屋ライフ　Vol.003","volume":"","series":"","publisher":"CLASSIX","pubdate":"2019-03-30","cover":"","author":"","description":"本書は日本国内だけに留まらず、世界の小屋ライフをテーマにした１冊です。","price":"1200","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+,
+{"isbn":"9784198270544","title":"小屋　小さな家の豊かな暮らし","volume":"","series":"","publisher":"CLASSIX","pubdate":"2019-03-30","cover":"","author":"","description":"本書は世界中の小屋実例をテーマにした１冊。","price":"880","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+,
+{"isbn":"9784272409273","title":"科学がひらくスマート農業・漁業","volume":"","series":"","publisher":"大月書店","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784272409273.jpg","author":"中野明正／監修 河合義隆／監修 小泉光久／著 寺坂安里／イラスト","description":"太陽光やLEDの光と養液を使って、工場のなかでレタスやイチゴなどの野菜をつくる植物工場、つみ取りや収穫のロボット化を紹介。","price":"2600","genre":"","target":"児童","format":"全集・双書","content":"農林業"}
+,
+{"isbn":"9784272409280","title":"科学がひらくスマート農業・漁業","volume":"","series":"","publisher":"大月書店","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784272409280.jpg","author":"桑山岳人／監修 岩田尚孝／監修 白砂孔明／監修 小泉光久／著 寺坂安里／イラスト","description":"牛の飼育や乳しぼりの機械化、三元豚などのブタの品種改良の技術、ニワトリの卵の人工ふ化からパック詰めまでの機械化などを紹介。","price":"2600","genre":"","target":"児童","format":"全集・双書","content":"農林業"}
 ]
