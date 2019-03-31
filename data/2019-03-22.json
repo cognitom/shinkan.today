@@ -59,7 +59,7 @@
 ,
 {"isbn":"9784065146682","title":"図解　自分をアップデートする　仕事のコツ大全","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-22","cover":"https://cover.openbd.jp/9784065146682.jpg","author":"金沢悦子／著","description":"シリーズ１５万部の最新刊。「困った」「モヤモヤ」「心が折れそう」……そんな状況を打破する仕事の凄ワザを伝授します！","price":"1000","genre":"","target":"実用","format":"単行本","content":"経営"}
 ,
-{"isbn":"9784065146767","title":"個人差あります（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-22","cover":"https://cover.openbd.jp/9784065146767.jpg","author":"日暮キノコ／著","description":"３０代男・既婚者、女になる！？　『喰う寝るふたり　住むふたり』の日暮キノコが放つ衝撃作！！","price":"610","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065146767","title":"個人差ありす（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-22","cover":"https://cover.openbd.jp/9784065146767.jpg","author":"日暮キノコ／著","description":"３０代男・既婚者、女になる！？　『喰う寝るふたり　住むふたり』の日暮キノコが放つ衝撃作！！","price":"610","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065147443","title":"天国大魔境（2）","volume":"","series":"","publisher":"講談社","pubdate":"2019-03-22","cover":"https://cover.openbd.jp/9784065147443.jpg","author":"石黒正数／著","description":"撃退した暴漢から情報を得て「トマト天国」に着いた２人は、そこが目指していた場所ではないことを知り、次の目的地・浅草へ向かう！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -188,4 +188,20 @@
 {"isbn":"9784276922297","title":"小学生のための音楽会用合唱曲集　風のマーチ","volume":"","series":"","publisher":"音楽之友社","pubdate":"2019-03-22","cover":"https://cover.openbd.jp/9784276922297.jpg","author":"音楽之友社／編集","description":"シリーズ既刊を再編、音楽会におすすめの作品を集めた。表題作の他「明日へ」「地球のなかまたち」など、全8曲を収める。<br …","price":"2800","genre":"芸術","target":"教養","format":"単行本","content":"音楽・舞踊"}
 ,
 {"isbn":"9784305003782","title":"昭和文学研究　第78集","volume":"78","series":"昭和文学研究","publisher":"笠間書院","pubdate":"2019-03-22","cover":"https://cover.openbd.jp/9784305003782.jpg","author":"昭和文学会編集委員会／編集","description":"昭和期の文学を中心とする近現代文学の研究を対象とした学会誌。従来、会員以外は入手困難でしたが、通常の書籍同様、書店にてご注文いただけるよ うになりました。年2回刊行。定期ご購入をご希望の場合は入会されると金額的にお得です（年会費7000円、入会金1000円）。","price":"4200","genre":"","target":"専門","format":"全集・双書","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784305708755","title":"室町時代の女装少年×姫","volume":"","series":"","publisher":"笠間書院","pubdate":"2019-03-22","cover":"https://cover.openbd.jp/9784305708755.jpg","author":"阿部泰郎／監修 江口啓子／編集 鹿谷祐子／編集 末松美咲／編集 服部友香／編集","description":"寺に仕える男の子、児（ちご）が姫に一目惚れ！女房を装って姫に近づく彼の想いは叶うのか？","price":"3500","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784309700755","title":"日本の伝説　中部・東海","volume":"","series":"日本の伝説","publisher":"河出書房新社","pubdate":"2019-03-22","cover":"","author":"藤沢衛彦／著","description":"羽衣、姨捨、諏訪七不思議、物臭太郎、、八面鬼、猿神退治、一休話など全５６話。富士信州美濃飛騨と伝説の宝庫。中沢新一推薦。","price":"2100","genre":"","target":"一般","format":"全集・双書","content":"民族・風習"}
+,
+{"isbn":"9784309921631","title":"榲〓（まるめろ）に目鼻のつく話","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-03-22","cover":"","author":"泉鏡花／原著 中川学／イラスト","description":"僧侶でもある画家中川学が満を持して挑戦した鏡花作品。少年少女読者の心に鏡花小説の真髄でもある闇の魅力とその神秘性を刻みこむ。","price":"2300","genre":"","target":"一般","format":"絵本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784323062716","title":"低い土地のくらし","volume":"1","series":"わたしたちのくらしと国土","publisher":"金の星社","pubdate":"2019-03-22","cover":"https://cover.openbd.jp/9784323062716.jpg","author":"井田仁康／監修","description":"小学校５年社会  で学習する、日本の気候や地形にあわせた人々のくらしをテーマにしたシリーズ","price":"3100","genre":"歴史・地理","target":"児童","format":"全集・双書","content":"地理"}
+,
+{"isbn":"9784323062747","title":"寒い土地のくらし","volume":"4","series":"わたしたちのくらしと国土","publisher":"金の星社","pubdate":"2019-03-22","cover":"https://cover.openbd.jp/9784323062747.jpg","author":"井田仁康／監修","description":"小学校５年社会  で学習する、日本の気候や地形にあわせた人々のくらしをテーマにしたシリーズ","price":"3100","genre":"歴史・地理","target":"児童","format":"全集・双書","content":"地理"}
+,
+{"isbn":"9784323081243","title":"乃木坂の怪談","volume":"","series":"怪談 5分間の恐怖","publisher":"金の星社","pubdate":"2019-03-22","cover":"https://cover.openbd.jp/9784323081243.jpg","author":"中村まさみ／著","description":"1話5分で読み切れる ほんとうにあった怖い話シリーズ!","price":"1300","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784323081250","title":"封印された本","volume":"","series":"怪談 5分間の恐怖","publisher":"金の星社","pubdate":"2019-03-22","cover":"https://cover.openbd.jp/9784323081250.jpg","author":"中村まさみ／著","description":"1話5分で読み切れる ほんとうにあった怖い話シリーズ!","price":"1300","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784326549764","title":"国際貿易理論の現代的諸問題","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-03-22","cover":"https://cover.openbd.jp/9784326549764.jpg","author":"近藤健児／編集 寳多康弘／編集 須賀宣仁／編集","description":"中間財を含んだ貿易理論、不完全市場下の貿易理、戦略的貿易政策、国際労働移動などの分野を中心に、国際貿易の諸理論を検討する。","price":"4200","genre":"社会科学","target":"専門","format":"全集・双書","content":"経済・財政・統計"}
 ]
