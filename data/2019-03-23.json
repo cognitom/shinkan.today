@@ -35,7 +35,7 @@
 ,
 {"isbn":"9784041075357","title":"ペコロスの母に会いに行く","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-23","cover":"https://cover.openbd.jp/9784041075357.jpg","author":"岡野雄一／著","description":"母ちゃん、ぼけてよかったな。20万部超のベストセラーコミックエッセイ！","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784041075401","title":"隠密同心 闇の密約（三）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-23","cover":"https://cover.openbd.jp/9784041075401.jpg","author":"小杉健治／著","description":"命の危険も顧みず、幕閣に蠢く陰謀を暴け！面白さ倍増のシリーズ最終巻！！","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784041075401","title":"隠密同心 闇の密約（三）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-23","cover":"https://cover.openbd.jp/9784041075401.jpg","author":"杉健治／著","description":"命の危険も顧みず、幕閣に蠢く陰謀を暴け！面白さ倍増のシリーズ最終巻！！","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784041076477","title":"どうで死ぬ身の一踊り","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-23","cover":"https://cover.openbd.jp/9784041076477.jpg","author":"西村賢太／著","description":"賛否両極の第一創作集","price":"800","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -200,4 +200,6 @@
 {"isbn":"9784326603176","title":"男たち／女たちの恋愛","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-03-23","cover":"https://cover.openbd.jp/9784326603176.jpg","author":"田中亜以子／著","description":"恋愛は近代的な「自己」の実現のうえで、いかに意味づけられていったのか。恋愛という観念の男女による形成過程の違いを分析する。","price":"4000","genre":"社会科学","target":"専門","format":"単行本","content":"社会"}
 ,
 {"isbn":"9784326654192","title":"女子のたしなみと日本近代","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-03-23","cover":"https://cover.openbd.jp/9784326654192.jpg","author":"歌川光一／著","description":"近代日本において、音楽はいかに趣味／たしなみとして、女子に受容されていったのか。当時のジェンダー規範との関わりから分析する。","price":"3400","genre":"社会科学","target":"専門","format":"単行本","content":"社会"}
+,
+{"isbn":"9784413112888","title":"図解　奇跡のしくみを解き明かす！　「地球」の設計図","volume":"","series":"","publisher":"青春出版社","pubdate":"2019-03-23","cover":"https://cover.openbd.jp/9784413112888.jpg","author":"斎藤靖二／監修","description":"シンプルな文章とポップなイラスト、整理されたデザインで地球がまるごとわかる一冊。","price":"1200","genre":"自然科学","target":"一般","format":"単行本","content":"天文・地学"}
 ]

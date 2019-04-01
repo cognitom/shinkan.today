@@ -29,7 +29,7 @@
 ,
 {"isbn":"9784040654829","title":"先生！　休ませてください！　3","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784040654829.jpg","author":"吉辺あくろ／著","description":"見ちゃダメ…？　保健室の女子高生には秘密がいっぱい。","price":"600","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784040655987","title":"寮長は料理上手　3","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784040655987.jpg","author":"吉村佳／著","description":"みんなとの楽しい寮生活は、最高に青春！","price":"600","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784040655987","title":"寮長は料理上手　3","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784040655987.jpg","author":"吉村佳／著","description":"みんなとの楽しい寮生活は、高に青春！","price":"600","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784040656281","title":"Ｒｅ：ゼロから始める異世界生活１９","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784040656281.jpg","author":"長月達平／著 大塚真一郎／イラスト","description":"「貴様の全てを否定してやる。――この、俗物が」","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -166,4 +166,12 @@
 {"isbn":"9784335002410","title":"比較憲法","volume":"","series":"","publisher":"弘文堂","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784335002410.jpg","author":"東裕／編集 玉蟲由樹／編集","description":"●授業の予習や通信教育での独習に適した初学者向けの大学テキスト","price":"2200","genre":"社会科学","target":"教養","format":"全集・双書","content":"法律"}
 ,
 {"isbn":"9784335357435","title":"判例講義　民事訴訟法","volume":"","series":"","publisher":"弘文堂","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784335357435.jpg","author":"小林秀之／編集","description":"最新の民事訴訟法判例の学習書、債権法改正に完全対応！","price":"3700","genre":"社会科学","target":"教養","format":"単行本","content":"法律"}
+,
+{"isbn":"9784338321037","title":"災害にあったペットを救え","volume":"","series":"","publisher":"小峰書店","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784338321037.jpg","author":"高橋うらら／著","description":"災害時にペットの診療をおこなう獣医師チーム「VMAT」が注目されています。2016年の熊本地震で初めて出動をはたしました。VMATはどのようにしてできたのでしょうか？　どんな活動をしているのでしょうか？","price":"1500","genre":"児童図書","target":"児童","format":"全集・双書","content":"社会"}
+,
+{"isbn":"9784338323062","title":"ホルモンと免疫","volume":"","series":"ミクロワールド人体大図鑑","publisher":"小峰書店","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784338323062.jpg","author":"宮澤七郎／監修 島田達生／監修","description":"電子顕微鏡写真を全面的に使用した初めての人体図鑑。体の調子を整えるホルモンや体を守る働きをする免疫のしくみを紹介。","price":"2800","genre":"児童図書","target":"児童","format":"全集・双書","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784391153491","title":"PANDA DRAGON FIRST PHOTOBOOK ～はじめてのしゃしんしゅ～","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784391153491.jpg","author":"パンダドラゴン／著","description":"株式会社DD所属 MeseMoa.の弟分グループ「パンダドラゴン」通称“パラゴン”のファースト写真集。","price":"2778","genre":"芸能・タレント","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784391153507","title":"*ChocoLate Bomb!! SECOND PHOTOBOOK ～チョコレートが甘いなんて誰が決めたの？～","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784391153507.jpg","author":"＊ChocoLateBomb！！／著","description":"株式会社DD所属 MeseMoa.の次代グループ「*ChocoLate Bomb!!」、通称“ちょこぼ”のセカンド写真集。","price":"2778","genre":"芸能・タレント","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ]
