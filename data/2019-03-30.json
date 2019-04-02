@@ -11,7 +11,7 @@
 ,
 {"isbn":"9784041079454","title":"逃げ出せなかった君へ","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784041079454.jpg","author":"安藤祐介／著","description":"働くことを通して生きるとは何かを問う。命と仕事の６つの物語。","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041080160","title":"賢者の孫　Ｅｘｔｒａ　Ｓｔｏｒｙ　（１）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784041080160.jpg","author":"吉岡剛／原著 清水ケイスケ／著 菊池政治／企画","description":"『賢者の孫外伝小説がコミック化！賢者マーリン＆導師メリダの伝説開幕！","price":"580","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784041080160","title":"賢者の孫　Ｅｘｔｒａ　Ｓｔｏｒｙ　（１）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784041080160.jpg","author":"吉岡剛／原著 清水ケイスケ／著 菊池政治／企画","description":"『賢者の孫』外伝小説がコミック化！賢者マーリン＆導師メリダの伝説開幕！","price":"580","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784041080566","title":"毎日シャンシャンWonderful ～ママとシャンシャンの素晴らしき日々～","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784041080566.jpg","author":"高氏貴博／著","description":"シャンシャンついにひとり立ち！ママとのかけがえのない毎日が一冊に","price":"1200","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
 ,
@@ -101,31 +101,7 @@
 ,
 {"isbn":"9784198270520","title":"キャンプ・グッズ・マガジン　Vol.6","volume":"","series":"","publisher":"CLASSIX","pubdate":"2019-03-30","cover":"","author":"","description":"本書はキャンプ道具にフォーカスした専門書として２０１７年より発刊。今号で第６号となります。","price":"926","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784198270537","title":"小屋ライフ　Vol.003","volume":"","series":"","publisher":"CLASSIX","pubdate":"2019-03-30","cover":"","author":"","description":"本書は日本国内だけに留まらず、世界の小屋ライフをテーマにした１冊です。","price":"1200","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+{"isbn":"9784198270537","title":"小屋ライフ　Vol.003","volume":"","series":"","publisher":"CLASSIX","pubdate":"2019-03-30","cover":"","author":"","description":"本書は日本国内だけに留まらず、世界の小屋ライフをテーマにした１冊す。","price":"1200","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784198270544","title":"小屋　小さな家の豊かな暮らし","volume":"","series":"","publisher":"CLASSIX","pubdate":"2019-03-30","cover":"","author":"","description":"本書は世界中の小屋実例をテーマにした１冊。","price":"880","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
-,
-{"isbn":"9784272409273","title":"科学がひらくスマート農業・漁業","volume":"","series":"","publisher":"大月書店","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784272409273.jpg","author":"中野明正／監修 河合義隆／監修 小泉光久／著 寺坂安里／イラスト","description":"太陽光やLEDの光と養液を使って、工場のなかでレタスやイチゴなどの野菜をつくる植物工場、つみ取りや収穫のロボット化を紹介。","price":"2600","genre":"","target":"児童","format":"全集・双書","content":"農林業"}
-,
-{"isbn":"9784272409280","title":"科学がひらくスマート農業・漁業","volume":"","series":"","publisher":"大月書店","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784272409280.jpg","author":"桑山岳人／監修 岩田尚孝／監修 白砂孔明／監修 小泉光久／著 寺坂安里／イラスト","description":"牛の飼育や乳しぼりの機械化、三元豚などのブタの品種改良の技術、ニワトリの卵の人工ふ化からパック詰めまでの機械化などを紹介。","price":"2600","genre":"","target":"児童","format":"全集・双書","content":"農林業"}
-,
-{"isbn":"9784296102365","title":"土日で学べるプログラミング入門","volume":"","series":"日経BPパソコンベストムック","publisher":"日経ＢＰ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784296102365.jpg","author":"日経ソフトウエア／編集","description":"土日の2日間くらいで読める、そしてプログラミングを楽しめる、入門者向けの記事を多数収録しています。\n","price":"2300","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
-,
-{"isbn":"9784296102556","title":"Windows 10の「困った」「トラブル」を自力解決！","volume":"","series":"日経BPパソコンベストムック","publisher":"日経ＢＰ","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784296102556.jpg","author":"日経PC21／編集","description":"パソコンで困ったときの対処法がわかる\n完璧バックアップ＆お役立ち無料ソフト\n一家に1冊完全保存版\n","price":"1200","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
-,
-{"isbn":"9784326449552","title":"海法会誌　第62号","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-03-30","cover":"","author":"日本海法会／編集","description":"海商法をめぐる国内外の最新動向、さまざまに展開する実務、学問的問題探究の成果等を紹介し、海商法の将来を見すえる学術専門誌。","price":"5000","genre":"社会科学","target":"専門","format":"全集・双書","content":"法律"}
-,
-{"isbn":"9784332701927","title":"保育者論","volume":"","series":"乳幼児 教育・保育シリーズ","publisher":"光生館","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784332701927.jpg","author":"北野幸子／著 山下文一／著 柿沼芳枝／著 中谷奈津子／著 清水陽子／著 神長美津子／著 ほか","description":"2018年度実施の新要領等、2019年度適用の保育士養成課程対応。保育職の専門性を理解し保育専門職のキャリアパスを考える。","price":"1900","genre":"","target":"専門","format":"単行本","content":"教育"}
-,
-{"isbn":"9784332701965","title":"乳児保育の理論と実践","volume":"","series":"乳幼児 教育・保育シリーズ","publisher":"光生館","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784332701965.jpg","author":"阿部和子／著 大方美香／著 堀科／著 岩﨑淳子／著 村松幹子／著 村上博文／著 池川正也／著 ほか","description":"2019年度適用の保育士養成課程対応。理論編と実践編の2部構成で、実践編では豊富な事例をあげ解説を加える。","price":"1900","genre":"","target":"専門","format":"単行本","content":"教育"}
-,
-{"isbn":"9784332701989","title":"社会的養護Ⅰ・Ⅱ","volume":"","series":"乳幼児 教育・保育シリーズ","publisher":"光生館","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784332701989.jpg","author":"谷口純世／著 加藤洋子／著 志濃原亜美／著 小堀哲郎／著 板倉香子／著 山田勝美／著 ほか","description":"2018（平成30）年度より実施の要領・指針等、2019（平成31）年度より適用の保育士養成課程「社会的養護Ⅰ・Ⅱ」に対応。","price":"1900","genre":"","target":"専門","format":"単行本","content":"教育"}
-,
-{"isbn":"9784391642308","title":"PASH！ ILLUSTRATION FILE 2019","volume":"","series":"生活シリーズ","publisher":"主婦と生活社","pubdate":"2019-03-30","cover":"","author":"PASH！編集部／編集","description":"「PASH！」の描き下ろしイラストをまとめた特集号の2019年版。文スト、おそ松さん、アイナナ等！","price":"1500","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
-,
-{"isbn":"9784395321285","title":"世界建築史 15講","volume":"","series":"","publisher":"彰国社","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784395321285.jpg","author":"「世界建築史15講」編集委員会／編集","description":"文化圏を超えて相互に影響を与えながらつくり上げた建築文化。その起源・系譜・変容を時代と地域を横断してとらえた新しい建築史。","price":"3600","genre":"工業・工学","target":"専門","format":"単行本","content":"建築"}
-,
-{"isbn":"9784409520765","title":"皇室財産の政治史","volume":"","series":"","publisher":"人文書院","pubdate":"2019-03-30","cover":"","author":"池田さなえ／著","description":"膨大な一次史料に分け入り、近代政治史に新たな視角をもたらす画期的研究","price":"6800","genre":"歴史・地理","target":"専門","format":"単行本","content":"日本歴史"}
-,
-{"isbn":"9784414416510","title":"あいまいな喪失と家族のレジリエンス","volume":"","series":"","publisher":"誠信書房","pubdate":"2019-03-30","cover":"https://cover.openbd.jp/9784414416510.jpg","author":"黒川雅代子／編集 石井千賀子／編集 中島聡美／編集 瀬藤乃理子／編集","description":"東日本大震災後の支援の経験をもとに、「あいまいな喪失」が通常の喪失とどのように違い、どのような支援が求められるのかを解説","price":"2500","genre":"哲学・宗教","target":"専門","format":"単行本","content":"心理(学)"}
 ]

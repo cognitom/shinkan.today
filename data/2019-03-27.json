@@ -29,7 +29,7 @@
 ,
 {"isbn":"9784040654829","title":"先生！　休ませてください！　3","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784040654829.jpg","author":"吉辺あくろ／著","description":"見ちゃダメ…？　保健室の女子高生には秘密がいっぱい。","price":"600","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784040655987","title":"寮長は料理上手　3","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784040655987.jpg","author":"吉村佳／著","description":"みんなとの楽しい寮生活は、高に青春！","price":"600","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784040655987","title":"寮長は料理上手　3","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784040655987.jpg","author":"吉村佳／著","description":"みんなとの楽しい寮生活は、最高に青春！","price":"600","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784040656281","title":"Ｒｅ：ゼロから始める異世界生活１９","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784040656281.jpg","author":"長月達平／著 大塚真一郎／イラスト","description":"「貴様の全てを否定してやる。――この、俗物が」","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -126,52 +126,4 @@
 {"isbn":"9784199009488","title":"アンダーエール！","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-03-27","cover":"","author":"砂原糖子／著 小椋ムク／イラスト","description":"美形すぎる学校のアイドルが落ち着けるのは、美的感覚ゼロな親友の隣だけ！？　放課後青春ラブストーリーｖ","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"演劇・映画"}
 ,
 {"isbn":"9784199009495","title":"飼い犬に手を咬まれるな","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-03-27","cover":"","author":"夏乃穂足／著 笠井あゆみ／イラスト","description":"飼い主のためなら、害を為す人間は食い殺しても構わない──狂気のような執着を抱えた男に魅入られるせつない純愛！！","price":"660","genre":"文庫","target":"一般","format":"文庫","content":"演劇・映画"}
-,
-{"isbn":"9784275021076","title":"子供はみんな天才人類学者","volume":"","series":"","publisher":"御茶の水書房","pubdate":"2019-03-27","cover":"","author":"小馬徹／著","description":"幼い子供は誰もがみな天才的な文化人類学者であることを詳しく具体的に論じた本。","price":"900","genre":"社会科学","target":"教養","format":"単行本","content":"民族・風習"}
-,
-{"isbn":"9784309279992","title":"郵便配達夫シュヴァルの理想宮","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-03-27","cover":"","author":"岡谷公二／著","description":"しがない郵便配達夫シュヴァルは、たった一人で三十三年という歳月をかけて、自らの宮殿を現実のものとした。その驚くべき生涯。","price":"2400","genre":"","target":"一般","format":"単行本","content":"芸術総記"}
-,
-{"isbn":"9784309287249","title":"美シェイプアップ・バランスボール","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-03-27","cover":"","author":"伊藤幸太郎／監修","description":"しっかりした厚みの55cmのバランスボール＆足踏み空気入れ付！　BOOKには多くの著名人を指導するプロによるメソッドが満載！","price":"2250","genre":"","target":"一般","format":"単行本","content":"家事"}
-,
-{"isbn":"9784309750361","title":"ニッポン制服百年史","volume":"","series":"らんぷの本","publisher":"河出書房新社","pubdate":"2019-03-27","cover":"","author":"森伸之／監修 内田静枝／著","description":"日本発信のポップカルチャーとして注目を集める制服文化。セーラー、ブレザー、スケバン、コギャルなど平成の10代文化を振り返る。","price":"1850","genre":"","target":"一般","format":"全集・双書","content":"民族・風習"}
-,
-{"isbn":"9784309921709","title":"２０３８　滅びにいたる門","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-03-27","cover":"","author":"廣田尚久／著","description":"エッフェル塔をミサイル攻撃せよ。近未来、ＡＩに絶大な信頼をおく世界の危機とは。紛争解決学創始者が警鐘を鳴らすディストピア文学","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784309921716","title":"ｃｏｍｍｏｎｓ　＆　ｓｅｎｓｅ　ｍａｎ　ＩＳＳＵＥ２６","volume":"","series":"commons & sense","publisher":"河出書房新社","pubdate":"2019-03-27","cover":"","author":"CUBE／編集","description":"AIができることには限りがある。それは0から1を創り出すこと。その力を十二分に謳歌し人としての大きな喜びを享受しよう。秋冬号","price":"1000","genre":"","target":"一般","format":"単行本","content":"芸術総記"}
-,
-{"isbn":"9784313653726","title":"話せない子もどんどん発表する！　対話力トレーニング","volume":"","series":"","publisher":"学陽書房","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784313653726.jpg","author":"丸岡慎弥／著 吉田忍／監修","description":"対話力を鍛えればすべてがうまくいく！　全員が安心して話せるクラスに！","price":"1900","genre":"教育","target":"一般","format":"単行本","content":"教育"}
-,
-{"isbn":"9784323051444","title":"お手玉を楽しむ","volume":"","series":"むかしからつたわる遊び","publisher":"金の星社","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784323051444.jpg","author":"WILLこども知育研究所／編集","description":"","price":"2800","genre":"","target":"児童","format":"単行本","content":"諸芸・娯楽"}
-,
-{"isbn":"9784323051451","title":"あやとり・おはじきを楽しむ","volume":"","series":"むかしからつたわる遊び","publisher":"金の星社","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784323051451.jpg","author":"WILLこども知育研究所／編集","description":"","price":"2800","genre":"","target":"児童","format":"単行本","content":"諸芸・娯楽"}
-,
-{"isbn":"9784326403646","title":"民事証拠収集 相談から執行まで","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784326403646.jpg","author":"民事証拠収集実務研究会／編集","description":"民事訴訟法や周辺的な制度にちりばめられている証拠収集の制度を、実務の流れにそって体系的に解説。法律家必携の基本書。","price":"3700","genre":"社会科学","target":"専門","format":"単行本","content":"法律"}
-,
-{"isbn":"9784326499373","title":"信託法案内","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784326499373.jpg","author":"田中和明／著","description":"はじめて信託法を学ぶ人へ。信託の設定から終了・清算に至るまでをストーリ仕立てで具体的事例を通してわかりやすく解説。","price":"2700","genre":"社会科学","target":"専門","format":"全集・双書","content":"法律"}
-,
-{"isbn":"9784326504572","title":"大災害と情報・メディア","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784326504572.jpg","author":"三友仁志／編集","description":"情報通信あるいはメディアが、大災害からの復興と地域社会の再興に果たす役割を、社会科学的視点に基づいて研究する。","price":"4000","genre":"社会科学","target":"専門","format":"単行本","content":"経済・財政・統計"}
-,
-{"isbn":"9784334935061","title":"トライ式　２週間で完成　英検合格！３級","volume":"","series":"","publisher":"光文社","pubdate":"2019-03-27","cover":"","author":"家庭教師のトライ／著","description":"","price":"1600","genre":"語学・辞事典","target":"実用","format":"単行本","content":"英米語"}
-,
-{"isbn":"9784334935078","title":"トライ式　２週間で完成　英検合格！準２級","volume":"","series":"","publisher":"光文社","pubdate":"2019-03-27","cover":"","author":"家庭教師のトライ／著","description":"","price":"1600","genre":"語学・辞事典","target":"実用","format":"単行本","content":"英米語"}
-,
-{"isbn":"9784334935085","title":"トライ式　２週間で完成　英検合格！２級","volume":"","series":"","publisher":"光文社","pubdate":"2019-03-27","cover":"","author":"家庭教師のトライ／著","description":"","price":"1600","genre":"語学・辞事典","target":"実用","format":"単行本","content":"英米語"}
-,
-{"isbn":"9784334950859","title":"大マスコミが絶対書けない事　この本読んだらええねん！","volume":"","series":"","publisher":"光文社","pubdate":"2019-03-27","cover":"","author":"辛坊治郎／著","description":"","price":"1000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784334950866","title":"皮肉な悟り　よしりん辻説法②","volume":"","series":"","publisher":"光文社","pubdate":"2019-03-27","cover":"","author":"小林よしのり／著","description":"","price":"926","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784334950873","title":"プラットフォームビジネスの最強法則","volume":"","series":"","publisher":"光文社","pubdate":"2019-03-27","cover":"","author":"川原秀仁／著","description":"","price":"1600","genre":"","target":"一般","format":"単行本","content":"経営"}
-,
-{"isbn":"9784335002410","title":"比較憲法","volume":"","series":"","publisher":"弘文堂","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784335002410.jpg","author":"東裕／編集 玉蟲由樹／編集","description":"●授業の予習や通信教育での独習に適した初学者向けの大学テキスト","price":"2200","genre":"社会科学","target":"教養","format":"全集・双書","content":"法律"}
-,
-{"isbn":"9784335357435","title":"判例講義　民事訴訟法","volume":"","series":"","publisher":"弘文堂","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784335357435.jpg","author":"小林秀之／編集","description":"最新の民事訴訟法判例の学習書、債権法改正に完全対応！","price":"3700","genre":"社会科学","target":"教養","format":"単行本","content":"法律"}
-,
-{"isbn":"9784338321037","title":"災害にあったペットを救え","volume":"","series":"","publisher":"小峰書店","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784338321037.jpg","author":"高橋うらら／著","description":"災害時にペットの診療をおこなう獣医師チーム「VMAT」が注目されています。2016年の熊本地震で初めて出動をはたしました。VMATはどのようにしてできたのでしょうか？　どんな活動をしているのでしょうか？","price":"1500","genre":"児童図書","target":"児童","format":"全集・双書","content":"社会"}
-,
-{"isbn":"9784338323062","title":"ホルモンと免疫","volume":"","series":"ミクロワールド人体大図鑑","publisher":"小峰書店","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784338323062.jpg","author":"宮澤七郎／監修 島田達生／監修","description":"電子顕微鏡写真を全面的に使用した初めての人体図鑑。体の調子を整えるホルモンや体を守る働きをする免疫のしくみを紹介。","price":"2800","genre":"児童図書","target":"児童","format":"全集・双書","content":"医学・歯学・薬学"}
-,
-{"isbn":"9784391153491","title":"PANDA DRAGON FIRST PHOTOBOOK ～はじめてのしゃしんしゅ～","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784391153491.jpg","author":"パンダドラゴン／著","description":"株式会社DD所属 MeseMoa.の弟分グループ「パンダドラゴン」通称“パラゴン”のファースト写真集。","price":"2778","genre":"芸能・タレント","target":"一般","format":"単行本","content":"諸芸・娯楽"}
-,
-{"isbn":"9784391153507","title":"*ChocoLate Bomb!! SECOND PHOTOBOOK ～チョコレートが甘いなんて誰が決めたの？～","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2019-03-27","cover":"https://cover.openbd.jp/9784391153507.jpg","author":"＊ChocoLateBomb！！／著","description":"株式会社DD所属 MeseMoa.の次代グループ「*ChocoLate Bomb!!」、通称“ちょこぼ”のセカンド写真集。","price":"2778","genre":"芸能・タレント","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ]
