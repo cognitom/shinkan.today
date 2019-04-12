@@ -67,7 +67,7 @@
 ,
 {"isbn":"9784065151877","title":"概念ドロボウ（2）","volume":"","series":"","publisher":"講談社","pubdate":"2019-04-23","cover":"","author":"田中一行／著","description":"ここは数多の強奪者（＝ドロボウ）が跋扈する街。私立探偵の如月ウロは悪漢との戦いを通じて己のルーツを探る。これぞ究極異能活劇！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065151884","title":"プ～ねこ（7）","volume":"","series":"","publisher":"講談社","pubdate":"2019-04-23","cover":"","author":"北道正幸／著","description":"シュールな癒し系ねこ４コマがなんと！およそ２年半ぶりの新刊発売！！　月に４ページを積み重ねて、ついに７巻になりました。","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065151884","title":"プ～ねこ（7）","volume":"","series":"","publisher":"講談社","pubdate":"2019-04-23","cover":"","author":"北道正幸／","description":"シュールな癒し系ねこ４コマがなんと！およそ２年半ぶりの新刊発売！！　月に４ページを積み重ねて、ついに７巻になりました。","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065151891","title":"ドラゴン桜2（5）","volume":"","series":"","publisher":"講談社","pubdate":"2019-04-23","cover":"","author":"三田紀房／著","description":"東大リスニングで有利になる受験生の条件、Ｔｅｄ－Ｅｄでの的中問題予想法、親が守るべき「合格十ヵ条」など”絶対合格情報”満載！","price":"610","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -96,4 +96,24 @@
 {"isbn":"9784074380442","title":"骨粗鬆症を自力で防ぐ本","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-04-23","cover":"","author":"太田博明／監修","description":"骨粗鬆症と寝たきりを防ぎ、一生自分の足で歩きたい人のために、骨と筋肉を若返らせ、全身を元気にする生活術を徹底研究します。","price":"800","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
 {"isbn":"9784093886659","title":"暴君","volume":"","series":"","publisher":"小学館","pubdate":"2019-04-23","cover":"https://cover.openbd.jp/9784093886659.jpg","author":"牧久／著","description":"暴君に支配された「平成JR秘史」 \n\n 2018年春、JR東労組から3万3000人の組合員が一挙に脱退した。同労組の組合員はあっという間に3分の1に激減し、崩壊の危機に追い込まれてしまった。いったい、何が起こったのかーー。\n\nかつての動労、JR東労組委員長にして革マル派の実質的な指導者と見られる労働運動家・松崎明の死から8年。JR東日本が、「JRの妖怪」と呼ばれたこの男の”呪縛”から、ようやく「解放される日」を迎えたのか。\n\nこの作品は国鉄民営化に｢コペルニクス的転換｣といわれる方針転換により全面的に協力し、JR発足後は組合にシンパを浸透させて巨大な影響力を持った男・松崎明の評伝であり、複雑怪奇な平成裏面史の封印を解く画期的ノンフィクションである。\n\n","price":"2000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784122064379","title":"内なる辺境／都市への回路","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-04-23","cover":"","author":"安部公房／著","description":"0","price":"1000","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784122067219","title":"天使が見たもの 少年小景集","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-04-23","cover":"","author":"阿部昭／著","description":"0","price":"860","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784122067226","title":"道具屋殺人事件 神田紅梅亭寄席物帳","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-04-23","cover":"","author":"愛川晶／著","description":"0","price":"880","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784122067233","title":"ワルキューレ 巡査長 真行寺弘道","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-04-23","cover":"","author":"榎本憲男／著","description":"0","price":"820","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784122067240","title":"恋と掃除と謎解きと","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-04-23","cover":"","author":"鯨統一郎／著","description":"0","price":"700","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784122067257","title":"レギオニス　秀吉の躍進","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-04-23","cover":"","author":"仁木英之／著","description":"0","price":"660","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784122067264","title":"戦後日記","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-04-23","cover":"","author":"三島由紀夫／著","description":"0","price":"1000","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784122067271","title":"ネットリンチ 悪意の凝縮","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-04-23","cover":"","author":"向井湘吾／著","description":"0","price":"780","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784122067288","title":"マタギ列伝（上） 新装版","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-04-23","cover":"","author":"矢口高雄／著","description":"0","price":"1400","genre":"文庫","target":"教養","format":"文庫","content":"コミックス・劇画"}
+,
+{"isbn":"9784122067295","title":"マタギ列伝（下） 新装版","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-04-23","cover":"","author":"矢口高雄／著","description":"0","price":"1400","genre":"文庫","target":"教養","format":"文庫","content":"コミックス・劇画"}
 ]
