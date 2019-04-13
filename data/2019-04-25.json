@@ -111,7 +111,7 @@
 ,
 {"isbn":"9784058010396","title":"３・４・５歳児のあそびと造形","volume":"","series":"Ｇａｋｋｅｎ保育Ｂｏｏｋｓ","publisher":"学研教育みらい","pubdate":"2019-04-25","cover":"","author":"森田浩章／著","description":"保育者も子どもも作りやすく簡単、子どもが夢中になって、やってみたい！と思える実例を４１案収録。すべて、園現場で実践済み。","price":"2000","genre":"教育","target":"一般","format":"単行本","content":"教育"}
 ,
-{"isbn":"9784058010419","title":"０歳から楽しめる！　ふわふわタオルあそび","volume":"","series":"Ｇａｋｋｅｎ保育Ｂｏｏｋｓ","publisher":"学研教育みらい","pubdate":"2019-04-25","cover":"","author":"松家まきこ／著","description":"ふれあい、表現、ゲーム、運動、シアターなど、５６案収録。タオルは汚れたらすぐ洗えて清潔、乳幼児のあそび道具にぴったり。","price":"1800","genre":"教育","target":"一般","format":"単行本","content":"教育"}
+{"isbn":"9784058010419","title":"０歳から楽しめる　ふわふわタオルあそび","volume":"","series":"Ｇａｋｋｅｎ保育Ｂｏｏｋｓ","publisher":"学研教育みらい","pubdate":"2019-04-25","cover":"","author":"松家まきこ／著","description":"ふれあい、表現、ゲーム、運動、シアターなど、５６案収録。タオルは汚れたらすぐ洗えて清潔、乳幼児のあそび道具にぴったり。","price":"1800","genre":"教育","target":"一般","format":"単行本","content":"教育"}
 ,
 {"isbn":"9784062208338","title":"僕が神さまと過ごした日々","volume":"","series":"","publisher":"講談社","pubdate":"2019-04-25","cover":"","author":"アクセル・ハッケ／著 ミヒャエル・ゾーヴァ／著 那須田淳／翻訳 木本栄／翻訳","description":"ぼくの命を助けてくれた老人はどうやら神様だった！？　「ちいさなちいさな王様」のハッケ＆ゾーヴァ待望の最新作！","price":"1500","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
 ,
@@ -141,29 +141,35 @@
 ,
 {"isbn":"9784065153369","title":"文学2019","volume":"","series":"","publisher":"講談社","pubdate":"2019-04-25","cover":"","author":"日本文藝家協会／編集 多和田葉子／著 村田沙耶香／著 長野まゆみ／著 筒井康隆／著 ほか","description":"小説好きのみなさん、お待たせしました。２０１８年のベスト短編小説がここに。この１冊こそ日本文学の最前線だ。解説は中沢けい氏。","price":"4000","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784087920437","title":"神のちからっ子新聞 上","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"さくらももこ／著","description":"","price":"1800","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784087797756","title":"ドラゴンクエストX オンライン 2019 SPRING 時渡りグランドフィナーレ!!","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"Vジャンプ編集部／著","description":"","price":"1400","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784087920444","title":"神のちからっ子新聞 下","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"さくらももこ／著","description":"","price":"1800","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784087797763","title":"遊☆戯☆王 デュエルモンスターズ レガシー・オブ・ザ・デュエリスト:リンクエボリューション デュエリストコンプリートガイド","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"Vジャンプ編集部／著","description":"","price":"1400","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784088441887","title":"きのう、きょう、あした","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"如月園／著","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784087797770","title":"犬マユゲでいこう 石塚の犬眉毛 そこそこいつも通り262g","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"石塚2祐子／著","description":"","price":"1350","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784088441894","title":"僕に花のメランコリー 11","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"小森みっこ／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784087920437","title":"神のちからっ子新聞 上","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"さくらももこ／著","description":"さくらももこの手作り新聞が“愛情たっぷり\"の2冊にまとまって今蘇る!","price":"1800","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088441900","title":"アナグラアメリ 11","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"佐藤ざくり／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784087920444","title":"神のちからっ子新聞 下","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"さくらももこ／著","description":"さくらももこの手作り新聞が“愛情たっぷり\"の2冊にまとまって今蘇る!","price":"1800","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088441917","title":"ふたりで恋をする理由 1","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"ひろちひろ／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088441887","title":"きのう、きょう、あした","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"如月園／著","description":"50年前のある日、突然、頭上に現れた数字。それは人の余命をあらわすものだった。今じゃすっかり馴染んで「神様の誤送信(エラー)」なんて呼ばれてるけど、ゼロに向かって毎秒カウントされるそれを止めることは、絶対にできない。そんな寿命の視える世界で、人々は今日も、愛し、愛され、生きている…。","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088441924","title":"テリトリーMの住人 7","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"南塔子／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088441894","title":"僕に花のメランコリー 11","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"小森みっこ／著","description":"昴の実家が経営するスイミングスクールに弟の光を送り迎えすることになった花。昴と接する機会が増えたことで、弓弦と昴の関係にも気づき始める。一方、弓弦の前にもルカが再び現れて…? お互いを想い合う花と弓弦。でも、重なる再会をきっかけに少しずつ──","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088441931","title":"たまのごほうび 2","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"星谷かおり／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088441900","title":"アナグラアメリ 11","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"佐藤ざくり／著","description":"バイト先の年下男子・世堂に、本気で告白されてしまったあめりは、動揺したものの、「好きなのは帝斗!」と決めてバイトも辞めます。しかし、抱えていた心苦しさが帝斗にバレ、激怒されてしまい、どん底状態に…。そんなあめりを心配するのりこ(あめりの友達)の前に現れたのは──二股をかけていた広樹の本カノ・七瀬。彼女が突然やって来て語ったこととは!? のりこの恋に、ついに決着がつきます!!","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088441948","title":"Papa told me Cocohana Ver.7 〜王女様の中庭〜","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"榛野なな恵／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088441917","title":"ふたりで恋をする理由 1","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"ひろちひろ／著","description":"安堂うららは、電車の中で自分を助けてくれた男性が同じ学校の生徒=岡庭愛慈(おかにわあいじ)だったと知り、運命の恋ではないかと思うように。仲良くなろうと試みるが何故かクラスメイトの男子・美園純(みそのじゅん)から妨害が…。「あんたに愛慈くんは渡さない」これって一体、どういう意味!?","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088441955","title":"お迎え渋谷くん 3","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"蜜野まこと／著","description":"","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088441924","title":"テリトリーMの住人 7","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"南塔子／著","description":"大好きっていう気持ち。伝えたいのはそれだけだったんだ。 瑛茉(えま)に背中を押されて、郁磨(いくま)に自分の気持ちを伝えようと決意したこまちゃん。自分から積極的に動こうとするけど、なぜか郁磨には避けられているみたいで…。一方、瑛茉をめぐって怜久(りく)とライバル関係になってしまった宏紀。瑛茉と一緒に出かけた帰り道で、ふたりはつい寝入ってしまい──?","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088675459","title":"ハニーレモンソーダ 10","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"村田真優／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088441931","title":"たまのごほうび 2","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"星谷かおり／著","description":"不思議な雰囲気の天才男子・玉緒くんにどんどん惹かれていくかの子。でも、玉緒くんからは友達としか思われていないみたいで不安に…。チャラい玲央くんに相談すると、なぜか一緒に玉緒くんの家に遊びにいくことになり…!? 読めない玉緒くんの言動にかの子の煩悩はさらにエスカレート!","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088675466","title":"アクロトリップ 2","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"佐和田米／著","description":"","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088441948","title":"Papa told me Cocohana Ver.7 〜王女様の中庭〜","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"榛野なな恵／著","description":"ハッピーエンドは望めないと諦めかけたストーリー。夢を捨てようとしたその時届いたのはまだ見ぬ登場人物からの手紙だった。物語をリードしているキミは誰…? 日々を楽しむ魔法がつまった物語10編を収録!","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784088441955","title":"お迎え渋谷くん 3","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"蜜野まこと／著","description":"お互い『好き』同士な保育士の青田愛花(28)とピュアすぎる若手俳優の渋谷大海(21)。だが、距離を縮める二人の前に愛花の元カレ・大崎達也が登場! 一方、渋谷の俳優仲間・神田は渋谷の一挙一動に何故か胸キュン…。愛花と大崎の関係を確認すべく渋谷と神田も交えた温泉旅行が始まる…! 「好き」の気持ちが一方通行。愛花と渋谷くんの恋はモトカレの参戦で渋滞中!!","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784088675459","title":"ハニーレモンソーダ 10","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"村田真優／著","description":"仲良くなったはずの奈乃は、三浦くんのことが好き…?? その本当の気持ちを羽花はついに知ることに──!! 恋の試練を乗り越えて、2人のキズナはますます強く。","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784088675466","title":"アクロトリップ 2","volume":"","series":"","publisher":"集英社","pubdate":"2019-04-25","cover":"","author":"佐和田米／著","description":"参謀・地図子、魔法少女になる…!? 街を悪の組織(フォッサマグナ)から守る魔法少女(ベリーブロッサム)を愛するあまり、彼女を引き立てられない総帥・クロマの参謀として悪の仲間入りを果たした伊達地図子。相変わらずグダグダな戦いを繰り広げる彼らだったが、濃すぎる新キャラクターの登場のなか、はからずも地図子にも転機が訪れる…。番外編が満載でキャラたちの背景も丸わかり。さらに新作読みきりもバッチリ収録! 読めば組織に入りたくなる(!?)新感覚コメディ!","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784103037736","title":"チャイムが鳴った","volume":"","series":"","publisher":"新潮社","pubdate":"2019-04-25","cover":"","author":"日和聡子／著","description":"平凡でかけがえのない日常が少しずつ失われていくことへの不安に苛まれる少年少女たちを描く「虹のかかる行町」他、珠玉の中短編集。","price":"2000","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
@@ -184,4 +190,36 @@
 {"isbn":"9784105910075","title":"新訳 夢判断","volume":"","series":"新潮モダン・クラシックス","publisher":"新潮社","pubdate":"2019-04-25","cover":"","author":"フロイト／著 大平健／翻訳","description":"今夜、眠るのが愉しみになる！ 夢とは望みを叶え、「本当の自分」が潜む場所。精神科医による大胆な編訳と注釈で歴史的名著が蘇る。","price":"2500","genre":"","target":"一般","format":"全集・双書","content":"外国文学、その他"}
 ,
 {"isbn":"9784106038389","title":"兵隊たちの陸軍史","volume":"","series":"新潮選書","publisher":"新潮社","pubdate":"2019-04-25","cover":"","author":"伊藤桂一／著","description":"一兵士として中国大陸で従軍、戦後直木賞を受賞した著者が、戦場の実感と豊富な資料をまじえて語る「戦争と兵隊」の真実。名著復活！","price":"1800","genre":"","target":"一般","format":"全集・双書","content":"政治-含む国防軍事"}
+,
+{"isbn":"9784130911467","title":"大日本古文書　家わけ第十六　島津家文書之六","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2019-04-25","cover":"https://cover.openbd.jp/9784130911467.jpg","author":"東京大学史料編纂所／編集","description":"「大日本古文書」通巻236","price":"9000","genre":"","target":"専門","format":"全集・双書","content":"日本歴史"}
+,
+{"isbn":"9784130927130","title":"日本関係海外史料　オランダ商館長日記　原文編之十三","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2019-04-25","cover":"https://cover.openbd.jp/9784130927130.jpg","author":"東京大学史料編纂所／編集","description":"","price":"14100","genre":"","target":"専門","format":"全集・双書","content":"日本歴史"}
+,
+{"isbn":"9784130930307","title":"大日本近世史料　市中取締類集三十","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2019-04-25","cover":"https://cover.openbd.jp/9784130930307.jpg","author":"東京大学史料編纂所／編集","description":"「大日本近世史料」通巻142","price":"10700","genre":"","target":"専門","format":"全集・双書","content":"日本歴史"}
+,
+{"isbn":"9784140721421","title":"スマートマスター資格　スマートマスター　2019年版","volume":"","series":"家電製品協会　認定資格シリーズ","publisher":"NHK出版","pubdate":"2019-04-25","cover":"","author":"一般財団法人家電製品協会／編集","description":"スマートマスター資格の取得を目指す方必読！「スマートハウスの基礎」と「スマートハウスを支える機器・技術の基礎」を一冊に収載。","price":"3800","genre":"","target":"実用","format":"全集・双書","content":"電気"}
+,
+{"isbn":"9784140721438","title":"スマートマスター資格　問題＆解説集　2019年版","volume":"","series":"家電製品協　認定資格シリーズ","publisher":"NHK出版","pubdate":"2019-04-25","cover":"","author":"一般財団法人家電製品協会／編集","description":"スマートマスター資格の取得を目指す方必読！　スマートマスター資格の取得に必要な２科目について、各問題の解答ポイントを解説。","price":"1800","genre":"","target":"実用","format":"全集・双書","content":"電気"}
+,
+{"isbn":"9784140817766","title":"人類、宇宙に住む","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-04-25","cover":"https://cover.openbd.jp/9784140817766.jpg","author":"ミチオ・カク／著 斉藤隆央／翻訳","description":"高名な物理学者が①月や火星への移住②太陽系外への進出③人体の改造や強化の３段階で宇宙進出の方途を示すエキサイティングな一冊！","price":"2500","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
+,
+{"isbn":"9784140912560","title":"壱人両名 江戸日本の知られざる二重身分","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-04-25","cover":"","author":"尾脇秀和／著","description":"江戸時代、自在に身分を変える「名もなき男たち」が全国に無数にいた。彼らはなぜ別人に成りすますのか？　常識を覆す仰天の日本史！","price":"1500","genre":"歴史・地理","target":"教養","format":"全集・双書","content":"日本歴史"}
+,
+{"isbn":"9784160910034","title":"偽装不倫3","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-04-25","cover":"https://cover.openbd.jp/9784160910034.jpg","author":"東村アキコ／著","description":"本当は独身なのに人妻のフリをしたら、旅先で年下男子と“偽装不倫”に陥ってしまった鐘子。帰国後はもう会わないと心に決めるが。","price":"950","genre":"","target":"一般","format":"単行本","content":"コミックス・劇画"}
+,
+{"isbn":"9784163909349","title":"執念深い貧乏性","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-04-25","cover":"","author":"栗原康／著","description":"女相撲、安倍政権、奨学金、共謀罪、魔界転生、キムチ、即身仏……いま注目のアナキズム学者は言った。自分の人生を爆破せよ、と。","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784163909974","title":"孟司と誠の 健康生活委員会","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-04-25","cover":"https://cover.openbd.jp/9784163909974.jpg","author":"養老孟司／著 近藤誠／著","description":"OECDの調査で自分を健康だと思う人が一番少ない日本。世界に冠たる長寿国でなぜ？ 医の巨人二人がそのカラクリの全てを明かす。","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784163910147","title":"世界まちかど地政学NEXT","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-04-25","cover":"https://cover.openbd.jp/9784163910147.jpg","author":"藻谷浩介／著","description":"再開発が進む途上国で起きている格差拡大の実態から「ヨーロッパの火薬庫」の現在まで、世界のリアルから日本の未来が照射される一冊","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784198648350","title":"追読人間臨終図巻Ⅰ","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-04-25","cover":"","author":"山田風太郎／著 サメマチオ／著","description":"著名人９２３名の死に際を切り取った稀代の名著、『人間臨終図巻』をまさかの漫画化！","price":"1500","genre":"","target":"一般","format":"単行本","content":"コミックス・劇画"}
+,
+{"isbn":"9784198648459","title":"ファイアーエムブレムif ビジュアル資料集","volume":"","series":"","publisher":"アンビット","pubdate":"2019-04-25","cover":"","author":"インテリジェントシステムズ／著","description":"開発元インテリジェントシステムズ編集の設定集第４弾。ゲーム内デザインの設定画を中心にキャラクターの魅力を掘り下げる一冊。","price":"4000","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784199607899","title":"幻惑の鼓動㉘","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-04-25","cover":"","author":"吉原理恵子／著 禾田みちる／著","description":"神霊憑きの霊視眼に執着する神祇院総帥・九条。彼が認定したトリプルＳ級のお墨付きに、業界中を激震と動揺が走る──！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199607905","title":"靴紐解いていいですか？","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-04-25","cover":"","author":"夏乃あゆみ／著","description":"好きな人の顔が正面から見られない──笑顔がウリの接客のプロでも、恋の前には無力で小心！？　靴フェチな二人の恋の迷走ｖ","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199607912","title":"佐伯くんにつながっちゃう！","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-04-25","cover":"","author":"三島一彦／著","description":"偶然拾ったグッズが、クラスメイトの×××に繋がっちゃった！？　異次元コネクトＬＯＶＥストーリー！！","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ]

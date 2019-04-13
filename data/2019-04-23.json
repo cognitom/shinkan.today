@@ -5,7 +5,7 @@
 ,
 {"isbn":"9784052049477","title":"できたねパチパチ","volume":"","series":"ＮＥＷぴよちゃんとあそぼ！","publisher":"学研プラス","pubdate":"2019-04-23","cover":"","author":"いりやまさとし／著 いりやまさとし／イラスト","description":"ぴよちゃんの羽に指を入れて動かせる素材つき絵本。トイレ、はみがき…できたらパチパチ拍手！　ぴよちゃんがほめてくれます。","price":"1200","genre":"児童図書","target":"児童","format":"絵本","content":"教育"}
 ,
-{"isbn":"9784052049767","title":"しょうがっこうがだいすき","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-04-23","cover":"","author":"うい／著 えがしらみちこ／イラスト","description":"小学２年生のせんぱいから、これから小学生になるみんなへ、小学校が大好きになるための１６のアドバイス。","price":"1400","genre":"児童図書","target":"児童","format":"絵本","content":"教育"}
+{"isbn":"9784052049767","title":"しょうがっこうがだいすき","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-04-23","cover":"https://cover.openbd.jp/9784052049767.jpg","author":"うい／著 えがしらみちこ／イラスト","description":"小学２年生のせんぱいから、これから小学生になるみんなへ、小学校が大好きになるための１６のアドバイス。","price":"1400","genre":"児童図書","target":"児童","format":"絵本","content":"教育"}
 ,
 {"isbn":"9784053045980","title":"１日まるごと英語で表現できる！やさしい英語フレーズ２０２０","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-04-23","cover":"https://cover.openbd.jp/9784053045980.jpg","author":"丸山大地／著 スティーブン・リッチモンド／監修","description":"日常会話や海外旅行での会話、接客やビジネスで使える会話フレーズ２０２０を収録。ＣＤとレッスン動画付きで英会話が上達する！","price":"1700","genre":"語学・辞事典","target":"一般","format":"単行本","content":"英米語"}
 ,
@@ -67,7 +67,7 @@
 ,
 {"isbn":"9784065151877","title":"概念ドロボウ（2）","volume":"","series":"","publisher":"講談社","pubdate":"2019-04-23","cover":"","author":"田中一行／著","description":"ここは数多の強奪者（＝ドロボウ）が跋扈する街。私立探偵の如月ウロは悪漢との戦いを通じて己のルーツを探る。これぞ究極異能活劇！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065151884","title":"プ～ねこ（7）","volume":"","series":"","publisher":"講談社","pubdate":"2019-04-23","cover":"","author":"北道正幸／","description":"シュールな癒し系ねこ４コマがなんと！およそ２年半ぶりの新刊発売！！　月に４ページを積み重ねて、ついに７巻になりました。","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065151884","title":"プ～ねこ（7）","volume":"","series":"","publisher":"講談社","pubdate":"2019-04-23","cover":"","author":"北道正幸／著","description":"シュールな癒し系ねこ４コマがなんと！およそ２年半ぶりの新刊発売！！　月に４ページを積み重ねて、ついに７巻になりました。","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065151891","title":"ドラゴン桜2（5）","volume":"","series":"","publisher":"講談社","pubdate":"2019-04-23","cover":"","author":"三田紀房／著","description":"東大リスニングで有利になる受験生の条件、Ｔｅｄ－Ｅｄでの的中問題予想法、親が守るべき「合格十ヵ条」など”絶対合格情報”満載！","price":"610","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -116,4 +116,6 @@
 {"isbn":"9784122067288","title":"マタギ列伝（上） 新装版","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-04-23","cover":"","author":"矢口高雄／著","description":"0","price":"1400","genre":"文庫","target":"教養","format":"文庫","content":"コミックス・劇画"}
 ,
 {"isbn":"9784122067295","title":"マタギ列伝（下） 新装版","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-04-23","cover":"","author":"矢口高雄／著","description":"0","price":"1400","genre":"文庫","target":"教養","format":"文庫","content":"コミックス・劇画"}
+,
+{"isbn":"9784163909806","title":"幻の哀愁おじさん","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-04-23","cover":"https://cover.openbd.jp/9784163909806.jpg","author":"岩井ジョニ男／著","description":"昭和の匂いを身に纏い、サラリーマンの聖地に神出鬼没の謎のおじさんの正体は？ 抱腹絶倒のフォトエッセイ。壇蜜さんとの対談併録。","price":"1350","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ]
