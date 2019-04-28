@@ -55,7 +55,7 @@
 ,
 {"isbn":"9784065135990","title":"新版　ビギナーのための微生物実験ラボガイド","volume":"","series":"","publisher":"講談社","pubdate":"2019-05-10","cover":"https://cover.openbd.jp/9784065135990.jpg","author":"中村聡／著 中島春紫／著 伊藤政博／著 道久則之／著 八波利恵／著","description":"定番教科書の改訂版。なぜこの試薬を使うのか、なぜこの操作を行う必要があるのかといった実験操作の意味・原理がよくわかる。","price":"2700","genre":"","target":"専門","format":"全集・双書","content":"生物学"}
 ,
-{"isbn":"9784065137130","title":"スーパー戦隊　Official　Mook　20世紀　1987　光戦隊マスクマン","volume":"","series":"","publisher":"講談社","pubdate":"2019-05-10","cover":"","author":"講談社／編集","description":"「スーパー戦隊」２０世紀作品の魅力をすべて集めた大全集マガジン。今号は、１９８７年の「光戦隊マスクマン」を特集！","price":"630","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
+{"isbn":"9784065137130","title":"スーパー戦隊　Official　Mook　20世紀　1987　光戦隊マスクマン","volume":"","series":"","publisher":"講談社","pubdate":"2019-05-10","cover":"","author":"講談社／編集","description":"「スーパー戦隊」２０世紀作品の魅力をすべて集めた大全集マガジ。今号は、１９８７年の「光戦隊マスクマン」を特集！","price":"630","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
 ,
 {"isbn":"9784074377909","title":"Ｓ　Ｃａｗａｉｉ！　自分のことが好きになる顔とカラダ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-05-10","cover":"","author":"主婦の友社／編集","description":"夏のカワイイを作る美白・小顔・ダイエット。自分磨きをして、最短で可愛く変身できる方法を全部紹介します！","price":"590","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
@@ -68,12 +68,4 @@
 {"isbn":"9784140885871","title":"人体　神秘の巨大ネットワーク　臓器たちは語り合う","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-10","cover":"","author":"丸山優二／著 ＮＨＫスペシャル「人体」取材班／著","description":"最先端医療を徹底取材したNHKスペシャル「人体 神秘の巨大ネットワーク」。今までの医学の常識を覆す科学ノンフィクション。","price":"900","genre":"","target":"一般","format":"新書","content":"医学・歯学・薬学"}
 ,
 {"isbn":"9784163910222","title":"ざんねんな食べ物事典","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-05-10","cover":"https://cover.openbd.jp/9784163910222.jpg","author":"東海林さだお／著","description":"食べ物に漂うそこはかとない“ざんねん”感を検証してみた表題作から、ショージ君的「ラーメン行動学」まで。爆笑必至のエッセイ集。","price":"1350","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784307371247","title":"耳鳴診療ガイドライン 2019年版","volume":"","series":"","publisher":"金原出版","pubdate":"2019-05-10","cover":"","author":"一般社団法人日本聴覚医学会／編集","description":"日本の耳鳴診療におけるガイドライン、初登場！","price":"2500","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
-,
-{"isbn":"9784307371254","title":"耳鼻咽喉科専門医認定試験　2014～2018","volume":"","series":"","publisher":"金原出版","pubdate":"2019-05-10","cover":"","author":"一般社団法人日本耳鼻咽喉科学会／編集","description":"専門医試験の受験勉強に最適、最良の過去問集。","price":"7200","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
-,
-{"isbn":"9784309979717","title":"永遠の太宰治","volume":"","series":"文藝別冊","publisher":"河出書房新社","pubdate":"2019-05-10","cover":"","author":"河出書房新社編集部／編集","description":"『女生徒』『斜陽』『人間失格』、そして『グッド・バイ』……生誕110年を迎える太宰治の魅力に多角的に迫る、永久保存版！","price":"1300","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784320113527","title":"時空間統計解析","volume":"","series":"理論統計学教程：従属性の統計理論","publisher":"共立出版","pubdate":"2019-05-10","cover":"https://cover.openbd.jp/9784320113527.jpg","author":"吉田朋広／編集 栗木哲／編集 矢島美寛／著 田中潮／著","description":"自然・人文・社会科学と広範囲の応用を持ち，「究極の統計科学」とも言える時空間統計解析について，厳密性を犠牲にせず平易に解説。","price":"3800","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
 ]
