@@ -111,7 +111,7 @@
 ,
 {"isbn":"9784087458770","title":"おんぶにだっこ","volume":"","series":"","publisher":"集英社","pubdate":"2019-05-17","cover":"","author":"さくらももこ／著","description":"2歳のころの不味いおっぱいの味、4歳まで乗っていた乳母車、小食で偏食だった幼稚園の頃──。『ひとりずもう』以前の鮮明に思い出されるノスタルジーたっぷりのキュンとする自伝エッセイ。","price":"590","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784087458787","title":"世界の辺境とハードボイルド室町時代","volume":"","series":"","publisher":"集英社","pubdate":"2019-05-17","cover":"","author":"高野秀行／著 清水克行／著","description":"辺境を愛するノンフィクション作家と室町を専門とする歴史家による対談。人々の心の動きから法体系まで、あまりの共通点の多さに目からウロコ！　文庫化にあたり追加対談も実施。（解説・柳下毅一郎）","price":"840","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784087458787","title":"世界の辺境とハードボイルド室町時代","volume":"","series":"","publisher":"集英社","pubdate":"2019-05-17","cover":"","author":"高野秀行／著 清水克行／著","description":"辺境を愛するノンフィクシン作家と室町を専門とする歴史家による対談。人々の心の動きから法体系まで、あまりの共通点の多さに目からウロコ！　文庫化にあたり追加対談も実施。（解説・柳下毅一郎）","price":"840","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784087458794","title":"池上彰の講義の時間 高校生からわかる「資本論」","volume":"","series":"","publisher":"集英社","pubdate":"2019-05-17","cover":"","author":"池上彰／著","description":"“働き方改革”が進む中、労働＝資本のあり方が問われ国内外でマルクスの『資本論』が見直されている。この難解な書を池上彰の言葉でわかりやすく丁寧に解説。経済が苦手な人でも読める『資本論』入門書。","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
@@ -190,4 +190,18 @@
 {"isbn":"9784103522522","title":"孤独の意味も、女であることの味わいも","volume":"","series":"","publisher":"新潮社","pubdate":"2019-05-17","cover":"","author":"三浦瑠麗／著","description":"いじめ、死産、そして……。気鋭の国際政治学者が長年抱いてきた葛藤を初めて明かし、女を生きることの孤独を赤裸々に綴った問題作。","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784130626187","title":"解析力学・量子論　第２版","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2019-05-17","cover":"","author":"須藤靖／著","description":"最小作用の原理による古典力学の定式化を紹介し，量子論へと至る論理的道筋をわかりやすく解説した入門書．数式の背後にある物理的意味や導出方法も省くことなく記述．改訂にあたり，小澤の不等式などの内容を追加した．","price":"2800","genre":"","target":"専門","format":"単行本","content":"物理学"}
+,
+{"isbn":"9784143302672","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちドイツ語　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"ドイツ語"}
+,
+{"isbn":"9784143312671","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちフランス語　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"フランス語"}
+,
+{"isbn":"9784143322670","title":"ＮＨＫ　ＣＤ　ラジオ　まいにち中国語　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"各国語"}
+,
+{"isbn":"9784143332679","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちハングル講座　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"各国語"}
+,
+{"isbn":"9784143342678","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちロシア語　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"各国語"}
+,
+{"isbn":"9784143352677","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちスペイン語　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"各国語"}
+,
+{"isbn":"9784143362676","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちイタリア語　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"各国語"}
 ]
