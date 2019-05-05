@@ -9,7 +9,7 @@
 ,
 {"isbn":"9784053049322","title":"高校　世界史","volume":"","series":"ルーズリーフ参考書","publisher":"学研プラス","pubdate":"2019-05-14","cover":"","author":"学研プラス／編集","description":"コクヨのキャンパスルーズリーフとコラボした、１枚ずつはがして使える参考書。空欄を埋めれば世界史の要点まとめが完成！","price":"1400","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"外国歴史"}
 ,
-{"isbn":"9784053049483","title":"小学１年　さんすう","volume":"","series":"おとらんど","publisher":"学研プラス","pubdate":"2019-05-14","cover":"","author":"学研プラス／編集","description":"読み書き学習に音声学習をプラスした学習ドリル。音と一緒だからできる高い学習効果とエンターテインメント性を両立させたドリル","price":"900","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"総記"}
+{"isbn":"9784053049483","title":"小学１年　さんすう","volume":"","series":"おとらんど","publisher":"学研プラス","pubdate":"2019-05-14","cover":"","author":"学研プラス／編集","description":"読み書き学習に音声学習をプラスし学習ドリル。音と一緒だからできる高い学習効果とエンターテインメント性を両立させたドリル","price":"900","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"総記"}
 ,
 {"isbn":"9784053049490","title":"小学１年　こくご","volume":"","series":"おとらんど","publisher":"学研プラス","pubdate":"2019-05-14","cover":"","author":"学研プラス／編集","description":"読み書き学習に音声学習をプラスした学習ドリル。音と一緒だからできる高い学習効果とエンターテインメント性を両立させたドリル","price":"900","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"総記"}
 ,
@@ -17,7 +17,7 @@
 ,
 {"isbn":"9784058010174","title":"最新版　今すぐできる！　血糖値を下げる４０のルール","volume":"","series":"健康図解","publisher":"学研プラス","pubdate":"2019-05-14","cover":"","author":"河盛隆造／監修","description":"健康図解シリーズの増補改訂版。高血糖を下げるコツや方法が満載。糖尿病の進行を予防する食材や栄養素、食事法、生活術を紹介。","price":"1000","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
-{"isbn":"9784058010181","title":"最新版　今すぐできる！　コレテロールを下げる４０のルール","volume":"","series":"健康図解","publisher":"学研プラス","pubdate":"2019-05-14","cover":"","author":"横手幸太郎／監修","description":"健康図解シリーズの増補改訂版。コレステロールを下げ、動脈硬化の進行を予防する食材や栄養素、食事法、生活術を紹介","price":"1000","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784058010181","title":"最新版　今すぐできる！　コレステロールを下げる４０のルール","volume":"","series":"健康図解","publisher":"学研プラス","pubdate":"2019-05-14","cover":"","author":"横手幸太郎／監修","description":"健康図解シリーズの増補改訂版。コレステロールを下げ、動脈硬化の進行を予防する食材や栄養素、食事法、生活術を紹介","price":"1000","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784058010488","title":"おいしいごはんの勘どころ","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-05-14","cover":"https://cover.openbd.jp/9784058010488.jpg","author":"野崎洋光／著","description":"余分なものをそぎ落としたレシピでも、本質だけ抑えていればおいしい。和食の巨匠、野崎洋光が「おいしい」への最短の道をガイド","price":"1500","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
@@ -34,4 +34,66 @@
 {"isbn":"9784143612672","title":"ＮＨＫ　ＣＤ　ラジオ　高校生からはじめる「現代英語」　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1400","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"英米語"}
 ,
 {"isbn":"9784143642679","title":"ＮＨＫ　ＣＤ　ラジオ　遠山顕の英会話楽習　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784198944612","title":"闇が呼んでいる","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-14","cover":"","author":"赤川次郎／著","description":"隠蔽のため仕立て上げた事件の被害者がよみがえった？　それは嘘が招いた悲劇のはじまり。","price":"820","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198944636","title":"侠客五 拵屋銀次郎半畳記","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-14","cover":"","author":"門田泰明／著","description":"大坂に異変！　銀次郎に抹殺指令！　宿敵・床滑七四郎との最後の決戦！　次巻刊行予定の問い合せ殺到の超人気シリーズ、完結篇！","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198944643","title":"肝っ玉千都丸 廻船料理なには屋","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-14","cover":"","author":"倉阪鬼一郎／著","description":"東西のええとこどりした料理が味わえて評判の「なには屋」には、様々な事件が持ち込まれて……。好調シリーズ最新刊。","price":"690","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198944650","title":"黒房の十手 火盗改宇佐見伸介","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-14","cover":"","author":"志木沢郁／著","description":"現代ものの警察小説に通じる新たなる火盗改の活躍を描く時代ヒーロー小説！","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198944667","title":"からみ合い 〈新装版〉","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-14","cover":"","author":"南條範夫／著","description":"この財産、めったな奴にやれるものかーー。莫大な遺産をめぐって人間のあくなき欲望が絡み合う。江戸川乱歩推薦の名著、復刊！","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198944674","title":"レールを渡る殺意の風","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-14","cover":"","author":"西村京太郎／著","description":"時刻表トリック＆アリバイ崩し！　これぞ鉄道推理の醍醐味！！　十津川＆亀井、決死の追跡！","price":"720","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198944681","title":"逃亡山脈 南アルプス山岳救助隊Ｋ-９","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-14","cover":"","author":"樋口明雄／著","description":"イッキ読み間違いなしのハード・チェイス・アクション！　大藪春彦賞作家の人気シリーズ〈Ｋ－９〉最新刊！","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784309028033","title":"介護の流儀","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-05-14","cover":"","author":"曾野綾子／著","description":"60年、共に暮した夫・三浦朱門を看取って２年。家族４人の介護を終えた今、思うこと。「介護」との向き合い方をポジティブに描く。","price":"1000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784309287324","title":"かまわぬ手ぬぐい百科（新装版）","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-05-14","cover":"","author":"株式会社かまわぬ／著","description":"犬張子、七宝など柄の由来や使い方から、洗い方などの取扱い法まで、383のキーワードで図解するかわいい手ぬぐい大事典【新装版】","price":"1400","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784309287379","title":"今年こそ、梅しごと","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-05-14","cover":"","author":"杵島直美／著","description":"完熟梅、青梅、小梅の定番の梅しごとは勿論、らっきょうや新にんにく等初夏の保存食まで。丁寧なプロセス写真で「今年こそ」を応援！","price":"1200","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784309700762","title":"日本の伝説　関東","volume":"","series":"日本の伝説","publisher":"河出書房新社","pubdate":"2019-05-14","cover":"","author":"藤沢衛彦／著","description":"アマンジャク、真間の手児名、佐倉宗吾、金太郎、児が淵、武蔵野の逃水など。伝説の意外な宝庫。中沢新一推薦。","price":"2100","genre":"","target":"一般","format":"全集・双書","content":"民族・風習"}
+,
+{"isbn":"9784309921730","title":"＋８１　ｖｏｌ．８３","volume":"","series":"＋81","publisher":"河出書房新社","pubdate":"2019-05-14","cover":"","author":"ディー・ディー・ウェーブ／編集","description":"4月で幕を閉じる「平成」のクリエイティヴ界を牽引したキーパーソンにインタビュー。同時代を振り返り、検証し、未来を見据える。","price":"1800","genre":"","target":"一般","format":"単行本","content":"芸術総記"}
+,
+{"isbn":"9784334754006","title":"千霊一霊物語","volume":"","series":"光文社古典新訳文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"アレクサンドル・デュマ／著 前山悠／翻訳","description":"","price":"1020","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784334754013","title":"シェリ","volume":"","series":"光文社古典新訳文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"コレット／著 河野万里子／翻訳","description":"","price":"820","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784334754020","title":"パイドン －魂について","volume":"","series":"光文社古典新訳文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"プラトン／著 納富信留／翻訳","description":"","price":"920","genre":"文庫","target":"一般","format":"文庫","content":"哲学"}
+,
+{"isbn":"9784334777241","title":"駿河の海 名奉行 筒井政憲異聞","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"北川哲史／著","description":"","price":"720","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334778439","title":"飛鳥Ⅱ　ＳＯＳ","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"西村京太郎／著","description":"","price":"580","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334778446","title":"パレードの明暗 座間味くんの推理","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"石持浅海／著","description":"","price":"580","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334778453","title":"仕掛け 警視庁特命遊撃班","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"南英男／著","description":"","price":"720","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334778460","title":"キッド・ピストルズの醜態","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"山口雅也／著","description":"","price":"880","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334778477","title":"悪意の迷路 日本ベストミステリー選集","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"日本推理作家協会／編集 芦沢央／著 歌野晶午／著 大沢在昌／著 大山誠一郎／著 北原尚彦／著 ほか","description":"","price":"1560","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334778484","title":"森下雨村　小酒井不木","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"ミステリー文学資料館／編集","description":"","price":"900","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334778491","title":"ヒキタさん！ ご懐妊ですよ","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"ヒキタクニオ／著","description":"","price":"600","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784334778507","title":"江戸川西口あやかしクリニック　２","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"藤山素心／著","description":"","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334778514","title":"いみず野ガーデンデザイナーズ　２","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"蒼井湊都／著","description":"","price":"660","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334778521","title":"陰謀奉行 闇御庭番（三）","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"早見俊／著","description":"","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334778545","title":"七人の刺客 隠密船頭（二）","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"稲葉稔／著","description":"","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334778552","title":"赤猫 臨時廻り同心　山本市兵衛","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"藤堂房良／著","description":"","price":"760","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334778569","title":"父の海 若鷹武芸帖","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"岡本さとる／著","description":"","price":"620","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334787615","title":"幸せなことしか起こらなくなる４８の魔法","volume":"","series":"光文社知恵の森文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"大木ゆきの／著","description":"","price":"780","genre":"文庫","target":"一般","format":"文庫","content":"心理(学)"}
+,
+{"isbn":"9784334787622","title":"新編・ロマンポルノの時代","volume":"","series":"光文社知恵の森文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"寺脇研／著","description":"","price":"980","genre":"文庫","target":"一般","format":"文庫","content":"演劇・映画"}
 ]
