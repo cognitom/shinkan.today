@@ -1,5 +1,5 @@
 [
-{"isbn":"9784052048739","title":"おおかみさんいまなんじ？","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-05-14","cover":"","author":"中川ひろたか／著 山村浩二／ラスト","description":"ひつじたちに時間を教えてくれるおおかみが真夜中に追いかけてくる！保育で人気の遊び「おおかみさん、いまなんじ？」を絵本化。","price":"1200","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
+{"isbn":"9784052048739","title":"おおかみさんいまなんじ？","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-05-14","cover":"","author":"中川ひろたか／著 山村浩二／イラスト","description":"ひつじたちに時間を教えてくれるおおかみが真夜中に追いかけてくる！保育で人気の遊び「おおかみさん、いまなんじ？」を絵本化。","price":"1200","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784053048103","title":"赤点脱出プロジェクト　必ず解きたいテスト問題ＢＥＳＴ５　物理基礎","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-05-14","cover":"","author":"堀輝一郎／著","description":"たった５問で赤点脱出！　時間がなくても、苦手でも、この５問さえ解ければ定期テストはバッチリ。テスト対策に、ベストな一冊。","price":"1300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"物理学"}
 ,
@@ -23,23 +23,23 @@
 ,
 {"isbn":"9784074353248","title":"みきママのおやこ離乳食","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-05-14","cover":"","author":"藤原美樹／著","description":"みきママの簡単テクが満載！離乳食初期はフリージング、中・後期は取り分けて、幼児には調味料あと入れで、ママはラクちん。","price":"900","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
-{"isbn":"9784143232672","title":"ＮＨＫ　ＣＤ　ラジオ　ラジオ英会話　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"英米語"}
+{"isbn":"9784143232672","title":"ＮＨＫ　ＣＤ　ラジオ　ラジオ英会話　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-14","cover":"https://cover.openbd.jp/9784143232672.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"英米語"}
 ,
-{"isbn":"9784143242671","title":"ＮＨＫ　ＣＤ　ラジオ　実践ビジネス英語　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"英米語"}
+{"isbn":"9784143242671","title":"ＮＨＫ　ＣＤ　ラジオ　実践ビジネス英語　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-14","cover":"https://cover.openbd.jp/9784143242671.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"英米語"}
 ,
-{"isbn":"9784143252670","title":"ＮＨＫ　ＣＤ　ラジオ　英会話タイムトライアル　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"英米語"}
+{"isbn":"9784143252670","title":"ＮＨＫ　ＣＤ　ラジオ　英会話タイムトライアル　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-14","cover":"https://cover.openbd.jp/9784143252670.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"英米語"}
 ,
-{"isbn":"9784143512675","title":"ＮＨＫ　ＣＤ　ラジオ　入門ビジネス英語　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1400","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"英米語"}
+{"isbn":"9784143512675","title":"ＮＨＫ　ＣＤ　ラジオ　入門ビジネス英語　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-14","cover":"https://cover.openbd.jp/9784143512675.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1400","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"英米語"}
 ,
-{"isbn":"9784143612672","title":"ＮＨＫ　ＣＤ　ラジオ　高校生からはじめる「現代英語」　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1400","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"英米語"}
+{"isbn":"9784143612672","title":"ＮＨＫ　ＣＤ　ラジオ　高校生からはじめる「現代英語」　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-14","cover":"https://cover.openbd.jp/9784143612672.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1400","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"英米語"}
 ,
-{"isbn":"9784143642679","title":"ＮＨＫ　ＣＤ　ラジオ　遠山顕の英会話楽習　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"英米語"}
+{"isbn":"9784143642679","title":"ＮＨＫ　ＣＤ　ラジオ　遠山顕の英会話楽習　2019年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-05-14","cover":"https://cover.openbd.jp/9784143642679.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"語学・辞事典","target":"一般","format":"磁性媒体など","content":"英米語"}
 ,
 {"isbn":"9784198944612","title":"闇が呼んでいる","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-14","cover":"","author":"赤川次郎／著","description":"隠蔽のため仕立て上げた事件の被害者がよみがえった？　それは嘘が招いた悲劇のはじまり。","price":"820","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784198944636","title":"侠客五 拵屋銀次郎半畳記","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-14","cover":"","author":"門田泰明／著","description":"大坂に異変！　銀次郎に抹殺指令！　宿敵・床滑七四郎との最後の決戦！　次巻刊行予定の問い合せ殺到の超人気シリーズ、完結篇！","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784198944643","title":"肝っ玉千都丸 廻船料理なには屋","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-14","cover":"","author":"倉阪鬼一郎／著","description":"東西のええこどりした料理が味わえて評判の「なには屋」には、様々な事件が持ち込まれて……。好調シリーズ最新刊。","price":"690","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784198944643","title":"肝っ玉千都丸 廻船料理なには屋","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-14","cover":"","author":"倉阪鬼一郎／著","description":"東西のええとこどりした料理が味わえて評判「なには屋」には、様々な事件が持ち込まれて……。好調シリーズ最新刊。","price":"690","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784198944650","title":"黒房の十手 火盗改宇佐見伸介","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-14","cover":"","author":"志木沢郁／著","description":"現代ものの警察小説に通じる新たなる火盗改の活躍を描く時代ヒーロー小説！","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -48,66 +48,4 @@
 {"isbn":"9784198944674","title":"レールを渡る殺意の風","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-14","cover":"","author":"西村京太郎／著","description":"時刻表トリック＆アリバイ崩し！　これぞ鉄道推理の醍醐味！！　十津川＆亀井、決死の追跡！","price":"720","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784198944681","title":"逃亡山脈 南アルプス山岳救助隊Ｋ-９","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-14","cover":"","author":"樋口明雄／著","description":"イッキ読み間違いなしのハード・チェイス・アクション！　大藪春彦賞作家の人気シリーズ〈Ｋ－９〉最新刊！","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784309028033","title":"介護の流儀","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-05-14","cover":"","author":"曾野綾子／著","description":"60年、共に暮した夫・三浦朱門を看取って２年。家族４人の介護を終えた今、思うこと。「介護」との向き合い方をポジティブに描く。","price":"1000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784309287324","title":"かまわぬ手ぬぐい百科（新装版）","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-05-14","cover":"","author":"株式会社かまわぬ／著","description":"犬張子、七宝など柄の由来や使い方から、洗い方などの取扱い法まで、383のキーワードで図解するかわいい手ぬぐい大事典【新装版】","price":"1400","genre":"","target":"一般","format":"単行本","content":"家事"}
-,
-{"isbn":"9784309287379","title":"今年こそ、梅しごと","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-05-14","cover":"","author":"杵島直美／著","description":"完熟梅、青梅、小梅の定番の梅しごとは勿論、らっきょうや新にんにく等初夏の保存食まで。丁寧なプロセス写真で「今年こそ」を応援！","price":"1200","genre":"","target":"一般","format":"単行本","content":"家事"}
-,
-{"isbn":"9784309700762","title":"日本の伝説　関東","volume":"","series":"日本の伝説","publisher":"河出書房新社","pubdate":"2019-05-14","cover":"","author":"藤沢衛彦／著","description":"アマンジャク、真間の手児名、佐倉宗吾、金太郎、児が淵、武蔵野の逃水など。伝説の意外な宝庫。中沢新一推薦。","price":"2100","genre":"","target":"一般","format":"全集・双書","content":"民族・風習"}
-,
-{"isbn":"9784309921730","title":"＋８１　ｖｏｌ．８３","volume":"","series":"＋81","publisher":"河出書房新社","pubdate":"2019-05-14","cover":"","author":"ディー・ディー・ウェーブ／編集","description":"4月で幕を閉じる「平成」のクリエイティヴ界を牽引したキーパーソンにインタビュー。同時代を振り返り、検証し、未来を見据える。","price":"1800","genre":"","target":"一般","format":"単行本","content":"芸術総記"}
-,
-{"isbn":"9784334754006","title":"千霊一霊物語","volume":"","series":"光文社古典新訳文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"アレクサンドル・デュマ／著 前山悠／翻訳","description":"","price":"1020","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
-,
-{"isbn":"9784334754013","title":"シェリ","volume":"","series":"光文社古典新訳文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"コレット／著 河野万里子／翻訳","description":"","price":"820","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
-,
-{"isbn":"9784334754020","title":"パイドン －魂について","volume":"","series":"光文社古典新訳文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"プラトン／著 納富信留／翻訳","description":"","price":"920","genre":"文庫","target":"一般","format":"文庫","content":"哲学"}
-,
-{"isbn":"9784334777241","title":"駿河の海 名奉行 筒井政憲異聞","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"北川哲史／著","description":"","price":"720","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334778439","title":"飛鳥Ⅱ　ＳＯＳ","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"西村京太郎／著","description":"","price":"580","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334778446","title":"パレードの明暗 座間味くんの推理","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"石持浅海／著","description":"","price":"580","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334778453","title":"仕掛け 警視庁特命遊撃班","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"南英男／著","description":"","price":"720","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334778460","title":"キッド・ピストルズの醜態","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"山口雅也／著","description":"","price":"880","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334778477","title":"悪意の迷路 日本ベストミステリー選集","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"日本推理作家協会／編集 芦沢央／著 歌野晶午／著 大沢在昌／著 大山誠一郎／著 北原尚彦／著 ほか","description":"","price":"1560","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334778484","title":"森下雨村　小酒井不木","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"ミステリー文学資料館／編集","description":"","price":"900","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334778491","title":"ヒキタさん！ ご懐妊ですよ","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"ヒキタクニオ／著","description":"","price":"600","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784334778507","title":"江戸川西口あやかしクリニック　２","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"藤山素心／著","description":"","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334778514","title":"いみず野ガーデンデザイナーズ　２","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"蒼井湊都／著","description":"","price":"660","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334778521","title":"陰謀奉行 闇御庭番（三）","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"早見俊／著","description":"","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334778545","title":"七人の刺客 隠密船頭（二）","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"稲葉稔／著","description":"","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334778552","title":"赤猫 臨時廻り同心　山本市兵衛","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"藤堂房良／著","description":"","price":"760","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334778569","title":"父の海 若鷹武芸帖","volume":"","series":"光文社文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"岡本さとる／著","description":"","price":"620","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334787615","title":"幸せなことしか起こらなくなる４８の魔法","volume":"","series":"光文社知恵の森文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"大木ゆきの／著","description":"","price":"780","genre":"文庫","target":"一般","format":"文庫","content":"心理(学)"}
-,
-{"isbn":"9784334787622","title":"新編・ロマンポルノの時代","volume":"","series":"光文社知恵の森文庫","publisher":"光文社","pubdate":"2019-05-14","cover":"","author":"寺脇研／著","description":"","price":"980","genre":"文庫","target":"一般","format":"文庫","content":"演劇・映画"}
-,
-{"isbn":"9784385137070","title":"三省堂　ポケット国語辞典　プレミアム版","volume":"","series":"","publisher":"三省堂","pubdate":"2019-05-14","cover":"https://cover.openbd.jp/9784385137070.jpg","author":"三省堂編修所／編集","description":"このクラスで最大の３３０００語を収録した本格小型国語辞典のプレミアム版。簡潔で正確な語釈は手紙文やビジネス文書の作成に最適。","price":"1000","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"日本語"}
-,
-{"isbn":"9784385137087","title":"三省堂　ポケット故事成語辞典　プレミアム版","volume":"","series":"","publisher":"三省堂","pubdate":"2019-05-14","cover":"https://cover.openbd.jp/9784385137087.jpg","author":"三省堂編修所／編集","description":"わかりやすく簡潔な解説。意味や類句がよく理解でき、日常生活の中ですぐに役立つ。人生の教訓となる言葉や格言を約１７００句収録。","price":"1000","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"日本語"}
-,
-{"isbn":"9784385137094","title":"三省堂　ポケットことわざ決まり文句辞典　プレミアム版","volume":"","series":"","publisher":"三省堂","pubdate":"2019-05-14","cover":"https://cover.openbd.jp/9784385137094.jpg","author":"三省堂編修所／編集","description":"約３１００項目のことわざ類を収録したポケット辞典のプレミアム版。類句や対義となる句などを紹介しながらわかりやすく丁寧に解説。","price":"1000","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"日本語"}
-,
-{"isbn":"9784385137100","title":"三省堂　ポケット手紙の書き方辞典　プレミアム版","volume":"","series":"","publisher":"三省堂","pubdate":"2019-05-14","cover":"https://cover.openbd.jp/9784385137100.jpg","author":"武部良明／編集","description":"正しい手紙の書き方がわかるポケット辞典のプレミアム版。頭語と結語、時候のあいさつ等、手紙を書く際に必要な形式がすぐにわかる。","price":"1000","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"日本語"}
-,
-{"isbn":"9784385137117","title":"三省堂　ポケット難読語辞典　プレミアム版","volume":"","series":"","publisher":"三省堂","pubdate":"2019-05-14","cover":"https://cover.openbd.jp/9784385137117.jpg","author":"三省堂編修所／編集","description":"日常生活で目にする難読語を約１００００語収録した、ポケット辞典のプレミアム版。植物・動物・歴史・芸術・生活など分野別に収録。","price":"1100","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"日本語"}
-,
-{"isbn":"9784385137124","title":"三省堂　ポケット日用語辞典　プレミアム版","volume":"","series":"","publisher":"三省堂","pubdate":"2019-05-14","cover":"https://cover.openbd.jp/9784385137124.jpg","author":"三省堂編修所／編集","description":"漢字の表記や使い分けを確認するためのポケット辞典のプレミアム版。的確な語の活用のために簡潔な用例を掲載。瀟洒で小粋な小辞典。","price":"1000","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"日本語"}
-,
-{"isbn":"9784385137131","title":"三省堂　ポケット四字熟語辞典　プレミアム版","volume":"","series":"","publisher":"三省堂","pubdate":"2019-05-14","cover":"https://cover.openbd.jp/9784385137131.jpg","author":"三省堂編修所／編集","description":"日常生活において使用頻度の高い約１４００の四字熟語を収録した、ポケット辞典のプレミアム版。文章作成を強力にサポート。","price":"1000","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"日本語"}
 ]
