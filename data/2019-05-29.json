@@ -1,9 +1,9 @@
 [
-{"isbn":"9784065125458","title":"完璧という領域","volume":"","series":"","publisher":"講談社","pubdate":"2019-05-29","cover":"","author":"熊川哲也／著","description":"熊川哲也、２１年ぶりの自伝","price":"1800","genre":"","target":"一般","format":"単行本","content":"音楽・舞踊"}
+{"isbn":"9784065125458","title":"完璧という領域","volume":"","series":"","publisher":"講談社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784065125458.jpg","author":"熊川哲也／著","description":"熊川哲也、２１年ぶりの自伝","price":"1800","genre":"","target":"一般","format":"単行本","content":"音楽・舞踊"}
 ,
 {"isbn":"9784065153826","title":"クッキングパパ　アジフライ","volume":"","series":"","publisher":"講談社","pubdate":"2019-05-29","cover":"","author":"うえやまとち／著","description":"新たな時代の幕開けも、おいしい料理とともに！　愛情に満ちたごちそうがいっぱい！！","price":"333","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065154014","title":"moja","volume":"","series":"","publisher":"講談社","pubdate":"2019-05-29","cover":"","author":"吉田桃子／著","description":"主人公は毛深いのが悩みの中二女子。たかが毛、されど毛。悩める乙女の明日はどっち！？悩みを解決するまでをユーモラスに描きます！","price":"1300","genre":"","target":"児童","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784065154014","title":"moja","volume":"","series":"","publisher":"講談社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784065154014.jpg","author":"吉田桃子／著","description":"主人公は毛深いのが悩みの中二女子。たかが毛、されど毛。悩める乙女の明日はどっち！？悩みを解決するまでをユーモラスに描きます！","price":"1300","genre":"","target":"児童","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065155134","title":"ムーミン全集［新版］2　たのしいムーミン一家","volume":"","series":"","publisher":"講談社","pubdate":"2019-05-29","cover":"","author":"トーベ・ヤンソン／著 山室静／翻訳","description":"５０年以上愛されてきた「ムーミン」の原典、決定版！クリアになったさしえ、読みやすくなった翻訳、おしゃれなカバーが目印！","price":"1500","genre":"","target":"児童","format":"全集・双書","content":"外国文学小説"}
 ,
@@ -11,13 +11,13 @@
 ,
 {"isbn":"9784065156841","title":"ジパング　史実にはない戦史の結末　アンコール刊行","volume":"","series":"","publisher":"講談社","pubdate":"2019-05-29","cover":"","author":"かわぐちかいじ／著","description":"かわぐちかいじが描く、傑作歴史改変ＳＦ！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784073408420","title":"よくわかる　海　ルアーの選びかた","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-05-29","cover":"","author":"ケイエス企画／編集","description":"ルアー釣りを知らない人のための最初の本。使い方を基軸に釣れる魚種や狙う場所が理解できる全て網羅したオールインワン構成。","price":"1280","genre":"","target":"実用","format":"単行本","content":"体育・スポーツ"}
+{"isbn":"9784073408420","title":"よくわかる　海　ルアーの選びかた","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784073408420.jpg","author":"ケイエス企画／編集","description":"ルアー釣りを知らない人のための最初の本。使い方を基軸に釣れる魚種や狙う場所が理解できる全て網羅したオールインワン構成。","price":"1280","genre":"","target":"実用","format":"単行本","content":"体育・スポーツ"}
 ,
-{"isbn":"9784074356669","title":"ＤＶＤつき　体が硬い人のヨガ入門　４週間プログラム","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-05-29","cover":"","author":"ＨＩＫＡＲＵ／著","description":"人気ヨガ講師HIKARUさんによる待望のALL撮りおろしBOOK！初心者や体が硬い人でもおうちでヨガを楽しめます。","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784074356669","title":"ＤＶＤつき　体が硬い人のヨガ入門　４週間プログラム","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784074356669.jpg","author":"ＨＩＫＡＲＵ／著","description":"人気ヨガ講師HIKARUさんによる待望のALL撮りおろしBOOK！初心者や体が硬い人でもおうちでヨガを楽しめます。","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
-{"isbn":"9784074367375","title":"Ｊａｎｃｈａｎ　Ｓｔｙｌｅ　Ｂｏｏｋ　Ｈｉ　Ｈａａｉ！","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-05-29","cover":"","author":"Ｊａｎｃｈａｎ／著","description":"BNK48卒業後、日本でソロ活動を開始したJanの日本初のフォトブック。寝起き姿など貴重なプライベート写真が満載の1冊。","price":"1574","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
+{"isbn":"9784074367375","title":"Ｊａｎｃｈａｎ　Ｓｔｙｌｅ　Ｂｏｏｋ　Ｈｉ　Ｈａａｉ！","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784074367375.jpg","author":"Ｊａｎｃｈａｎ／著","description":"BNK48卒業後、日本でソロ活動を開始したJanの日本初のフォトブック。寝起き姿など貴重なプライベート写真が満載の1冊。","price":"1574","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
 ,
-{"isbn":"9784074384815","title":"完全図解　糖尿病のすべて","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-05-29","cover":"","author":"片山隆司／監修 貴堂明世／監修 伊藤玲子／監修","description":"高血糖はなぜ怖い？　1000万人とされる糖尿病。基本から薬物療法、運動療法、100の対策レシピ付きですべてがわかる","price":"1400","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784074384815","title":"完全図解　糖尿病のすべて","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784074384815.jpg","author":"片山隆司／監修 貴堂明世／監修 伊藤玲子／監修","description":"高血糖はなぜ怖い？　1000万人とされる糖尿病。基本から薬物療法、運動療法、100の対策レシピ付きですべてがわかる","price":"1400","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784093886888","title":"B級キャスター","volume":"","series":"","publisher":"小学館","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784093886888.jpg","author":"村尾信尚／著","description":"今、明かす『NEWS ZERO』の舞台裏 \n\n 今を去ること12年前。\n著者は、嫌われ者の財務省出身の元・官僚で、しかも県知事選の落選者だった。そんな著者にまさかの、キャスター就任の依頼が！？\n そこから始まった怒涛の日々。化粧やコンタクトレンズ装着、発声練習に、アクセントの矯正…。とまどいばかりの毎日が始まるも、持ち前の鈍感力と、「日本をよくする」という思いで、駆け抜けていく。\n 『NEWS ZERO』のコンセプトは、「日本をよくする」。\nこれは、番組開始前夜、番組の幹部と著者が何度も語り合って決めたもの。\nこの目標のため、著者は硬いニュースを、わかりやすく伝えようと東奔西走する。著者だけではない。スタッフはもちろん、星野仙一氏や小林麻央氏、櫻井翔氏といった共演するキャスター陣も奮闘する。\nしかし、視聴率を重視せざるを得ないスタッフとの対立も目立ち始めて…。\n 「素人キャスター」だった著者だからこそ語れるNEWS番組の熱き舞台裏。\n「網走一家」」に属していた少年時代や、「悪代官」と呼ばれた官僚時代の知られざる事実も紹介！\n さらに、著者だけが知る、星野仙一氏や、櫻井翔氏、桐谷美玲氏らのエピソードも満載！\n\n \n  \n\n 【編集担当からのおすすめ情報】 \n 発売前にこの本のゲラを読んだ方から、多くの反響をいただきました。\n「村尾さんって、こんなに面白い人だったんだ！」\n「村尾キャスターって、ものすごく熱い人だったんだね！」\n「どのニュース番組も同じような芸能ネタを流す理由がわかった」\n著者の村尾さんは、本当にまっすぐな熱い魂の持ち主です。その村尾さんが、「視聴率ゼロ」と揶揄（やゆ）されながらも、日本を良くしようと努力を続けた奮戦記です。さらに星野仙一さんや小林麻央さん、櫻井翔さんの思い出話なども盛り込んだ、読みどころだらけの1冊です。\n\n\n","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
@@ -25,7 +25,7 @@
 ,
 {"isbn":"9784101014319","title":"許されようとは思いません","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784101014319.jpg","author":"芦沢央／著","description":"","price":"550","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101024042","title":"不良少年とキリスト","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784101024042.jpg","author":"坂口安吾／著","description":"","price":"490","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784101024042","title":"不良少年とキリスト","volume":"","series":"新潮文庫","publisher":"新社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784101024042.jpg","author":"坂口安吾／著","description":"","price":"490","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784101134895","title":"五瓣の椿","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784101134895.jpg","author":"山本周五郎／著","description":"","price":"550","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
