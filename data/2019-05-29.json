@@ -25,7 +25,7 @@
 ,
 {"isbn":"9784101014319","title":"許されようとは思いません","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784101014319.jpg","author":"芦沢央／著","description":"","price":"550","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101024042","title":"不良少年とキリスト","volume":"","series":"新潮文庫","publisher":"新社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784101024042.jpg","author":"坂口安吾／著","description":"","price":"490","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784101024042","title":"不良少年とキリスト","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784101024042.jpg","author":"坂口安吾／著","description":"","price":"490","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784101134895","title":"五瓣の椿","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784101134895.jpg","author":"山本周五郎／著","description":"","price":"550","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -61,5 +61,45 @@
 ,
 {"isbn":"9784104752157","title":"君たちが忘れてはいけないこと","volume":"","series":"","publisher":"新潮社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784104752157.jpg","author":"佐藤優／著","description":"資本主義の行方。後悔しない大学選び。教養って何だろう。高校生たちの切実な問題意識に真摯に応える名講義完全採録、待望の第二弾！","price":"1350","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784105071110","title":"黒澤明の羅生門","volume":"","series":"","publisher":"新潮社","pubdate":"2019-05-29","cover":"","author":"ポール・アンドラ／著 北村匡平／翻訳","description":"海外でまたクロサワが発見された。震災、廃墟、肉親の不慮の死、再生など世界的監督の真のメッセージを解き明かす映画評論の決定版。","price":"2500","genre":"","target":"一般","format":"単行本","content":"演劇・映画"}
+{"isbn":"9784105071110","title":"黒澤明の羅生門","volume":"","series":"","publisher":"新潮社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784105071110.jpg","author":"ポール・アンドラ／著 北村匡平／翻訳","description":"海外でまたクロサワが発見された。震災、廃墟、肉親の不慮の死、再生など世界的監督の真のメッセージを解き明かす映画評論の決定版。","price":"2500","genre":"","target":"一般","format":"単行本","content":"演劇・映画"}
+,
+{"isbn":"9784163909516","title":"アメリカ紀行","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784163909516.jpg","author":"千葉雅也／著","description":"トランプ以後のアメリカの地で、哲学者・千葉雅也は何を考えたのか。『勉強の哲学』に続く、半年の思考の軌跡と新たな哲学の萌芽。","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784163910185","title":"社長の条件","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784163910185.jpg","author":"中西宏明／著 冨山和彦／著","description":"日本企業が生き残るには、社長の定義を変える必要がある。社長2.0像とは。その育成プランとは。最も必要な資質とは何か。","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784198648534","title":"中国大自滅","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-29","cover":"","author":"渡邉哲也／著 福島香織／著","description":"「中国製造２０２５」で完全にアメリカを敵に回した中国は、世界から排除されて自滅していく！　中国瓦解のシナリオを完全分析。","price":"1300","genre":"","target":"一般","format":"単行本","content":"社会"}
+,
+{"isbn":"9784198648725","title":"YOSHITATSU BY YOSHITATSU","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-29","cover":"","author":"ヨシタツ／著","description":"世界最高峰ＷＷＥを極めた唯一無二の日本人レスラー、天下布武の自叙伝、待望の発刊！　全身ポジティブ男の檄文だ！\n","price":"1800","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
+,
+{"isbn":"9784297105310","title":"まんが 偉人たちの科学講義 － 天才科学者も人の子","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784297105310.jpg","author":"亀／著","description":"ガリレオ、ニュートン、ファラデー、アインシュタイン！\n\nあの偉人たちが、まんがで科学を特別講義！\n\n\n\n天才といえども人の子、\n\n科学者たちがその人となり・生きざまをあらわにしながら、\n\n自らが発見した物理の考え方を解説してくれます。\n\nまんがでそこそこ科学が身につく、楽しめてお得な紙上特別講義です。","price":"1680","genre":"自然科学","target":"専門","format":"単行本","content":"物理学"}
+,
+{"isbn":"9784307301398","title":"がん患者の妊孕性温存のための診療マニュアル","volume":"","series":"","publisher":"金原出版","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784307301398.jpg","author":"AMED大須賀班／編集","description":"がん患者の妊孕性温存療法を実践するために必読のマニュアル","price":"3000","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784320113770","title":"この数学，いったい いつ使うことになるの？","volume":"","series":"","publisher":"共立出版","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784320113770.jpg","author":"HalSaunders／著 森園子／翻訳 猪飼輝子／翻訳 二宮智子／翻訳","description":"数学の内容が，社会のどのような場面で活用されているのかを極めて具体的に示し，数学の有用性を感得させるのに最適な一冊である。","price":"2000","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
+,
+{"isbn":"9784325233824","title":"早稲田大学（法学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784325233824.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。6カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233848","title":"早稲田大学（商学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784325233848.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。6カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233862","title":"早稲田大学（文学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784325233862.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。6カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233879","title":"早稲田大学（文化構想学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784325233879.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。6カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233886","title":"早稲田大学（教育学部〈文科系〉）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784325233886.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。6カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233893","title":"早稲田大学（教育学部〈理科系〉）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784325233893.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。4カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233916","title":"早稲田大学（スポーツ科学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784325233916.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。4カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233923","title":"早稲田大学（国際教養学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784325233923.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。4カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233930","title":"早稲田大学（基幹理工学部・創造理工学部・先進理工学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784325233930.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。6カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325234548","title":"京都産業大学（公募推薦入試）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784325234548.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325234609","title":"近畿大学・近畿大学短期大学部（推薦入試〈医学部を除く〉）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784325234609.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325234807","title":"同志社大学（社会学部－学部個別日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784325234807.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325234814","title":"同志社大学（政策学部・文化情報学部〈文系型〉・スポーツ健康科学部〈文系型〉－学部個別日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-29","cover":"https://cover.openbd.jp/9784325234814.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
 ]
