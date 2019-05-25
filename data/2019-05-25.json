@@ -118,48 +118,4 @@
 {"isbn":"9784199607936","title":"片想いをこじらせています。","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-25","cover":"","author":"ヤマヲミ／著","description":"エッチはしてても恋ゴコロは一方通行――恋多きイケメン作家×意固地な編集者の右往左往ラブ！？","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784199607943","title":"どっちがマイハニー!?","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-25","cover":"","author":"鷹丘モトナリ／著","description":"週末に訪れたラブ・トライアングルｖ","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784274223730","title":"IT Text　データベースの基礎","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784274223730.jpg","author":"吉川正俊／著","description":"情報技術において欠かせない「データベース」の基礎を体系的に解説した教科書。","price":"2900","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784274223778","title":"電気管理技術者必携（第9版）","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784274223778.jpg","author":"公益社団法人東京電気管理技術者協会／編集","description":"電気事業法、電気設備技術基準とその解釈、高圧受電設備規程、内線規程の改訂等に基づいて内容を改めて見直し、第9版として発行。","price":"5700","genre":"工業・工学","target":"専門","format":"単行本","content":"電気"}
-,
-{"isbn":"9784274223808","title":"設備のしくみを徹底解剖　空気調和「超」入門","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784274223808.jpg","author":"立田敏明／著","description":"空調システムの原理・特性から設計～システムの選定に至るまで、実務に直結する内容を詳細に綴った。","price":"3300","genre":"工業・工学","target":"専門","format":"単行本","content":"建築"}
-,
-{"isbn":"9784274223846","title":"2020年版　診療放射線技師国家試験　完全対策問題集","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784274223846.jpg","author":"オーム社／編集","description":"診療放射線技師国家試験の過去10年分の問題を、国試対策に有効な精選問題とまとめの時期に有効な出題年別の2パターンで掲載。","price":"8000","genre":"","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
-,
-{"isbn":"9784274223853","title":"2020年版　診療放射線技師国家試験　合格！Myテキスト","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784274223853.jpg","author":"オーム社／編集","description":"診療放射線技師国家試験の対策を、体系的かつ効率的に進めることができる、国試対策テキストの決定版。","price":"7800","genre":"","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
-,
-{"isbn":"9784274507250","title":"電験三種なるほど機械","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784274507250.jpg","author":"深澤一幸／著","description":"広範囲にわたる学習の道しるべとなる1冊！\n本書は、電験三種受験者のための受験テキスト電験三種なるほどシリーズの機械編として執筆・編集したものです。\n電験三種の機械科目は、主要電気機械（直流機、変圧器、誘導機、同期器）の他に幅広い分野（目次参照）から出題されます。機械科目は、電力・法規科目の学習の基礎をなす分野と、その他の機械及び応用分野を合わせた内容をもち、そのボリュームから学習に時間がかかりしかも焦点が絞りにくい科目です。しかし、各分野の出題頻度にある程度の規則性が見出せるので、これを機械科目攻略の糸口とすることができます。この要請に応えるべく、過去問研究により重要単元を選抜し、各単元とリンクする電験三種レベルの例題を取り上げ、それを解するための「問題の考え方・解き方」、その基となる「重要事項・公式」を、原理・法則からわかりやすく解説してあります。","price":"2800","genre":"","target":"専門","format":"単行本","content":"電気"}
-,
-{"isbn":"9784274507335","title":"2019年版　第一種電気工事士技能試験　公表問題の合格解答","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784274507335.jpg","author":"オーム社／編集","description":"試験センターより公表された候補問題10問を元に、寸法・使用材料・施工条件等を予想して問題を作成し、解答・解説。","price":"2200","genre":"","target":"専門","format":"単行本","content":"電気"}
-,
-{"isbn":"9784276962927","title":"ジャズと喫茶とオーディオ","volume":"","series":"ONTOMO MOOK","publisher":"株式会社音楽之友社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784276962927.jpg","author":"田中伊佐資／著 Stereo／編集","description":"レコードを愛し、かけ続けているジャズ喫茶、カフェ、バー約40店の探訪記。ジャズ、オーディオ、レコードが渾然と醸し出す世界！","price":"2000","genre":"芸術","target":"雑誌扱い","format":"ムック・その他","content":"音楽・舞踊"}
-,
-{"isbn":"9784325230281","title":"東京大学（文科）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784325230281.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。7カ年分収載。","price":"2200","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325230298","title":"東京大学（理科）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784325230298.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。7カ年分収載。","price":"2200","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325231516","title":"〔国立大〕医学部医学科 推薦・ＡＯ入試","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784325231516.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2800","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325231554","title":"海上保安大学校／気象大学校","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784325231554.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"2400","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325231943","title":"神奈川大学（給費生試験）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784325231943.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325232094","title":"慶應義塾大学（法学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784325232094.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。6カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325232162","title":"慶應義塾大学（医学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784325232162.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。7カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325233855","title":"早稲田大学（社会科学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784325233855.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。6カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325234821","title":"同志社大学（理工学部・生命医科学部・文化情報学部〈理系型〉・スポーツ健康科学部〈理系型〉－学部個別日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784325234821.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325234944","title":"立命館大学（文系－全学統一方式・学部個別配点方式）／立命館アジア太平洋大学（Ａ方式・英語重視方式）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784325234944.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325234951","title":"立命館大学（理系－全学統一方式・学部個別配点方式、薬学方式）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784325234951.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325234968","title":"立命館大学（ＩＲ方式〈英語資格試験利用型〉・センター試験併用方式）／立命館アジア太平洋大学（センター試験併用方式）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784325234968.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325234982","title":"龍谷大学・龍谷大学短期大学部（公募推薦入試）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784325234982.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784326654222","title":"移民と国内植民の社会学","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-05-25","cover":"https://cover.openbd.jp/9784326654222.jpg","author":"佐久間孝正／著","description":"戦前期、移民・国内植民の理論はいかなるものであったのか。矢内原忠雄の植民論を軸に分析しつつ、現代のアイヌ民族問題も再考する。","price":"3800","genre":"社会科学","target":"専門","format":"単行本","content":"社会"}
 ]

@@ -49,7 +49,7 @@
 ,
 {"isbn":"9784041081952","title":"九十九怪談　第十夜","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784041081952.jpg","author":"木原浩勝／著","description":"最後にして最恐の怪異が襲い来たり。恐怖の夜を生き延びることができるか?","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041082195","title":"機動士ガンダムさん　（17）の巻","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784041082195.jpg","author":"大和田秀樹／著 矢立肇・富野由悠季／企画","description":"ガンダムさん花も恥じらう17年目！","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784041082195","title":"機動戦士ガンダムさん　（17）の巻","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784041082195.jpg","author":"大和田秀樹／著 矢立肇・富野由悠季／企画","description":"ガンダムさん花も恥じらう17年目！","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784041082287","title":"異世界はスマートフォンとともに。　（６）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784041082287.jpg","author":"そと／著 冬原パトラ／原著 兎塚エイジ／企画","description":"さくさく、ぷかぷか、バカンスにれっつごー！","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -192,30 +192,4 @@
 {"isbn":"9784198648541","title":"光と闇、二元の統合 覚醒への道","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-24","cover":"","author":"サアラ／著","description":"５月１日の新天皇即位で、日本の集合意識がガラリと変わる！その背後にあるものは？エネルギー的な意図とは？","price":"1800","genre":"","target":"一般","format":"単行本","content":"心理(学)"}
 ,
 {"isbn":"9784198648558","title":"人に頼む技術","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-05-24","cover":"","author":"ハイディ・グラント／著 児島修／翻訳","description":"ダニエル・ピンク大絶賛！\nコロンビア大学心理学博士が最新科学をもとに、相手の力をうまく利用するテクニックを公開！","price":"1600","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
-,
-{"isbn":"9784274222634","title":"ネコとはじめる統計学","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784274222634.jpg","author":"『ネコとはじめる統計学』制作委員会／監修 黒瀬奈緒子／著 ネコ先輩／著","description":"ネコをもっと知りたいという気持ちで統計学も身につく画期的内容。猫を突破口に、楽しみながら統計学をしっかり学べる。","price":"2300","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
-,
-{"isbn":"9784274223716","title":"強化学習アルゴリズム入門","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784274223716.jpg","author":"曽我部東馬／著","description":"強化学習の諸要素を、中高生にもなじみ深い平均値の計算から説明し、初学者でも基本とコツを自然と身に着けられるよう解説。","price":"3000","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784274223747","title":"組込みソフトの安全設計","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784274223747.jpg","author":"杉山肇／著","description":"組込みシステムのソフトウェア設計における安全性の確保を、OSを用いないワンチップマイコンのソフトウェアで解説する書籍。","price":"3200","genre":"工業・工学","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784274223761","title":"MESHではじめるIoTプログラミング","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784274223761.jpg","author":"上林憲行／著・編集 中村亮太／著 中村太戯留／著 岡崎博樹／著 田丸恵理子／著 ソニー株式会社MESHサポートチーム・プログラミング教室Swimmy／編集","description":"組み合わせで可能性が無限大に広がるMESH（メッシュ）を使いこなして、IoTプログラミングをマスターしよう！","price":"2300","genre":"工業・工学","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784274223815","title":"これだけマスター 1級造園施工管理技士（改訂2版）","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784274223815.jpg","author":"オーム社／編集","description":"1級造園施工管理技士試験の受験対策書。学科試験と実地試験の内容を、過去の出題問題の傾向を分析。","price":"3000","genre":"","target":"専門","format":"単行本","content":"土木"}
-,
-{"isbn":"9784274223884","title":"詳説　人工知能","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784274223884.jpg","author":"上野晴樹／著","description":"数式を使わないでアルファ碁、深層学習、知識ベースの理論の本質がわかる!!","price":"3000","genre":"工業・工学","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784296102730","title":"プラットフォーム経済圏　GAFA vs. 世界","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784296102730.jpg","author":"木内登英／著","description":"巨額の富を生むプラットフォーマー。そのからくりをトップエコノミストが解き明かすとともに、「対ＧＡＦＡ」の動向を解説\n","price":"2200","genre":"","target":"一般","format":"単行本","content":"経営"}
-,
-{"isbn":"9784296102792","title":"ビジネスパーソンのためのESGの教科書　英国の戦略に学べ","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784296102792.jpg","author":"黒田一賢／著 井熊均／監修","description":"ESG投資の基本から、先端のプレイヤーの動きまで分かる、企業担当者や市場関係者にとって必読の1冊です。\n","price":"2500","genre":"","target":"一般","format":"単行本","content":"経営"}
-,
-{"isbn":"9784296102822","title":"あなたがセキュリティで困っている理由","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784296102822.jpg","author":"辻伸弘／著","description":"サイバー攻撃の手口を丁寧に解説し、正しい対策を紹介。セキュリティで困っているあなたの答えがきっと見つかるでしょう。\n","price":"1800","genre":"","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784305708717","title":"万葉をヨム","volume":"","series":"","publisher":"笠間書院","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784305708717.jpg","author":"上野誠／編集 大浦誠士／編集 村田右富実／編集","description":"さまざまな方法論の横断的結合と、各方法論自体の進化がもたらす、これからの万葉集のヨミかた！","price":"6000","genre":"","target":"一般","format":"単行本","content":"日本文学詩歌"}
-,
-{"isbn":"9784309762821","title":"図説　ヴィクトリア朝の女性と暮らし","volume":"","series":"ふくろうの本／世界の文化","publisher":"河出書房新社","pubdate":"2019-05-24","cover":"","author":"川端有子／著","description":"隠されていたワーキング・クラスの女子、女性の暮らしの実態を明かす！教育、住居、食物、衣服、娯楽。英国文化の独自性の謎に迫る。","price":"1800","genre":"","target":"一般","format":"全集・双書","content":"民族・風習"}
-,
-{"isbn":"9784315521658","title":"ニュートン式超図解 最強に面白い!! 統計","volume":"","series":"","publisher":"ニュートンプレス","pubdate":"2019-05-24","cover":"","author":"今野紀雄／監修","description":"","price":"780","genre":"","target":"実用","format":"単行本","content":"数学"}
-,
-{"isbn":"9784326154593","title":"星占いの文化交流史　新装版","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-05-24","cover":"https://cover.openbd.jp/9784326154593.jpg","author":"矢野道雄／著","description":"星占いの起源と歴史を知っていますか？私たちの古代・中世イメージを覆す、科学としての占星術とそのグローバルな伝播の実際に迫る！","price":"2700","genre":"哲学・宗教","target":"専門","format":"単行本","content":"哲学"}
 ]
