@@ -39,7 +39,7 @@
 ,
 {"isbn":"9784065156759","title":"僕の彼女は最高です！（6）","volume":"","series":"","publisher":"講談社","pubdate":"2019-06-07","cover":"","author":"伊織／原著 髙田タカミ／著","description":"惜しまれながらもひとまず漫画は最終巻！　連載最終回のその後を描いた描き下ろし“プロポーズ編”も収録！　ついに、ご結婚！？","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065156865","title":"エルジェーベト（2）","volume":"","series":"","publisher":"講談社","pubdate":"2019-06-07","cover":"","author":"Ｃｕｖｉｅ／著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065156865","title":"エルジェーベト（2）","volume":"","series":"","publisher":"講談社","pubdate":"2019-06-07","cover":"","author":"Ｃｕｖｉｅ／著","description":"皇妃エリザベートｖｓ．民族問題＆姑問題＆テロリスト！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065157190","title":"はねバド！（15）","volume":"","series":"","publisher":"講談社","pubdate":"2019-06-07","cover":"","author":"濱田浩輔／著","description":"綾乃と唯華の戦いの傍ら、準決勝第２試合コニー対津幡の戦いが始まる。","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -67,7 +67,7 @@
 ,
 {"isbn":"9784065162231","title":"可愛いだけじゃない式守さん（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-06-07","cover":"","author":"真木蛍五／著","description":"和泉くんの彼女はとても可愛い式守さん。不幸体質を持つ和泉くんにいつもソワソワ。彼の言動ひとつでイケメン彼女に大変身！","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065162378","title":"ヤンキーJKの異常な愛情（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-06-07","cover":"","author":"高橋コウ／著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065162378","title":"ヤンキーJKの異常な愛情（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-06-07","cover":"","author":"高橋コウ／著","description":"謎の美女が無限にやさしい。漫画のためにヤンキーＪＫと疑似恋愛していたらハニートラップに遭遇！？","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065164051","title":"ひゃくえむ。（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-06-07","cover":"","author":"魚豊／著","description":"その距離は時間に権力を与える。その距離は人間の価値を決める。その距離に人生を賭けた。その距離、１００メートル──。","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -95,11 +95,15 @@
 ,
 {"isbn":"9784120052040","title":"胃がんでいのちを落とさないために【改訂版】","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-06-07","cover":"https://cover.openbd.jp/9784120052040.jpg","author":"浅香正博／著","description":"ついに胃がん死亡者数が減少に！　ピロリ菌の除菌プロジェクトの第一人者が最新の現状を伝え、胃がん撲滅に向けての実践的指針を示す","price":"1200","genre":"医学","target":"一般","format":"単行本","content":"医学・歯学・薬学"}
 ,
-{"isbn":"9784121506528","title":"誘導工作 情報操作の巧妙な罠","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-06-07","cover":"https://cover.openbd.jp/9784121506528.jpg","author":"飯塚恵子／著","description":"「自分の意見が、知らずに誰かに操られている」ＩＴ技術の進歩を背景にした工作の実態を深層の事情を含めて明らかに。日本も危ない！","price":"820","genre":"","target":"教養","format":"新書","content":"政治-含む国防軍事"}
+{"isbn":"9784121506528","title":"誘導工作 情報操作の巧妙な罠","volume":"","series":"","publisher":"央公論新社","pubdate":"2019-06-07","cover":"https://cover.openbd.jp/9784121506528.jpg","author":"飯塚恵子／著","description":"「自分の意見が、知らずに誰かに操られている」ＩＴ技術の進歩を背景にした工作の実態を深層の事情を含めて明らかに。日本も危ない！","price":"820","genre":"","target":"教養","format":"新書","content":"政治-含む国防軍事"}
 ,
 {"isbn":"9784121506580","title":"ハーバードの日本人論","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-06-07","cover":"https://cover.openbd.jp/9784121506580.jpg","author":"佐藤智恵／著","description":"世界最高の知性、ハーバード大１０人の教授が解き明かす「いかにも日本人らしい」の真相とは。日本の魅力を再発見できる一冊。","price":"880","genre":"","target":"教養","format":"新書","content":"社会"}
 ,
 {"isbn":"9784121506597","title":"東京懐かし写真帖","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-06-07","cover":"https://cover.openbd.jp/9784121506597.jpg","author":"秋山武雄／著 読売新聞都内版編集室／編集","description":"洋食屋店主がフライパンをカメラに持ち替えて、７０年にわたり撮り続けた東京下町風景。江戸っ子の語り口とともに甦るあの頃の記憶。","price":"1100","genre":"","target":"教養","format":"新書","content":"写真・工芸"}
 ,
 {"isbn":"9784121506603","title":"決断 会社辞めるか辞めないか","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-06-07","cover":"https://cover.openbd.jp/9784121506603.jpg","author":"成毛眞／著","description":"その「決断」で同僚や家族はどう反応し、年収はどうなった？　仕事消滅の危機を前にした今、目利き人の「世渡り術」に学べ！","price":"800","genre":"","target":"教養","format":"新書","content":"経済・財政・統計"}
+,
+{"isbn":"9784163910291","title":"東京カラダにいい店うまい店","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-06-07","cover":"https://cover.openbd.jp/9784163910291.jpg","author":"NumberDo／著","description":"グルテンフリー、低糖質、ビーガン、マクロビ、無農薬、オーガニックなど「美味しくてカラダにいい」メニューを厳選して収録。","price":"1600","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784163910345","title":"119","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-06-07","cover":"https://cover.openbd.jp/9784163910345.jpg","author":"長岡弘樹／著","description":"消防士は川原で石を拾っていた女性と交際を始めたが……。『教場』などの短編ミステリの名手が、消防署を舞台に描く九つの連作短編。","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ]
