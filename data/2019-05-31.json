@@ -27,9 +27,9 @@
 ,
 {"isbn":"9784049126020","title":"ジュエルブックス 異世界ママトリップ！ 婚活したら赤ちゃんと不器用騎士がついてきました","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-05-31","cover":"https://cover.openbd.jp/9784049126020.jpg","author":"柚原テイル／著 吉崎ヤスミ／イラスト","description":"異世界で王子様のママに！","price":"1200","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784056114775","title":"５００円でわかるエクセル２０１９","volume":"","series":"学研コンピュータムック","publisher":"学研プラス","pubdate":"2019-05-31","cover":"","author":"ＧｅｔＮａｖｉ特別編集／編集","description":"最新表計算ソフトＥｘｃｅｌ２０１９の新機能から基本操作、便利で役立つ機能までを丁寧に解説したワンコイン解説書の決定版！","price":"500","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
+{"isbn":"9784056114775","title":"５００円でわかるエクセル２０１９","volume":"","series":"学研コンピュータムック","publisher":"学研プラス","pubdate":"2019-05-31","cover":"https://cover.openbd.jp/9784056114775.jpg","author":"ＧｅｔＮａｖｉ特別編集／編集","description":"最新表計算ソフトＥｘｃｅｌ２０１９の新機能から基本操作、便利で役立つ機能までを丁寧に解説したワンコイン解説書の決定版！","price":"500","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
 ,
-{"isbn":"9784056114782","title":"５００円でわかるワード２０１９","volume":"","series":"学研コンピュータムック","publisher":"学研プラス","pubdate":"2019-05-31","cover":"","author":"ＧｅｔＮａｖｉ特別編集／編集","description":"最新文書作成ソフトＷｏｒｄ２０１９の新機能から基本操作、便利で役立つテクニックを丁寧に解説したワンコイン解説書の決定版！","price":"500","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
+{"isbn":"9784056114782","title":"５００円でわかるワード２０１９","volume":"","series":"学研コンピュータムック","publisher":"学研プラス","pubdate":"2019-05-31","cover":"https://cover.openbd.jp/9784056114782.jpg","author":"ＧｅｔＮａｖｉ特別編集／編集","description":"最新文書作成ソフトＷｏｒｄ２０１９の新機能から基本操作、便利で役立つテクニックを丁寧に解説したワンコイン解説書の決定版！","price":"500","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
 ,
 {"isbn":"9784065160572","title":"あそべる！　まなべる！　おえかきえほん　トミカで　ゴー！","volume":"","series":"","publisher":"講談社","pubdate":"2019-05-31","cover":"https://cover.openbd.jp/9784065160572.jpg","author":"講談社／著","description":"トミカがいっぱい登場するお絵かき絵本。市販のホワイトボード用ペンで、いろいろなトミカ車両のお絵かきがくり返し楽しめます。","price":"680","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
@@ -90,4 +90,16 @@
 {"isbn":"9784163910277","title":"官邸官僚 安倍一強を支えた側近政治の罪","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-05-31","cover":"https://cover.openbd.jp/9784163910277.jpg","author":"森功／著","description":"出身省庁でトップになれなかった官僚が官邸入りし、安倍首相の権威を笠に霞が関全体を牛耳っていく側近政治の全貌を徹底取材。","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784163910307","title":"ハーバード大の研究でわかった ピーナッツで長生き！","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-05-31","cover":"https://cover.openbd.jp/9784163910307.jpg","author":"井上浩義／著","description":"毎日摂取で生活習慣病等による死亡率が20%減。安価ながら長生き効果抜群のピーナッツ。慶大医学部教授が正しい食べ方を伝授。","price":"1300","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784274222863","title":"Pythonで機械学習入門","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-31","cover":"https://cover.openbd.jp/9784274222863.jpg","author":"大関真之／著","description":"登場人物のPython勉強ノートに書かれているサンプルコードや解説を読むことで、楽しみながらプログラミングができる内容。","price":"2400","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784274223914","title":"Ｃによるアルゴリズムとデータ構造（改訂2版）","volume":"","series":"","publisher":"オーム社","pubdate":"2019-05-31","cover":"https://cover.openbd.jp/9784274223914.jpg","author":"茨木俊秀／著","description":"良いプログラムを書くための必須知識をまとめたテキストであり、五輪の書。約20年ぶりの改訂版。","price":"2700","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784276210592","title":"ホロヴィッツ・ピアノの秘密","volume":"","series":"","publisher":"株式会社音楽之友社","pubdate":"2019-05-31","cover":"https://cover.openbd.jp/9784276210592.jpg","author":"髙木裕／著","description":"ホロヴィッツの愛機CD75と他のスタインウェイの音響比較データを含む、ニューヨーク・スタインウェイを追った調律師の記録。","price":"1800","genre":"","target":"教養","format":"単行本","content":"音楽・舞踊"}
+,
+{"isbn":"9784276321717","title":"こなっしーの 低学年だからできる！ 楽しい音楽！","volume":"","series":"音楽指導ブック","publisher":"株式会社音楽之友社","pubdate":"2019-05-31","cover":"https://cover.openbd.jp/9784276321717.jpg","author":"小梨貴弘／著","description":"小学校低学年の音楽の授業や音楽会の指導に特化。音楽の指導に苦手意識を持つ学級担任の先生も自信を持って指導ができる。","price":"2000","genre":"","target":"教養","format":"単行本","content":"音楽・舞踊"}
+,
+{"isbn":"9784296102938","title":"パソコン自作の教科書","volume":"","series":"日経BPパソコンベストムック","publisher":"日経ＢＰ","pubdate":"2019-05-31","cover":"https://cover.openbd.jp/9784296102938.jpg","author":"WinPC／編集","description":"初めてでも大丈夫！必ずできる！\nパソコンを知る楽しみ、作る楽しみ、使う楽しみを満喫できる1冊です。\n","price":"1400","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
+,
+{"isbn":"9784305709158","title":"河野裕子","volume":"75","series":"コレクション日本歌人選","publisher":"笠間書院","pubdate":"2019-05-31","cover":"https://cover.openbd.jp/9784305709158.jpg","author":"永田淳／著","description":"夫、永田和宏を終生愛し、詠い続けた歌人。","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学詩歌"}
 ]
