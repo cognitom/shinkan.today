@@ -3184,10 +3184,11 @@ function parseAttributes(dom, attrs, fn) {
 function setMountState(value) {
   var ref = this.__;
   var isAnonymous = ref.isAnonymous;
+  var skipAnonymous = ref.skipAnonymous;
 
   define(this, 'isMounted', value);
 
-  if (!isAnonymous) {
+  if (!isAnonymous || !skipAnonymous) {
     if (value) { this.trigger('mount'); }
     else {
       this.trigger('unmount');
