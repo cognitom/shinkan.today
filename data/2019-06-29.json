@@ -5,7 +5,7 @@
 ,
 {"isbn":"9784046044013","title":"たっぷり!!!　コウペンちゃん","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-06-29","cover":"https://cover.openbd.jp/9784046044013.jpg","author":"るるてあ／著","description":"コウペンちゃんの新作が登場！　楽しさ可愛さ大幅アップ！","price":"900","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784047355507","title":"恋愛カルテット リトルプリンセスの恋愛相談","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-06-29","cover":"https://cover.openbd.jp/9784047355507.jpg","author":"箕崎准／著 睦茸／イラスト","description":"一人の恋愛相談から男女四人の抱える一方通行の想いが交錯し動きはじめる。","price":"650","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784047355507","title":"恋愛カルテット リトルプリンセスの恋愛相談","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-06-29","cover":"https://cover.openbd.jp/9784047355507.jpg","author":"箕崎准／著 睦茸／イラスト","description":"恋愛、青春、人間関係。男女４人が織りなす不器用な学園コメディ。","price":"650","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784047356429","title":"お姉さん先生は男子高生に餌づけしたい。","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-06-29","cover":"https://cover.openbd.jp/9784047356429.jpg","author":"朱月十話／著 ＨＩＭＡ／イラスト","description":"過保護で心配性な先生（お姉さん）にトコトン甘やかされてみませんか？","price":"650","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -22,4 +22,12 @@
 {"isbn":"9784276474345","title":"ヴァイオリン・テクニックと心得","volume":"","series":"","publisher":"株式会社音楽之友社","pubdate":"2019-06-29","cover":"https://cover.openbd.jp/9784276474345.jpg","author":"ズデニェク・ゴラ／著 山崎千晶／翻訳","description":"すでに高い技術を持ち、その技術を維持・向上させる必要のあるヴァイオリニストのための教本。著者ゴラ氏の秘技が満載である。","price":"2400","genre":"","target":"教養","format":"単行本","content":"音楽・舞踊"}
 ,
 {"isbn":"9784297107215","title":"ゼロからはじめる　au Galaxy S10/S10+ SCV41/42 スマートガイド","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-06-29","cover":"","author":"技術評論社編集部／著","description":"auのGalaxy S10 SCV41と、Galaxy S10+ SCV42の基本設定や使い方から、便利な機能の紹介、活用法まですべて紹介しています。","price":"1480","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784326154609","title":"バークリの『原理』を読む","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-06-29","cover":"","author":"冨田恭彦／著","description":"バークリの観念論とはどのようなものだったのか？『原理』（『人知原理論』）のテキストを丁寧に読み解き、わかりやすく解説する。","price":"3400","genre":"哲学・宗教","target":"専門","format":"単行本","content":"哲学"}
+,
+{"isbn":"9784326302802","title":"「核の忘却」の終わり 核兵器復権の時代","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-06-29","cover":"","author":"秋山信将／編集 高橋杉雄／編集","description":"北朝鮮の核問題は解決にいたらず、米ロ間では緊張が高まっている。いま、地域や相手にあわせた新しい核戦略論が必要とされている！","price":"3800","genre":"社会科学","target":"専門","format":"単行本","content":"政治-含む国防軍事"}
+,
+{"isbn":"9784394190028","title":"太宰治 女性小説セレクション　誰も知らぬ","volume":"","series":"","publisher":"春陽堂書店","pubdate":"2019-06-29","cover":"https://cover.openbd.jp/9784394190028.jpg","author":"井原あや／編集 太宰治／著","description":"ダザイが、女性に向けて書いた作品たち――\n「誰も知らぬ」「恥」といった女性語りの作品や、\n心中事件をモチーフにした「雌に就いて」など、\n『若草』『婦人画報』といった女性雑誌に掲載された19作品を掲載。","price":"2700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784395321377","title":"緑の技法","volume":"","series":"","publisher":"彰国社","pubdate":"2019-06-29","cover":"https://cover.openbd.jp/9784395321377.jpg","author":"輿水肇／著・編集 明治大学緑地工学研究室／著・編集","description":"私たちが生きる環境を美しく、潤いのあるものとするためには、どうしたらよいのか。緑を再生・持続する社会に向けた方法論を探求。","price":"4000","genre":"工業・工学","target":"専門","format":"単行本","content":"土木"}
 ]
