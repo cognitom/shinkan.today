@@ -67,11 +67,11 @@
 ,
 {"isbn":"9784054067325","title":"根拠なき自信があふれ出す！「自己肯定感」が上がる１００の言葉","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-06-27","cover":"https://cover.openbd.jp/9784054067325.jpg","author":"千田琢哉／著","description":"２０代のカリスマ・千田琢哉が悩めるビジネスパーソンに向け、揺るぎのない自己肯定感を持つための強靭な１００の言葉を紹介。","price":"1300","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
 ,
-{"isbn":"9784056114836","title":"手間なし！夜１０分おかずと作りおき３５０","volume":"","series":"ヒットムック料理シリーズ","publisher":"学研プラス","pubdate":"2019-06-27","cover":"","author":"フーズ編集部／編集","description":"作りおきと１０分おかずをプラスしてサクっと夕食が作れるレシピブック。素材別構成で使いたい食材からレシピがすぐ探せる！","price":"1000","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
+{"isbn":"9784056114836","title":"手間なし！夜１０分おかずと作りおき３５０","volume":"","series":"ヒットムック料理シリーズ","publisher":"学研プラス","pubdate":"2019-06-27","cover":"https://cover.openbd.jp/9784056114836.jpg","author":"フーズ編集部／編集","description":"作りおきと１０分おかずをプラスしてサクっと夕食が作れるレシピブック。素材別構成で使いたい食材からレシピがすぐ探せる！","price":"1000","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
 {"isbn":"9784056114911","title":"メガミマガジンＲＸ　ＣＯＬＬＥＣＴＩＯＮ２","volume":"","series":"学研ムック","publisher":"学研プラス","pubdate":"2019-06-27","cover":"","author":"メガミマガジン編集部／編集","description":"２０１３年と２０１４年発売のメガミマガジンＲＸ　Ｖｏｌ．３と４の合本。下着やお尻、おっぱいなどエッチなシーンを見せます。","price":"1600","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784056115109","title":"写真が上手くなる１００のルール　構図編","volume":"","series":"学研カメラムック","publisher":"学研プラス","pubdate":"2019-06-27","cover":"","author":"ＣＡＰＡ編集部／編集","description":"主役が引き立つ写真、バランスの良い写真を撮るために、ぜひ知っておきたい構図テクニックを、基本から実践編までやさしく解説。","price":"1500","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"写真・工芸"}
+{"isbn":"9784056115109","title":"写真が上手くなる１００のルール　構図編","volume":"","series":"学研カメラムック","publisher":"学研プラス","pubdate":"2019-06-27","cover":"https://cover.openbd.jp/9784056115109.jpg","author":"ＣＡＰＡ編集部／編集","description":"主役が引き立つ写真、バランスの良い写真を撮るために、ぜひ知っておきたい構図テクニックを、基本から実践編までやさしく解説。","price":"1500","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"写真・工芸"}
 ,
 {"isbn":"9784058009949","title":"ラブ　オブ　ライフ","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-06-27","cover":"https://cover.openbd.jp/9784058009949.jpg","author":"桐島かれん／著 上田義彦／写真","description":"桐島かれんが、暮らしまわりの哲学・美学を語る、食、インテリア、ファッションについてのライフスタイルブック。","price":"1700","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
@@ -142,4 +142,20 @@
 {"isbn":"9784103526919","title":"百の夜は跳ねて","volume":"","series":"","publisher":"新潮社","pubdate":"2019-06-27","cover":"https://cover.openbd.jp/9784103526919.jpg","author":"古市憲寿／著","description":"高層ビルの窓を拭く青年と、ガラスの向こうの老婆。境界を越えた出逢いがもたらすものとは――。新時代の扉を開く、渾身の傑作長編。","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784105901585","title":"ある一生","volume":"","series":"新潮クレスト・ブックス","publisher":"新潮社","pubdate":"2019-06-27","cover":"https://cover.openbd.jp/9784105901585.jpg","author":"ローベルト・ゼーターラー／著 浅井晶子／翻訳","description":"吹雪の白い静寂の中に消えていった、あの光景。アルプスの山とともに20世紀を生きた男の生涯が、なぜこんなにも胸に迫るのだろう。","price":"1700","genre":"","target":"一般","format":"全集・双書","content":"外国文学小説"}
+,
+{"isbn":"9784106208393","title":"新潮日本古典集成〈新装版〉 宇治拾遺物語","volume":"","series":"新潮日本古典集成","publisher":"新潮社","pubdate":"2019-06-27","cover":"https://cover.openbd.jp/9784106208393.jpg","author":"大島建彦／解説","description":"伝統的な王朝物語だけでなく、いかさま聖、他人を誹る歌人、ニセ美男子などの抱腹エピソードも収める鎌倉初期の多彩で自在な説話集。","price":"3500","genre":"","target":"一般","format":"全集・双書","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784106208713","title":"新潮日本古典集成〈新装版〉 芭蕉句集","volume":"","series":"新潮日本古典集成","publisher":"新潮社","pubdate":"2019-06-27","cover":"https://cover.openbd.jp/9784106208713.jpg","author":"今栄蔵／解説","description":"誠の俳諧を模索しつづけ、晩年、「不易流行」思想に到達した芭蕉。芸術を人生とし、人間と人生の探求にすべてを捧げた俳聖の全発句。","price":"2700","genre":"","target":"一般","format":"全集・双書","content":"日本文学詩歌"}
+,
+{"isbn":"9784106208720","title":"新潮日本古典集成〈新装版〉 芭蕉文集","volume":"","series":"新潮日本古典集成","publisher":"新潮社","pubdate":"2019-06-27","cover":"https://cover.openbd.jp/9784106208720.jpg","author":"富山奏／解説","description":"「おくのほそ道」「野ざらし紀行」から、俳論の聞書、日記、遺書まで。俳諧に革命をもたらした希代の詩人の肉声が聞こえる六九篇。","price":"2400","genre":"","target":"一般","format":"全集・双書","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784107500458","title":"文藝年鑑 ２０１９","volume":"","series":"文藝年鑑","publisher":"新潮社","pubdate":"2019-06-27","cover":"","author":"日本文藝家協会／編集","description":"'18 年度の文芸の動きを回顧。雑誌掲載作品目録、訃報、文学賞、文化各界最新名簿、同人雑誌一覧等を付した関係者必携の年鑑。","price":"4400","genre":"","target":"一般","format":"単行本","content":"日本文学総記"}
+,
+{"isbn":"9784130860574","title":"ロシア近代文学の青春","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2019-06-27","cover":"https://cover.openbd.jp/9784130860574.jpg","author":"高橋知之／著","description":"ロシア文学史・思想史のなかで画期とされつつ，描かれてこなかった1840年代．ドストエフスキーらの時代前夜，巨匠たちを見出し勃興期を牽引したベリンスキー，グリゴーリエフを軸に，大きな時代の潮流の発端を明らかにする．反省と直接性をめぐって新たな時代を探究する軌跡を明快に論じる．","price":"7200","genre":"","target":"専門","format":"単行本","content":"外国文学、その他"}
+,
+{"isbn":"9784160910041","title":"偽装不倫4","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-06-27","cover":"https://cover.openbd.jp/9784160910041.jpg","author":"東村アキコ／著","description":"本当は独身だと言い出せないまま、年下男子と偽りの不倫関係の深みにハマっていく鐘子。彼から東北への「不倫旅行」を提案され――。","price":"950","genre":"","target":"一般","format":"単行本","content":"コミックス・劇画"}
+,
+{"isbn":"9784163910406","title":"ガラスの城壁","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-06-27","cover":"https://cover.openbd.jp/9784163910406.jpg","author":"神永学／著","description":"学校で居場所がない中学生の悠馬。親友の助言で、父が巻き込まれた冤罪事件の真犯人を探し始める。二人は真相にたどり着けるのか。","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784163910444","title":"愛が嫌い","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-06-27","cover":"https://cover.openbd.jp/9784163910444.jpg","author":"町屋良平／著","description":"愛が怖い、生活が怖い。成長できない自分をもて余している。ノッペラボウな僕の輪郭を取り戻すために。黄昏日本の青春物語！","price":"1650","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ]
