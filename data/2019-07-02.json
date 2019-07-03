@@ -1,9 +1,9 @@
 [
 {"isbn":"9784048963732","title":"猪野広樹写真集 彩-IRO-","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-07-02","cover":"https://cover.openbd.jp/9784048963732.jpg","author":"猪野広樹／著","description":"猪野広樹の多彩な表情を凝縮した一冊","price":"3000","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
 ,
-{"isbn":"9784056114959","title":"のりものイチバン！","volume":"","series":"学研ムック","publisher":"学研プラス","pubdate":"2019-07-02","cover":"","author":"学研プラス／編集","description":"光ってしゃべる、「ウォッチがたバスボタン」の豪華おもちゃ付録つき！付録連動のページ多数の本誌にもはたらくのりもの大集合！","price":"1360","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"交通・通信"}
+{"isbn":"9784056114959","title":"のりものイチバン！","volume":"","series":"学研ムック","publisher":"学研プラス","pubdate":"2019-07-02","cover":"https://cover.openbd.jp/9784056114959.jpg","author":"学研プラス／編集","description":"光ってしゃべる、「ウォッチがたバスボタン」の豪華おもちゃ付録つき！付録連動のページ多数の本誌にもはたらくのりもの大集合！","price":"1360","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"交通・通信"}
 ,
-{"isbn":"9784056115055","title":"世界一わかりやすい　ウィンドウズ１０　最新版","volume":"","series":"学研コンピュータムック","publisher":"学研プラス","pubdate":"2019-07-02","cover":"","author":"ＧｅｔＮａｖｉ特別編集／編集","description":"Ａ４ワイドで手順解説と画面が大きくとっても読みやすい！初心者にオススメの世界一わかりやすいウィンドウズ１０の解説書です。","price":"980","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
+{"isbn":"9784056115055","title":"世界一わかりやすい　ウィンドウズ１０　最新版","volume":"","series":"学研コンピュータムック","publisher":"学研プラス","pubdate":"2019-07-02","cover":"https://cover.openbd.jp/9784056115055.jpg","author":"ＧｅｔＮａｖｉ特別編集／編集","description":"Ａ４ワイドで手順解説と画面が大きくとっても読みやすい！初心者にオススメの世界一わかりやすいウィンドウズ１０の解説書です。","price":"980","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
 ,
 {"isbn":"9784065160800","title":"シール101　ウルトラマンタイガ＆オールウルトラヒーロー　トライスクワッド　だいかつやく！","volume":"","series":"","publisher":"講談社","pubdate":"2019-07-02","cover":"https://cover.openbd.jp/9784065160800.jpg","author":"講談社／編集","description":"ウルトラマンタイガとタイタス、フーマのトライスクワッドと歴代ウルトラマンのひみつを公開！　シールも１０１枚つく豪華な絵本だ！","price":"780","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
 ,
@@ -11,7 +11,7 @@
 ,
 {"isbn":"9784065162576","title":"ハローキティと　なかまたち　ハローキティの　フードコート　マグネットあそび","volume":"","series":"","publisher":"講談社","pubdate":"2019-07-02","cover":"https://cover.openbd.jp/9784065162576.jpg","author":"サンリオ／著","description":"「ハローキティと　なかまたち」の大好評マグネット絵本です。キティちゃんたちといっしょにフードコートでたのしもう！","price":"980","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784065162613","title":"げんすんだい！　トミカ　ぺたぺた　マグネットあそび","volume":"","series":"","publisher":"講談社","pubdate":"2019-07-02","cover":"https://cover.openbd.jp/9784065162613.jpg","author":"講談社／編集","description":"トミカサイズのマグネットで遊ぶ、大きなサイズの絵本です。マップ風の街並みの場面に合わせて遊ぼう！　実際のトミカでも遊べるよ。","price":"1200","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+{"isbn":"9784065162613","title":"げんすんだい！　トミカ　ぺたぺた　マグネットあそび","volume":"","series":"","publisher":"講談社","pubdate":"2019-07-02","cover":"https://cover.openbd.jp/9784065162613.jpg","author":"講談社／編集","description":"トミカサイズのマグネットで遊ぶ、大きなサイズの絵本です。ップ風の街並みの場面に合わせて遊ぼう！　実際のトミカでも遊べるよ。","price":"1200","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784065162675","title":"お隣さんな教え子と甘い○○","volume":"","series":"","publisher":"講談社","pubdate":"2019-07-02","cover":"https://cover.openbd.jp/9784065162675.jpg","author":"望月唯一／著 ｍａｒｕｍａ（まるま）／イラスト","description":"教え子との禁断の甘い生活！？","price":"700","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -31,7 +31,13 @@
 ,
 {"isbn":"9784130013512","title":"東京大学駒場スタイル","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2019-07-02","cover":"https://cover.openbd.jp/9784130013512.jpg","author":"東京大学教養学部／編集","description":"新しい時代の教養教育の担い手にとどまらず，さまざまな研究でも最先端を走る駒場．知の現在を紹介すると同時に，変革し続ける教養学部の全容を伝える．総勢44名の研究者，さらにノーベル生理学・医学賞受賞者の大隅良典，元外務大臣の川口順子，芥川賞作家の円城塔と小野正嗣，批評家の東浩紀などの駒場が輩出した人々が贈る“紙上オープンキャンパス＆ホームカミングデイ”．東京大学教養学部創立70周年記念出版．","price":"2500","genre":"","target":"教養","format":"単行本","content":"総記"}
 ,
-{"isbn":"9784130251815","title":"シリーズ三都　江戸巻","volume":"","series":"シリーズ三都","publisher":"東京大学出版会","pubdate":"2019-07-02","cover":"https://cover.openbd.jp/9784130251815.jpg","author":"吉田伸之／編集","description":"城下町として政治・軍事の中核の拠点となった江戸．京都，大坂にならぶ流通の中軸として巨大城下町へ向かう変遷を，権力の構造や，武家地，町人地，寺社地の具体的な分析から明らかにする．文化や芸能の側面からの三都の結びつきを意識した広い視座から最新の江戸論を展開する．","price":"5600","genre":"","target":"専門","format":"全集・双書","content":"日本歴史"}
+{"isbn":"9784130251815","title":"シリーズ三都　江戸巻","volume":"","series":"シリーズ三都","publisher":"東京大学出版会","pubdate":"2019-07-02","cover":"https://cover.openbd.jp/9784130251815.jpg","author":"吉田伸之／編集","description":"城下町として政治・軍事の中核の拠点となった江戸．京都，大坂にならぶ流通の中軸として巨大城下町へ向かう変遷を，権力の構造や，武家地，町人地，寺社地の具体的な分析ら明らかにする．文化や芸能の側面からの三都の結びつきを意識した広い視座から最新の江戸論を展開する．","price":"5600","genre":"","target":"専門","format":"全集・双書","content":"日本歴史"}
 ,
 {"isbn":"9784254122282","title":"ウェブ調査の科学 調査計画から分析まで","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-07-02","cover":"https://cover.openbd.jp/9784254122282.jpg","author":"R.Tourangeau／著 F.G.Conrad／著 M.P.Couper／著 大隅昇／翻訳 ほか","description":"ウェブ調査の考え方，注意点，技法などを詳説。標本抽出とカバレッジ／無回答／測定／誤差／他","price":"8000","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
+,
+{"isbn":"9784276130579","title":"ベートーヴェンとピアノ　「傑作の森」への道のり","volume":"","series":"","publisher":"株式会社音楽之友社","pubdate":"2019-07-02","cover":"https://cover.openbd.jp/9784276130579.jpg","author":"小山実稚恵／著 平野昭／著 長井進之介／編集協力","description":"人気・実力ともに日本を代表するピアニストと研究者が、双方の視点でベートーヴェンのピアノ関連作品を作曲順に１曲ずつ検証。","price":"1800","genre":"芸術","target":"教養","format":"単行本","content":"音楽・舞踊"}
+,
+{"isbn":"9784296103164","title":"今スグ始められる！　Linuxスタートブック","volume":"","series":"日経BPパソコンベストムック","publisher":"日経ＢＰ","pubdate":"2019-07-02","cover":"https://cover.openbd.jp/9784296103164.jpg","author":"日経Linux／編集","description":"これからLinuxを始めたいと考えているすべての世代を対象にした「Linuxスタートブック」です。\n","price":"1980","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
+,
+{"isbn":"9784334808136","title":"エレクトラ！　～罪深き聖女たち①","volume":"","series":"光文社コミックス","publisher":"光文社","pubdate":"2019-07-02","cover":"","author":"いがらしゆみこ／著","description":"","price":"750","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ]
