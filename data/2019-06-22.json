@@ -31,7 +31,7 @@
 ,
 {"isbn":"9784065161432","title":"イラストで学ぶ　ヒューマンインタフェース　改訂第2版","volume":"","series":"","publisher":"講談社","pubdate":"2019-06-22","cover":"https://cover.openbd.jp/9784065161432.jpg","author":"北原義典／著","description":"最新動向を盛り込み、さらにパワーアップ！イラストをカラー化し、さらに見やすく！モノ作りにかかわる全技術者必携の最強テキスト","price":"2600","genre":"","target":"専門","format":"単行本","content":"電子通信"}
 ,
-{"isbn":"9784065161814","title":"福沢諭吉　「自由」を創る","volume":"","series":"","publisher":"講談社","pubdate":"2019-06-22","cover":"https://cover.openbd.jp/9784065161814.jpg","author":"石崎洋司／著 しりあがり寿／著","description":"新しい日のあり方を「学問のすすめ」で庶民にもわかりやすく説いた思想家・福沢諭吉。今にも通じる合理的な考え方に感動します。","price":"820","genre":"","target":"児童","format":"新書","content":"伝記"}
+{"isbn":"9784065161814","title":"福沢諭吉　「自由」を創る","volume":"","series":"","publisher":"講談社","pubdate":"2019-06-22","cover":"https://cover.openbd.jp/9784065161814.jpg","author":"石崎洋司／著 しりあがり寿／著","description":"新しい日本のあり方を「学問のすすめ」で庶民にもわかりやすく説いた思想家・福沢諭吉。今にも通じる合理的な考え方に感動します。","price":"820","genre":"","target":"児童","format":"新書","content":"伝記"}
 ,
 {"isbn":"9784065162620","title":"ディープラーニングと物理学　原理がわかる、応用ができる","volume":"","series":"","publisher":"講談社","pubdate":"2019-06-22","cover":"https://cover.openbd.jp/9784065162620.jpg","author":"田中章詞／著 富谷昭夫／著 橋本幸士／著","description":"人工知能技術の中枢をなす深層学習と物理学との繋がりを俯瞰する。物理学者ならではの視点で原理から応用までを説く、空前の入門書。","price":"3200","genre":"","target":"専門","format":"単行本","content":"数学"}
 ,
@@ -46,4 +46,12 @@
 {"isbn":"9784073407997","title":"ＣＯＭＩＣ魂　別冊　小池一夫　劇画セレクション　②　池上遼一編","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-06-22","cover":"https://cover.openbd.jp/9784073407997.jpg","author":"小池一夫／企画 池上遼一／イラスト","description":"劇画漫画原作の第一人者・小池一夫の魅力を堪能できる一冊！　第２弾は『クライングフリーマン』の池上遼一とのコンビ作品！","price":"593","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"コミックス・劇画"}
 ,
 {"isbn":"9784081022915","title":"横田真悠スタイルブック「#まゆうだけ」","volume":"","series":"","publisher":"集英社","pubdate":"2019-06-22","cover":"https://cover.openbd.jp/9784081022915.jpg","author":"横田真悠／著","description":"「横田真悠フォトブック「#まゆうだけ」」","price":"926","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
+,
+{"isbn":"9784274223709","title":"FPGAによるPLLモーション制御","volume":"","series":"","publisher":"オーム社","pubdate":"2019-06-22","cover":"https://cover.openbd.jp/9784274223709.jpg","author":"町田秀和／著","description":"ソフトウェアのように回路構成を書き換えることができるFPGAを用いて、PLLモータ制御回路の設計と実現を解説。","price":"3000","genre":"工業・工学","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784274223938","title":"機械学習ガイドブック","volume":"","series":"","publisher":"オーム社","pubdate":"2019-06-22","cover":"https://cover.openbd.jp/9784274223938.jpg","author":"櫻井豊／著","description":"機械学習を理解し実践するために必要な要素を選抜して解説した、実践的ガイドブック！","price":"2500","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784276100619","title":"名曲理解のための実用楽典","volume":"","series":"","publisher":"株式会社音楽之友社","pubdate":"2019-06-22","cover":"https://cover.openbd.jp/9784276100619.jpg","author":"久保田慶一／著・編集 神部智／著 木下大輔／著","description":"一般のクラシック・ファンが、名曲を理解するための楽典の知識ガイド。第Ⅰ部は楽典のおさらい、第Ⅱ部は有名曲15曲の分析を。","price":"2600","genre":"芸術","target":"教養","format":"単行本","content":"音楽・舞踊"}
+,
+{"isbn":"9784276214132","title":"人工知能が音楽を創る","volume":"","series":"","publisher":"音楽之友社","pubdate":"2019-06-22","cover":"https://cover.openbd.jp/9784276214132.jpg","author":"デイヴィッド・コープ／著 平田圭二／監修 今井慎太郎／翻訳 大村英史／翻訳 東条敏／翻訳","description":"「人工知能と音楽」研究の泰斗による重要書。人工知能作曲プログラムEMI開発プロセスと美学の丁寧な記述から「創造性」が浮かび…","price":"4200","genre":"芸術","target":"教養","format":"単行本","content":"音楽・舞踊"}
 ]
