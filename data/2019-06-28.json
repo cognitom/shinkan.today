@@ -23,7 +23,7 @@
 ,
 {"isbn":"9784041082157","title":"アイドルマスター　シャイニーカラーズ　セカンドガイドブック","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-06-28","cover":"https://cover.openbd.jp/9784041082157.jpg","author":"バンダイナムコエンターテインメント／原著","description":"「アイドルマスター シャイニーカラーズ」公式ガイドブック第2弾！","price":"1700","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784041083291","title":"出身成分","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-06-28","cover":"https://cover.openbd.jp/9784041083291.jpg","author":"松岡圭祐／著","description":"史上、平壌郊外での殺人事件を描くミステリ文芸！","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784041083291","title":"出身成分","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-06-28","cover":"https://cover.openbd.jp/9784041083291.jpg","author":"松岡圭祐／著","description":"史上初、平壌郊外での殺人事件を描くミステリ文芸！","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784041083413","title":"宇宙戦艦ヤマト2202　愛の戦士たち　‐全記録集‐　シナリオ編 COMPLETE　WORKS","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-06-28","cover":"https://cover.openbd.jp/9784041083413.jpg","author":"","description":"「宇宙戦艦ヤマト2202　愛の戦士たち」のシナリオをここに集結！","price":"4000","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
@@ -136,24 +136,4 @@
 {"isbn":"9784140817803","title":"ＮＨＫ記者が見た　天皇皇后両陛下平成最後の一年","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-06-28","cover":"","author":"ＮＨＫ社会部宮内庁クラブ／著","description":"平成最後の一年、両陛下は様々な場所を訪れている。もっとも近い記者の目線から「行動する象徴天皇」の秘められた思いを読み解く。","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784160089525","title":"ある商社マン 一炊の夢","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-06-28","cover":"https://cover.openbd.jp/9784160089525.jpg","author":"大坪剛／著","description":"高度経済成長のとば口に立った昭和30年代、総合商社に入社。憧れの海外駐在勤務を命じられる。インド、イランなどで体験した事件","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784197806355","title":"めしばな刑事タチバナ　34","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-06-28","cover":"","author":"坂戸佐兵衛／著 旅井とり／著","description":"『めしばな刑事タチバナ』最新第３４巻は、「レトルトカレーに吠えろ！」。新キャラ刑事二人の登場で、盛り上がる怒涛の１２編！","price":"560","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784198647889","title":"超悟り入門","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-06-28","cover":"","author":"苫米地英人／著","description":"悟りとは、悟ることよりも悟ったあとにどう生きるか？　がはるかに重要。悟りを理解した上で本来最も大切である悟りのあとを解説","price":"2200","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
-,
-{"isbn":"9784198648732","title":"チコっと冒険 ２","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-06-28","cover":"","author":"CHICO／著","description":"チコちゃん写真集『チコっと冒険』、待望の第２弾！","price":"1300","genre":"芸能・タレント","target":"一般","format":"単行本","content":"写真・工芸"}
-,
-{"isbn":"9784251043818","title":"３つのメニューのひみつ","volume":"1","series":"ふしぎ町のふしぎレストラン","publisher":"あかね書房","pubdate":"2019-06-28","cover":"https://cover.openbd.jp/9784251043818.jpg","author":"三田村信行／著 あさくらまや／イラスト","description":"「ふしぎ亭」は、らいおんシェフとひつじママのお店。魔法の冷蔵庫で恐竜の卵を出し、卵焼きを作って…？不思議おいしい新シリーズ！","price":"1000","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784251093240","title":"気をつけろ!!! 危険生物・外来生物図鑑","volume":"","series":"","publisher":"あかね書房","pubdate":"2019-06-28","cover":"https://cover.openbd.jp/9784251093240.jpg","author":"今泉忠明／監修 自然環境研究センター／監修","description":"生活圏内で出あうこともある危険な生物。人体・農作物・生態系に注意が必要なものを集めた１冊。万が一のときの応急処置も掲載。","price":"1000","genre":"児童図書","target":"児童","format":"単行本","content":"生物学"}
-,
-{"isbn":"9784251097880","title":"トリックアート戦国時代","volume":"8","series":"トリックアートアドベンチャー","publisher":"あかね書房","pubdate":"2019-06-28","cover":"https://cover.openbd.jp/9784251097880.jpg","author":"北岡明佳／監修 グループ・コロンブス／著","description":"戦国時代にタイムスリップ！　でも、なんか違う？　そこはだまし絵や隠し絵、目の錯覚、迷路でつくられた不思議な戦国時代だった！","price":"1300","genre":"児童図書","target":"児童","format":"絵本","content":"諸芸・娯楽"}
-,
-{"isbn":"9784254261721","title":"地盤と地盤震動","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-06-28","cover":"https://cover.openbd.jp/9784254261721.jpg","author":"盛川仁／著 山中浩明／著","description":"地震に伴う物理現象の理論的背景を重視しつつ各種の観測・解析を解説した理工融合のテキスト。","price":"4500","genre":"工業・工学","target":"専門","format":"単行本","content":"土木"}
-,
-{"isbn":"9784254301199","title":"子どもの睡眠ガイドブック","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-06-28","cover":"https://cover.openbd.jp/9784254301199.jpg","author":"駒田陽子／編集 井上雄一／編集","description":"学カ ・ 体力の向上に重要な睡眠について，基礎知識，睡眠障害の病態生理・治療法を平易に解説","price":"4700","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
-,
-{"isbn":"9784254515886","title":"弟子の視点から読み解く『論語』","volume":"","series":"漢文ライブラリー","publisher":"朝倉書店","pubdate":"2019-06-28","cover":"https://cover.openbd.jp/9784254515886.jpg","author":"謡口明／著","description":"日本人になじみ深い『論語』を，孔子の弟子という新しい視点から漢文で読む入門書","price":"3000","genre":"語学・辞事典","target":"専門","format":"全集・双書","content":"日本語"}
-,
-{"isbn":"9784254515893","title":"『世説新語』で読む竹林の七賢","volume":"","series":"漢文ライブラリー","publisher":"朝倉書店","pubdate":"2019-06-28","cover":"https://cover.openbd.jp/9784254515893.jpg","author":"大上正美／著","description":"五世紀中国の小説集『世説新語』に活写された苛烈な知識人「竹林の七賢」の逸話を丁寧に解説。","price":"3200","genre":"語学・辞事典","target":"専門","format":"全集・双書","content":"日本語"}
 ]
