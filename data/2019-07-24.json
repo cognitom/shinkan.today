@@ -33,7 +33,7 @@
 ,
 {"isbn":"9784041082102","title":"ドッグファイト","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784041082102.jpg","author":"楡周平／著","description":"運輸界最大手企業と世界的通販会社。物流の覇権を巡る戦いが火花を散らす！","price":"720","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041082201","title":"真夜中のオカルト公務員　第11巻","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784041082201.jpg","author":"たもつ葉子／著","description":"天邪鬼VS人間！　完全なる悪意にさらされる、区役所職員の決断は!?","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784041082201","title":"真夜中のオカルト公務員　第11巻","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784041082201.jpg","author":"たもつ葉子／著","description":"天邪鬼VS人間！　完全なる悪にさらされる、区役所職員の決断は!?","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784041082959","title":"ひとり暮し","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784041082959.jpg","author":"赤川次郎／著","description":"東京の大学に入って、念願のひとり暮し！てんやわんやの新生活！","price":"600","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -43,7 +43,7 @@
 ,
 {"isbn":"9784041083178","title":"脳科学捜査官　真田夏希 クライシス・レッド","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784041083178.jpg","author":"鳴神響一／著","description":"夏希の前に現れた新たな相棒。それは、警察庁のエリート捜査官だった─","price":"600","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041083185","title":"日本一の人 茜屋清兵衛、危機一髪","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784041083185.jpg","author":"誉田龍一／著","description":"商いは最後に笑ったものの勝ち！　笑いと感動の書き下ろし時代長編","price":"800","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784041083185","title":"日本一の商人 茜屋清兵衛、危機一髪","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784041083185.jpg","author":"誉田龍一／著","description":"商いは最後に笑ったものの勝ち！　笑いと感動の書き下ろし時代長編","price":"800","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784041083192","title":"はなの味ごよみ 夢見酒","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784041083192.jpg","author":"高田在子／著","description":"大切な人へ、心を込めた料理を届けたい。大人気書き下ろし時代長編。","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -120,4 +120,18 @@
 {"isbn":"9784103527411","title":"発酵野郎！","volume":"","series":"","publisher":"新潮社","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784103527411.jpg","author":"鈴木成宗／著","description":"世界一に輝き続ける伊勢角屋麦酒。その快進撃の原動力は「微生物好き」だ。研究開発型発酵が生み出す、超遠回りサクセスストーリー！","price":"1500","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
 ,
 {"isbn":"9784104061167","title":"もう少し浄瑠璃を読もう","volume":"","series":"","publisher":"新潮社","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784104061167.jpg","author":"橋本治／著","description":"近世が生んだ名作を精読すれば、ぶっ飛んだ設定、複雑なドラマの中に、愛おしい人間達が息づく。最高の案内人が遺した最後の案内書。","price":"1800","genre":"芸術","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784106038440","title":"貧困専業主婦","volume":"","series":"新潮選書","publisher":"新潮社","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784106038440.jpg","author":"周燕飛／著","description":"専業主婦の８人に１人が貧困状態にあった！　その知られざる現状と背景を、克明な調査をもとに研究者が分析した衝撃のレポート。","price":"1200","genre":"","target":"一般","format":"全集・双書","content":"社会"}
+,
+{"isbn":"9784163910666","title":"黄","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784163910666.jpg","author":"雷鈞／著 稲村文吾／翻訳","description":"中国の孤児院で育ち、その聡明さからドイツの里親に引き取られた盲目の少年。凄惨な〈幼児目潰し事件〉を解決すべく母国を再訪する！","price":"1800","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
+,
+{"isbn":"9784274224010","title":"数式なしでわかるデータサイエンス","volume":"","series":"","publisher":"オーム社","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784274224010.jpg","author":"AnnalynNg／著 KennethSoo／著 上藤一郎／翻訳","description":"まずはじめに手をとるデータサイエンスの入門書。数式なしでデータサイエンスの要点がわかる。","price":"2400","genre":"","target":"専門","format":"単行本","content":"数学"}
+,
+{"isbn":"9784274224027","title":"基礎 機械設計工学（第4版）","volume":"","series":"","publisher":"オーム社","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784274224027.jpg","author":"兼田楨宏／著 山本雄二／著","description":"機械設計工学の「基本的な考え方」を解説。ねじ・歯車・軸・軸受など各種「機械要素」の機能や実際問題への適用の仕方を具体的に説明","price":"2900","genre":"","target":"専門","format":"単行本","content":"機械"}
+,
+{"isbn":"9784297106386","title":"本当にやさしく学びたい人の！　絵解き　ネットワーク超入門","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784297106386.jpg","author":"増田若奈／著","description":"「ネットワークって難しい！」\n\nそんな風に、思っていませんか？\nそんなことはありません。\n\n「あ、こんなにかんたんだったんだ！」\n\nと思える超入門書が、この本なんです！\nこの本は、こんな皆さんに向けて作られています。\n\n★ネットワークを仕事にしたい人★\n★ネットワーク担当者に選ばれた人★\n★ネットワークの資格試験を受けたい人★\n★ネットワークの勉強に挫折しかけてる人★\n★ネットワークのしくみに興味のある人★\n★とにかくなにかスキルを身につけたい人★\n\nネットワークの勉強に挫折するのは、\n多く、次のような理由によっています。\n\n・ネットワークの話が抽象的でイメージしづらい\n・いろいろな用語やしくみが出てきて頭の中が整理できない\n\n本書は、こうした挫折しがちなネットワークの学習を、\n\n◎イラストを使って目で見てわかるように解説\n◎ネットワークの初歩から活用、導入までを順を追って解説\n\nすることで、「これでもか！」というところまで、\nやさしくていねいに解説した本なのです。\n\nだから、\n\n★ネットワークの勉強をこれから始める人も★\n\n★ネットワークの勉強に挫折しかけている人も★\n\nこの本なら、よ～くわかります！！\n\nこれから学ぶ人には1冊目の本として\nまた\n挫折した人には2冊目の再入門として\n\n◎本当におすすめの1冊\n\nとなっています！","price":"1680","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784297106447","title":"今すぐ使えるかんたん　Windows 10 完全ガイドブック　困った解決＆便利技　2019-2020年最新版","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784297106447.jpg","author":"リブロワークス／著","description":"【Windows 7からの乗り換え案内解説、付いてます！】\n本書は、2019年5月に公開された最新アップデート「May 2019 Update」に対応した、Windows 10の解説書です。PC操作に慣れた方でも忘れがち＆見落としがちな、「デスクトップ操作」「文字入力」「インターネット」「メールと連絡先」「音楽・写真・動画」「OneDriveやスマホとの連携」「アプリ」「印刷」のあれこれを徹底解説。またネットを使いこなすための「セキュリティ」についても言及しているため、安心安全にWindowsを使用するための1冊となります。前版までの読者の方からの質問も反映させ、改訂に合わせて内容も刷新しています。Windows10の最新＆詳細な機能を知りたい方に必携の1冊です。","price":"1480","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784297107154","title":"世界一わかりやすい　3ds Max　操作と3DCG制作の教科書　【3ds Max 2020対応版】","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-07-24","cover":"https://cover.openbd.jp/9784297107154.jpg","author":"IKIF+奥村優子／著 石田龍樹／著","description":"基礎から学べるロングセラーが、カバーデザインも新たに2020年版対応となりました。\nモデリング、リギング、ライティングからキャラクター制作、アニメーションの基礎までクリエイティブに大切なアプリの基本の「き」が身につきます！","price":"3980","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
 ]
