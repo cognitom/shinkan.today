@@ -9,41 +9,87 @@
 ,
 {"isbn":"9784052050343","title":"もりのくまさん","volume":"","series":"はじめてのおうたえほん","publisher":"学研プラス","pubdate":"2019-08-22","cover":"","author":"あらかわしずえ／イラスト ＬａＺＯＯ／著 佐藤久美子／監修","description":"「むすんでひらいて」など日本語の歌６曲＋英語の歌３曲を収録！カラオケボタン、光るリズムボタン付き。ドレミも弾ける！","price":"1700","genre":"児童図書","target":"児童","format":"絵本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784053050106","title":"英会話フレーズ集＜おもてなし編＞","volume":"","series":"寝る前５分暗記ブック","publisher":"学研プラス","pubdate":"2019-08-22","cover":"","author":"メディアビーコン／著","description":"記憶の定着に最適な寝る前５分を活用して英会話力アップ。「おもてなし」ですぐに使えるフレーズが満載。外国人客をもてなそう。","price":"1000","genre":"語学・辞事典","target":"一般","format":"単行本","content":"英米語"}
+{"isbn":"9784053050106","title":"英会話フレーズ集＜おもてなし編＞","volume":"","series":"寝る前５分暗記ブック","publisher":"学研プラス","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784053050106.jpg","author":"メディアビーコン／著","description":"記憶の定着に最適な寝る前５分を活用して英会話力アップ。「おもてなし」ですぐに使えるフレーズが満載。外国人客をもてなそう。","price":"1000","genre":"語学・辞事典","target":"一般","format":"単行本","content":"英米語"}
 ,
-{"isbn":"9784053050113","title":"英会話フレーズ集＜接客編＞","volume":"","series":"寝る前５分暗記ブック","publisher":"学研プラス","pubdate":"2019-08-22","cover":"","author":"メディアビーコン／著","description":"記憶の定着に最適な寝る前５分を活用して英会話力アップ。さまざまな接客ですぐに使えるフレーズが満載。外国人客も怖くない。","price":"1000","genre":"語学・辞事典","target":"一般","format":"単行本","content":"英米語"}
+{"isbn":"9784053050113","title":"英会話フレーズ集＜接客編＞","volume":"","series":"寝る前５分暗記ブック","publisher":"学研プラス","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784053050113.jpg","author":"メディアビーコン／著","description":"記憶の定着に最適な寝る前５分を活用して英会話力アップ。さまざまな接客ですぐに使えるフレーズが満載。外国人客も怖くない。","price":"1000","genre":"語学・辞事典","target":"一般","format":"単行本","content":"英米語"}
 ,
 {"isbn":"9784054067400","title":"図説　一冊でわかる！　最新宇宙論","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784054067400.jpg","author":"縣秀彦／著","description":"最新研究が解き明かす宇宙の姿を、「はやぶさ１・２」や「ブラックホール撮影」などのトピックスを交えて、わかりやす解説する。","price":"900","genre":"自然科学","target":"一般","format":"単行本","content":"天文・地学"}
 ,
 {"isbn":"9784056114898","title":"かしこく暮らす　片づけ＆収納術","volume":"","series":"学研インテリアムック","publisher":"学研プラス","pubdate":"2019-08-22","cover":"","author":"ナチュラルライフ編集部／編集","description":"家事効率を考えて理にかなった収納で、家を片付けるノウハウが詰まった本。家族構成の変化や災害を視野に入れた収納ヒントも。","price":"1200","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
-{"isbn":"9784065136324","title":"IoT最強国家ニッポン　日本企業が4つの主要技術を支配する時代","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"","author":"南川明／著","description":"ネオ半導体・電子部品・モーター・電子素材は新しい「産業のコメ」。この「ＩｏＴ４つの神器」全てを作る日本企業の総合力が勝つ！","price":"880","genre":"","target":"一般","format":"新書","content":"社会"}
+{"isbn":"9784065136324","title":"IoT最強国家ニッポン　日本企業が4つの主要技術を支配する時代","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784065136324.jpg","author":"南川明／著","description":"ネオ半導体・電子部品・モーター・電子素材は新しい「産業のコメ」。この「ＩｏＴ４つの神器」全てを作る日本企業の総合力が勝つ！","price":"880","genre":"","target":"一般","format":"新書","content":"社会"}
 ,
-{"isbn":"9784065163054","title":"2歳の　うたとおはなし","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"","author":"榊原洋一／監修","description":"年齢で選ぶ「うたとおはなし」絵本の決定版！　言葉のリズムを重視した繰り返しの多いうたと楽しいおはなしで語彙の獲得を促します。","price":"1250","genre":"","target":"児童","format":"絵本","content":"百科事典"}
+{"isbn":"9784065163054","title":"2歳の　うたとおはなし","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784065163054.jpg","author":"榊原洋一／監修","description":"年齢で選ぶ「うたとおはなし」絵本の決定版！　言葉のリズムを重視した繰り返しの多いうたと楽しいおはなしで語彙の獲得を促します。","price":"1250","genre":"","target":"児童","format":"絵本","content":"百科事典"}
 ,
-{"isbn":"9784065165324","title":"百鬼一歌　菊と怨霊","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"","author":"瀬川貴次／著","description":"怖がりの天才歌人と怪異譚好きの少女。凸凹コンビが死霊退治に挑む！","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784065165324","title":"百鬼一歌　菊と怨霊","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784065165324.jpg","author":"瀬川貴次／著","description":"怖がりの天才歌人と怪異譚好きの少女。凸凹コンビが死霊退治に挑む！","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065166574","title":"プリンシピア　自然哲学の数学的原理　第3編　世界体系","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"","author":"アイザック・ニュートン／著 中野猿人／翻訳","description":"近代科学はここからはじまった！　運動の法則、万有引力の法則、天体の運行、……古典力学の基礎を築いた歴史的名著を新書化！","price":"1500","genre":"","target":"一般","format":"新書","content":"物理学"}
 ,
 {"isbn":"9784065166727","title":"十四歳日和","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"","author":"水野瑠見／著","description":"講談社児童文学新人賞受賞作。田舎を舞台にゆれ動く十四歳の心をていねいに描いた、春夏秋冬のやさしい物語。","price":"1400","genre":"","target":"児童","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065167083","title":"体育会系探偵部タイタン！　レボリューションズ","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"","author":"清水晴木／著","description":"推理力０％、体力気力１２０％、走って飛んで戦う肉体派探偵部が挑む、夏から秋に高校で起きた３つの事件。熱血スポコンミステリー！","price":"750","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784065167083","title":"体育会系探偵部タイタン！　レボリューションズ","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784065167083.jpg","author":"清水晴木／著","description":"推理力０％、体力気力１２０％、走って飛んで戦う肉体派探偵部が挑む、夏から秋に高校で起きた３つの事件。熱血スポコンミステリー！","price":"750","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065167687","title":"日蓮主義とはなんだったのか　近代日本の思想水脈","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"","author":"大谷栄一／著","description":"テロリズムから東亜連盟、仏教社会主義まで。近代日本において日蓮の思想はなぜ多くの人びとの心を捉えたか？　その秘密に迫る大著！","price":"3700","genre":"","target":"一般","format":"単行本","content":"宗教"}
+{"isbn":"9784065167687","title":"日蓮主義とはなんだったのか　近代日本の思想水脈","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784065167687.jpg","author":"大谷栄一／著","description":"テロリズムから東亜連盟、仏教社会主義まで。近代日本において日蓮の思想はなぜ多くの人びとの心を捉えたか？　その秘密に迫る大著！","price":"3700","genre":"","target":"一般","format":"単行本","content":"宗教"}
 ,
-{"isbn":"9784065167786","title":"我々は生命を創れるのか　合成生物学が生みだしつつあるもの","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"","author":"藤崎慎吾／著","description":"生命とは何か？　わからないなら作ってしまえ！　神をも恐れぬ合成生物学の奇才たちの十人十色の生命観から考える「生命とは何か？」","price":"1100","genre":"","target":"一般","format":"新書","content":"生物学"}
+{"isbn":"9784065167786","title":"我々は生命を創れるのか　合成生物学が生みだしつつあるの","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"","author":"藤崎慎吾／著","description":"生命とは何か？　わからないなら作ってしまえ！　神をも恐れぬ合成生物学の奇才たちの十人十色の生命観から考える「生命とは何か？」","price":"1100","genre":"","target":"一般","format":"新書","content":"生物学"}
 ,
-{"isbn":"9784065167809","title":"ブラッド・ブレイン3　闇探偵の旋律","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"","author":"小島正樹／著","description":"シリーズ第３弾！　脳科学医療刑務所内で闇探偵と天才殺人鬼達の最終決戦がはじまった。そして、月澤の悲しき過去が明かされる。","price":"780","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784065167809","title":"ブラッド・ブレイン3　闇探偵の旋律","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784065167809.jpg","author":"小島正樹／著","description":"シリーズ第３弾！　脳科学医療刑務所内で闇探偵と天才殺人鬼達の最終決戦がはじまった。そして、月澤の悲しき過去が明かされる。","price":"780","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065168233","title":"ネタバレ厳禁症候群　～So　signs　can’t　be　missed！～","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"","author":"柾木政宗／著","description":"「あなたは真相を暴くことができますか？」すべてのミステリ読みへ贈る挑戦状。講談社タイガ史上最大の問題作！","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784065168233","title":"ネタバレ厳禁症候群　～So　signs　can’t　be　missed！～","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784065168233.jpg","author":"柾木政宗／著","description":"「あなたは真相を暴くことができますか？」すべてのミステリ読みへ贈る挑戦状。講談社タイガ史上最大の問題作！","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065168523","title":"数学にとって証明とはなにか　ピタゴラスの定理からイプシロン・デルタ論法まで","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"","author":"瀬山士郎／著","description":"数学はなぜそれを必要とし、生み出したのか。知っているようで知らなかった、奥深き知的営み――「証明」の世界へ飛び込もう！","price":"1100","genre":"","target":"一般","format":"新書","content":"数学"}
 ,
-{"isbn":"9784065168561","title":"起業するより会社は買いなさい　サラリーマン・中小企業のためのミニM＆Aのススメ","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"","author":"高橋聡／著","description":"会社はネットで買える！　チョコレート製造、印刷業、学習塾、ネイルサロンなど、サラリ―マンにも手が届く手ごろな企業買収ノウハウ","price":"840","genre":"","target":"一般","format":"新書","content":"経営"}
+{"isbn":"9784065168561","title":"起業するより会社は買いなさい　サラリーマン・中小企業のためのミニM＆Aのススメ","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784065168561.jpg","author":"高橋聡／著","description":"会社はネットで買える！　チョコレート製造、印刷業、学習塾、ネイルサロンなど、サラリ―マンにも手が届く手ごろな企業買収ノウハウ","price":"840","genre":"","target":"一般","format":"新書","content":"経営"}
 ,
-{"isbn":"9784065171998","title":"清水とき国際交流の記録　世界のきもの母さん","volume":"","series":"","publisher":"ハースト婦人画報社","pubdate":"2019-08-22","cover":"","author":"清水とき／監修","description":"清水とき国際交流の記録　世界のきもの母さん","price":"1800","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+{"isbn":"9784065171998","title":"清水とき国際交流の記録　世界のきもの母さん","volume":"","series":"","publisher":"ハースト婦人画報社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784065171998.jpg","author":"清水とき／監修","description":"清水とき国際交流の記録　世界のきもの母さん","price":"1800","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784074387946","title":"声優グランプリｐｌｕｓ　ｆｅｍｍｅ　ｖｏｌ．１","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-08-22","cover":"","author":"主婦の友インフォス／編集","description":"声優グランプリが今最も旬な女性声優をピックアップ！ハイクオリティなグラビア満載の大ボリューム特集でお届け。","price":"1800","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"写真・工芸"}
 ,
 {"isbn":"9784074388028","title":"声優グランプリＮＥＸＴ　Ｂｏｙｓ　ｖｏｌ．４","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-08-22","cover":"","author":"主婦の友インフォス／編集","description":"今注目の男性声優をグラビア&インタビューで大特集！ CDインタビューや、パーソナルな部分にも迫ります！","price":"1600","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"写真・工芸"}
+,
+{"isbn":"9784122067639","title":"ダイエット物語……ただし猫","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784122067639.jpg","author":"新井素子／著","description":"0","price":"880","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784122067646","title":"海軍基本戦術","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784122067646.jpg","author":"秋山真之／著 戸髙一成／編集","description":"0","price":"900","genre":"文庫","target":"教養","format":"文庫","content":"日本歴史"}
+,
+{"isbn":"9784122067653","title":"成城だより 付・作家の日記","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784122067653.jpg","author":"大岡昇平／著","description":"0","price":"1100","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784122067660","title":"人生について","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784122067660.jpg","author":"小林秀雄／著","description":"0","price":"900","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784122067677","title":"南洋と私","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784122067677.jpg","author":"寺尾紗穂／著","description":"0","price":"840","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784122067684","title":"お春","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784122067684.jpg","author":"橋本治／著","description":"0","price":"700","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784122067691","title":"おばちゃんたちのいるところ","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784122067691.jpg","author":"松田青子／著","description":"0","price":"640","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784122067707","title":"ドナ・ビボラの爪　上 帰蝶純愛　篇","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784122067707.jpg","author":"宮本昌孝／著","description":"0","price":"880","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784122067714","title":"ドナ・ビボラの爪　下 光秀死闘　篇","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784122067714.jpg","author":"宮本昌孝／著","description":"0","price":"880","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784122067721","title":"イエス伝 マルコ伝による","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784122067721.jpg","author":"矢内原忠雄／著","description":"0","price":"900","genre":"文庫","target":"教養","format":"文庫","content":"キリスト教"}
+,
+{"isbn":"9784122067738","title":"三人孫市","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784122067738.jpg","author":"谷津矢車／著","description":"0","price":"800","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784122067745","title":"１０１歳。ひとり暮らしの心得","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784122067745.jpg","author":"吉沢久子／著","description":"0","price":"680","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784130101356","title":"数論・論理・意味論　その原型と展開","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784130101356.jpg","author":"野本和幸／著","description":"数とは何か――紀元前から問われてきた，普遍的な問い．数論や論理，そして言葉の意味理解をめぐって，19世紀後半から20世紀後半までこの問いに挑んできた数学者・論理学者たちの思考の足跡を，彼らが残した著作・講義録・遺稿などの詳細な解読を通してたどる．","price":"14800","genre":"","target":"専門","format":"単行本","content":"哲学"}
+,
+{"isbn":"9784198649159","title":"ニセ勇者、女神様と星渡り","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-08-22","cover":"","author":"オーバギ／著 萬津ケイ／イラスト","description":"信者も魔力もゼロのポンコツ女神とニセ勇者。ゼロから始まる二人が繰り広げる、星を渡る異世界ファンタジー開幕！","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198649166","title":"小早川怜子","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-08-22","cover":"","author":"小早川怜子／著 佐藤裕之／写真","description":"デビューから７年、１０００本以上の作品に出演してきた人気熟女優・小早川怜子。美しすぎるアラフォー待望の初写真集！","price":"3600","genre":"芸能・タレント","target":"一般","format":"単行本","content":"写真・工芸"}
+,
+{"isbn":"9784198649173","title":"野球大喜利　ザ・フィーバー","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-08-22","cover":"","author":"カネシゲタカシ／著 野球大喜利／著","description":"「カネシゲタカシ＆野球大喜利」が送る、野球ファン必見の爆笑大喜利本の第６弾。野球ファンなら誰でも笑って楽しめる一冊！","price":"1380","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
+,
+{"isbn":"9784198649272","title":"ハヤクさん一家と かしこいねこ","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-08-22","cover":"","author":"マイケル・ローゼン／著 トニー・ロス／イラスト ないとうふみこ／翻訳","description":"ハリー少年とハヤクさん一家の飼いねこのたいへんな一日を描いた、ゆかいで楽しい物語！","price":"1300","genre":"児童図書","target":"児童","format":"単行本","content":"外国文学小説"}
+,
+{"isbn":"9784254162769","title":"鉱物・宝石の科学事典","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784254162769.jpg","author":"日本鉱物科学会／編集 宝石学会（日本）／著","description":"様々な知識と情報を頁単位で読み切り解説。代表的な鉱物・宝石について基礎知識を辞書的に掲載","price":"16000","genre":"","target":"専門","format":"事・辞典","content":"天文・地学"}
+,
+{"isbn":"9784272794225","title":"月刊クレスコ　９月号","volume":"","series":"","publisher":"大月書店","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784272794225.jpg","author":"クレスコ編集委員会全日本教職員組合（全教）／編集","description":"特集＝「学ぶって楽しい」を広げたい","price":"476","genre":"","target":"一般","format":"全集・双書","content":"教育"}
+,
+{"isbn":"9784297106966","title":"今すぐ使えるかんたんmini　OneNote　基本&便利技　［OneNote for Windows 10対応版］","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784297106966.jpg","author":"リンクアップ／著","description":"OneNote for Windows 10は、Windows 10に標準搭載されている情報管理ノートです。キーボード、Webクリップ、音声入力などさまざまな方法で集めた情報を、ノートブック／セクション／ページといった概念でルーズリーフにメモを取る感覚でまとめ、手軽に検索することができます。Webブラウザ版やスマートフォン版とも連携できるため、外出先でメモを取ったり、確認したりすることも可能です。\n本書は、OneNoteを利用してさまざまアイデアを一元管理して活用したい、ビジネスに活かしたいという人のために、OneNoteの基本操作から便利な活用方法、Webブラウザ版やスマートフォン版の使い方までわかりやすく丁寧に解説しています。","price":"980","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784297107857","title":"ネスペ30　知　－ネットワークスペシャリストの最も詳しい過去問解説","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-08-22","cover":"https://cover.openbd.jp/9784297107857.jpg","author":"左門至峰・平田賀一／著","description":"午後対策の定番書『ネスペ』シリーズの30年度試験版。「午後Ⅰ・午後Ⅱ」に的を絞り、問題文を掘り下げ、答えを導き出す思考プロセスを詳しく解説します。解答の組み立て方がよくわかり、正答以外がなぜ間違っているかも納得でき、「真の実力」が身に付きます。\n今回のテーマは「知」。合格に必要な「知識」というものを、あらためて重要視してもらうことを主眼に置きました。過去問解説の随所に知識を確認する問い掛けが設けられ、それをしっかり考えて答えることで読者自身がきちんと基礎知識を理解できているかに向き合うことができます。また、合格への基盤となる「知識」をどう身につけるのか、ネットワークエンジニアであり指導経験も豊富な著者が自身の体験談を交えて学習方法を伝授します。","price":"2480","genre":"","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784309028231","title":"夢もまた青し　志村の色と言葉","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-08-22","cover":"","author":"志村ふくみ／著 志村洋子／著 志村昌司／著","description":"人間国宝・志村ふくみ、その魂と思いを受け継ぐ娘の洋子と孫の昌司。個性が響き合いながら未来に繋ぐ思いを語る親子三代の初の著書。","price":"1900","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784309811024","title":"一冊でわかるイギリス史","volume":"","series":"世界と日本がわかる　国ぐにの歴史","publisher":"河出書房新社","pubdate":"2019-08-22","cover":"","author":"小林照夫／監修","description":"イギリスとはどういう国か。その歴史を図やイラストを使いながらわかりやすく、ていねいに。コラム「そのころ、日本では？」も便利。","price":"1700","genre":"","target":"一般","format":"全集・双書","content":"外国歴史"}
 ]
