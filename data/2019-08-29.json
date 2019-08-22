@@ -1,4 +1,6 @@
 [
+{"isbn":"9784000229685","title":"古代心性表現の研究","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-08-29","cover":"","author":"森正人／著","description":"心，魂，霊をはじめ，神や鬼などの超自然的存在，冥界などに関する表現の成立とその特質について考察する．","price":"12000","genre":"","target":"専門","format":"単行本","content":"日本文学総記"}
+,
 {"isbn":"9784000248891","title":"民主主義を救え!","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-08-29","cover":"","author":"ヤシャ・モンク／著 吉田徹／翻訳","description":"北米や西欧を襲う民主主義の後退．代替物として，人々は何に引き寄せられているのか．日本語版序文を付す．","price":"2800","genre":"","target":"一般","format":"単行本","content":"政治-含む国防軍事"}
 ,
 {"isbn":"9784000613590","title":"主権論史 ローマ法再発見から近代日本へ","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-08-29","cover":"","author":"嘉戸一将／著","description":"法秩序に正統性を与える〈主権〉という概念．ローマ法再発見から近代日本の国体論まで，その展開を辿る","price":"9000","genre":"","target":"専門","format":"単行本","content":"哲学"}
@@ -29,7 +31,7 @@
 ,
 {"isbn":"9784052050084","title":"おでかけくるま","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-08-29","cover":"","author":"もとやすけいじ／著 もとやすけいじ／イラスト","description":"ぼくとおとうさんは車に乗って、遊園地へ向かってさあ出発！　道路にはバス、トラック、消防車などいろいろな車が走ってる！","price":"1000","genre":"児童図書","target":"児童","format":"絵本","content":"教育"}
 ,
-{"isbn":"9784052050640","title":"万人の父になる 佐竹音次郎物語","volume":"","series":"ヒューマンノンフィクション","publisher":"学研プラス","pubdate":"2019-08-29","cover":"","author":"横山充男／著 槇えびし／イラスト 浅井春夫／解説","description":"日本で初めて「保育園」と名づけた施設をつくり、明治～昭和時代、五千人の身よりのないこどもを救った佐竹音次郎の人生の物語。","price":"1500","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
+{"isbn":"9784052050640","title":"万人の父になる 佐竹音次郎物語","volume":"","series":"ヒューマンノンフィクション","publisher":"学研プラス","pubdate":"2019-08-29","cover":"","author":"横山充男／著 槇えびし／イラスト 浅井春夫／解説","description":"日本で初めて「保育園」と名づけた施設をつり、明治～昭和時代、五千人の身よりのないこどもを救った佐竹音次郎の人生の物語。","price":"1500","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784052050657","title":"大坂の陣","volume":"３","series":"学研まんが　対決日本史シリーズ","publisher":"学研プラス","pubdate":"2019-08-29","cover":"","author":"大石学／監修 城詰草／著","description":"「大坂の陣」をテーマとした学習まんが。最新の考証をもとに、豊臣家、家康の戦略・戦術を詳しく描く。巻末に資料ページも付属","price":"1400","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本歴史"}
 ,
@@ -85,7 +87,7 @@
 ,
 {"isbn":"9784074372119","title":"最弱の弟子","volume":"","series":"ヒーロー文庫","publisher":"主婦の友社","pubdate":"2019-08-29","cover":"","author":"高崎三吉／著 鍋島テツヒロ／イラスト","description":"師匠の元を追い出された「ダメ弟子」が大暴れ！？　ドラゴンを屠る少年が繰り広げる、勧善懲悪の勘違い痛快ストーリー！","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784074398942","title":"耳鳴り・難聴・めまいを自力で治す本","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-08-29","cover":"","author":"主婦の友社／編集","description":"3人に1人悩むという耳鳴り、難聴、めまい。話題の耳キワさすりをはじめ、体操、生活、食事など自力で治す方法を集めました。","price":"800","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
+{"isbn":"9784074398942","title":"耳鳴り・難聴・めまいを自力で治す本","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-08-29","cover":"","author":"主婦の友社／編集","description":"3人に1人が悩むという耳鳴り、難聴、めまい。話題の耳キワさすりをはじめ、体操、生活、食事など自力で治す方法を集めました。","price":"800","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
 {"isbn":"9784074399192","title":"防災減災１１９","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-08-29","cover":"","author":"加藤孝一／監修","description":"いざというとき真っ先に駆け付けてくれる命を守るプロ・消防から防災減災テクニックを学ぶ蝶野正洋氏企画・発案の防災減災本！","price":"1200","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
@@ -106,46 +108,4 @@
 {"isbn":"9784140057025","title":"ＮＨＫ連続テレビ小説　なつぞら　下","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-08-29","cover":"","author":"大森寿美男／著 木俣冬／著","description":"夢をかなえるべく上京し、アニメーションの世界に飛び込んだヒロイン・なつが、女性アニメーターとして成長、飛躍していく姿を描く。","price":"1400","genre":"テレビ・映画化","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784140351635","title":"“Secrets","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784140351635.jpg","author":"コリン・ジョイス／著","description":"NHK出版新書『マインド・ザ・ギャップ！　日本とイギリスの〈すきま〉』英語版登場！　日英の比較から教えるイギリスの秘密とは？","price":"1100","genre":"語学・辞事典","target":"一般","format":"単行本","content":"英米語"}
-,
-{"isbn":"9784140817902","title":"時間は存在しない","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784140817902.jpg","author":"カルロ・ロヴェッリ／著 冨永星／翻訳","description":"“ホーキングの再来”と評される天才物理学者が、大胆な考察を展開しながら時間の本質を明らかにする、世界的ベストセラー！","price":"2000","genre":"自然科学","target":"一般","format":"単行本","content":"外国文学、その他"}
-,
-{"isbn":"9784163910819","title":"カスハラ モンスター化する「お客様」たち","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784163910819.jpg","author":"NHK「クローズアップ現代+」取材班／著","description":"店員のささいなミスに「死ね」「土下座しろ」「SNSに晒すぞ」――客の行き過ぎたクレームへの解決策は？ 大反響番組を緊急刊行！","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784163910857","title":"人口で語る世界史","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784163910857.jpg","author":"ポール・モーランド／著 渡会圭子／翻訳","description":"大英帝国の出現は産業革命と農業革命による人口爆発ありきだった。一方、優生学ゆえ人口増に失敗したナチ。画期的な歴史教養書。","price":"2200","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
-,
-{"isbn":"9784198270605","title":"キャンプ・グッズ・マガジン　Vol.8","volume":"","series":"","publisher":"CLASSIX","pubdate":"2019-08-29","cover":"","author":"","description":"「キャンプ・グッズ・マガジンＶｏｌ．０８」は一冊丸ごとキャンプ＆アウトドア専門店特集。","price":"926","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
-,
-{"isbn":"9784254122411","title":"入門 統計的因果推論","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784254122411.jpg","author":"J.Pearl／著 M.Glymour／著 N.P.Jewell／著 落海浩／翻訳","description":"大家Pearlによる入門書。統計的に原因を推定する考え方を，図と言葉で丁寧に解説","price":"3300","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
-,
-{"isbn":"9784297107291","title":"Excelでここまでできる！株式投資の分析＆シミュレーション［完全入門］","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784297107291.jpg","author":"藤本壱／著","description":"Excel×株で、株式投資のレベルが上がります！投資に活かせるExcelの機能は、チャート作成機能だけではありません。知識と工夫次第で、できることはいくらでも広がります。テクニカル分析、ファンダメンタル分析はもちろん、投資計画や人生設計のプランニング、さらにバックテストによるシミュレーションも可能！読者特典として、Excel×株をより強力に、よりかんたんに自動化するプログラム＝「株式投資アドイン」をご提供。ボタン一つでさまざまな機能が実現できるようになります。データやシミュレーションに裏づけられた株式投資を追究したい方のための本です。\n\n☆☆読者特典☆☆\n株式投資アドイン＆サンプルファイル\n\n【株式投資アドイン】\n分析＆シミュレーションを自動化・強力化するためのオリジナルプログラム\n・手作業では手間がかかる作業を簡略化できる\n・複数のテクニカル指標を組み合わせた株価チャートを柔軟に作成できる\n・バックテスト機能で、過去の株価データを元にした売買シミュレーションもできる\n\n【サンプルファイル】\n内容理解と作業が進むサンプルのExcelファイル\n・本文中で紹介した事例のサンプルファイルをご提供\n・本を読みながら作業するのに便利\n・計算式やサンプルのデータがあらかじめ入力されているので、自分に合わせたシートを作りやすい","price":"1980","genre":"","target":"実用","format":"単行本","content":"経営"}
-,
-{"isbn":"9784320009301","title":"神経美学 美と芸術の脳科学","volume":"30","series":"共立スマートセレクション","publisher":"共立出版","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784320009301.jpg","author":"石津智大／著 渡辺茂／解説","description":"脳の働きと美学的経験（美醜，感動，崇高など）との関係や，脳機能と芸術的活動との関係を研究する新しい学問「神経美学」の入門書。","price":"2000","genre":"社会科学","target":"専門","format":"全集・双書","content":"心理(学)"}
-,
-{"isbn":"9784320044739","title":"コスメティクスの化学","volume":"32","series":"化学の要点シリーズ","publisher":"共立出版","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784320044739.jpg","author":"日本化学会／編集 岡本暉公彦／著・編集 前山薫／著・編集","description":"最新のコスメティクス化学を手軽に学べる。原材料の変遷から，皮膚の構造と機能，技術の進展に伴い求められる多様な機能まで解説。","price":"1900","genre":"自然科学","target":"専門","format":"全集・双書","content":"化学"}
-,
-{"isbn":"9784320114050","title":"量子解析のための作用素環入門","volume":"5","series":"数学と物理の交差点","publisher":"共立出版","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784320114050.jpg","author":"谷島賢二／編集 山上滋／著","description":"数学の作用素環の理論が，物理学の量子解析分野でどのような役割を果たしているかを，環の表現論などの手法を通して詳しく解説。","price":"4000","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
-,
-{"isbn":"9784325232001","title":"関東学院大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325232001.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325232513","title":"白百合女子大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325232513.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325233015","title":"東京歯科大学／日本歯科大学／大阪歯科大学（歯学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325233015.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"3600","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325233497","title":"文教大学 2020年版;No.389","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325233497.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325233572","title":"武蔵野大学 2020年版;No.397","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325233572.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325234869","title":"奈良学園大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325234869.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。4カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325235132","title":"九州産業大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325235132.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325235170","title":"久留米大学（医学部〈医学科〉）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325235170.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。7カ年分収載。","price":"3600","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784326102761","title":"世界を満たす論理","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-08-29","cover":"","author":"荒畑靖宏／著","description":"形而上学との関連においてこそ見えてくる、時代を超えた哲学者フレーゲの真の姿！ 彼が最後まで手放さなかった「汎論理主義」とは。","price":"3500","genre":"哲学・宗教","target":"専門","format":"単行本","content":"哲学"}
-,
-{"isbn":"9784326251353","title":"Ｂ．Ｆ．スキナー重要論文集Ⅰ　心理主義を超えて","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-08-29","cover":"","author":"B．F．スキナー／著 スキナー著作刊行会／編集","description":"「人はなぜそのように行動するのか」という心理学の根本的問いを徹底的に追究したスキナー。その哲学の理解に役立つ精選邦訳論文集。","price":"4000","genre":"哲学・宗教","target":"専門","format":"単行本","content":"心理(学)"}
-,
-{"isbn":"9784326302819","title":"なぜ民主化が暴力を生むのか","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-08-29","cover":"","author":"田中（坂部）有佳子／著","description":"内戦が終わって、やっと選挙が実現した。しかし暴力は繰り返される。民主化すればいいわけではない。では他に何が必要なのか？","price":"4400","genre":"社会科学","target":"専門","format":"単行本","content":"政治-含む国防軍事"}
-,
-{"isbn":"9784326603190","title":"教育格差のかくれた背景","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-08-29","cover":"","author":"荒牧草平／著","description":"教育格差を生む背景に親の学歴志向の差異があり、それが親族や友人に影響されていることを質問紙調査に基づいて実証的に析出する。","price":"3800","genre":"社会科学","target":"専門","format":"単行本","content":"社会"}
 ]
