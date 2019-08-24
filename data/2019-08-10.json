@@ -19,7 +19,7 @@
 ,
 {"isbn":"9784040823102","title":"親子ゼニ問答","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784040823102.jpg","author":"森永卓郎／著 森永康平／著","description":"老後2000万円不足時代。リアルなゼニ教育がココにある！","price":"860","genre":"","target":"一般","format":"新書","content":"経済・財政・統計"}
 ,
-{"isbn":"9784040823157","title":"済ませておきたい死後の手続き 認知症時代の安心相続術","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784040823157.jpg","author":"岡信太郎／著","description":"いま学べば後で得する！知症時代の「死後の手続き」完全網羅！","price":"840","genre":"","target":"一般","format":"新書","content":"法律"}
+{"isbn":"9784040823157","title":"済ませておきたい死後の手続き 認知症時代の安心相続術","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784040823157.jpg","author":"岡信太郎／著","description":"いま学べば後で得する！認知症時代の「死後の手続き」完全網羅！","price":"840","genre":"","target":"一般","format":"新書","content":"法律"}
 ,
 {"isbn":"9784041072769","title":"宇宙とかと比べたらちっぽけな問題ですが　（１）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784041072769.jpg","author":"ビーノ／著","description":"『女子高生の無駄づかい』ビーノ先生の最新作にして問題作！","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -47,7 +47,7 @@
 ,
 {"isbn":"9784047357198","title":"王様ランキング　５","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784047357198.jpg","author":"十日草輔／著","description":"ボッス国に戻ることにしたボッジとカゲ。陰謀渦巻く、第５巻！","price":"690","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784047357259","title":"涙煮込み愛辛さマシマシ","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784047357259.jpg","author":"にくまん子／著","description":"性欲でも、同情でも、なんでもいい。あなたが愛してくれるなら。","price":"950","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784047357259","title":"涙煮込み愛辛さマシマシ","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784047357259.jpg","author":"にまん子／著","description":"性欲でも、同情でも、なんでもいい。あなたが愛してくれるなら。","price":"950","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784047357402","title":"偽史山人伝","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784047357402.jpg","author":"詩野うら／著","description":"「偽史とはまがいものの歴史のことである。しかし山人は存在していた」","price":"830","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -97,23 +97,7 @@
 ,
 {"isbn":"9784140885932","title":"明るい不登校","volume":"593","series":"ＮＨＫ出版新書","publisher":"NHK出版","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784140885932.jpg","author":"奥地圭子／著","description":"不登校に悩む親子の駆け込み寺・東京シューレの創始者が、不登校をとりまく制度や体験に基づいた不登校経験者の豊かな将来像を示す。","price":"800","genre":"","target":"一般","format":"新書","content":"教育"}
 ,
-{"isbn":"9784140885949","title":"救急車が来なくなる日","volume":"594","series":"ＮＨＫ出版新書","publisher":"NHK出版","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784140885949.jpg","author":"笹井恵里子／著","description":"全国の病院を駆け巡ったジャーナリスが、安心・安全が崩壊していく実態を生々しくレポート。救急医療再生のヒントを探る。","price":"800","genre":"","target":"一般","format":"新書","content":"社会"}
+{"isbn":"9784140885949","title":"救急車が来なくなる日","volume":"594","series":"ＮＨＫ出版新書","publisher":"NHK出版","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784140885949.jpg","author":"笹井恵里子／著","description":"全国の病院を駆け巡ったジャーナリストが、安心・安全が崩壊していく実態を生々しくレポート。救急医療再生のヒントを探る。","price":"800","genre":"","target":"一般","format":"新書","content":"社会"}
 ,
 {"isbn":"9784140885956","title":"幸福な監視国家・中国","volume":"595","series":"ＮＨＫ出版新書","publisher":"NHK出版","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784140885956.jpg","author":"梶谷懐／著 高口康太／著","description":"人民の「幸福度」が右肩上がりの中国。果たして何が起きているのか！？　気鋭の経済学者とジャーナリストが多角的に掘り下げる！","price":"850","genre":"","target":"一般","format":"新書","content":"社会"}
-,
-{"isbn":"9784199506840","title":"メルヘン課長とノンケ後輩くん　④","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-08-10","cover":"","author":"ミナモトカズキ／著","description":"後輩イケメン２０代×かわいいおじさま課長３０代…男と男のラブロマンス！！！","price":"720","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784199506857","title":"魔王兄弟　④","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-08-10","cover":"","author":"Ｕｕｕｍｉ／著","description":"勇者さまが１３人の兄弟魔王を育てる物語…感動の完結巻！！！","price":"720","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784265014347","title":"心霊探偵ゴーストハンターズ④　あやしい心霊スポット！","volume":"","series":"怪談・妖怪の本","publisher":"岩崎書店","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784265014347.jpg","author":"石崎洋司／著 かしのき彩／イラスト","description":"心霊スポットと噂されるトンネルで拓海先輩が見たものは、本物の幽霊！？心霊探偵団が突き詰めた事実とは。他一編は、悪魔の森！","price":"900","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784265830718","title":"よこはまDeNAベイスターズえほん　スターマン！　おきてくださーい","volume":"","series":"","publisher":"岩崎書店","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784265830718.jpg","author":"ひらぎみつえ／著","description":"横浜DeNAベイスターズの球団マスコット「DB.スターマン」が主人公のあかちゃん絵本！どうやったら起きてくれるかな？","price":"850","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784265851508","title":"かわにくまがおっこちた","volume":"","series":"","publisher":"岩崎書店","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784265851508.jpg","author":"リチャード・Ｔ・モリス／著 レウィン・ファム／イラスト 木坂涼／翻訳","description":"個性あふれる動物たちが繰り広げる、疾風怒濤の川下り！みんなは気づいた。むかしから同じ川に住む仲間どうしだということを。","price":"1500","genre":"児童図書","target":"児童","format":"絵本","content":"外国文学、その他"}
-,
-{"isbn":"9784274224096","title":"共振形スイッチングコンバータの基礎","volume":"","series":"","publisher":"オーム社","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784274224096.jpg","author":"落合政司／著","description":"共振形コンバータについての基礎知識と、電流共振形コンバータに展開したときに必要な技術を理解できる。","price":"3200","genre":"工業・工学","target":"専門","format":"単行本","content":"電気"}
-,
-{"isbn":"9784274507427","title":"電気雑誌「ＯＨＭ」100年史","volume":"","series":"","publisher":"オーム社","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784274507427.jpg","author":"山崎靖夫／著 ＯＨＭ編集部／編集","description":"電気雑誌『ＯＨＭ』創刊号から現在（1914～2014年）までに掲載された記事を元に、電気分野の技術開発の歴史を辿る一冊。","price":"6000","genre":"工業・工学","target":"専門","format":"単行本","content":"電気"}
-,
-{"isbn":"9784297107383","title":"Pythonクローリング＆スクレイピング[増補改訂版] -データ収集・解析のための実践開発ガイド-","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-08-10","cover":"https://cover.openbd.jp/9784297107383.jpg","author":"加藤耕太／著","description":"Pythonによるクローリング・スクレイピングの入門から実践までを解説した書籍です。2017年の初版から内容をアップデート、新ライブラリの解説などを追加した増補改訂版です。基本的なクローリングやAPIを活用したデータ収集、HTMLやXMLの解析から、データ取得後の分析や機械学習などの処理まで解説。データの収集・解析、活用がしっかりと基本から学べます。Webサービスの開発やデータサイエンスや機械学習分野で実用したい人はもちろん、基礎から解説しているのでPython初心者でもつまずかずに学習できます。多数のライブラリ、強力なフレームワークを活用して高効率に開発できます。","price":"3280","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
 ]
