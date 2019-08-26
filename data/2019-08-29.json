@@ -17,7 +17,7 @@
 ,
 {"isbn":"9784046044303","title":"メガシア異界譚","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784046044303.jpg","author":"もの久保／著","description":"ここに似たどこか、夢と現の狭間で少女の旅が始まる。もの久保作品集第2弾","price":"1300","genre":"","target":"一般","format":"単行本","content":"絵画・彫刻"}
 ,
-{"isbn":"9784046044365","title":"読む・書く・話すをめる 大人の言語スキル大全","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784046044365.jpg","author":"齋藤孝／著","description":"齋藤孝「大人のための全技術」シリーズが合本化！言語スキルの奥義がここに","price":"1700","genre":"","target":"実用","format":"単行本","content":"経営"}
+{"isbn":"9784046044365","title":"読む・書く・話すを極める 大人の言語スキル大全","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784046044365.jpg","author":"齋藤孝／著","description":"齋藤孝「大人のための全技術」シリーズが合本化！言語スキルの奥義がここに","price":"1700","genre":"","target":"実用","format":"単行本","content":"経営"}
 ,
 {"isbn":"9784046044624","title":"母ちゃんだってほめられたい。","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784046044624.jpg","author":"ふるえるとり／著","description":"心配が暴走する、チキンな母さんの日常…！","price":"1100","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
@@ -111,9 +111,11 @@
 ,
 {"isbn":"9784140817902","title":"時間は存在しない","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784140817902.jpg","author":"カルロ・ロヴェッリ／著 冨永星／翻訳","description":"“ホーキングの再来”と評される天才物理学者が、大胆な考察を展開しながら時間の本質を明らかにする、世界的ベストセラー！","price":"2000","genre":"自然科学","target":"一般","format":"単行本","content":"外国文学、その他"}
 ,
-{"isbn":"9784163910819","title":"カスハラ モンスター化する「お客様」たち","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784163910819.jpg","author":"NHK「クローズアップ現代+」取材班／著","description":"店員のささいなミスに「死ね」「土下座しろ」「SNSに晒すぞ」――客の行き過ぎたクレームへの解決策は？ 大反響番組を緊急刊行！","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784163910819","title":"カスハラ モンスター化する「お客様」たち","volume":"","series":"","publisher":"藝春秋","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784163910819.jpg","author":"NHK「クローズアップ現代+」取材班／著","description":"店員のささいなミスに「死ね」「土下座しろ」「SNSに晒すぞ」――客の行き過ぎたクレームへの解決策は？ 大反響番組を緊急刊行！","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784163910857","title":"人口で語る世界史","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784163910857.jpg","author":"ポール・モーランド／著 渡会圭子／翻訳","description":"大英帝国の出現は産業革命と農業革命による人口爆発ありきだった。一方、優生学ゆえ人口増に失敗したナチ。画期的な歴史教養書。","price":"2200","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
 ,
 {"isbn":"9784198270605","title":"キャンプ・グッズ・マガジン　Vol.8","volume":"","series":"","publisher":"CLASSIX","pubdate":"2019-08-29","cover":"","author":"","description":"「キャンプ・グッズ・マガジンＶｏｌ．０８」は一冊丸ごとキャンプ＆アウトドア専門店特集。","price":"926","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+,
+{"isbn":"9784254122411","title":"入門 統計的因果推論","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784254122411.jpg","author":"JudeaPearl／著 MadelynGlymour／著 NicholasP.Jewell／著 ほか","description":"大家Pearlによる入門書。統計的に原因を推定する考え方を，図と言葉で丁寧に解説","price":"3300","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
 ]

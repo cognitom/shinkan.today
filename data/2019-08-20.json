@@ -59,7 +59,7 @@
 ,
 {"isbn":"9784150122447","title":"ヴェガ暗黒時代","volume":"18","series":"ローダンＮＥＯ","publisher":"早川書房","pubdate":"2019-08-20","cover":"https://cover.openbd.jp/9784150122447.jpg","author":"ミシェル・シュテルン／著 長谷川圭／翻訳","description":"不死の技術の伝説を調べるクレストらを追って、転送機でヴェガ星系へ向かったローダンらは、ある野蛮なフェロン兵に出会うが……","price":"740","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
-{"isbn":"9784150122454","title":"フロリクス８から来た友人","volume":"","series":"","publisher":"早川書房","pubdate":"2019-08-20","cover":"https://cover.openbd.jp/9784150122454.jpg","author":"フィリップ・Ｋ・ディック／著 大森望／翻訳","description":"22世紀、優秀な能力を持った〈異人〉と〈新人〉が、60億の〈旧人〉を支配する地球に、外宇宙からフロリクス星系人が飛来した……","price":"1360","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+{"isbn":"9784150122454","title":"フロリクス８から来た友人","volume":"","series":"","publisher":"早川書房","pubdate":"2019-08-20","cover":"https://cover.openbd.jp/9784150122454.jpg","author":"フィリップ・・ディック／著 大森望／翻訳","description":"22世紀、優秀な能力を持った〈異人〉と〈新人〉が、60億の〈旧人〉を支配する地球に、外宇宙からフロリクス星系人が飛来した……","price":"1360","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
 {"isbn":"9784150313890","title":"群青神殿","volume":"","series":"","publisher":"早川書房","pubdate":"2019-08-20","cover":"https://cover.openbd.jp/9784150313890.jpg","author":"小川一水／著","description":"深海艇で新資源を探索する俊樹とこなみは、海上保安庁から沈没船の調査を頼まれる。だが海では大型船が襲われる事件が続発し……","price":"760","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -90,4 +90,12 @@
 {"isbn":"9784166612291","title":"私の大往生","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-08-20","cover":"https://cover.openbd.jp/9784166612291.jpg","author":"週刊文春編／著","description":"安らかに、苦しみもない往生。そんな理想的な死はどうすれば迎えることができるのだろうか。人生を達観した先達たち十四人に尋ねた。","price":"820","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784166612307","title":"軍事と政治 日本の選択 歴史と世界の視座から","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-08-20","cover":"https://cover.openbd.jp/9784166612307.jpg","author":"細谷雄一編／著","description":"日本に必要なのは自ら国を守り、国民を守る体制整備だ。第一線の研究者が討議を重ねた、国民全体で安全保障を考える画期的な提言。","price":"1100","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784199805868","title":"ワカコ酒　⑬","volume":"","series":"","publisher":"ノース・スターズ・ピクチャーズ","pubdate":"2019-08-20","cover":"","author":"新久千映／著","description":"大人気特別編に「沖縄ひとり酒」「夏の帰省酒」の２篇を収録！スピンオフコミック「大衆酒場ワカオ」と併せて夏のお供に☆","price":"562","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199805875","title":"大衆酒場ワカオ ワカコ酒別店　①","volume":"","series":"","publisher":"ノース・スターズ・ピクチャーズ","pubdate":"2019-08-20","cover":"","author":"新久千映／著 猫原ねんず／著","description":"大人気「ワカコ酒」初のスピンオフ作品です。本家のワカコも登場し、ワカコの世界をお店側から見る楽しさがあります。","price":"580","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199805882","title":"魍魎少女　③","volume":"","series":"","publisher":"ノース・スターズ・ピクチャーズ","pubdate":"2019-08-20","cover":"","author":"白石純／著","description":"第③巻より新章が開幕！西洋ギャングと魍魎屋たちのバトルで今まで以上にド派手なアクションが展開します！","price":"580","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199805899","title":"マンガ麺","volume":"","series":"","publisher":"ノース・スターズ・ピクチャーズ","pubdate":"2019-08-20","cover":"","author":"峰なゆか／著 シモダアサミ／著 北駒生／著","description":"深夜に手軽なエネルギー補給♪\n作家稼業の強い味方！手軽で奥深い、『麺』のアンソロジーコミックス！！","price":"580","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ]
