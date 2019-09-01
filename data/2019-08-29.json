@@ -33,7 +33,7 @@
 ,
 {"isbn":"9784052050657","title":"大坂の陣","volume":"３","series":"学研まんが　対決日本史シリーズ","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784052050657.jpg","author":"大石学／監修 城詰草／著","description":"「大坂の陣」をテーマとした学習まんが。最新の考証をもとに、豊臣家、家康の戦略・戦術を詳しく描く。巻末に資料ページも付属","price":"1400","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本歴史"}
 ,
-{"isbn":"9784052050725","title":"りんごのなぞ ５さいから育てる天才脳","volume":"１","series":"東田はかせの京大こどもパズル","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784052050725.jpg","author":"東田大志／著","description":"京都大学のパズル博士が作った、こどもの頭をグイグイきたえるパズルシリーズ。ちょっと難しいけど解けば解くほど頭がよくなる。","price":"880","genre":"児童図書","target":"児童","format":"全集・双書","content":"諸芸・娯楽"}
+{"isbn":"9784052050725","title":"りんごのなぞ ５さいから育てる天才脳","volume":"１","series":"東田はかせの京大こどもパズル","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784052050725.jpg","author":"東田大志／著","description":"京都大学のパズル博士が作った、こどもの頭をグイグイきたえるパズルリーズ。ちょっと難しいけど解けば解くほど頭がよくなる。","price":"880","genre":"児童図書","target":"児童","format":"全集・双書","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784052050732","title":"オレンジのなぞ ５さいから育てる天才脳","volume":"２","series":"東田はかせの京大こどもパズル","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784052050732.jpg","author":"東田大志／著","description":"京都大学のパズル博士が作った、こどもの頭をグイグイきたえるパズルシリーズ。ちょっと難しいけど解けば解くほど頭がよくなる。","price":"880","genre":"児童図書","target":"児童","format":"全集・双書","content":"諸芸・娯楽"}
 ,
@@ -49,7 +49,7 @@
 ,
 {"isbn":"9784053048905","title":"情景ことば選び辞典","volume":"","series":"ことば選び辞典","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784053048905.jpg","author":"学研辞典編集部／編集","description":"さまざまな情景を，美しい言葉で表現したいときに開く本。薄い，軽い，小さいの三拍子で，いつでもどこでも使える。","price":"630","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"日本語"}
 ,
-{"isbn":"9784053048912","title":"大きな字の情景ことば選び辞典","volume":"","series":"ことば選び辞典","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784053048912.jpg","author":"学研辞典編集部／編集","description":"さまざまな情景を，美しい言葉で表現したいときに開く本。薄い，軽い，小さいの三拍子で，いつでもどこでも使える。","price":"850","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"日本語"}
+{"isbn":"9784053048912","title":"大きな字の情景ことば選び辞典","volume":"","series":"ことば選び辞典","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784053048912.jpg","author":"学辞典編集部／編集","description":"さまざまな情景を，美しい言葉で表現したいときに開く本。薄い，軽い，小さいの三拍子で，いつでもどこでも使える。","price":"850","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"日本語"}
 ,
 {"isbn":"9784054067417","title":"最強　世界の歩兵装備パーフェクトガイド","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784054067417.jpg","author":"坂本明／著","description":"最新情報満載！ライフル、拳銃から戦闘服、ヘルメット、その他の携行装備まで！世界の歩兵の装備を詳解するオールカラー決定版！","price":"650","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
@@ -61,7 +61,7 @@
 ,
 {"isbn":"9784058010723","title":"グリーンウッドワーク　生木で暮らしの道具を作る","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784058010723.jpg","author":"久津輪雅／著","description":"生木を材料に電動工具を使わずに作る、古くて新しい木工・グリーンウッドワーク。スプーンなど木の日用品の作り方を丁寧に解説。","price":"2400","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784058010730","title":"完全版　川口由一　自然農","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784058010730.jpg","author":"川口由一／監修","description":"畑を耕さず、化学農薬を使わずに野菜や米を育てる自然農。野菜全４０種と米の栽培方法をオールカラーで紹介する。","price":"1600","genre":"","target":"実用","format":"単行本","content":"農林業"}
+{"isbn":"9784058010730","title":"完全版　川口由一　自然農","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784058010730.jpg","author":"川口由一／監修","description":"畑を耕さず、化学農薬を使わずに野菜や米を育て自然農。野菜全４０種と米の栽培方法をオールカラーで紹介する。","price":"1600","genre":"","target":"実用","format":"単行本","content":"農林業"}
 ,
 {"isbn":"9784058010747","title":"予約のとれない家政婦ｍａｋｏの　超速！　３品ごはん","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784058010747.jpg","author":"ｍａｋｏ／著","description":"自分史上、最短献立ができる！！　予約の取れない家政婦、マコさんによる時短技もりだくさんな献立レシピ本です","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
@@ -69,7 +69,7 @@
 ,
 {"isbn":"9784065167694","title":"人生のサバイバル力　17歳の特別教室","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784065167694.jpg","author":"佐藤優／著","description":"何のために勉強するのか？これからの時代をどう生きるか？佐藤優が次世代に手渡す、ハードな世界を生き延びる知恵！","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784065168172","title":"三匹の子豚","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784065168172.jpg","author":"真梨幸子／著","description":"見ず知らずの叔母の面倒を見なければならない――。売れっ子脚本家の下に突如舞い込んだ知らせが、彼女の人生を大きく狂わせていく！","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784065168172","title":"三匹の子","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784065168172.jpg","author":"真梨幸子／著","description":"見ず知らずの叔母の面倒を見なければならない――。売れっ子脚本家の下に突如舞い込んだ知らせが、彼女の人生を大きく狂わせていく！","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065169292","title":"答えより問いを探して　17歳の特別教室","volume":"","series":"","publisher":"講談社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784065169292.jpg","author":"高橋源一郎／著","description":"「読む」と「書く」の体験をとおして自分が変わる、人生が変わる。子どもも大人も目からウロコの超・文章教室！","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
@@ -116,8 +116,4 @@
 {"isbn":"9784163910819","title":"カスハラ モンスター化する「お客様」たち","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784163910819.jpg","author":"NHK「クローズアップ現代+」取材班／著","description":"店員のささいなミスに「死ね」「土下座しろ」「SNSに晒すぞ」――客の行き過ぎたクレームへの解決策は？ 大反響番組を緊急刊行！","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784163910857","title":"人口で語る世界史","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784163910857.jpg","author":"ポール・モーランド／著 渡会圭子／翻訳","description":"大英帝国の出現は産業革命と農業革命による人口爆発ありきだった。一方、優生学ゆえ人口増に失敗したナチ。画期的な歴史教養書。","price":"2200","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
-,
-{"isbn":"9784198270605","title":"キャンプ・グッズ・マガジン　Vol.8","volume":"","series":"","publisher":"CLASSIX","pubdate":"2019-08-29","cover":"","author":"","description":"「キャンプ・グッズ・マガジンＶｏｌ．０８」は一冊丸ごとキャンプ＆アウトドア専門店特集。","price":"926","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
-,
-{"isbn":"9784254122411","title":"入門 統計的因果推論","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784254122411.jpg","author":"JudeaPearl／著 MadelynGlymour／著 NicholasP.Jewell／著 ほか","description":"大家Pearlによる入門書。統計的に原因を推定する考え方を，図と言葉で丁寧に解説","price":"3300","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
 ]
