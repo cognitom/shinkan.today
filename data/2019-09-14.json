@@ -63,7 +63,7 @@
 ,
 {"isbn":"9784106108310","title":"女系図でみる日本争乱史","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2019-09-14","cover":"","author":"大塚ひかり／著","description":"応仁の乱も、戊辰戦争も、みんな身内の相続争い?!　驚きの見える化で日本史がスッキリ判る！","price":"720","genre":"","target":"一般","format":"新書","content":"日本歴史"}
 ,
-{"isbn":"9784143232719","title":"ＮＨＫ　ＣＤ　ラジオ　ラジオ英会話　2019年10月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-09-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+{"isbn":"9784143232719","title":"ＮＨＫ　ＣＤ　ラジオ　ジオ英会話　2019年10月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-09-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
 ,
 {"isbn":"9784143242718","title":"ＮＨＫ　ＣＤ　ラジオ　実践ビジネス英語　2019年10月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-09-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
 ,
@@ -80,4 +80,6 @@
 {"isbn":"9784198649418","title":"ありがとうございじぇしか。","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-09-14","cover":"","author":"希崎ジェシカ／著 矢西誠二／写真","description":"６月１０日の誕生日に年内いっぱいでの引退を発表した人気ＳＥＸＹ女優・希崎ジェシカ。本人プロデュースのラスト写真集は必見！","price":"3600","genre":"芸能・タレント","target":"一般","format":"単行本","content":"写真・工芸"}
 ,
 {"isbn":"9784265830732","title":"にだんベッドだいすき！","volume":"","series":"","publisher":"岩崎書店","pubdate":"2019-09-14","cover":"https://cover.openbd.jp/9784265830732.jpg","author":"ほそいさつき／著","description":"ケンとミナは今日からにだんベッドでねます。ジャンケンに負けたケンはくらくてせまい下の段に。でもいいことを思いつきました！","price":"1300","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784274224157","title":"やさしく学ぶ  航空特殊無線技士試験","volume":"","series":"","publisher":"オーム社","pubdate":"2019-09-14","cover":"https://cover.openbd.jp/9784274224157.jpg","author":"吉村和昭／著","description":"航空特殊無線技士（航空特）の試験科目「無線工学」「法規」「電気通信術」の三科目について解説した受験対策書。","price":"2600","genre":"工業・工学","target":"専門","format":"単行本","content":"電子通信"}
 ]
