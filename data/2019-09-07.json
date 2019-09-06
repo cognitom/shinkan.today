@@ -9,17 +9,19 @@
 ,
 {"isbn":"9784040823249","title":"織田家臣団の系図","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-09-07","cover":"https://cover.openbd.jp/9784040823249.jpg","author":"菊地浩之／著","description":"こだわったのは「実力」ではなく「地縁」だった。地域別に徹底分析！","price":"900","genre":"","target":"一般","format":"新書","content":"日本歴史"}
 ,
-{"isbn":"9784040823331","title":"４行でわかる世界の文明","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-09-07","cover":"https://cover.openbd.jp/9784040823331.jpg","author":"橋爪大三郎／著","description":"この４行が理解できるだけで、世界の仕組みが読み解ける。","price":"860","genre":"","target":"一般","format":"新書","content":"社会科学総記"}
+{"isbn":"9784040823331","title":"４行でわかる世界の文明","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-09-07","cover":"https://cover.openbd.jp/9784040823331.jpg","author":"橋爪大三郎／著","description":"この「４行モデル」がわかるだけで、国際情勢の本質が驚くほどに見通せる！","price":"860","genre":"","target":"一般","format":"新書","content":"社会科学総記"}
 ,
 {"isbn":"9784065155370","title":"Solidityプログラミング　ブロックチェーン・スマートコントラクト開発入門","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-07","cover":"https://cover.openbd.jp/9784065155370.jpg","author":"ＲｉｔｅｓｈＭｏｄｉ／著 花村直親／翻訳 松本拓也／翻訳 小池駿平／翻訳","description":"ブロックチェーンを用いたスマートコントラクト構築に必須の言語であるＳｏｌｉｄｉｔｙの入門書","price":"3000","genre":"","target":"専門","format":"単行本","content":"電子通信"}
 ,
 {"isbn":"9784065163962","title":"魔界本紀　1　下剋上のゴーラン","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-07","cover":"https://cover.openbd.jp/9784065163962.jpg","author":"茂木鈴／著 ｌａｃｋ／イラスト","description":"主人公がオーガ族として転生した魔界は、勝つか負けるかで主従関係が決まるシンプルな世界。タイマン勝負でこの魔界を成り上がれ！","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065163993","title":"俺はダンジョンマスター、真の迷宮探索いうものを教えてやろう　2","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-07","cover":"https://cover.openbd.jp/9784065163993.jpg","author":"北乃ゆうひ／著 黒井ススム／イラスト","description":"手ごたえのある探索者が続々と現れ、現代から転生したダンジョンマスター・アユムと探索者たちの駆け引きはさらに激しさを増していく","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784065163993","title":"俺はダンジョンマスター、真の迷宮探索というものを教えてやろう　2","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-07","cover":"https://cover.openbd.jp/9784065163993.jpg","author":"北乃ゆうひ／著 黒井ススム／イラスト","description":"手ごたえのある探索者が続々と現れ、現代から転生したダンジョンマスター・アユムと探索者たちの駆け引きはさらに激しさを増していく","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065164006","title":"JK無双　2　終わる世界の救い方","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-07","cover":"https://cover.openbd.jp/9784065164006.jpg","author":"津田夕也／著 あきま／イラスト","description":"ゾンビや怪獣のようなモンスターが跋扈するようになった現実世界。だが主人公の女子高生、すなわちＪＫは、飄々と危機を切り抜ける","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065170014","title":"イラストで学ぶ　離散数学","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-07","cover":"https://cover.openbd.jp/9784065170014.jpg","author":"伊藤大雄／著","description":"ふざけすぎている教科書が爆たん！　ボケが止まらないネコ教授と、生意気な生徒クロが楽しくナビゲートする画期的な書。練習問題付き","price":"2200","genre":"","target":"専門","format":"単行本","content":"数学"}
 ,
 {"isbn":"9784065172520","title":"できる研究者になるための留学術　アメリカ大学院留学のススメ","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-07","cover":"https://cover.openbd.jp/9784065172520.jpg","author":"是永淳／著","description":"もう、ためらっている場合じゃない！　事前に必要な準備、英語勉強法、研究生活、……。あなたの知りたいすべてがここに。","price":"2200","genre":"","target":"専門","format":"単行本","content":"教育"}
+,
+{"isbn":"9784297108144","title":"Excel VBA 文法はわかるのにプログラムが書けない人が読む本","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-09-07","cover":"https://cover.openbd.jp/9784297108144.jpg","author":"田中徹／著","description":"「FOR文やIF文といったステートメントは理解しているし、フォームの作り方、呼び出しなどもわかっている」しかし、「目の前にある業務を効率化するプログラムをどう作ればいいかわからない」。こんな悩みを抱える方を対象に、「プログラム化するためのロジックを考える力を養う」「システム化するためのスキルを習得する」ことを目的とする本です。\nコーディングの定石から、汎用化・省力化でよりよいプログラムを作る方法、ユーザに合わせてUIやエラーケースを考慮しながら業務システムとして仕上げる方法まで、数多くの例題を用意し、少しずつレベルを上げながら詳しく解説していきます。","price":"1980","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
 ]
