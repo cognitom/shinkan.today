@@ -53,7 +53,7 @@
 ,
 {"isbn":"9784054067417","title":"最強　世界の歩兵装備パーフェクトガイド","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784054067417.jpg","author":"坂本明／著","description":"最新情報満載！ライフル、拳銃から戦闘服、ヘルメット、その他の携行装備まで！世界の歩兵の装備を詳解するオールカラー決定版！","price":"650","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784058010617","title":"新はじめてのパーソナルカラー","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784058010617.jpg","author":"トミヤママチコ／著","description":"「新パーソナルカラー検定」対応の公式テキスト。春夏秋冬の四季分類と色の清濁で、パーソナルカラーを見つけられるよになる。","price":"2000","genre":"","target":"一般","format":"単行本","content":"家事"}
+{"isbn":"9784058010617","title":"新はじめてのパーソナルカラー","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784058010617.jpg","author":"トミヤママチコ／著","description":"「新パーソナルカラー検定」対応の公式テキスト。春夏秋冬の四季分類と色の清濁で、パーソナルカラーを見つけられるようになる。","price":"2000","genre":"","target":"一般","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784058010686","title":"最新版　順天堂医院が教える毎日おいしい糖尿病レシピ４１５","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784058010686.jpg","author":"河盛隆造／監修 髙橋德江／監修","description":"最先端の糖尿病治療を担う大学病院の専門医＆栄養スタッフが、血糖値をコントロールする正しい食事療法とレシピを指南。","price":"1500","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
@@ -121,5 +121,43 @@
 ,
 {"isbn":"9784254122411","title":"入門 統計的因果推論","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784254122411.jpg","author":"JudeaPearl／著 MadelynGlymour／著 NicholasP.Jewell／著 ほか","description":"大家Pearlによる入門書。統計的に原因を推定する考え方を，図と言葉で丁寧に解説","price":"3300","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
 ,
-{"isbn":"9784297107291","title":"Excelでここまでできる！株式投資の分析＆シミュレーション［完全入門］","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784297107291.jpg","author":"藤本壱／著","description":"Excel×株で、株式投資のレベルが上がります！投資に活かせるExcelの機能は、チャート作成機能だけではありません。知識と工夫次第で、できることはいくらでも広がります。テクニカル分析、ファンダメンタル分析はもちろん、投資計画や人生設計のプランニング、さらにバックテストによるシミュレーションも可能！読者特典として、Excel×株をより強力に、よりかんたんに自動化するプログラム＝「株式投資アドイン」をご提供。ボタン一つでさまざまな機能が実現できるようになります。データやシミュレーションに裏づけられた株式投資を追したい方のための本です。\n\n☆☆読者特典☆☆\n株式投資アドイン＆サンプルファイル\n\n【株式投資アドイン】\n分析＆シミュレーションを自動化・強力化するためのオリジナルプログラム\n・手作業では手間がかかる作業を簡略化できる\n・複数のテクニカル指標を組み合わせた株価チャートを柔軟に作成できる\n・バックテスト機能で、過去の株価データを元にした売買シミュレーションもできる\n\n【サンプルファイル】\n内容理解と作業が進むサンプルのExcelファイル\n・本文中で紹介した事例のサンプルファイルをご提供\n・本を読みながら作業するのに便利\n・計算式やサンプルのデータがあらかじめ入力されているので、自分に合わせたシートを作りやすい","price":"1980","genre":"","target":"実用","format":"単行本","content":"経営"}
+{"isbn":"9784297107291","title":"Excelでここまでできる！株式投資の分析＆シミュレーション［完全入門］","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784297107291.jpg","author":"藤本壱／著","description":"Excel×株で、株式投資のレベルが上がります！投資に活かせるExcelの機能は、チャート作成機能だけではありません。知識と工夫次第で、できることはいくらでも広がります。テクニカル分析、ファンダメンタル分析はもちろん、投資計画や人生設計のプランニング、さらにバックテストによるシミュレーションも可能！読者特典として、Excel×株をより強力に、よりかんたんに自動化するプログラム＝「株式投資アドイン」をご提供。ボタン一つでさまざまな機能が実現できるようになります。データやシミュレーションに裏づけられた株式投資を追究したい方のための本です。\n\n☆☆読者特典☆☆\n株式投資アドイン＆サンプルファイル\n\n【株式投資アドイン】\n分析＆シミュレーションを自動化・強力化するためのオリジナルプログラム\n・手作業では手間がかかる作業を簡略化できる\n・複数のテクニカル指標を組み合わせた株価チャートを柔軟に作成できる\n・バックテスト機能で、過去の株価データを元にした売買シミュレーションもできる\n\n【サンプルファイル】\n内容理解と作業が進むサンプルのExcelファイル\n・本文中で紹介した事例のサンプルファイルをご提供\n・本を読みながら作業するのに便利\n・計算式やサンプルのデータがあらかじめ入力されているので、自分に合わせたシートを作りやすい","price":"1980","genre":"","target":"実用","format":"単行本","content":"経営"}
+,
+{"isbn":"9784320009301","title":"神経美学 美と芸術の脳科学","volume":"30","series":"共立スマートセレクション","publisher":"共立出版","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784320009301.jpg","author":"石津智大／著 渡辺茂／解説","description":"脳の働きと美学的経験（美醜，感動，崇高など）との関係や，脳機能と芸術的活動との関係を研究する新しい学問「神経美学」の入門書。","price":"2000","genre":"社会科学","target":"専門","format":"全集・双書","content":"心理(学)"}
+,
+{"isbn":"9784320044739","title":"コスメティクスの化学","volume":"32","series":"化学の要点シリーズ","publisher":"共立出版","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784320044739.jpg","author":"日本化学会／編集 岡本暉公彦／著・編集 前山薫／著・編集","description":"最新のコスメティクス化学を手軽に学べる。原材料の変遷から，皮膚の構造と機能，技術の進展に伴い求められる多様な機能まで解説。","price":"1900","genre":"自然科学","target":"専門","format":"全集・双書","content":"化学"}
+,
+{"isbn":"9784320114050","title":"量子解析のための作用素環入門","volume":"5","series":"数学と物理の交差点","publisher":"共立出版","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784320114050.jpg","author":"谷島賢二／編集 山上滋／著","description":"数学の作用素環の理論が，物理学の量子解析分野でどのような役割を果たしているかを，環の表現論などの手法を通して詳しく解説。","price":"4000","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784325232001","title":"関東学院大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325232001.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325232513","title":"白百合女子大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325232513.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233015","title":"東京歯科大学／日本歯科大学／大阪歯科大学（歯学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325233015.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"3600","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233497","title":"文教大学 2020年版;No.389","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325233497.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233572","title":"武蔵野大学 2020年版;No.397","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325233572.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325234869","title":"奈良学園大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325234869.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。4カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325235132","title":"九州産業大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325235132.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325235170","title":"久留米大学（医学部〈医学科〉）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784325235170.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。7カ年分収載。","price":"3600","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784326102761","title":"世界を満たす論理","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784326102761.jpg","author":"荒畑靖宏／著","description":"形而上学との関連においてこそ見えてくる、時代を超えた哲学者フレーゲの真の姿！ 彼が最後まで手放さなかった「汎論理主義」とは。","price":"3500","genre":"哲学・宗教","target":"専門","format":"単行本","content":"哲学"}
+,
+{"isbn":"9784326251353","title":"Ｂ．Ｆ．スキナー重要論文集Ⅰ　心理主義を超えて","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784326251353.jpg","author":"B．F．スキナー／著 スキナー著作刊行会／編集","description":"「人はなぜそのように行動するのか」という心理学の根本的問いを徹底的に追究したスキナー。その哲学の理解に役立つ精選邦訳論文集。","price":"4000","genre":"哲学・宗教","target":"専門","format":"単行本","content":"心理(学)"}
+,
+{"isbn":"9784326302819","title":"なぜ民主化が暴力を生むのか","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784326302819.jpg","author":"田中（坂部）有佳子／著","description":"内戦が終わって、やっと選挙が実現した。しかし暴力は繰り返される。民主化すればいいわけではない。では他に何が必要なのか？","price":"4400","genre":"社会科学","target":"専門","format":"単行本","content":"政治-含む国防軍事"}
+,
+{"isbn":"9784326603190","title":"教育格差のかくれた背景","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784326603190.jpg","author":"荒牧草平／著","description":"教育格差を生む背景に親の学歴志向の差異があり、それが親族や友人に影響されていることを質問紙調査に基づいて実証的に析出する。","price":"3800","genre":"社会科学","target":"専門","format":"単行本","content":"社会"}
+,
+{"isbn":"9784335304996","title":"労働法","volume":"","series":"伊藤真試験対策講座","publisher":"弘文堂","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784335304996.jpg","author":"伊藤真／監修 伊藤塾／著","description":"最新の法改正に完全対応、試験対策も万全！","price":"3800","genre":"社会科学","target":"教養","format":"全集・双書","content":"法律"}
+,
+{"isbn":"9784335357930","title":"WTO・FTA・CPTPP","volume":"","series":"","publisher":"弘文堂","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784335357930.jpg","author":"飯野文／著","description":"貿易と投資の国際ルールが分かる！","price":"3000","genre":"社会科学","target":"教養","format":"単行本","content":"法律"}
+,
+{"isbn":"9784335357978","title":"行政法","volume":"","series":"","publisher":"弘文堂","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784335357978.jpg","author":"櫻井敬子／著 橋本博之／著","description":"新たな時代の行政法を学ぶためのスタンダードテキスト！","price":"3300","genre":"社会科学","target":"教養","format":"単行本","content":"法律"}
+,
+{"isbn":"9784335450617","title":"決算書はここだけ読もう〈2020年版〉","volume":"","series":"","publisher":"弘文堂","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784335450617.jpg","author":"矢島雅己／著","description":"図解で読み取り、イメージで決算書を理解する。待望の2020年版刊行！","price":"950","genre":"","target":"教養","format":"単行本","content":"経営"}
 ]

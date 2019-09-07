@@ -99,7 +99,7 @@
 ,
 {"isbn":"9784198647414","title":"LINE上手","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-08-30","cover":"","author":"浮世満理子／著","description":"ＬＩＮＥで会話が続かない、言葉がうまく思いつかないという悩みを解決。さまざまなシーンに合う「ひと言」で好印象間違いなし！","price":"1650","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
 ,
-{"isbn":"9784198648657","title":"逢瀬 横浜に咲いた絶世の花魁喜遊","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-08-30","cover":"","author":"石井希尚著","description":"幕末の横浜の遊郭で、異人の客になることを拒んだといわれる美しき遊女・喜遊。彼女の本当の姿とは？　新鋭作家が挑む歴史小説。","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784198648657","title":"逢瀬 横浜に咲いた絶世の花魁喜遊","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-08-30","cover":"","author":"石井希尚／著","description":"幕末の横浜の遊郭で、異人の客になることを拒んだといわれる美しき遊女・喜遊。彼女の本当の姿とは？　新鋭作家が挑む歴史小説。","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784198649180","title":"中国敗戦 米中新冷戦の真実と結末","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-08-30","cover":"","author":"石平／著 黄文雄／著","description":"中国がもっとも恐れる論客２人が、進退窮まった習近平政権と急落する中国経済、さらに韓国の行方を完全分析！","price":"1300","genre":"","target":"一般","format":"単行本","content":"経済・財政・統計"}
 ,
@@ -122,4 +122,38 @@
 {"isbn":"9784297108298","title":"これで安心！働きながら介護する　――ケアも仕事も暮らしもバランスとって","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-08-30","cover":"https://cover.openbd.jp/9784297108298.jpg","author":"川上由里子／著","description":"突然訪れる大切な人の介護。そのとき、あなたはどうしますか？　介護離職をする人は年間約10万人。離職して介護に専念する人のなかには、介護が終わったあと、「うつ」になってしまう人や収入が途絶え経済的に立ち行かなくなる人もいます。介護と仕事の両立では、想像以上に難しい事態に直面することが少なくありません。\n本書は、大切なあの人を介護しながら、自分の暮らしや仕事も手放さず続けていくためのヒントとアイディアをまとめたものです。介護保険や医療保険などサービスの利用法、介護される人の住まい選びと整え方、仕事を続けるための介護休業制度活用や働き方の調整、介護される人とのコミュニケーションと自分自身のケアまで、「わたしの仕事と介護の両立」にチャレンジする先輩達の実例を交え、お伝えします。","price":"1480","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
 ,
 {"isbn":"9784305403087","title":"跨境（こきょう）　日本語文学研究　第8号","volume":"08","series":"跨境（こきょう）　日本語文学研究","publisher":"笠間書院","pubdate":"2019-08-30","cover":"https://cover.openbd.jp/9784305403087.jpg","author":"東アジアと同時代日本語文学フォーラム／編集","description":"韓国、中国、台湾、日本各地域の近代日本語文学の研究者が参加して発行する国際学術誌。第8号特集:レンタルと近現代東アジア文化","price":"2000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784325230793","title":"名古屋市立大学（薬学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-30","cover":"https://cover.openbd.jp/9784325230793.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。5カ年分収載。","price":"2200","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325231721","title":"東北学院大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-30","cover":"https://cover.openbd.jp/9784325231721.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325231936","title":"学習院女子大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-30","cover":"https://cover.openbd.jp/9784325231936.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325232278","title":"相模女子大学・相模女子大学短期大学部","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-30","cover":"https://cover.openbd.jp/9784325232278.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1900","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325232483","title":"昭和女子大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-30","cover":"https://cover.openbd.jp/9784325232483.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325232490","title":"昭和薬科大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-30","cover":"https://cover.openbd.jp/9784325232490.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。5カ年分収載。","price":"2400","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233268","title":"二松学舎大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-30","cover":"https://cover.openbd.jp/9784325233268.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233961","title":"愛知医科大学（医学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-30","cover":"https://cover.openbd.jp/9784325233961.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。5カ年分収載。","price":"3600","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325234890","title":"兵庫医科大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-30","cover":"https://cover.openbd.jp/9784325234890.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。6カ年分収載。","price":"3600","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325235187","title":"産業医科大学（医学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-08-30","cover":"https://cover.openbd.jp/9784325235187.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。7カ年分収載。","price":"3600","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784330989198","title":"新世代の観光立国","volume":"","series":"","publisher":"交通新聞社","pubdate":"2019-08-30","cover":"https://cover.openbd.jp/9784330989198.jpg","author":"JAPANNOW観光情報協会／著","description":"本書は、 今後の観光課題を考える上での指針となる書です。","price":"1500","genre":"","target":"一般","format":"単行本","content":"交通・通信"}
+,
+{"isbn":"9784331522370","title":"技術と心","volume":"","series":"","publisher":"廣済堂出版","pubdate":"2019-08-30","cover":"","author":"秋山翔吾／著","description":"シーズン最多216安打の記録を持ち、昨年の西武優勝に貢献した稀代の安打製造機の初著。家族、社会貢献、メンタル・思考法も語る。","price":"1600","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
+,
+{"isbn":"9784331522417","title":"幸せのプログラミング","volume":"","series":"","publisher":"廣済堂出版","pubdate":"2019-08-30","cover":"","author":"椎原崇／著","description":"中卒で元パチプロでいまは予約がとれないコンサルタントとして人気沸騰中の著者が、幸せへの近道を独自の視点で解き明かして指南。","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784331522448","title":"子どもの学力をすっと伸ばす親の対応力","volume":"","series":"","publisher":"廣済堂出版","pubdate":"2019-08-30","cover":"","author":"富永雄輔／著","description":"「入塾テスト無し！」で驚異の第一志望校合格率の塾長が教える学力を伸ばすコツ。子供は親の対応力次第でぐんぐん伸びる！","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784331522523","title":"幸せになれる体質づくり（仮） 毎日、ふと思う⑱　帆帆子の日記","volume":"","series":"","publisher":"廣済堂出版","pubdate":"2019-08-30","cover":"","author":"浅見帆帆子／著","description":"『あなたは絶対！運がいい』など累計500万部突破のベストセラー作家による、大人気の日記シリーズ待望の第18弾。","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784331522530","title":"お会式の夜に","volume":"","series":"","publisher":"廣済堂出版","pubdate":"2019-08-30","cover":"","author":"黒野伸一／著","description":"「限界集落株式会社」の黒野伸一が、毎年10月に東京の大田区池上本門寺で行われるお会式を舞台に、人間模様を描きます。","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784331522615","title":"新・タオのひけつ（仮）","volume":"","series":"","publisher":"廣済堂出版","pubdate":"2019-08-30","cover":"","author":"早島妙瑞／著 早島妙聴／監修","description":"運命は自分で変えられる！――中国五千年のなかで受け継がれる生き方や、タオイズム・老荘哲学の大らかで前向きな思考法、究極の健康術として評価の高い導引術・洗心術・動功術を、新たな時代にあわせて、わかりやすく解説。心身のストレスをなくして、「真の自分」を発見できる一冊。現代人が生きていくうえで抱えてしまう様々な悩みが、やさしく解きほぐされていく！","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ]
