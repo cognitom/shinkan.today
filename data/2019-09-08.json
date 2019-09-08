@@ -1,31 +1,3 @@
 [
-{"isbn":"9784274223945","title":"実践デリバティブ","volume":"","series":"","publisher":"オーム社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784274223945.jpg","author":"藤崎達哉／著","description":"デリバティブについて「説明・提案できる」レベルへ、実践的な知識をわかりやすく説明する解説書。","price":"3200","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
-,
-{"isbn":"9784274224294","title":"2020年版　第1種・第2種作業環境測定士試験　攻略問題集","volume":"","series":"","publisher":"オーム社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784274224294.jpg","author":"三好康彦／著","description":"第1種・第2種作業環境測定士試験の過去5回分の試験問題を試験科目ごとに分類・整理し、頻出・重要問題を丁寧に解説した問題集。","price":"4200","genre":"","target":"専門","format":"単行本","content":"工学・工学総記"}
-,
-{"isbn":"9784325230519","title":"富山県立大学 2020年版;No.65","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784325230519.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。5カ年分収載。","price":"1900","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325230601","title":"信州大学（文系－前期日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784325230601.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2200","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325230632","title":"公立諏訪東京理科大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784325230632.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1600","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325230885","title":"京都工芸繊維大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784325230885.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325231417","title":"熊本大学（文学部・教育学部・法学部・医学部〈保健学科看護学専攻〉）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784325231417.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325231424","title":"熊本大学（理学部・医学部〈保健学科看護学専攻を除く〉・薬学部・工学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784325231424.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325232247","title":"駒澤大学（一般入試T方式・S方式）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784325232247.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2200","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325232254","title":"駒澤大学（全学部統一日程入試）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784325232254.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325232391","title":"城西国際大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784325232391.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1900","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325232995","title":"東京工芸大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784325232995.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325235194","title":"西南学院大学（神学部・商学部・経済学部・国際文化学部－Ａ日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784325235194.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325235200","title":"西南学院大学（文学部・法学部・人間科学部－Ａ日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784325235200.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325235248","title":"大阪成蹊大学・大阪成蹊短期大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-09-08","cover":"https://cover.openbd.jp/9784325235248.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+
 ]
