@@ -25,7 +25,7 @@
 ,
 {"isbn":"9784046042156","title":"大学入試　土田竜馬の　数学［図形問題］　プラチナルール","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-09-09","cover":"https://cover.openbd.jp/9784046042156.jpg","author":"土田竜馬／著","description":"独学では身につけられない図形問題の「最強ルール」が登場！","price":"1300","genre":"","target":"学参II(高校)","format":"単行本","content":"数学"}
 ,
-{"isbn":"9784056115291","title":"新　脳が活性化する１００日間パズル「思い出し」編④","volume":"","series":"学研ムック　元気脳練習帳","publisher":"学研プラス","pubdate":"2019-09-09","cover":"","author":"川島隆太／監修","description":"脳の活性化に効果的なパズルを１００問収録するシリーズ最新刊。バラエティー豊かなパズルで楽しく脳のトレーニングができる。","price":"780","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+{"isbn":"9784056115291","title":"新　脳が活性化する１００日間パズル「思い出し」編④","volume":"","series":"学研ムック　元気脳練習帳","publisher":"学研プラス","pubdate":"2019-09-09","cover":"https://cover.openbd.jp/9784056115291.jpg","author":"川島隆太／監修","description":"脳の活性化に効果的なパズルを１００問収録するシリーズ最新刊。バラエティー豊かなパズルで楽しく脳のトレーニングができる。","price":"780","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784065162286","title":"中華一番！極（5）","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-09","cover":"https://cover.openbd.jp/9784065162286.jpg","author":"小川悦司／著","description":"『西安面条比賽』予選。米粉麺で挑むマオたちの突破なるか！？　一方、ルイ、フェイは、凶悪な『太極料理界』の魔手に落ちていた…。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -92,4 +92,6 @@
 {"isbn":"9784121506672","title":"AI倫理","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-09-09","cover":"https://cover.openbd.jp/9784121506672.jpg","author":"西垣通／著 河島茂生／著","description":"自動運転の車の事故は誰が責任をとるのか？　ＡＩの創作物はどう評価すべきか？　ＡＩ応用の過程で避けられない倫理的問題を徹底考察","price":"860","genre":"","target":"教養","format":"新書","content":"社会"}
 ,
 {"isbn":"9784163910956","title":"真夜中の陽だまり ルポ・夜間保育園","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-09-09","cover":"https://cover.openbd.jp/9784163910956.jpg","author":"三宅玲子／著","description":"飲食業や風俗などで夜働く親たちを支える夜間保育園。型破りな保育で注目される福岡の「どろんこ保育園」を長期にわたってルポした。","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784260039642","title":"日本腎不全看護学会誌　第21巻　第2号","volume":"","series":"","publisher":"医学書院","pubdate":"2019-09-09","cover":"","author":"一般社団法人日本腎不全看護学会／著","description":"一般社団法人日本腎不全看護学会編集・刊行の学会誌。本号は，実践報告1本，委員会報告3本，DLN事例報告1本を掲載。","price":"2400","genre":"","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
 ]

@@ -37,7 +37,7 @@
 ,
 {"isbn":"9784065166130","title":"歌舞伎十八番集","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-12","cover":"https://cover.openbd.jp/9784065166130.jpg","author":"河竹繁俊／著・編集 児玉竜一／著・解説","description":"七代目市川團十郎が選定した市川家代々の当り狂言十八番。『助六』『勧進帳』『暫』など江戸以来の脚本に詳細な註釈を付けた決定版","price":"1790","genre":"","target":"一般","format":"文庫","content":"演劇・映画"}
 ,
-{"isbn":"9784065166895","title":"音楽の理論","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-12","cover":"https://cover.openbd.jp/9784065166895.jpg","author":"門直美／著","description":"なぜベートヴェン「田園」は穏やかな感興をもたらすのか。クラシック評論の名手が曲を味わうためのものとしての「楽理」を紡ぎ出す！","price":"1310","genre":"","target":"一般","format":"文庫","content":"音楽・舞踊"}
+{"isbn":"9784065166895","title":"音楽の理論","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-12","cover":"https://cover.openbd.jp/9784065166895.jpg","author":"門馬直美／著","description":"なぜベートヴェン「田園」は穏やかな感興をもたらすのか。クラシック評論の名手が曲を味わうためのものとしての「楽理」を紡ぎ出す！","price":"1310","genre":"","target":"一般","format":"文庫","content":"音楽・舞踊"}
 ,
 {"isbn":"9784065166963","title":"トモちゃんは女の子！（8）","volume":"","series":"","publisher":"星海社","pubdate":"2019-09-12","cover":"https://cover.openbd.jp/9784065166963.jpg","author":"柳田史太／著","description":"「俺はトモが好きだ」この想いをトモに伝える決意をした淳一郎。受けとめるトモの答えはーーボーイッシュ女子ラブコメ、堂々完結！","price":"680","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -100,4 +100,8 @@
 {"isbn":"9784163910901","title":"プルースト効果の実験と結果","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-09-12","cover":"https://cover.openbd.jp/9784163910901.jpg","author":"佐々木愛／著","description":"過剰な自意識、空回りする憧れ、思い通りにいかない初恋。思春期の苦くて甘い心情を、鮮やかに、ポップに描き出すデビュー短篇集。","price":"1350","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784163910918","title":"スナック墓場","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-09-12","cover":"https://cover.openbd.jp/9784163910918.jpg","author":"嶋津輝／著","description":"つぶれたスナックの店員たちが競馬場で同窓会を…。実力派の女性新人作家が描く、ささやかだけど、美しい日々を生きていく女性たち。","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784254510638","title":"ことばのデータサイエンス","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-09-12","cover":"https://cover.openbd.jp/9784254510638.jpg","author":"小林雄一郎／著","description":"言語学・文学が対象とするテキストから計量的に知見を引き出すための統計・データ分析を学ぶ。","price":"2700","genre":"語学・辞事典","target":"専門","format":"単行本","content":"日本語"}
+,
+{"isbn":"9784267022098","title":"改訂版　横山光輝「三国志」大百科","volume":"","series":"","publisher":"潮版社","pubdate":"2019-09-12","cover":"","author":"横山光輝／著","description":"改訂版として横山光輝「三国志」大百科を刊行","price":"1800","genre":"コミックス(書)","target":"一般","format":"単行本","content":"コミックス・劇画"}
 ]

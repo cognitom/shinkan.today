@@ -43,7 +43,7 @@
 ,
 {"isbn":"9784052051043","title":"おかしなおきゃくさま","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784052051043.jpg","author":"ペク・ヒナ／著 ペク・ヒナ／イラスト 中川ひろたか／翻訳","description":"ある雨の日、お姉ちゃんと留守番をしていたら、変な子どもがやってきて…　おかしなお客さまが引き起こす大騒動！","price":"1500","genre":"児童図書","target":"児童","format":"絵本","content":"教育"}
 ,
-{"isbn":"9784053048653","title":"英語ことば選び辞典","volume":"","series":"ことば選び辞典","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784053048653.jpg","author":"学研辞典編集部／編集","description":"おしゃれで正確、新鮮で気の利いた英語で、名づやＳＮＳ発信をしたいときに開く本。薄い、軽い、小さいの三拍子そろった１冊。","price":"630","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"英米語"}
+{"isbn":"9784053048653","title":"英語ことば選び辞典","volume":"","series":"ことば選び辞典","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784053048653.jpg","author":"学研辞典編集部／編集","description":"おしゃれで正確、新鮮で気の利いた英語で、名づけやＳＮＳ発信をしたいときに開く本。薄い、軽い、小さいの三拍子そろった１冊。","price":"630","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"英米語"}
 ,
 {"isbn":"9784053048660","title":"大きな字の英語ことば選び辞典","volume":"","series":"ことば選び辞典","publisher":"学研プラス","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784053048660.jpg","author":"学研辞典編集部／編集","description":"おしゃれで正確、新鮮で気の利いた英語で、名づけやＳＮＳ発信をしたいときに開く本。薄い、軽い、小さいの三拍子そろった１冊。","price":"850","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"英米語"}
 ,
@@ -116,4 +116,8 @@
 {"isbn":"9784163910819","title":"カスハラ モンスター化する「お客様」たち","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784163910819.jpg","author":"NHK「クローズアップ現代+」取材班／著","description":"店員のささいなミスに「死ね」「土下座しろ」「SNSに晒すぞ」――客の行き過ぎたクレームへの解決策は？ 大反響番組を緊急刊行！","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784163910857","title":"人口で語る世界史","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784163910857.jpg","author":"ポール・モーランド／著 渡会圭子／翻訳","description":"大英帝国の出現は産業革命と農業革命による人口爆発ありきだった。一方、優生学ゆえ人口増に失敗したナチ。画期的な歴史教養書。","price":"2200","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
+,
+{"isbn":"9784198270605","title":"キャンプ・グッズ・マガジン　Vol.8","volume":"","series":"","publisher":"CLASSIX","pubdate":"2019-08-29","cover":"","author":"","description":"「キャンプ・グッズ・マガジンＶｏｌ．０８」は一冊丸ごとキャンプ＆アウトドア専門店特集。","price":"926","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+,
+{"isbn":"9784254122411","title":"入門 統計的因果推論","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-08-29","cover":"https://cover.openbd.jp/9784254122411.jpg","author":"JudeaPearl／著 MadelynGlymour／著 NicholasP.Jewell／著 ほか","description":"大家Pearlによる入門書。統計的に原因を推定する考え方を，図と言葉で丁寧に解説","price":"3300","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
 ]
