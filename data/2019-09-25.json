@@ -35,7 +35,7 @@
 ,
 {"isbn":"9784040659169","title":"朝比奈若葉と○○な彼氏","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-09-25","cover":"https://cover.openbd.jp/9784040659169.jpg","author":"間孝史／著 桃餅／イラスト","description":"発売前から話題沸騰！　嘘告白から始まる最上級のＷＥＢ発青春ラブコメ！","price":"620","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041076101","title":"Bestia　（２） ベスティア","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-09-25","cover":"https://cover.openbd.jp/9784041076101.jpg","author":"三田誠／原著 みやこかしわ／著 有坂あこ／著","description":"飛鳥は、SSSランク幻獣ファーブニルとの契約《ゲッシュ》に挑むーー。","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784041076101","title":"Bestia　ベスティア（２）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-09-25","cover":"https://cover.openbd.jp/9784041076101.jpg","author":"三田誠／原著 みやこかしわ／著 有坂あこ／著","description":"飛鳥は、SSSランク幻獣ファーブニルとの契約《ゲッシュ》に挑むーー。","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784041079027","title":"NYANKEES　（6）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-09-25","cover":"https://cover.openbd.jp/9784041079027.jpg","author":"岡田淳司／著","description":"野良猫リューセイの生き様を描いた、猫ヤンキー漫画、堂々完結!!","price":"640","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -130,4 +130,14 @@
 {"isbn":"9784130624589","title":"Pythonによるプログラミング入門　東京大学教養学部テキスト","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2019-09-25","cover":"https://cover.openbd.jp/9784130624589.jpg","author":"森畑明昌／著","description":"プログラミングの基本とともに情報科学の基礎を，Pythonを用いて学ぶテキスト．データ処理・AIなどの話題を扱い，基礎から本質までを学ぶことができる．","price":"2200","genre":"","target":"専門","format":"単行本","content":"情報科学"}
 ,
 {"isbn":"9784140912591","title":"「幕府」とは何か 武家政権の正当性","volume":"1259","series":"ＮＨＫブックス","publisher":"NHK出版","pubdate":"2019-09-25","cover":"","author":"東島誠／著","description":"支配の根拠は、武力より民意にあった――日本史６８０年間に対する視点の大きな転換を迫る、気鋭の歴史家８年ぶりの書き下ろし！","price":"1500","genre":"歴史・地理","target":"教養","format":"全集・双書","content":"日本歴史"}
+,
+{"isbn":"9784199608049","title":"人魚姫の真珠","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-09-25","cover":"","author":"華藤えれな／著 北沢きょう／イラスト","description":"人魚伝説がのこる海で織りなす、切なくも美しいＬＯＶＥストーリーｖ豪華コラボで贈る珠玉のロマンティック・ファンタジー！！","price":"680","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199608056","title":"あまいカラダとにがいキス","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-09-25","cover":"","author":"楢崎ねねこ／著","description":"カラダはとろけるように甘くつなげても、心は素直になれない――凄腕バリスタ＆天才ショコラティエのスウィートな恋の駆け引きｖ","price":"640","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199608063","title":"そろそろ結婚しませんか","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-09-25","cover":"","author":"不破慎理／著","description":"大人のジレンマと甘酸っぱさが詰まった純愛ストーリー！！","price":"640","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784262155401","title":"自分をもっと好きになる　【ハピかわ】かわいいのルール","volume":"","series":"","publisher":"池田書店","pubdate":"2019-09-25","cover":"","author":"双葉陽／著","description":"・マナー&気配り&人間関係　すてき女子の新常識！\t\n・今日からミラクル☆内面美人宣言","price":"900","genre":"","target":"児童","format":"単行本","content":"家事"}
+,
+{"isbn":"9784262169811","title":"リアルな韓国語は、ことわざ 慣用表現から学ぶ","volume":"","series":"","publisher":"池田書店","pubdate":"2019-09-25","cover":"https://cover.openbd.jp/9784262169811.jpg","author":"長友英子／著 荻野優子／著","description":"慣用句・ことわざを通して韓国のリアルな日常が見える！\n解説で韓国文化や習慣、語源がわかる！　理解が深まる！","price":"1300","genre":"","target":"実用","format":"単行本","content":"各国語"}
 ]
