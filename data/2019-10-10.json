@@ -115,7 +115,7 @@
 ,
 {"isbn":"9784065174517","title":"盲導犬引退物語","volume":"","series":"","publisher":"講談社","pubdate":"2019-10-10","cover":"","author":"沢田俊子／著 大庭賢哉／著","description":"盲導犬は、だいたい１０歳ごろには役目を終えて、引退します。そのあと、だれと、どんなくらしをしているのでしょう？","price":"680","genre":"","target":"児童","format":"新書","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784065174524","title":"エンマ先生の怪談帳　霊の案件で放課後は大いそがし！","volume":"","series":"","publisher":"講談社","pubdate":"2019-10-10","cover":"","author":"池田美代子／著 戸部淑／著","description":"「さあ、怪談をはじめよう。」左目に眼帯をつけて授業の最初に怪談を語る、超絶美人の耶摩先生。本当のおしごととはいったい－－？","price":"680","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
+{"isbn":"9784065174524","title":"エンマ先生の怪談帳　霊の案件で放課後は大いそがし！","volume":"","series":"","publisher":"講談社","pubdate":"2019-10-10","cover":"","author":"池田美代子／著 戸部淑／著","description":"「さあ、怪談をはじめよう。」左目に眼帯をつけて授業の最初に怪談を語る、超絶美人の耶摩先生。本当のおしごととはいったい－－？","price":"650","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065174531","title":"浜村渚の計算ノート（2）","volume":"","series":"","publisher":"講談社","pubdate":"2019-10-10","cover":"","author":"青柳碧人／著 桐野壱／著","description":"数学テロ集団「黒い三角定規」の残酷な犯罪に立ち向かうために警視庁が見つけ出した最終兵器は、一人の天才女子中学生・浜村渚！","price":"680","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
 ,
@@ -154,4 +154,16 @@
 {"isbn":"9784140886038","title":"ＡＩ以後","volume":"603","series":"ＮＨＫ出版新書","publisher":"NHK出版","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784140886038.jpg","author":"丸山俊一／著 ＮＨＫ取材班／著","description":"進化し続けるＡＩは、人間や社会は今後どうなるのか？　４人のＡＩ研究の世界的知性の語りから、人類の未来とその対峙法をさぐる！","price":"800","genre":"","target":"一般","format":"新書","content":"社会"}
 ,
 {"isbn":"9784140886045","title":"残酷な進化論","volume":"604","series":"ＮＨＫ出版新書","publisher":"NHK出版","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784140886045.jpg","author":"更科功／著","description":"ベストセラー『絶滅の人類史』の著者が、「人体」をテーマに誤解されがちな進化論の本質を明快に描く、知的エンターテインメント！","price":"800","genre":"","target":"一般","format":"新書","content":"生物学"}
+,
+{"isbn":"9784150313982","title":"天魔乱丸","volume":"","series":"","publisher":"早川書房","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784150313982.jpg","author":"大塚卓嗣／著","description":"信長死した本能寺の変――業火は蘭丸をなめつくし……半身は美少年、半身は焼けただれた異形と化し、蘭丸の復讐がいま発動する！","price":"660","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784150313999","title":"陰仕え 石川紋四郎","volume":"","series":"","publisher":"早川書房","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784150313999.jpg","author":"冬月剣太郎／著","description":"剣技冴える定町廻同心の紋四郎だが、薄毛に日々悶々。さらに、読売殺しの調べを、好奇心旺盛な愛妻が手伝うというから心配で……","price":"660","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784160089600","title":"偉人伝","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-10-10","cover":"","author":"中西瑠璃／著","description":"武士の世に生を受け、仏像彫刻、能楽、茶道、陽明学の各分野で後世に名を残した名人四人の生涯。","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784163911083","title":"黙示録 映画プロデューサー・奥山和由の天国と地獄","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784163911083.jpg","author":"春日太一／著","description":"八〇年代、九〇年代、低迷する日本映画界で一人気を吐いたスタープロデューサー、奥山和由。名監督、名優たちとの秘話を語り下ろす！","price":"1900","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784163911090","title":"うまうまニッポン！ 食いだおれ二人旅","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784163911090.jpg","author":"高田かや／著","description":"温泉宿で自炊をしたり、季節の甘味に行列したり……。食べることが大好きな著者夫妻が実際に体験した「おいしい旅」を漫画で紹介。","price":"1000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784163911120","title":"カッティング・エッジ","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784163911120.jpg","author":"ジェフリー・ディーヴァー／著 池田真紀子／翻訳","description":"連続殺人犯の唯一の目撃者を追ってリンカーン・ライムと犯人がNYで展開する頭脳戦。結婚間近の男女を狙う犯人の目的は。最新長編。","price":"2500","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
 ]
