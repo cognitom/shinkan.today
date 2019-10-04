@@ -71,7 +71,7 @@
 ,
 {"isbn":"9784040733326","title":"ソード・ワールド2.5リプレイトライ 継承される物語","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784040733326.jpg","author":"北沢慶／グループSNE／著 ランサネ／イラスト","description":"魔動機文明の意外な側面。その想像を超えた文化と娯楽が現代によみがえる！","price":"840","genre":"","target":"一般","format":"文庫","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784040733449","title":"アリアンロッドRPG２E パーフェクト・エネミーガイド","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784040733449.jpg","author":"菊池たけし／Ｆ．Ｅ．Ａ．Ｒ．／著 佐々木あかね／イラスト","description":"イラストも多数掲載。エリンディルのエネミーデータを１冊に纏めた決定版！","price":"4500","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+{"isbn":"9784040733449","title":"アリアンロッドRPG２E パーフェクト・エネミーガイド","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784040733449.jpg","author":"菊池たけし／Ｆ．ＥＡ．Ｒ．／著 佐々木あかね／イラスト","description":"イラストも多数掲載。エリンディルのエネミーデータを１冊に纏めた決定版！","price":"4500","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784040733739","title":"神々に育てられしもの、最強となる","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784040733739.jpg","author":"羽田遼亮／著 fame／イラスト","description":"その少年、神々の子につき――すべてが規格外！","price":"630","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -133,11 +133,11 @@
 ,
 {"isbn":"9784065171264","title":"鬼灯の冷徹（29）","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784065171264.jpg","author":"江口夏実／著","description":"最後の十王補佐官、ついに登場！　太山王の第一補佐官は、ナンジャモンジャ！？","price":"610","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065171288","title":"ハコヅメ～交番女子の逆襲～（9）","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784065171288.jpg","author":"泰三子／著","description":"新任警察官・川合と、超美人＆刑事部のエースながらパワラで交番に飛ばされた藤部長。交番（＝ハコ）勤務女子二人のお仕事備忘録！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065171288","title":"ハコヅメ～交番女子の逆襲～（9）","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784065171288.jpg","author":"泰三子／著","description":"新任警察官・川合と、超美人＆刑事部のエースながらパワハラで交番に飛ばされた藤部長。交番（＝ハコ）勤務女子二人のお仕事備忘録！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065171349","title":"ランド（9）","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784065171349.jpg","author":"山下和美／著","description":"杏、覚醒。少女の後ろには穢れなき者たち。その瞳の見つめる先は「破滅」か「改変」か。","price":"740","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065171493","title":"サイリーマン（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784065171493.jpg","author":"原田尚／著","description":"会社では部下と上司でも、週末は山へ川へとロードバイクを漕ぎ出す仲間。読むと自転車に乗りたくなるファンライドストーリー開幕！","price":"610","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065171493","title":"サイクリーマン（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784065171493.jpg","author":"原田尚／著","description":"会社では部下と上司でも、週末は山へ川へとロードバイクを漕ぎ出す仲間。読むと自転車に乗りたくなるファンライドストーリー開幕！","price":"610","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065171769","title":"人間入門（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784065171769.jpg","author":"石川聖／著","description":"「かわいい」を微分して「生きる意味」を求める、一人と一頭の日常。","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -224,4 +224,110 @@
 {"isbn":"9784166612345","title":"玉三郎 勘三郎 海老蔵 平成歌舞伎三十年史","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784166612345.jpg","author":"中川右介／著","description":"平成歌舞伎の主人公は、玉三郎、勘三郎、海老蔵の三人である。彼らを主軸にして、歌舞伎の「いま」と「この先」を展望する。","price":"880","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784197204878","title":"ボイスアニメージュ No.42","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-09-20","cover":"","author":"","description":"人気声優のスペシャルグラビア＆インタビュー満載！！","price":"1200","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
+,
+{"isbn":"9784198645694","title":"関口知宏のヨーロッパ鉄道大紀行","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-09-20","cover":"","author":"関口知宏／著","description":"旅人は、かつて踏み入れたイギリスを再訪。１０年以上の時を経て、関口の胸に去来するものは？","price":"1800","genre":"","target":"一般","format":"単行本","content":"旅行"}
+,
+{"isbn":"9784198648992","title":"ハイスクールTCGガールズ","volume":"","series":"","publisher":"アンビット","pubdate":"2019-09-20","cover":"","author":"平野累次／著 ぷきゅのすけ／イラスト","description":"優しかった兄は、地下闘技場の闇ＴＣＪチャンピオン！？　ＴＣＪの楽しさに目覚めた女子高生が部活の仲間と勝利を目指す！","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198649319","title":"偽・聖剣物語","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-09-20","cover":"","author":"溝上良／著 MACCO／イラスト","description":"こんな聖職者がいてもいいのか？クズが世界を救う！トンデモ聖剣使いと聖女が織りなす　最狂のファンタジーコメディ開幕！","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198649340","title":"九星幸運暦　２０２０　庚子　七赤金星","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-09-20","cover":"","author":"一般財団法人東洋運勢学会／編集 三須啓仙／監修","description":"「令和」の時代を生き抜く秘訣！東洋運勢学による「幸運暦」で、毎日運から金運、仕事運、相性まで開運の秘訣が全てわかる。","price":"1000","genre":"","target":"一般","format":"単行本","content":"心理(学)"}
+,
+{"isbn":"9784198649388","title":"10歳若い動きになる シルキー体操","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-09-20","cover":"","author":"中村多仁子／著 小澤忠恭／写真","description":"１９６４年の東京五輪体操メダリストが考えた！　１日１分、軸を意識して体操するだけで、体の動きが１０歳若返る健康体操！！","price":"1400","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784198649401","title":"Masquerade -マスカレード-","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-09-20","cover":"","author":"葵つかさ／著 近井沙妃／写真","description":"芸能デビュー１０周年目を迎えた人気セクシー女優の葵つかさ。ハワイで２０を超えるシチュエーションを撮影した集大成の一冊！","price":"3000","genre":"芸能・タレント","target":"一般","format":"単行本","content":"写真・工芸"}
+,
+{"isbn":"9784198649432","title":"こわいほどよく当たる 2020年 金宿星占い","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-09-20","cover":"","author":"あいはら友子／著","description":"金運が上がれば、全体運も上がる！　お金の神様に好かれて生きていくにはどうすればいいのかを生年月日ごとにお教えします。","price":"1600","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784198649654","title":"「韓国大破滅」入門","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-09-20","cover":"","author":"渡邉哲也／著","description":"「ホワイト国」除外の報復でＧＳＯＭＩＡ破棄など狂乱騒ぎの韓国。これから何が起こるのか！？　アジアの変化を完全詳解。","price":"1500","genre":"","target":"一般","format":"単行本","content":"経済・財政・統計"}
+,
+{"isbn":"9784198649845","title":"元社長が語る！　セガ家庭用ゲーム機 開発秘史","volume":"","series":"","publisher":"アンビット","pubdate":"2019-09-20","cover":"","author":"佐藤秀樹／著","description":"セガ社長を務めた著者が語りつくすセガ家庭用ゲーム機開発秘話","price":"1300","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784199805905","title":"アンサングシンデレラ 病院薬剤師 葵みどり　③","volume":"","series":"","publisher":"ノース・スターズ・ピクチャーズ","pubdate":"2019-09-20","cover":"","author":"荒井ママレ／著 富野浩充／著","description":"がん治療の現場が、化学療法から緩和ケアまでつぶさに描かれてた今巻。決して他人事ではなくなるはずです。","price":"580","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199805912","title":"魔王さまはかきんちゅう！　②","volume":"","series":"","publisher":"ノース・スターズ・ピクチャーズ","pubdate":"2019-09-20","cover":"","author":"綾野綾乃／著 水城水城／著","description":"堕落しまくってた魔王に、部下たちの反乱が勃発！！　「魔王」の座をかけたスマホゲームバトルは、まさかの激アツ展開に～～！？","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199805929","title":"ちるらん 新撰組鎮魂歌　25","volume":"","series":"","publisher":"ノース・スターズ・ピクチャーズ","pubdate":"2019-09-20","cover":"","author":"橋本エイジ／著 梅村真也／著","description":"幕末の梟雄・榎本武揚登場！　この漢との出会いが土方歳三の運命を大きく変えていく。","price":"562","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199805936","title":"モノノ怪　化猫　下","volume":"","series":"","publisher":"ノース・スターズ・ピクチャーズ","pubdate":"2019-09-20","cover":"","author":"蜷川ヤエコ／著 モノノ怪製作委員会／著","description":"真実を語るたび、消されていく乗客達。薬売りは化猫を清め祓うことができるのか。シリーズ最終章「化猫」いよいよ大詰め。","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199805943","title":"文野さんの文具な日常　④","volume":"","series":"","publisher":"ノース・スターズ・ピクチャーズ","pubdate":"2019-09-20","cover":"","author":"榎本あかまる／著","description":"なじみ深い文具１０選が懐かし心をくすぐります。しゃべらないキャラの文野さんがついに思いの丈を語るシーンは必見！","price":"540","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784251004925","title":"激ムズめいろ！ おばけ学校","volume":"","series":"","publisher":"あかね書房","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784251004925.jpg","author":"このみ・プラニング／著","description":"かわいいおばけたちが、学校のあらゆる場所で待っている激ムズな迷路絵本。驚くほど細かいルートを見落とさずに解いてほしい。","price":"1300","genre":"児童図書","target":"児童","format":"絵本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784253106658","title":"金曜ドラマ「凪のお暇」公式ヴィジュアルBOOK","volume":"","series":"","publisher":"秋田書店","pubdate":"2019-09-20","cover":"","author":"秋田書店出版部／編集","description":"７/１９より放送開始のTBSテレビ系、金曜ドラマ「凪のお暇」の公式ヴィジュアルBOOKです。出演の黒木華さん、高橋一生さん、中村倫也さんの魅力満載です。","price":"1300","genre":"テレビ・映画化","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784253107754","title":"部屋から出ないで100年生きる健康法","volume":"","series":"","publisher":"秋田書店","pubdate":"2019-09-20","cover":"","author":"カレー沢薫／著","description":"死ぬほどではないけど絶好調ではない現代人に贈る、無理をせず行う新時代の健康法マニュアル！\nぬるくて新しい健康法コラム！","price":"1200","genre":"ヤングアダルト","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784254141054","title":"錯体化合物事典","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784254141054.jpg","author":"錯体化学会／編集","description":"様々な領域で活用される錯体化合物を物質ごとに合成法・構造・性質・機能などを解説","price":"29000","genre":"自然科学","target":"専門","format":"事・辞典","content":"化学"}
+,
+{"isbn":"9784254180541","title":"大気環境の事典","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784254180541.jpg","author":"大気環境学会／編集","description":"手法，実態，過程，影響，対策，地球環境の6つの軸で総合的に基礎からわかりやすく解説","price":"13000","genre":"自然科学","target":"専門","format":"事・辞典","content":"自然科学総記"}
+,
+{"isbn":"9784254510621","title":"正しく書いて読むための 英文法用語事典","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784254510621.jpg","author":"畠山雄二／編集","description":"英文法用語を見開き2頁完結で明快に解説する。英語教師・英文科学生・上級学習者必携の一冊","price":"5000","genre":"語学・辞事典","target":"専門","format":"事・辞典","content":"英米語"}
+,
+{"isbn":"9784276311404","title":"音楽教育研究ハンドブック","volume":"","series":"","publisher":"株式会社音楽之友社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784276311404.jpg","author":"日本音楽教育学会／編集","description":"日本音楽教育学会設立50周年記念出版企画。音楽教育について学びたい人、深く知りたい研究者・実践者に最適なハンドブック。","price":"2700","genre":"","target":"教養","format":"単行本","content":"音楽・舞踊"}
+,
+{"isbn":"9784297108618","title":"リーマン予想の今，そして解決への展望","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784297108618.jpg","author":"黒川信重／著","description":"本書は、2012年に刊行された知りたい！サイエンス『リーマン予想の探求 ～ABCからZまで～』に最新情報を加え、大幅に改訂したものです。リーマン予想に関係のあるオイラーやラマヌジャン、佐藤・テイト予想などの解説も加え、さらにリーマン予想の解決への鍵となる絶対数学について第８章「絶対数学の進展」を新たに設けて詳しく説明しています。リーマン予想へのキーワードとなる「黒川テンソル積」および「零和構造」に注目しながら読み進めてみてください。","price":"1680","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
+,
+{"isbn":"9784297108632","title":"無料ではじめるBlender　CG アニメーションテクニック　～3DCGの構造と動かし方がしっかりわかる　【Blender 2.8対応版】","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784297108632.jpg","author":"大澤龍一／著","description":"本書は、キャラクターを動かすことを通じて、「ペアレント」「タイムライン」「ボーン」はじめ、3DCGアニメ制作には欠かすことのできない知識、その構造についてゲームのステージをクリアするように学びます。\n1ステージずつ、楽しみながらどんどん動かしていきましょう。\nアニメーションにより現実的な表現を加える「エフェクト」の扱い方、「モデリング」のテクニックや「レンダリング」のコツも紹介。「ああしたい、こうしたい」のヒントをたくさん詰めこみました。\n最新技術を活用して、ショートムービーを作ったり、アニメーションするスタンプを作ったり、だれかに喜んでもらえるようなアニメーション作りを一緒に楽しみましょう！","price":"2780","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784326154623","title":"言語哲学から形而上学へ","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784326154623.jpg","author":"中山康雄／著","description":"分析哲学はどのように発展・深化してきたのか？　一貫した視座から分析哲学史を描くとともに独自のプロセス形而上学の構築を試みる。","price":"3200","genre":"哲学・宗教","target":"専門","format":"単行本","content":"哲学"}
+,
+{"isbn":"9784326251360","title":"心理学、認知・行動科学のための反応時間ハンドブック","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784326251360.jpg","author":"綾部早穂／編集 井関龍太／編集 熊田孝恒／編集","description":"人を対象とした実験において、反応時間を計測することの意義とは何か。理論的な背景や基礎的事項から、実用的な方法論や応用例まで。","price":"3600","genre":"哲学・宗教","target":"専門","format":"単行本","content":"心理(学)"}
+,
+{"isbn":"9784336063502","title":"禅画百譚","volume":"","series":"","publisher":"国書刊行会","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784336063502.jpg","author":"池上文僊／著","description":"禅門の逸話・公案など百話と禅画百。『無門関』公案の「頌」は漢文・書き下し・現代語訳。禅僧の略歴と禅語に註を付け解題を付する。","price":"3500","genre":"哲学・宗教","target":"一般","format":"単行本","content":"仏教"}
+,
+{"isbn":"9784336063731","title":"完本 忍秘伝","volume":"","series":"","publisher":"国書刊行会","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784336063731.jpg","author":"中島篤巳／著","description":"三大忍術伝書の一角をなす忍術の秘伝書初の現代語。読み下し文、原文に加え幻の忍術書「忍道梯楷論和漢忍利證語抄」を附した完全版。","price":"4500","genre":"歴史・地理","target":"一般","format":"単行本","content":"日本歴史"}
+,
+{"isbn":"9784336063830","title":"いやいやながらルパンを生み出した作家","volume":"","series":"","publisher":"国書刊行会","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784336063830.jpg","author":"ジャック・ドゥルワール／著 小林佐江子／翻訳","description":"絶大な人気を誇りつづける《怪盗紳士アルセーヌ・ルパン》の生みの親、モーリス・ルブランの初の伝記。ミステリファン待望の書","price":"3600","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
+,
+{"isbn":"9784336064585","title":"台湾語で歌え日本の歌","volume":"","series":"","publisher":"国書刊行会","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784336064585.jpg","author":"陳明仁／著 酒井亨／監修・翻訳","description":"“台湾語”文学の本邦初紹介。陳明仁は牧歌的な農村風景に、二二八事件など政治的モチーフを絡めて描きだす。小説・詩・戯曲の選集。","price":"2800","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
+,
+{"isbn":"9784384059519","title":"新わかりやすい国連の活動と世界","volume":"","series":"","publisher":"三修社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784384059519.jpg","author":"公益財団法人日本国際連合協会／著","description":"国連の基本情報と活動内容、関連機関の情報をコンパクトに日本語と英語で併記したガイドブックの最新版。国連英検指定テキスト。","price":"2700","genre":"語学・辞事典","target":"実用","format":"単行本","content":"英米語"}
+,
+{"isbn":"9784385159638","title":"デイリー六法２０２０　令和２年版","volume":"","series":"","publisher":"三省堂","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784385159638.jpg","author":"大石眞／編集","description":"民事執行法改正、独占禁止法改正、民法改正等に対応。法文中のカッコ書きに薄アミを掛けて表示し、条文の骨格を明瞭化。学習に好適。","price":"1900","genre":"社会科学","target":"一般","format":"事・辞典","content":"法律"}
+,
+{"isbn":"9784391153583","title":"でっかいパン","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784391153583.jpg","author":"幸栄／著","description":"「ちょっとのイースト」で作る、しみじみおいしいでっかいパンのレシピ集。バターも卵も使わない、こね時間はわずか3分の手軽さ！","price":"1400","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784391153668","title":"365日のパウンドケーキ","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784391153668.jpg","author":"高石紀子／著","description":"毎日食べたい、いつでも作りたい──やさしい甘さと軽やかな食感が特徴の、季節に寄り添うパウンドケーキのレシピ集。","price":"1400","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784391153897","title":"迷いも悩みも手放す！ 人生を肯定できる片づけ","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784391153897.jpg","author":"井田典子／著","description":"著者累計15万部！　大反響を呼んだ「人生を救う片づけ」「人生を変える片づけ」に続く、第三弾の写真つきエッセイ集。","price":"1200","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784391153927","title":"ファスナーポーチ作りの達人になる！","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784391153927.jpg","author":"鈴木ふくえ／監修","description":"ファスナーポーチの基礎が学べ、オリジナル作品の型紙製作やデザインができるようになる画期的な１冊。掲載作品は全て商用利用可。","price":"1300","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784391153965","title":"奥野 壮ファースト写真集　So far","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784391153965.jpg","author":"奥野壮／著","description":"『仮面ライダージオウ』で主演デビュー。ジュノンボーイ・奥野壮のファースト写真集。","price":"2800","genre":"芸能・タレント","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784405073005","title":"仏像ドリル","volume":"","series":"","publisher":"新星出版社","pubdate":"2019-09-20","cover":"","author":"島田裕巳／監修 カワモトトモカ／イラスト","description":"本書は、仏像のことをもっと知りたいという方が、楽しみつつ仏像の知識を身につけられるよう、穴埋め形式で知識をまとめました。","price":"1100","genre":"","target":"実用","format":"単行本","content":"仏教"}
+,
+{"isbn":"9784405093775","title":"毎日がんばっている人の　ミカタレシピ","volume":"","series":"","publisher":"新星出版社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784405093775.jpg","author":"阪下千恵／著","description":"仕事と家事を両立している人、あまり料理が得意ではない人、そんな人の『ミカタレシピ』。フライパン1つでできる主菜などを紹介。","price":"1200","genre":"","target":"実用","format":"単行本","content":"家事"}
+,
+{"isbn":"9784405103443","title":"パッ！と伝わる　社会人の文章ルール","volume":"","series":"","publisher":"新星出版社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784405103443.jpg","author":"出口汪／監修","description":"真面目な文章を書こうとすると何を書けばいいかわからない人。そんな人の文章が正しく伝わるものに生まれ変わります。","price":"1200","genre":"","target":"実用","format":"単行本","content":"経営"}
+,
+{"isbn":"9784406063746","title":"山のちょうじょうの木のてっぺん","volume":"","series":"","publisher":"新日本出版社","pubdate":"2019-09-20","cover":"","author":"最上一平／著 有田奈央／イラスト","description":"にしやんのところの犬が死にそうです。死ぬのはこわい。けれど、いがらしくんは、どうやって死ぬのか、みてみたい気がしました…。","price":"1300","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784406063753","title":"新版　資本論　第１分冊","volume":"","series":"","publisher":"新日本出版社","pubdate":"2019-09-20","cover":"","author":"カール・マルクス／著 日本共産党中央委員会社会科学研究所／監修","description":"マルクス自身の研究の発展史を余すところなく反映。エンゲルス版の編集上の問題点も克服した、画期的内容で、新編集版の刊行始まる！","price":"1700","genre":"社会科学","target":"一般","format":"単行本","content":"経済・財政・統計"}
+,
+{"isbn":"9784407348323","title":"First Stage シリーズ 建築法規概論　改訂版","volume":"","series":"","publisher":"実教出版","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784407348323.jpg","author":"大村謙二郎／監修 五條渉／監修 萩原一郎／監修 平野吉信／監修","description":"建築基準法を中心に各種の関連法規をわかりやすく学べるテキスト。高等学校教科書を底本として、「建築法規」の基礎・基本を解説。","price":"2400","genre":"","target":"専門","format":"単行本","content":"建築"}
+,
+{"isbn":"9784407348354","title":"30時間でマスター　Office2019","volume":"","series":"","publisher":"実教出版","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784407348354.jpg","author":"実教出版企画開発部／編集","description":"オールカラーでわかりやすく学べるパソコン入門テキスト。ワープロ・表計算・プレゼンテーションの基礎を１冊で身につけられる。","price":"1000","genre":"","target":"一般","format":"単行本","content":"情報科学"}
+,
+{"isbn":"9784407348385","title":"30時間でマスター　Word＆Excel2019","volume":"","series":"","publisher":"実教出版","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784407348385.jpg","author":"実教出版企画開発部／編集","description":"オールカラーでわかりやすく学べるパソコン入門テキスト。Windows、Word、Excelの基礎を例題を通して身に付ける。","price":"950","genre":"","target":"一般","format":"単行本","content":"情報科学"}
+,
+{"isbn":"9784413113007","title":"もっときれいに撮れる！スマホで旅行写真 コツと裏ワザ","volume":"","series":"","publisher":"青春出版社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784413113007.jpg","author":"庄子利男／著・翻訳","description":"スマホカメラで本格的な写真を撮りたいすべての人へ。少しのコツと裏ワザを知ることでいつもの写真がプロ並みの写真に変わる！","price":"1410","genre":"","target":"実用","format":"単行本","content":"写真・工芸"}
+,
+{"isbn":"9784413113014","title":"日本史の「なぜ？」を解く200の裏事情","volume":"","series":"","publisher":"青春出版社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784413113014.jpg","author":"歴史の謎研究会／編集","description":"やけに気になる日本史ネタを完全公開。古代から現代まで、2000年に及ぶ日本史の「なぜ？」がスッキリ。大人のための歴史教室！","price":"1000","genre":"","target":"一般","format":"単行本","content":"日本歴史"}
+,
+{"isbn":"9784413113021","title":"1日1回！大人と子どもの目がよくなるすごいクイズ","volume":"","series":"","publisher":"青春出版社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784413113021.jpg","author":"若桜木虔／著・イラスト","description":"思わず夢中になってしまう「クイズ」で、眼筋トレーニングを行う方法を紹介。クイズを楽しみながら目がよくなる画期的な視力回復本。","price":"1300","genre":"","target":"一般","format":"単行本","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784413231336","title":"すべての人間関係の秘密を解き明かす マヤ暦でわかる相性","volume":"","series":"","publisher":"青春出版社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784413231336.jpg","author":"木田景子／著","description":"生年月日をマヤ暦と照らし合わせることで、その人が持つ波長がわかる！良好な人間関係を築いていくための波長の法則を徹底解説。","price":"1380","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784413231343","title":"ノートのとり方１つで子どもの学力はどんどん伸びる！","volume":"","series":"","publisher":"青春出版社","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784413231343.jpg","author":"州崎真弘／著","description":"成績が上がらないのは、ノートの取り方や使い方が原因だった！学校では教えてくれない、成績が伸びる子に変わるノートの新常識。","price":"1400","genre":"","target":"一般","format":"単行本","content":"教育"}
+,
+{"isbn":"9784414300154","title":"音響聴覚心理学","volume":"","series":"","publisher":"誠信書房","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784414300154.jpg","author":"大串健吾／著","description":"音響心理学・聴覚心理学の国内第一人者が、徹底した研究のもと、研究成果・知識をまとめ上げた集大成。新たな研究のヒントが満載","price":"4500","genre":"哲学・宗教","target":"専門","format":"単行本","content":"心理(学)"}
+,
+{"isbn":"9784414311235","title":"アニメーションの心理学","volume":"","series":"心理学叢書","publisher":"誠信書房","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784414311235.jpg","author":"日本心理学会／監修 横田正夫／編集","description":"アニメーションの作り手たちが生み出してきた、動きやストーリーを魅力的にするための技の秘密に、心理学者と制作者の視点から迫る","price":"2400","genre":"哲学・宗教","target":"教養","format":"全集・双書","content":"心理(学)"}
+,
+{"isbn":"9784414416619","title":"対人関係精神分析の心理臨床","volume":"","series":"","publisher":"誠信書房","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784414416619.jpg","author":"川畑直人／監修 京都精神分析心理療法研究所／編集","description":"対人関係精神分析が日本でどのように活用されているか、医療、教育、司法、産業、開業、災害支援の場での実践例、訓練課程を紹介","price":"3800","genre":"哲学・宗教","target":"専門","format":"単行本","content":"心理(学)"}
+,
+{"isbn":"9784414601619","title":"子ども家庭福祉学序説","volume":"","series":"","publisher":"誠信書房","pubdate":"2019-09-20","cover":"https://cover.openbd.jp/9784414601619.jpg","author":"柏女霊峰／著","description":"子ども家庭福祉の理念、制度、方法の円環的前進の法則性を打ち出し、一体的に検討し、「学」として再構築する著者渾身の書き下ろし","price":"3800","genre":"社会科学","target":"専門","format":"単行本","content":"社会"}
 ]
