@@ -69,7 +69,7 @@
 ,
 {"isbn":"9784065174593","title":"恋の音、みつけた（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-10-11","cover":"","author":"赤池うらら／著","description":"その人がくれた「すごい！」は、世界が変わる音がした――ほめ上手な兄友と自信なしピアノ少女の、青春ごほうびＤＡＹＳ開幕。","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065174609","title":"ごきげんよう、小春さん（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-10-11","cover":"","author":"葉月かなえ／著","description":"累計９５０万部突破のメガヒット作「好きっていいなよ。」の葉月かなえ待望の最新作！！もっと深くつながりたい、令和リアルラブ幕","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065174609","title":"ごきげんよう、小春さん（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-10-11","cover":"","author":"葉月かなえ／著","description":"累計９５０万部突破のメガヒット作「好きっていいなよ。」の葉月かなえ待望の最新作！！もっと深くつながりたい、令和リアルラブ開幕","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065174616","title":"キスはこっそりと。","volume":"","series":"","publisher":"講談社","pubdate":"2019-10-11","cover":"","author":"かみのるり／著","description":"このキスは誰にも言いたくない――！　デザート期待の新人が描く、４つの秘密の「こそイチャ」オムニバス・ラブ！！","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -126,60 +126,4 @@
 {"isbn":"9784309287621","title":"型紙いらずの着物リメイク　１枚の着物で大人服＆子ども服","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-10-11","cover":"","author":"松下純子／著","description":"１枚の着物で自分に１着＋子供や孫に１着、お揃いの服が作れます！　型紙不要、初心者でも簡単。大人Ｍ～ＬＬ、子供110～120。","price":"1400","genre":"","target":"一般","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784309290577","title":"狂瀾怒濤 あるいは、ブラックドール騒動","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-10-11","cover":"","author":"エドワード・ゴーリー／著 柴田元幸／翻訳","description":"物語はあなた次第で進行するのに、行きつく果ては毎度おなじみ、ナンセンスの極み。さらなるエドワード・ゴーリーの大傑作！","price":"1300","genre":"","target":"一般","format":"単行本","content":"絵画・彫刻"}
-,
-{"isbn":"9784338287210","title":"蝶の羽ばたき、その先へ","volume":"","series":"","publisher":"小峰書店","pubdate":"2019-10-11","cover":"https://cover.openbd.jp/9784338287210.jpg","author":"森埜こみち／著","description":"突発性難聴で片方の耳が聞こえなくなった結。両耳が聞こえない今日子や、手話サークルとの出会いを経て、新しい一歩を踏み出す。","price":"1400","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784385159812","title":"模範小六法２０２０　令和２年版","volume":"","series":"","publisher":"三省堂","pubdate":"2019-10-11","cover":"https://cover.openbd.jp/9784385159812.jpg","author":"判例六法編修委員会／編集","description":"民事執行法、独占禁止法、民法等の改正に対応。好評の法文中のカッコ書き薄アミ掛けで、条文の骨格を明瞭化。収録法令１５４件。","price":"2800","genre":"社会科学","target":"一般","format":"事・辞典","content":"法律"}
-,
-{"isbn":"9784385162430","title":"世界物語大事典","volume":"","series":"","publisher":"三省堂","pubdate":"2019-10-11","cover":"https://cover.openbd.jp/9784385162430.jpg","author":"ローラ・ミラー／編集 巽孝之／監修 越前敏弥／翻訳","description":"空想の王国や不思議の国を舞台にした世界の文学作品を集めたブックガイド。４千年に及ぶ物語の歴史を網羅。オールカラー。","price":"4200","genre":"","target":"一般","format":"事・辞典","content":"文学総記"}
-,
-{"isbn":"9784391153217","title":"萩原さんちの昔ながらの人力生活（仮）","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2019-10-11","cover":"","author":"萩原久子／著 萩原卓／著","description":"刺し子作家で書家の萩原久子さんと、画家の夫・卓さん夫妻の、家電に頼らない自然に寄り添った「人力生活」の暮らしの記録です。","price":"1400","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
-,
-{"isbn":"9784391153361","title":"リラックマ学習ドリル小学6年の漢字 改訂版","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2019-10-11","cover":"","author":"鈴木二正／監修","description":"2020年4月から実施される新学習指導要領に対応した改訂版。人気のリラックマと一緒に、6年の漢字191字を楽しくマスター。","price":"900","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"日本語"}
-,
-{"isbn":"9784391153378","title":"すみっコぐらし学習ドリル 小学6年の漢字","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2019-10-11","cover":"","author":"卯月啓子／監修","description":"人気のすみっコぐらしと、6年の漢字191字を楽しくマスターするドリル。2020年4月からの新学習指導要領に対応。シール付き。","price":"920","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"日本語"}
-,
-{"isbn":"9784391642599","title":"大人になったら、着たい服’19-’20秋冬","volume":"","series":"ナチュリラ別冊","publisher":"主婦と生活社","pubdate":"2019-10-11","cover":"","author":"主婦と生活社／編集","description":"「45R」デザイナー・井上保美さんが提案する冬のデニムスタイルほか、大人だからこそ楽しめる自分らしい着こなしのヒントが満載！","price":"1300","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
-,
-{"isbn":"9784396210472","title":"阪急電鉄殺人事件","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"https://cover.openbd.jp/9784396210472.jpg","author":"西村京太郎／著","description":"三線が同時発車する梅田駅から事件は始まった―殺人の鍵は敗戦前夜の日記！ 吉田茂､石原莞爾､小林一三…歴史の闇に十津川が挑む！","price":"880","genre":"","target":"一般","format":"新書","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784396317669","title":"京都の謎　〈戦国編〉","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"","author":"高野澄／著","description":"","price":"840","genre":"文庫","target":"一般","format":"文庫","content":"日本歴史"}
-,
-{"isbn":"9784396317676","title":"斎藤一人　この先、結婚しなくてもズルいくらい幸せになる方法","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"https://cover.openbd.jp/9784396317676.jpg","author":"舛岡はなゑ／著","description":"","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784396317683","title":"恋人がいなくてもクリスマスをワクワク過ごせる人の考え方","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"https://cover.openbd.jp/9784396317683.jpg","author":"ひすいこたろう／著 石井しおり／著","description":"","price":"690","genre":"文庫","target":"一般","format":"文庫","content":"社会科学総記"}
-,
-{"isbn":"9784396317706","title":"日本の城の謎〈攻防編〉","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"","author":"井上宗和／著","description":"","price":"690","genre":"文庫","target":"一般","format":"文庫","content":"旅行"}
-,
-{"isbn":"9784396345563","title":"不死鬼　源平妖乱","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"","author":"武内涼／著","description":"","price":"860","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784396345679","title":"時が見下ろす町","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"","author":"長岡弘樹／著","description":"","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784396345686","title":"ルーズソックスの憂鬱","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"https://cover.openbd.jp/9784396345686.jpg","author":"草凪優／著","description":"","price":"660","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784396345693","title":"殺意の雨宿り","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"","author":"笹沢左保／著","description":"","price":"700","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784396345709","title":"汝よさらば　三　浮世絵宗次日月抄","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"https://cover.openbd.jp/9784396345709.jpg","author":"門田泰明／著","description":"","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784396345716","title":"蜻蛉の理　風烈廻り与力・青柳剣一郎","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"","author":"小杉健治／著","description":"","price":"690","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784396345723","title":"野伏間の治助　北町奉行所捕物控","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"https://cover.openbd.jp/9784396345723.jpg","author":"長谷川卓／著","description":"","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784396345730","title":"迅雷　介錯人・父子斬日譚","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"","author":"鳥羽亮／著","description":"","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784396345747","title":"ふたり道三（上）","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"","author":"宮本昌孝／著","description":"","price":"960","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784396345754","title":"ふたり道三（中）","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"https://cover.openbd.jp/9784396345754.jpg","author":"宮本昌孝／著","description":"","price":"960","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784396345761","title":"ふたり道三（下）","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"","author":"宮本昌孝／著","description":"","price":"960","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784396345792","title":"はないちもんめ　梅酒の香","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"","author":"有馬美季子／著","description":"","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784396635770","title":"夏服を着た恋人たち　マイ・ディア・ポリスマン","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"https://cover.openbd.jp/9784396635770.jpg","author":"小路幸也／著","description":"","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784396635787","title":"人を乞う","volume":"","series":"","publisher":"祥伝社","pubdate":"2019-10-11","cover":"https://cover.openbd.jp/9784396635787.jpg","author":"あさのあつこ／著","description":"","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784405093782","title":"塩麹・甘酒・キムチで作る小鍋","volume":"","series":"","publisher":"新星出版社","pubdate":"2019-10-11","cover":"https://cover.openbd.jp/9784405093782.jpg","author":"武蔵裕子／著","description":"簡単に作れて、おいしい、小鍋が人気です。本書は「塩麹」「甘酒」「キムチ」などの発酵食品を使った鍋のレシピをおいしく紹介。","price":"1200","genre":"","target":"実用","format":"単行本","content":"家事"}
-,
-{"isbn":"9784411031266","title":"韓国語コロケーション　名詞編","volume":"","series":"","publisher":"駿河台出版社","pubdate":"2019-10-11","cover":"","author":"チョ・ヒチョル／著","description":"本書の特長\n本書で扱っている単語は基本的であるがゆえにマスターすれば、韓国語の読む・書く・話す・聞くの語学の４機能の総合力が上達していくでしょう。\n\n①韓国語の単語のうち、名詞を中心として使用頻度の高い語２４５語を取り上げました。\n\n②見出し語が使われている書籍の広告などの写真を載せ、その単語の実際の使用例に接し、覚えやすくしました。また、広告などを通じて、ハングルの手書きや変形した活字体にも慣れてほしい。\n\n③見出し語には平易な韓国語による簡単な語釈をつけ、また、それに日本語訳をほどこし、「韓韓辞典」にも慣れるように工夫しています\n\n④見出し語の単語に親しみを持ってもらうために、語釈の下には各語の文化的な説明を付け加えました。\n\n⑤見出し語の用例は、使用頻度が高かったり、また、日本語ネイティブが間違いやすかったりするものを中心として、各５つずつのコロケーションを提示し、そこに実際に会話でよく使われる「ヘヨ体」も付け加え、学習者がいちばん苦手とする活用にも慣れるように配慮しました。","price":"2200","genre":"","target":"教養","format":"単行本","content":"各国語"}
 ]
