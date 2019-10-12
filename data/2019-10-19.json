@@ -3,7 +3,7 @@
 ,
 {"isbn":"9784004318002","title":"民主主義は終わるのか 瀬戸際に立つ日本","volume":"","series":"岩波新書","publisher":"岩波書店","pubdate":"2019-10-19","cover":"","author":"山口二郎／著","description":"政権の暴走は続き，野党の力は弱いままだ．内側から崩れゆく日本の民主主義を立て直すことはできるか．","price":"840","genre":"","target":"一般","format":"新書","content":"政治-含む国防軍事"}
 ,
-{"isbn":"9784004318019","title":"統合失調症","volume":"","series":"岩波新書","publisher":"岩波書店","pubdate":"2019-10-19","cover":"","author":"村井俊哉／著","description":"幻覚や妄想などの症状，経過，他の精神科の病気との違い，リスク因子，治療，歴史と社会制度を解説する．","price":"760","genre":"","target":"一般","format":"新書","content":"医学・歯学・薬学"}
+{"isbn":"9784004318019","title":"統合失調症","volume":"","series":"岩波新書","publisher":"岩波書店","pubdate":"2019-10-19","cover":"https://cover.openbd.jp/9784004318019.jpg","author":"村井俊哉／著","description":"幻覚や妄想などの症状，経過，他の精神科の病気との違い，リスク因子，治療，歴史と社会制度を解説する．","price":"760","genre":"","target":"一般","format":"新書","content":"医学・歯学・薬学"}
 ,
 {"isbn":"9784004318026","title":"ミシェル・フーコー","volume":"","series":"岩波新書","publisher":"岩波書店","pubdate":"2019-10-19","cover":"https://cover.openbd.jp/9784004318026.jpg","author":"慎改康之／著","description":"哲学者フーコーは，著作ごとに読者を新たな見知らぬ世界へと導く．その絶えざる変貌をたどる．","price":"820","genre":"","target":"一般","format":"新書","content":"哲学"}
 ,
@@ -92,14 +92,4 @@
 {"isbn":"9784296103928","title":"日経BP総研2030展望 ビジネスを変える 100のブルーオーシャン","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2019-10-19","cover":"https://cover.openbd.jp/9784296103928.jpg","author":"日経BP総研／著・編集","description":"2030年に向けて新たに生まれ、大きく伸びる市場を日経ＢＰ総研の研究員とコンサルタント総勢80人がピックアップ","price":"2000","genre":"","target":"一般","format":"単行本","content":"経営"}
 ,
 {"isbn":"9784296104277","title":"課長塾シリーズ　課長のABC","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2019-10-19","cover":"https://cover.openbd.jp/9784296104277.jpg","author":"石田淳／著","description":"「課長＝マネジャー」となるための心得を、「行動科学マネジメント」をベースに、２分間で読み切れる単話形式でまとめています。","price":"1600","genre":"","target":"一般","format":"単行本","content":"経営"}
-,
-{"isbn":"9784313151000","title":"公務員のカスハラ対応術","volume":"","series":"","publisher":"学陽書房","pubdate":"2019-10-19","cover":"","author":"吉田博／著・編集","description":"住民と接する自治体職員等に向けた対応のノウハウから、クレーマー対策までを解説。","price":"2000","genre":"","target":"一般","format":"単行本","content":"経営"}
-,
-{"isbn":"9784313151031","title":"SOS！公務員のためのやっかいなクレーム対応","volume":"","series":"","publisher":"学陽書房","pubdate":"2019-10-19","cover":"https://cover.openbd.jp/9784313151031.jpg","author":"自治体クレーム対応研究会／著","description":"自治体の窓口のみならず、さまざまな施設に訪れる｢クレーマー｣に対応するための本。\n従来いわれてきた傾聴などの対応だけでは通用しない、理不尽なクレームを持ち込んでくる人達にどう対応すればよいかを解く！","price":"1800","genre":"","target":"一般","format":"単行本","content":"経営"}
-,
-{"isbn":"9784313151055","title":"自治体職員をどう生きるか","volume":"","series":"","publisher":"学陽書房","pubdate":"2019-10-19","cover":"https://cover.openbd.jp/9784313151055.jpg","author":"後藤好邦／著","description":"自治体職員の土台は30代でつくられる！","price":"1800","genre":"","target":"一般","format":"単行本","content":"経営"}
-,
-{"isbn":"9784313180604","title":"マンガでわかる！自治体予算のリアル","volume":"","series":"","publisher":"学陽書房","pubdate":"2019-10-19","cover":"","author":"定野司／著","description":"自治体予算とは何か、どう作られるのかをマンガで描いた初めての本。市民課職員を主人公として、予算の機能、専門用語とその内容解説、予算と事業の結びつき、市長・議会と予算の関係など、各章マンガと解説ページの二本立てで詳解。","price":"1900","genre":"","target":"実用","format":"単行本","content":"政治-含む国防軍事"}
-,
-{"isbn":"9784320113855","title":"アラビアン・ナイトのチェスミステリー","volume":"","series":"","publisher":"共立出版","pubdate":"2019-10-19","cover":"https://cover.openbd.jp/9784320113855.jpg","author":"RaymondSmullyan／著 川辺治之／翻訳","description":"スマリヤン本，待望の邦訳！アラビアン・ナイトの世界で起こる事件をチェスの問題として出題。盤面から過去の手を推理しよう。","price":"2500","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
 ]
