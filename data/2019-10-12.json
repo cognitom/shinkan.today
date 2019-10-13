@@ -67,7 +67,7 @@
 ,
 {"isbn":"9784199506895","title":"推しが武道館いってくれたら死ぬ ⑥","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-10-12","cover":"","author":"平尾アウリ／著","description":"２０２０年１月テレビアニメ放送開始！","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784265851287","title":"グレース・ホッパー　プログラミングの女王","volume":"","series":"世界をみちびいた知られざる女性たち","publisher":"岩崎書店","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784265851287.jpg","author":"ローリー・ウォールマーク／著 ケイティ・ウー／イラスト 長友恵子／翻訳","description":"コンュータープログラミングの歴史に残るグレース・ホッパー。科学や数学に秀で、人間の言葉を読み取るプログラムを作ります。","price":"1600","genre":"児童図書","target":"児童","format":"絵本","content":"伝記"}
+{"isbn":"9784265851287","title":"グレース・ホッパー　プログラミングの女王","volume":"","series":"世界をみちびいた知られざる女性たち","publisher":"岩崎書店","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784265851287.jpg","author":"ローリー・ウォールマーク／著 ケイティ・ウー／イラスト 長友恵子／翻訳","description":"コンピュータープログラミングの歴史に残るグレース・ホッパー。科学や数学に秀で、人間の言葉を読み取るプログラムを作ります。","price":"1600","genre":"児童図書","target":"児童","format":"絵本","content":"伝記"}
 ,
 {"isbn":"9784274224225","title":"わかる放電加工の実際","volume":"","series":"","publisher":"オーム社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784274224225.jpg","author":"株式会社ソディック／編集 中島宣洋／著","description":"放電加工を使いこなすために、放電加工技術の原理から各種材料における加工特性の違いなどを図や加工例の写真などを用いて解説。","price":"3200","genre":"工業・工学","target":"専門","format":"単行本","content":"機械"}
 ,
@@ -75,5 +75,39 @@
 ,
 {"isbn":"9784297108052","title":"新春を寿ぐ 和の趣年賀状 子年版","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784297108052.jpg","author":"技術評論社編集部編・著／著","description":"「干支」「幸い」「言葉」「眺め」「花」というモチーフによって構成された収録素材は、和の逸品揃い。こだわりの年賀状として贈る方の品を高めること間違いなし。Word、筆王、筆まめ、筆ぐるめなど、主要なソフトにも対応。ていねいな解説付きで安心して年賀状作成を進められます。Windows・Mac両対応のソフトつきなので年賀状作成ソフトがなくても大丈夫。","price":"1400","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
 ,
-{"isbn":"9784297108533","title":"アプリでかんたん確定申告　青色申告をラクに済ませるfreeeの使い方から節税のコツまで","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784297108533.jpg","author":"村井隆紘／著 藤井浩平／著","description":"「面倒くさそうだし、日々の仕事に追われて、時間が取れない」\nそして、いつの間にか積みあがるレシートの山……なんてことになってはいませんか？\n\nそんな厄介な確定申告を最短・最速で終わらせる方法をさくっと解説。\n\n「レシート入力をその場で完了」「クレジットカード、銀行口座のデータは自動で処理」など作業を劇的に効率化するfreeeのスマホアプリの使い方はもちろん、「どこまでなら、経費にしても大丈夫？」といった節税のポイントまで、コレ1冊でしっかりわかります。\n\n「それでも期限まで時間がない！」というあなたでも、「締切直前にまとめて1年分の処理をする方法」がわかるので安心。\n\n令和2年からの新税制にも対応、スマホ確定申告で「ミス」「ソン」「ムダ」なく面倒な作業が終わる！\n\n\n【特典】freeeアプリの1ヵ月無料クーポン付き!","price":"1580","genre":"","target":"実用","format":"単行本","content":"経営"}
+{"isbn":"9784297108533","title":"アプリでかんたん確定申告　青色申告をラクに済ませるfreeeの使い方から節税のコまで","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784297108533.jpg","author":"村井隆紘／著 藤井浩平／著","description":"「面倒くさそうだし、日々の仕事に追われて、時間が取れない」\nそして、いつの間にか積みあがるレシートの山……なんてことになってはいませんか？\n\nそんな厄介な確定申告を最短・最速で終わらせる方法をさくっと解説。\n\n「レシート入力をその場で完了」「クレジットカード、銀行口座のデータは自動で処理」など作業を劇的に効率化するfreeeのスマホアプリの使い方はもちろん、「どこまでなら、経費にしても大丈夫？」といった節税のポイントまで、コレ1冊でしっかりわかります。\n\n「それでも期限まで時間がない！」というあなたでも、「締切直前にまとめて1年分の処理をする方法」がわかるので安心。\n\n令和2年からの新税制にも対応、スマホ確定申告で「ミス」「ソン」「ムダ」なく面倒な作業が終わる！\n\n\n【特典】freeeアプリの1ヵ月無料クーポン付き!","price":"1580","genre":"","target":"実用","format":"単行本","content":"経営"}
+,
+{"isbn":"9784325230359","title":"東京学芸大学 2020年版;No.49","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784325230359.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325230540","title":"福井大学（教育学部・医学部〈看護学科〉・工学部・国際地域学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784325230540.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325230557","title":"福井大学（医学部〈医学科〉）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784325230557.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。6カ年分収載。","price":"3200","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325230847","title":"滋賀県立大学 2020年版;No.98","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784325230847.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325230892","title":"京都府立大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784325230892.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325231349","title":"北九州市立大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784325231349.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325231523","title":"看護・医療系大学〈国公立 東日本〉","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784325231523.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2700","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325232308","title":"自治医科大学（看護学部）／東京慈恵会医科大学（医学部〈看護学科〉）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784325232308.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"2800","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325232667","title":"専修大学（学部個別入試）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784325232667.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2200","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233329","title":"日本大学（芸術学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784325233329.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233350","title":"日本大学（理工学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784325233350.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233374","title":"日本大学（生物資源科学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784325233374.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233381","title":"日本大学（医学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784325233381.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。7カ年分収載。","price":"3600","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784326403677","title":"納税者のための租税の納付・徴収手続","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784326403677.jpg","author":"中村芳昭／監修 東京地方税理士会／編集","description":"租税徴収制度についての、税理士による、税理士のための、税理士の視点からまとめられた納税者に寄り添った本格的理論書。","price":"3500","genre":"社会科学","target":"専門","format":"単行本","content":"法律"}
+,
+{"isbn":"9784326403684","title":"少数株主権等の理論と実務","volume":"","series":"勁草法律実務シリーズ","publisher":"勁草書房","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784326403684.jpg","author":"上田純子／編集 植松勉／編集 松嶋隆弘／編集","description":"少数株主に代表されるマイノリティ株主が、会社法に基づき権利行使をする場合における、理論上・実務上検討すべき点を解説する。","price":"4800","genre":"社会科学","target":"専門","format":"単行本","content":"法律"}
+,
+{"isbn":"9784326449668","title":"家事法の理論・実務・判例3","volume":"","series":"","publisher":"勁草書房","pubdate":"2019-10-12","cover":"https://cover.openbd.jp/9784326449668.jpg","author":"道垣内弘人／編集 松原正明／編集","description":"研究者、裁判官、弁護士が家事法の当面する問題を分析、実務と法理論との架橋を確かなものとし将来の法制度を展望する、年報第3号。","price":"4000","genre":"社会科学","target":"専門","format":"全集・双書","content":"法律"}
+,
+{"isbn":"9784334902438","title":"アユニ・Ｄ　フォトブック　我是我","volume":"","series":"","publisher":"光文社","pubdate":"2019-10-12","cover":"","author":"bis編集部／編集","description":"","price":"2000","genre":"芸能・タレント","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ]

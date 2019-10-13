@@ -89,7 +89,7 @@
 ,
 {"isbn":"9784150122515","title":"ツーノーザー救出作戦","volume":"602","series":"宇宙英雄ローダン・シリーズ","publisher":"早川書房","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784150122515.jpg","author":"Ｈ・Ｇ・フランシス／著 Ｈ・Ｇ・エーヴェルス／著 シドラ房子／翻訳","description":"指揮エレメントによって1600年の過去に送りこまれたローダンは、殺されそうになって危機一髪のところを時間巡回者に助けられた！","price":"700","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
-{"isbn":"9784150122539","title":"折りたたみ北京　現代中国ＳＦアンソロジー","volume":"","series":"","publisher":"早川書房","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784150122539.jpg","author":"ケン・リュウ／編 中原尚哉／翻訳 大谷真弓／翻訳 古沢嘉通／翻訳 鳴庭真人／翻訳","description":"日本で発売後即10万部を突破した『三体』著者劉慈欣による「円」など７作家13作品をリュウが精選したアンソロジー、緊急文庫化！","price":"1000","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+{"isbn":"9784150122539","title":"折りたたみ北京　現代中国ＳＦアンソロジー","volume":"","series":"","publisher":"早川書房","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784150122539.jpg","author":"ケン・リュウ／編集 中原尚哉／翻訳 大谷真弓／翻訳 古沢嘉通／翻訳 鳴庭真人／翻訳","description":"日本で発売後即10万部を突破した『三体』著者劉慈欣による「円」など７作家13作品をリュウが精選したアンソロジー、緊急文庫化！","price":"1000","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
 {"isbn":"9784150313975","title":"雲雀とイリス","volume":"146","series":"グイン・サーガ","publisher":"早川書房","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784150313975.jpg","author":"五代ゆう／著 天狼プロダクション／監修","description":"クリスタル・パレスに出現した者の名は？　かつて激動の中で命を落とした伝説の麗人、神聖パロ王国初代聖王──アルド・ナリス！","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -113,9 +113,29 @@
 ,
 {"isbn":"9784296104079","title":"5Gワールドへようこそ！","volume":"","series":"日経BPムック","publisher":"日経ＢＰ","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784296104079.jpg","author":"日経xTECH／編集","description":"基本的な5つの疑問に答えるほか、5Gまでのモバイル通信の歴史をひも解いて、より深く説明しています。","price":"1800","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"経営"}
 ,
-{"isbn":"9784296104086","title":"AI、スマホ、チャットでつくる　働きやすい職場","volume":"","series":"日経BPムック","publisher":"日経ＢＰ","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784296104086.jpg","author":"日経xTECH／編集","description":"AIやスマホ、タブレット、チャットなどを導入し、業務量を減らして「働きやすい職場」にした事例を満載しています。","price":"1900","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"経営"}
+{"isbn":"9784296104086","title":"AI、スマホ、チャットでつくる　働きやすい職場","volume":"","series":"日経BPムック","publisher":"日経ＢＰ","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784296104086.jpg","author":"日経xTECH／編集","description":"AIやスマホ、タブレット、チャットなどを導入し、業務量を減らして「働きすい職場」にした事例を満載しています。","price":"1900","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"経営"}
 ,
 {"isbn":"9784296104093","title":"無線LAN技術 最強の指南書","volume":"","series":"日経BPムック","publisher":"日経ＢＰ","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784296104093.jpg","author":"日経NETWORK／編集","description":"ITエンジニアにとって無線LANの知識は不可欠です。文章だけでは難解な無線LAN技術を豊富なイラストや図を使って解説します。","price":"2400","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
 ,
 {"isbn":"9784297108397","title":"ゼロからはじめる　Facebookフェイスブック　スマートガイド［改訂2版］","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784297108397.jpg","author":"リンクアップ／著","description":"iPhoneやAndroidスマートフォンを利用している人を対象とした、「Facebook」の初心者向け利用解説書の改訂版です。アカウントの取得など基本的な使い方を紹介するとともに、プライバシー設定などの重要な機能をわかりやすく解説しています。","price":"1280","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784325230748","title":"愛知教育大学 2020年版;No.88","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325230748.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325231059","title":"奈良女子大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325231059.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325231110","title":"島根大学 2020年版;No.125","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325231110.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2200","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325231271","title":"高知大学 2020年版;No.141","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325231271.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325231684","title":"岩手医科大学（医学部・歯学部・薬学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325231684.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。5カ年分収載。","price":"3600","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325232322","title":"芝浦工業大学（前期日程、英語資格・検定試験利用方式）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325232322.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325232339","title":"芝浦工業大学（全学統一日程・後期日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325232339.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325232636","title":"聖マリアンナ医科大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325232636.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。6カ年分収載。","price":"3600","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325232933","title":"東海大学（一般入試〈医学部医学科を除く〉）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325232933.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"2200","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233442","title":"日本獣医生命科学大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325233442.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。4カ年分収載。","price":"3400","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
 ]

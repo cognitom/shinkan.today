@@ -7,7 +7,7 @@
 ,
 {"isbn":"9784003400791","title":"キリスト教の合理性","volume":"","series":"岩波文庫","publisher":"岩波書店","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784003400791.jpg","author":"ジョン・ロック／著 加藤節／翻訳","description":"「啓示」宗教としてのキリスト教がもつ「理性」との適合性や両立可能性といった合-理性的性格を論じる．","price":"1010","genre":"文庫","target":"一般","format":"文庫","content":"キリスト教"}
 ,
-{"isbn":"9784003750896","title":"サラムボー（上）","volume":"","series":"岩波文庫","publisher":"岩波書店","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784003750896.jpg","author":"フローベール／著 中條屋進／訳","description":"叛乱軍のリーダーと，国を守る神官との許されぬ恋．カルタゴの傭兵叛乱に想を得た，豪奢で残忍な歴史絵巻．","price":"840","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
+{"isbn":"9784003750896","title":"サラムボー（上）","volume":"","series":"岩波文庫","publisher":"岩波書店","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784003750896.jpg","author":"フローベール／著 中條屋進／翻訳","description":"カルタゴの統領の娘で女神に仕えるサラムボーと，反乱軍の指導者との許されぬ恋．前三世紀の傭兵反乱に想を得た歴史絵巻．","price":"840","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
 {"isbn":"9784003812655","title":"近代日本の政治家","volume":"","series":"岩波文庫","publisher":"岩波書店","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784003812655.jpg","author":"岡義武／著","description":"伊藤博文，大隈重信，原敬，犬養毅，そして西園寺公望．五人の性格と行動を跡づけた伝記的エッセイ．（解説=松浦正孝）","price":"1070","genre":"文庫","target":"一般","format":"文庫","content":"日本歴史"}
 ,
@@ -29,9 +29,9 @@
 ,
 {"isbn":"9784049127454","title":"英国幻想蒸気譚II －ブラッドレッド・フォルクール－","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784049127454.jpg","author":"白雨蒼／著 紫亜／イラスト","description":"蒸気機関革命のロンドンで繰り広げられる正統派スチームパンクアクション！","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784053048073","title":"Ｅｖｏｌｕｔｉｏｎ　暗記と理解の最速ツール　化学基礎・化学","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-10-17","cover":"","author":"学研プラス／編集","description":"入試で問われる知識を基礎から学習できる問題演習形式の参考書。演習してすぐに，関連する内容を確認できるから覚えやすい。","price":"1500","genre":"学参","target":"学参II(高校)","format":"単行本","content":"化学"}
+{"isbn":"9784053048073","title":"Ｅｖｏｌｕｔｉｏｎ　暗記と理解の最速ツール　化学基礎・化学","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784053048073.jpg","author":"学研プラス／編集","description":"入試で問われる知識を基礎から学習できる問題演習形式の参考書。演習してすぐに，関連する内容を確認できるから覚えやすい。","price":"1500","genre":"学参","target":"学参II(高校)","format":"単行本","content":"化学"}
 ,
-{"isbn":"9784053048080","title":"Ｅｖｏｌｕｔｉｏｎ　暗記と理解の最速ツール　生物基礎・生物","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-10-17","cover":"","author":"学研プラス／編集","description":"入試で問われる知識を基礎から学習できる問題演習形式の参考書。演習してすぐに，関連する内容を確認できるから覚えやすい。","price":"1500","genre":"学参","target":"学参II(高校)","format":"単行本","content":"生物学"}
+{"isbn":"9784053048080","title":"Ｅｖｏｌｕｔｉｏｎ　暗記と理解の最速ツール　生物基礎・生物","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784053048080.jpg","author":"学研プラス／編集","description":"入試で問われる知識を基礎から学習できる問題演習形式の参考書。演習してすぐに，関連する内容を確認できるから覚えやすい。","price":"1500","genre":"学参","target":"学参II(高校)","format":"単行本","content":"生物学"}
 ,
 {"isbn":"9784053051257","title":"人物で読み解く倫理","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784053051257.jpg","author":"蔭山克秀／著","description":"大学入試の倫理で問われる事項を人物に焦点を当てて、解説していく参考書。代ゼミ講師の蔭山先生が楽しく講義する。","price":"1200","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"社会科学総記"}
 ,
@@ -101,7 +101,7 @@
 ,
 {"isbn":"9784065173671","title":"ノラガミ（21）","volume":"","series":"","publisher":"講談社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784065173671.jpg","author":"あだちとか／著","description":"大切なひとびとの幸福と自身の有無とを賭し、夜トの征矢がついに術師を捉える、そのとき…！？　［ご町内神話］かつてない衝撃と破滅","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065173695","title":"さよなら私のクラマー（10）","volume":"","series":"","publisher":"講談社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784065173695.jpg","author":"新川直司／著","description":"興蓮館に挙２点を先制され、窮地に陥るワラビーズ。だが、彼女たちは諦めない！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065173695","title":"さよなら私のクラマー（10）","volume":"","series":"","publisher":"講談社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784065173695.jpg","author":"新川直司／著","description":"興蓮館に一挙２点を先制され、窮地に陥るワラビーズ。だが、彼女たちは諦めない！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065173701","title":"C．M．B．森羅博物館の事件目録（42）","volume":"","series":"","publisher":"講談社","pubdate":"2019-10-17","cover":"","author":"加藤元浩／著","description":"犯人は決して捕まらない！？　聖獣（ジャガー）が治める森に響く「死の予言」に挑む！！！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -157,7 +157,7 @@
 ,
 {"isbn":"9784103390183","title":"令和誕生 退位・改元の黒衣たち","volume":"","series":"","publisher":"新潮社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784103390183.jpg","author":"読売新聞政治部／著","description":"それはガラス細工のような合意形成の賜物だった。退位意向の吐露から改元、新天皇の即位まで。圧倒的な取材で描き出す舞台裏の全て。","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784103529316","title":"私、失敗ばかりなので","volume":"","series":"","publisher":"新潮社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784103529316.jpg","author":"内山聖子／著","description":"大人気ドラマ「ドクターＸ」を生み出したヒットメーカーは、ダメダメ社会人だった！失敗の連続で体得した、仕事を成功に導くルール。","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784103529316","title":"私、失敗ばかりなので","volume":"","series":"","publisher":"新潮社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784103529316.jpg","author":"内山聖子／著","description":"大人気ドラマ「ドクターＸ」を生み出したヒットメーカーは、メダメ社会人だった！失敗の連続で体得した、仕事を成功に導くルール。","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784106108327","title":"君主号の世界史","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784106108327.jpg","author":"岡本隆司／著","description":"君主号の歴史的変遷を一気に概観し、世界史の流れをわしづかみ。いま最も注目の世界史家が描き切った「統治者」たちの物語。","price":"820","genre":"","target":"一般","format":"新書","content":"外国歴史"}
 ,
@@ -167,7 +167,7 @@
 ,
 {"isbn":"9784106108358","title":"老人の美学","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784106108358.jpg","author":"筒井康隆／著","description":"老いは誰にとっても、最初で最後の道行きだ。巨匠・筒井康隆85歳が書下ろす、不穏にして痛快、リアルな知恵に溢れた最強の老年論！","price":"700","genre":"","target":"一般","format":"新書","content":"哲学"}
 ,
-{"isbn":"9784120051364","title":"デルフィニア戦記Ⅵ 特装版","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-10-17","cover":"","author":"茅田砂胡／著","description":"シリーズ刊行開始から２５周年を記念した、完全数量限定生産によるコア・ファンのための豪華愛蔵本！","price":"5800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784120051364","title":"デルフィニア戦記Ⅵ 特装版","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784120051364.jpg","author":"茅田砂胡／著","description":"シリーズ刊行開始から２５周年を記念した、完全数量限定生産によるコア・ファンのための豪華愛蔵本！","price":"5800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784120052392","title":"最果ての決闘者","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784120052392.jpg","author":"逢坂剛／著","description":"記憶を失い、アメリカ西部へと渡った土方歳三を狙う刺客。美しき女保安官と元・新選組隊士――。逢坂剛が放つエンタメの極致！","price":"1900","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
@@ -179,13 +179,13 @@
 ,
 {"isbn":"9784120052439","title":"本当に幸せになる手帳2020","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-10-17","cover":"","author":"秋山まりあ／著","description":"２０２０年度版のテーマは「目の前にある愛と豊かさを受け取る！」。変わりたい、もっと幸せになりたいと思ったら、使い始め時です。","price":"1600","genre":"","target":"一般","format":"単行本","content":"総記"}
 ,
-{"isbn":"9784121025623","title":"現代美術史","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-10-17","cover":"","author":"山本浩貴／著","description":"現代アートは本当に「難しい」のか？　第二次世界大戦後の社会との関わりから論じ、解きほぐす。最新の潮流がわかる美術入門。","price":"960","genre":"","target":"教養","format":"新書","content":"芸術総記"}
+{"isbn":"9784121025623","title":"現代美術史","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784121025623.jpg","author":"山本浩貴／著","description":"現代アートは本当に「難しい」のか？　第二次世界大戦後の社会との関わりから論じ、解きほぐす。最新の潮流がわかる美術入門。","price":"960","genre":"","target":"教養","format":"新書","content":"芸術総記"}
 ,
-{"isbn":"9784121025630","title":"持統天皇 壬申の乱の「真の勝者」","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-10-17","cover":"","author":"瀧浪貞子／著","description":"大化改新の年に生まれた皇女は、壬申の乱に勝利し、藤原京遷都、万葉集編纂などを進め古代国家の形を大きく変えた。生涯と事蹟を辿る","price":"900","genre":"","target":"教養","format":"新書","content":"日本歴史"}
+{"isbn":"9784121025630","title":"持統天皇 壬申の乱の「真の勝者」","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784121025630.jpg","author":"瀧浪貞子／著","description":"大化改新の年に生まれた皇女は、壬申の乱に勝利し、藤原京遷都、万葉集編纂などを進め古代国家の形を大きく変えた。生涯と事蹟を辿る","price":"900","genre":"","target":"教養","format":"新書","content":"日本歴史"}
 ,
-{"isbn":"9784121025647","title":"統計分布を知れば世界が分かる","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-10-17","cover":"","author":"松下貢／著","description":"正規分布、べき乗分布、対数正規分布―世界の出来事はこの３つの分布で表される。その仕組みと特徴、データに潜む真理を明らかにする","price":"800","genre":"","target":"教養","format":"新書","content":"数学"}
+{"isbn":"9784121025647","title":"統計分布を知れば世界が分かる","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784121025647.jpg","author":"松下貢／著","description":"正規分布、べき乗分布、対数正規分布―世界の出来事はこの３つの分布で表される。その仕組みと特徴、データに潜む真理を明らかにする","price":"800","genre":"","target":"教養","format":"新書","content":"数学"}
 ,
-{"isbn":"9784121025654","title":"大御所 徳川家康","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-10-17","cover":"","author":"三鬼清一郎／著","description":"徳川家康は将軍を辞した後も実権を握り、幕府の基礎を築く。豊臣家滅亡の翌年死去するまで十一年にわたった大御所政治の軌跡を辿る。","price":"840","genre":"","target":"教養","format":"新書","content":"日本歴史"}
+{"isbn":"9784121025654","title":"大御所 徳川家康","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784121025654.jpg","author":"三鬼清一郎／著","description":"徳川家康は将軍を辞した後も実権を握り、幕府の基礎を築く。豊臣家滅亡の翌年死去するまで十一年にわたった大御所政治の軌跡を辿る。","price":"840","genre":"","target":"教養","format":"新書","content":"日本歴史"}
 ,
 {"isbn":"9784125014043","title":"蒼洋の城塞２ 豪州本土強襲","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784125014043.jpg","author":"横山信義／著","description":"ＭＯ作戦完遂の戦果を上げた日本軍。これを受け山本五十六はＭＩ作戦中止を決定。標的をガダルカナルとソロモン諸島に変更するが……","price":"980","genre":"","target":"一般","format":"新書","content":"日本文学、小説・物語"}
 ,
@@ -236,4 +236,24 @@
 {"isbn":"9784309249292","title":"呼吸をふわっと整える","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-10-17","cover":"","author":"片山洋次郎／著","description":"リラックスの鍵は、息を吐き切ってから吸う間の「間」にある。体、心と呼吸の関係など、整体の現場から、奥深き呼吸を解きほぐす。","price":"1300","genre":"","target":"一般","format":"単行本","content":"医学・歯学・薬学"}
 ,
 {"isbn":"9784309287621","title":"型紙いらずの着物リメイク　１枚の着物で大人服＆子ども服","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-10-17","cover":"","author":"松下純子／著","description":"１枚の着物で自分に１着＋子供や孫に１着、お揃いの服が作れます！　型紙不要、初心者でも簡単。大人Ｍ～ＬＬ、子供110～120。","price":"1400","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784309718095","title":"大人の塗り絵　樹の花と実編　【新装版】","volume":"","series":"大人の塗り絵","publisher":"河出書房新社","pubdate":"2019-10-17","cover":"","author":"本田尚子／著","description":"ハナミズキ、ユリノキ、ヤマモモ、キリの花からプラム、ブドウなどの実まで、日本で広く愛される樹に咲く花と実を描いた11点。","price":"980","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
+,
+{"isbn":"9784334044329","title":"外国人“依存”ニッポン","volume":"","series":"光文社新書","publisher":"光文社","pubdate":"2019-10-17","cover":"","author":"ＮＨＫ取材班／著","description":"","price":"820","genre":"","target":"一般","format":"新書","content":"社会科学総記"}
+,
+{"isbn":"9784334044374","title":"自画像のゆくえ","volume":"","series":"光文社新書","publisher":"光文社","pubdate":"2019-10-17","cover":"","author":"森村泰昌／著","description":"","price":"1500","genre":"","target":"一般","format":"新書","content":"絵画・彫刻"}
+,
+{"isbn":"9784334044381","title":"患者よ、医者から逃げろ","volume":"","series":"光文社新書","publisher":"光文社","pubdate":"2019-10-17","cover":"","author":"夏井睦／著","description":"","price":"1000","genre":"","target":"一般","format":"新書","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784334044398","title":"運気を磨く 心を浄化する三つの技法","volume":"","series":"光文社新書","publisher":"光文社","pubdate":"2019-10-17","cover":"","author":"田坂広志／著","description":"","price":"820","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784334044404","title":"あなたのメールは、なぜ相手を怒らせるのか？","volume":"","series":"光文社新書","publisher":"光文社","pubdate":"2019-10-17","cover":"","author":"中川路亜紀／著","description":"","price":"820","genre":"","target":"一般","format":"新書","content":"社会科学総記"}
+,
+{"isbn":"9784334044411","title":"なぜ「つい買ってしまう」のか？","volume":"","series":"光文社新書","publisher":"光文社","pubdate":"2019-10-17","cover":"","author":"松本健太郎／著","description":"","price":"860","genre":"","target":"一般","format":"新書","content":"経営"}
+,
+{"isbn":"9784334951177","title":"栗山ノート","volume":"","series":"","publisher":"光文社","pubdate":"2019-10-17","cover":"","author":"栗山英樹／著","description":"","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784335304927","title":"スタートアップ民法・民法総則","volume":"","series":"伊藤真試験対策講座","publisher":"弘文堂","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784335304927.jpg","author":"伊藤真／著","description":"民法の全体像がわかる。債権法改正にも完全対応！","price":"3700","genre":"社会科学","target":"教養","format":"全集・双書","content":"法律"}
+,
+{"isbn":"9784335313301","title":"プレップ知的財産法","volume":"","series":"弘文堂プレップ法学／プレップ・シリーズ","publisher":"弘文堂","pubdate":"2019-10-17","cover":"https://cover.openbd.jp/9784335313301.jpg","author":"小泉直樹／著","description":"「特許法」& 「著作権法」 きほんのき！","price":"1300","genre":"社会科学","target":"教養","format":"全集・双書","content":"法律"}
 ]
