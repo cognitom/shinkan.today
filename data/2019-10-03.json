@@ -11,7 +11,7 @@
 ,
 {"isbn":"9784052049828","title":"１０分で読める伝記　２年生","volume":"","series":"よみとく１０分","publisher":"学研プラス","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784052049828.jpg","author":"塩谷京子／監修","description":"２年生のために選びぬかれた１２人の伝記を収録。朝の読書や伝記入門にもぴったり！伝記をもっと楽しめる「偉人のとびら」つき。","price":"900","genre":"児童図書","target":"児童","format":"全集・双書","content":"伝記"}
 ,
-{"isbn":"9784052049835","title":"１０分で読める伝記　３年生","volume":"","series":"よみとく１０分","publisher":"学研プラス","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784052049835.jpg","author":"塩谷京子／監修","description":"３年生のために選びぬかれた１２人の伝記を収録。朝の読書や伝記入門にもぴったり！伝記をもっと楽しめる「偉人のとびら」つき。","price":"900","genre":"児童図書","target":"児童","format":"全集・双書","content":"伝記"}
+{"isbn":"9784052049835","title":"１０分で読める伝記　３年生","volume":"","series":"よみとく１０分","publisher":"学研プラス","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784052049835.jpg","author":"塩谷京子／監修","description":"３年生のために選びぬかれた１２人伝記を収録。朝の読書や伝記入門にもぴったり！伝記をもっと楽しめる「偉人のとびら」つき。","price":"900","genre":"児童図書","target":"児童","format":"全集・双書","content":"伝記"}
 ,
 {"isbn":"9784052049842","title":"１０分で読める伝記　４年生","volume":"","series":"よみとく１０分","publisher":"学研プラス","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784052049842.jpg","author":"塩谷京子／監修","description":"４年生のために選びぬかれた１２人の伝記を収録。朝の読書や伝記入門にもぴったり！伝記をもっと楽しめる「偉人のとびら」つき。","price":"900","genre":"児童図書","target":"児童","format":"全集・双書","content":"伝記"}
 ,
@@ -37,7 +37,7 @@
 ,
 {"isbn":"9784056115352","title":"ＳＮＯＯＰＹ　ｉｎ　ＳＥＡＳＯＮＳ～ＰＥＡＮＵＴＳ　ｌｉｔｔｌｅ　ｆｒｉｅｎｄｓ～","volume":"","series":"学研ムック","publisher":"学研プラス","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784056115352.jpg","author":"学研プラス／編集","description":"スヌーピー情報満載のムック。最新グッズやコミックなどファン必見の情報満載。今号付録はＯＪＩＣＯコラボ“つながる”トート！","price":"1480","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784057506975","title":"キラキラ・ミニオン","volume":"","series":"ホログラムアート","publisher":"学研プラス","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784057506975.jpg","author":"ｉｓｏｔｏｐｅ／企画","description":"ホログラムシートをはってこすって色をぬる「画材を使わない新しいぬりえ」で、キラキラのシールやメッセージカードを作ろう！","price":"1400","genre":"児童図書","target":"児童","format":"絵本","content":""}
+{"isbn":"9784057506975","title":"キラキラ・ミニオン","volume":"","series":"ホログラムアート","publisher":"学研プラス","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784057506975.jpg","author":"ｉｓｏｔｏｐｅ／企画","description":"ホログラムシートをはってこすって色をぬる「画材を使わない新しいぬりえ」で、キラキラのシールやメッージカードを作ろう！","price":"1400","genre":"児童図書","target":"児童","format":"絵本","content":""}
 ,
 {"isbn":"9784057506982","title":"ＭＯＯＭＩＮ　ムーミン谷の物語　　トーベ・ヤンソンの世界","volume":"","series":"大人のためのヒーリングスクラッチアート","publisher":"学研プラス","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784057506982.jpg","author":"アイソトープ／企画","description":"ムーミン童話の素敵な挿絵がなぞりながら削るだけで、誰でも描けます。Ａ４の額縁に飾れるサイズ。繰り返し使える竹串ペン付き。","price":"1600","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
 ,
@@ -102,40 +102,4 @@
 {"isbn":"9784152098870","title":"デジタル・ミニマリスト","volume":"","series":"","publisher":"早川書房","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784152098870.jpg","author":"カル・ニューポート／著 池田真紀子／翻訳","description":"テクノロジー界の「こんまり」現る。30日間の「デジタル片づけ」で最高の人生を始めよう。解説／佐々木典士","price":"1800","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
 ,
 {"isbn":"9784163911045","title":"巡礼の家","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784163911045.jpg","author":"天童荒太／著","description":"行き倒れた少女が、へんろ宿の女将に声をかけられた。「帰る場所はありますか」。愛媛県の道後温泉の宿を舞台とした魂の救済の物語。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784255011332","title":"自由で豊かな田舎暮らし、未来へ　―ローカルに生き、グローバルに考えるー","volume":"","series":"","publisher":"朝日出版社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784255011332.jpg","author":"里山ジイジ／著","description":"「自由で豊かな田舎暮らし、未来へ」は、著者が実際に素人農業をしながら\n暇な時間に書いたユニークで楽しいエッセイです。まずは、年金受給の身になって\n何と自由に暮らせることか。次に、美しい田舎の風景と豊かな実り、\nさらには、浮世の利害を離れた里山から見下ろすと、世界情勢や日本の姿が手に取るように\n見える。そして、最後に米中貿易摩擦の真相や米朝関係の本質まで見ることができるのです。","price":"900","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784255011370","title":"CNNニュース・リスニング 2019［秋冬］","volume":"","series":"","publisher":"朝日出版社","pubdate":"2019-10-03","cover":"","author":"『CNNENGLISHEXPRESS』編集部／編集","description":"1本30秒のニュースで素早く世界を知る！\n・世界標準の英語がだれでも聞き取れるようになる[30秒×3回聞き]方式。\n・音声はナチュラル、ゆっくり(ポーズ入り)、ゆっくり(ポーズなし)の3パターンで収録。\n・アメリカ英語(カナダ英語を含む）、イギリス英語、オーストラリア英語のニュースをバランスよく配分。\n・シャドーイング、区切り聞き、サイトトランスレーションといった効果的学習法を簡潔に説明。\n・上記の効果的学習法がだれでも実践できるように設計された、独自のレイアウト。\n・TOEIC(R) L&Rテスト形式の問題、発音の解説、重要ボキャブラーなども掲載。\n・アメリカとイギリスはもとより、日本や中国、南極、スイス、フランス、オーストラリアなど、いろいろな国から発信されたニュースが聞ける。\n・ご購入者は本書の電子版(PDF)とMP3音声が無料でダウンロードできるサービス付き。","price":"1000","genre":"語学・辞事典","target":"一般","format":"単行本","content":"英米語"}
-,
-{"isbn":"9784255011394","title":"仏教は日本にふさわしい宗教か","volume":"","series":"","publisher":"朝日出版社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784255011394.jpg","author":"外村直彦／著","description":"仏教は日本にふさわ佛教開祖のブッダの教えや般若心経・法華経・華厳経・無量寿経など大乗経典の内容を知り、\n日本佛教の歴史をたどれば、佛教とはどんな宗教であるのかが分かる。多くの人がいうように\n佛教は日本文化の基礎をつくり、国民の血となり肉となったといえるのかどうか、日本の文化と\n風土にかなった宗教といえるのかどうか、いくつかの材料をもとに考えを進める。\nしい宗教か。","price":"1300","genre":"哲学・宗教","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784274224249","title":"よりよくわかるプロジェクトマネジメント","volume":"","series":"","publisher":"オーム社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784274224249.jpg","author":"日本プロジェクトマネジメント協会／編集","description":"プロジェクトのマネジメントの一例を「家づくり」を題材に解説。","price":"1800","genre":"工業・工学","target":"専門","format":"単行本","content":"工学・工学総記"}
-,
-{"isbn":"9784296104079","title":"5Gワールドへようこそ！","volume":"","series":"日経BPムック","publisher":"日経ＢＰ","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784296104079.jpg","author":"日経xTECH／編集","description":"基本的な5つの疑問に答えるほか、5Gまでのモバイル通信の歴史をひも解いて、より深く説明しています。","price":"1800","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"経営"}
-,
-{"isbn":"9784296104086","title":"AI、スマホ、チャットでつくる　働きやすい職場","volume":"","series":"日経BPムック","publisher":"日経ＢＰ","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784296104086.jpg","author":"日経xTECH／編集","description":"AIやスマホ、タブレット、チャットなどを導入し、業務量を減らして「働きすい職場」にした事例を満載しています。","price":"1900","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"経営"}
-,
-{"isbn":"9784296104093","title":"無線LAN技術 最強の指南書","volume":"","series":"日経BPムック","publisher":"日経ＢＰ","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784296104093.jpg","author":"日経NETWORK／編集","description":"ITエンジニアにとって無線LANの知識は不可欠です。文章だけでは難解な無線LAN技術を豊富なイラストや図を使って解説します。","price":"2400","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"電子通信"}
-,
-{"isbn":"9784297108397","title":"ゼロからはじめる　Facebookフェイスブック　スマートガイド［改訂2版］","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784297108397.jpg","author":"リンクアップ／著","description":"iPhoneやAndroidスマートフォンを利用している人を対象とした、「Facebook」の初心者向け利用解説書の改訂版です。アカウントの取得など基本的な使い方を紹介するとともに、プライバシー設定などの重要な機能をわかりやすく解説しています。","price":"1280","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784325230748","title":"愛知教育大学 2020年版;No.88","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325230748.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325231059","title":"奈良女子大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325231059.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325231110","title":"島根大学 2020年版;No.125","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325231110.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2200","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325231271","title":"高知大学 2020年版;No.141","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325231271.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325231684","title":"岩手医科大学（医学部・歯学部・薬学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325231684.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。5カ年分収載。","price":"3600","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325232322","title":"芝浦工業大学（前期日程、英語資格・検定試験利用方式）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325232322.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325232339","title":"芝浦工業大学（全学統一日程・後期日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325232339.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325232636","title":"聖マリアンナ医科大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325232636.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。6カ年分収載。","price":"3600","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325232933","title":"東海大学（一般入試〈医学部医学科を除く〉）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325232933.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"2200","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
-,
-{"isbn":"9784325233442","title":"日本獣医生命科学大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-03","cover":"https://cover.openbd.jp/9784325233442.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。4カ年分収載。","price":"3400","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
 ]

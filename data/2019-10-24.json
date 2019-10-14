@@ -55,7 +55,7 @@
 ,
 {"isbn":"9784041087985","title":"虹龍変現!! CRUSH CLASSICS","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-24","cover":"https://cover.openbd.jp/9784041087985.jpg","author":"あもい潤／著","description":"愛すべき妖たちのアクション・ヒーロー・コメディ、全話網羅の特厚完全版！","price":"1800","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784041088128","title":"ロード・エルメロイＩＩ世の事件簿　６　「ｃａｓｅ．アトラスの契約（上）」","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-24","cover":"https://cover.openbd.jp/9784041088128.jpg","author":"三田誠／著 坂本みねぢ／イラスト ＴＹＰＥ－ＭＯＯＮ／原","description":"ついに物語は、《彼女》の故郷に至る。第零幕にして第四幕スタート！","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784041088128","title":"ロード・エルメロイＩＩ世の事件簿　６　「ｃａｓｅ．アトラスの契約（上）」","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-24","cover":"https://cover.openbd.jp/9784041088128.jpg","author":"三田誠／著 坂本みねぢ／イラスト ＴＹＰＥ－ＭＯＯＮ／原著","description":"ついに物語は、《彼女》の故郷に至る。第零幕にして第四幕スタート！","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784041088180","title":"主殺し よこやり清左衛門仕置帳","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-24","cover":"https://cover.openbd.jp/9784041088180.jpg","author":"平谷美樹／著","description":"真実を知るために横槍を入れる！","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -104,40 +104,4 @@
 {"isbn":"9784140817933","title":"ＮＨＫなりきり！むーにゃん生きもの学園　なりきり生きもの図鑑　３　水辺の生きもの","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-10-24","cover":"https://cover.openbd.jp/9784140817933.jpg","author":"ＮＨＫ「なりきり！むーにゃん生きもの学園」制作班／編集","description":"Ｅテレの人気番組『なりきり！むーにゃん生きもの学園』の書籍化第３巻。オールカラーの見開きで１つの生物をクローズアップし紹介。","price":"2800","genre":"教育","target":"児童","format":"単行本","content":"生物学"}
 ,
 {"isbn":"9784140817940","title":"ＮＨＫなりきり！むーにゃん生きもの学園　なりきり生きもの図鑑　４　植物","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-10-24","cover":"https://cover.openbd.jp/9784140817940.jpg","author":"ＮＨＫ「なりきり！むーにゃん生きもの学園」制作班／編集","description":"Ｅテレの人気番組『なりきり！むーにゃん生きもの学園』の書籍化第４巻。オールカラーの見開きで１つの生物をクローズアップし紹介。","price":"2800","genre":"教育","target":"児童","format":"単行本","content":"生物学"}
-,
-{"isbn":"9784278042733","title":"痛みが劇的に消える！　５秒腰トレ","volume":"","series":"","publisher":"大泉書店","pubdate":"2019-10-24","cover":"","author":"松井薫／著","description":"NHK「あさいち」などで話題のパーソナルトレーナー直伝！\n１回たったの５秒のトレーニングの組み合わせでやっかいな腰の痛みが改善します！\n\n腰痛を克服した著者考案の腰トレーニングを紹介。\n腰痛のメカニズムからストレッチ、トレーニングまで、写真とイラストでビジュアル解説。\n「１回たったの５秒」なので、手軽に毎日続けられます。","price":"1200","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
-,
-{"isbn":"9784297109059","title":"WEB+DB PRESS Vol.113","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-10-24","cover":"https://cover.openbd.jp/9784297109059.jpg","author":"WEB+DBPRESS編集部編／著","description":"■特集1\nAWSトラブル解決 ── ［接続エラー、性能低下、権限エラー、クラウド障害］ 原因調査・対応・予防のノウハウ\n本特集ではAWS（Amazon Web Services）特有のよくあるトラブルについて、原因調査方法と解決策を紹介します。「つながらない」トラブルとしては、権限設定、ネットワーク設定に起因する事例を取り上げます。運用上のトラブルとしては、アプリケーションにエラーが発生した場合、パフォーマンスが悪い場合の対処法を紹介します。そして最後にAWS 側の障害や変更に起因するトラブルを取り上げます。実際のトラブルは多種多様ですが、トラブルシューティングの流れは変わりません。本特集の内容は多くのシーンで活用できるはずです。\n\n■特集2\nRuby書き方ドリル ── 要点解説と例題で身に付く！\nRubyコードを書いて仕事をしているけどいまいちうまく書けている感じがしない方を対象に、Rubyコードの書き方をドリル形式で解説します。まずRubyの概念上の重要ポイントを解説し、そのあと例題を提示します。例題に対しては、さまざまなレベルの解答を紹介し、それを評価します。例題と解答は、筆者が所属しているマネーフォワード社内やほかのOSSのリポジトリ、Web上の質問サイトのコードやPull Requestで見かけたものや、ありがちなものをもとにしています。\n\n■特集3\n［体験］ドメイン駆動設計 ── モデリングから実装までを一気に制覇\n\nドメイン駆動設計（DDD）は、ソフトウェアを適用しようとする領域をドメインと定めて、ドメインを基軸としながら設計とコードが正しく連携するように促す手法です。多くのメリットがありながらも、伝統的な開発手法と比べるといささか重厚／複雑で、敬遠されがちな面があるのも事実です。そこで本特集では、DDD の要であるモデリングからそれを実装に落とし込む過程を一気に、けれどていねいにたどります。DDD を具体例とともに追体験することで、そのハードルはきっと下がるはずです。DDD の力の片鱗をぜひ感じ取ってください。\n\n■一般記事\nFigmaによるUIデザイン ── デザイナーとエンジニアがオンラインで協業できる！\n\n■一般記事\n［入門］SwooleによるPHP非同期処理 ── 高速化のための並列実行はどのように書くのか\n\n","price":"1480","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784309287508","title":"距骨＆外反母趾調整ソックス","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-10-24","cover":"","author":"志水剛志／監修","description":"全身の不調は「距骨」のゆがみが原因だった!?身体の土台である距骨を整えつつ女性が悩む外反母趾も改善するスーパーソックス付き！","price":"1600","genre":"","target":"一般","format":"単行本","content":"家事"}
-,
-{"isbn":"9784309287553","title":"ハンドメイドポップアップの本","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-10-24","cover":"","author":"HIROKO／著","description":"かつてないロマンティックなポップアップカード作りの名著復活！ 12作品の作り方（英訳併記）とダウンロード式実物大図面付き。","price":"1600","genre":"","target":"一般","format":"単行本","content":"絵画・彫刻"}
-,
-{"isbn":"9784309287577","title":"１回１分！　中川式「ビーズロープ」で３次元視力トレーニング","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-10-24","cover":"","author":"中川和宏／著","description":"視力回復、スマホ目解消、ピント調整力の向上、立体視力の強化に！　付属の「ビーズロープ」で簡単トレーニング。目の悩みを解決！","price":"1300","genre":"","target":"一般","format":"単行本","content":"家事"}
-,
-{"isbn":"9784334077419","title":"飯田線・愛と殺人と","volume":"","series":"カパ・ノベルス","publisher":"光文社","pubdate":"2019-10-24","cover":"","author":"西村京太郎／著","description":"","price":"820","genre":"","target":"一般","format":"新書","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334913090","title":"サンズイ","volume":"","series":"","publisher":"光文社","pubdate":"2019-10-24","cover":"","author":"笹本稜平／著","description":"","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334913106","title":"神を喰らう者たち","volume":"","series":"","publisher":"光文社","pubdate":"2019-10-24","cover":"","author":"新堂冬樹／著","description":"","price":"2200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334913113","title":"紅子","volume":"","series":"","publisher":"光文社","pubdate":"2019-10-24","cover":"","author":"北原真理／著","description":"","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334913120","title":"テレビドラマよ永遠に","volume":"","series":"","publisher":"光文社","pubdate":"2019-10-24","cover":"","author":"鯨統一郎／著","description":"","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334913137","title":"シャガクに訊け！","volume":"","series":"","publisher":"光文社","pubdate":"2019-10-24","cover":"","author":"大石大／著","description":"","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334913144","title":"潮首岬に郭公の鳴く","volume":"","series":"","publisher":"光文社","pubdate":"2019-10-24","cover":"","author":"平石貴樹／著","description":"","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334913151","title":"青い秋","volume":"","series":"","publisher":"光文社","pubdate":"2019-10-24","cover":"","author":"中森明夫／著","description":"","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334951160","title":"枝野家のひみつ 福耳夫人の20年","volume":"","series":"","publisher":"光文社","pubdate":"2019-10-24","cover":"","author":"枝野和子／著","description":"","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784334951191","title":"オナホ売りＯＬの日常","volume":"","series":"","publisher":"光文社","pubdate":"2019-10-24","cover":"","author":"菅原県／イラスト 堀江もちこ／著","description":"","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784334951207","title":"奇跡の組織","volume":"","series":"","publisher":"光文社","pubdate":"2019-10-24","cover":"","author":"秦卓民／著","description":"","price":"1600","genre":"","target":"一般","format":"単行本","content":"経営"}
-,
-{"isbn":"9784334951214","title":"志望校に一発合格する過去問攻略法","volume":"","series":"","publisher":"光文社","pubdate":"2019-10-24","cover":"","author":"佐藤亮子／著","description":"","price":"1400","genre":"教育","target":"一般","format":"単行本","content":"教育"}
-,
-{"isbn":"9784334962326","title":"ナマケモノでいいんだよ","volume":"","series":"","publisher":"光文社","pubdate":"2019-10-24","cover":"","author":"ルーシー・クック／著 橋本篤史／翻訳","description":"","price":"1200","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
 ]
