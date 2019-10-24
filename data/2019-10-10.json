@@ -15,7 +15,7 @@
 ,
 {"isbn":"9784040732992","title":"君は死ねない灰かぶりの魔女","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784040732992.jpg","author":"ハイヌミ／著 武田ほたる／イラスト","description":"永遠の命に絶望する女の子の「死なない理由」になると決めた――","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784040733463","title":"元・世界１位のサブキャラ育成日記 ３ ～廃プレイヤー、異世界を攻略中！～","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784040733463.jpg","author":"沢村治太郎／著 まろ／イラスト","description":"攻撃が一切無効！？　暗黒狼ｖｓセカンド激突！！","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784040733463","title":"元・世界１位のサブキャラ育成日記 ３ ～廃プレイヤー、異世界を攻略中！～","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784040733463.jpg","author":"沢村治太郎／著 まろ／イラスト","description":"攻撃が一切無効！？暗黒狼ｖｓセカンド激突！！","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784040733470","title":"大預言者は前世から逃げる ２ ～三周目は公爵令嬢に転生したから、バラ色ライフを送りたい～","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784040733470.jpg","author":"寿利真／著 雪子／イラスト","description":"公爵令嬢から転職！？　アパレル社長はじめます！！","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
@@ -89,7 +89,7 @@
 ,
 {"isbn":"9784058010860","title":"大腸を切った人のための毎日おいしいレシピ２００","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-10-10","cover":"","author":"塩澤学／監修 藤井理恵薫／監修","description":"腸の手術後から、普通の食事に戻るまで時期別に、回復を助け、元気がでる食事レシピを紹介。術後症状に対処できるマーク表示入り","price":"1800","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
-{"isbn":"9784058010921","title":"最新版　千葉大学医学部附属病院が教える毎日おいしいコレステロール・中性脂肪対策レシピ３１１","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-10-10","cover":"","author":"横手幸太郎／監修 野本尚子／監修","description":"有名病院の名医と、その病院を支える栄養部が監修。自宅にいながら、症状の進行遅らせる正しい食事療法とレシピがよくわかる。","price":"1500","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784058010921","title":"最新版　千葉大学医学部附属病院が教える毎日おいしいコレステロール・中性脂肪対策レシピ３１１","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-10-10","cover":"","author":"横手幸太郎／監修 野本尚子／監修","description":"有名病院の名医と、その病院を支える栄養部が監修。自宅にいながら、症状の進行を遅らせる正しい食事療法とレシピがよくわかる。","price":"1500","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784058011010","title":"胃を切った人のための毎日おいしいレシピ２５０","volume":"","series":"","publisher":"学研プラス","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784058011010.jpg","author":"木下敬弘／監修 千歳はるか／監修","description":"がんなどで胃を切った人に向けた、食べ方とレシピをまとめます。つらい後遺症を抑える食べ方から、普通の食事に戻るまでを解説","price":"1800","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
@@ -185,9 +185,15 @@
 ,
 {"isbn":"9784160089600","title":"偉人伝","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784160089600.jpg","author":"中西瑠璃／著","description":"武士の世に生を受け、仏像彫刻、能楽、茶道、陽明学の各分野で後世に名を残した名人四人の生涯。","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784163911083","title":"黙示録 映画プロデューサー・奥山和由の天国と地獄","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784163911083.jpg","author":"春日太一／","description":"八〇年代、九〇年代、低迷する日本映画界で一人気を吐いたスタープロデューサー、奥山和由。名監督、名優たちとの秘話を語り下ろす！","price":"1900","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784163911083","title":"黙示録 映画プロデューサー・奥山和由の天国と地獄","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784163911083.jpg","author":"春日太一／著","description":"八〇年代、九〇年代、低迷する日本映画界で一人気を吐いたスタープロデューサー、奥山和由。名監督、名優たちとの秘話を語り下ろす！","price":"1900","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784163911090","title":"うまうまニッポン！ 食いだおれ二人旅","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784163911090.jpg","author":"高田かや／著","description":"温泉宿で自炊をしたり、季節の甘味に行列したり……。食べることが大好きな著者夫妻が実際に体験した「おいしい旅」を漫画で紹介。","price":"1000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784163911120","title":"カッティング・エッジ","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784163911120.jpg","author":"ジェフリー・ディーヴァー／著 池田真紀子／翻訳","description":"連続殺人犯の唯一の目撃者を追ってリンカーン・ライムと犯人がNYで展開する頭脳戦。結婚間近の男女を狙う犯人の目的は。最新長編。","price":"2500","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
+,
+{"isbn":"9784198270629","title":"小屋ライフ　Vol.004","volume":"","series":"","publisher":"CLASSIX","pubdate":"2019-10-10","cover":"","author":"","description":"本書は日本国内だけに留まらず、世界の小屋ライフをテーマにした1冊です。\n\n南米大陸パタゴニア地方・最南部の丘陵地で大自然を体験できるエコキャンプ・パタゴニアのジオデシックドームを筆頭に、アメリカ・オレゴン州ポートランドのポップカルチャーを体験できる6棟の個性的なタイニーハウスホテル、20世紀を代表する建築家、フランク・ロイド・ライトが晩年に設計したウイスコンシン州のコテージ、森の中の隠れ家のように佇むAフレーム構造の狩猟小屋など、世界の小屋ライフをご紹介。\n\nさらに国内では北海道・富良野から、静岡、神奈川、山梨、大阪、兵庫、和歌山、香川、熊本・南阿蘇と、全国各地の小屋を編集部が独自に取材。日本中を走り回って取材した素敵な小屋ライフを楽しめます。\n\n小屋はライフスタイルの変化に合わせて、気軽に足したり、引いたりできる究極のプライベート・スペース。そんな素敵な空間をどのように活用して、豊かなライフスタイルを楽しんでいるのか? 創作活動や趣味を楽しむ素敵な小屋の活用例が数多く掲載されています。\n\nまた、巻末には合計90モデルにも及ぶ小屋のカタログも掲載。小屋を床面積別にまとめることで、スペースや予算に合わせて、最適な小屋を選べるように構成しました。\n\nこの1冊で、あなたの小屋ライフは必ず実現できる、まさに“手に入れることのできる夢“へと変わるはず。\nすでに素晴らしい小屋ライフを実践している方々の実例記事を読み込んで、小屋ライフの実現に一歩足を踏み出してみましょう。\n\n【掲載コンテンツ】\n海外小屋実例\n・南米大陸パタゴニア　ECOCAMP PATAGONIA\n・アメリカ・オレゴン州　THE TINY HOUSE HOTEL CARAVAN\n・アメリカ・ウイスコンシン州　SETH PETERSON COTTAGE\n・アメリカ・ニューヨーク州　BLACK A FRAME\n\n小屋のある素敵な暮らし\n・NATURAL SERIES STYLE-03 長野県\n・NATURAL SERIES STYLE-03 ”Cal KOYA” 長野県\n・ORIGINAL TINY HOUSE 熊本県\n・ORIGINAL TINY HOUSE 山梨県\n・ORIGINAL TINY HOUSE 兵庫県\n・FREAKS KOYA 静岡県\n・ORIGINAL TINY HOUSE 大阪府\n・PANEL HOUSE 36-108 北海道\n・PANEL HOUSE 2754 北海道\n・PANEL HOUSE 北海道\n・PANEL HOUSE 3654D 北海道\n・MOBILE HOUSE JYUBAKO 神奈川県\n・ORIGINAL TINY HOUSE 和歌山県\n\n50万円から手に入る憧れの小屋カタログ 90モデル","price":"1200","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+,
+{"isbn":"9784251020215","title":"真夜中の妖精","volume":"1","series":"トゥートゥルとふしぎな友だち","publisher":"あかね書房","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784251020215.jpg","author":"湯湯／著 髙野素子／翻訳 平澤朋子／イラスト","description":"7歳の少女トゥートゥルがなかよくなったのは、池の妖精ルールー。中国の小さな村で紡がれる心にしみるファンタジー、第1弾。","price":"1200","genre":"児童図書","target":"児童","format":"全集・双書","content":"外国文学小説"}
+,
+{"isbn":"9784251044365","title":"森のクリーニング店　シラギクさん","volume":"36","series":"スプラッシュ・ストーリーズ","publisher":"あかね書房","pubdate":"2019-10-10","cover":"https://cover.openbd.jp/9784251044365.jpg","author":"高森美由紀／著 jyajya／イラスト","description":"凄腕クリーニング店のシラギクさんのもとへ、引きこもりのフクロウ、家族とはぐれたサル、パンダになりたいクマがやってきて…。","price":"1200","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
 ]
