@@ -93,7 +93,7 @@
 ,
 {"isbn":"9784198649371","title":"野球の正論","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-10-26","cover":"","author":"江本孟紀／著 里崎智也／著","description":"球団やチームにべったりの連中にこれができるか！　球界も選手も恐れる最強野球解説者タッグによるリアルガチなプロ野球超激論！","price":"1500","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
 ,
-{"isbn":"9784198649586","title":"そして歩き出す","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-10-26","cover":"","author":"早川史哉／著","description":"デビューと同時に白血病を発症したＪリーガーの早川史哉。プロのピッチに戻ってくるまでの３年５カ月をありのままに綴った一冊。","price":"1500","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
+{"isbn":"9784198649586","title":"そして歩き出す","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-10-26","cover":"","author":"早川史哉／著","description":"デビューと同時に白血病を発症したＪリーガーの早川史哉。プロのピッチに戻ってくるまでの３年５カ月をありのままにった一冊。","price":"1500","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
 ,
 {"isbn":"9784198649869","title":"武器が語る日本史","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-10-26","cover":"","author":"兵頭二十八／著","description":"日本独特の進化をした弓や銃などの武器たちの威力や機能を検証しながら、これまで常識とされていた歴史の意外な事実を明かにする","price":"1700","genre":"歴史・地理","target":"一般","format":"単行本","content":"政治-含む国防軍事"}
 ,
@@ -116,4 +116,32 @@
 {"isbn":"9784296104543","title":"ディープラーニング活用の教科書　実践編","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784296104543.jpg","author":"日経クロストレンド／編集 日本ディープラーニング協会／監修","description":"ディープラーニング活用なくしてビジネスの飛躍的成長なし\n◆日本ディープラーニング協会推薦図書◆\n","price":"1800","genre":"","target":"一般","format":"単行本","content":"経済・財政・統計"}
 ,
 {"isbn":"9784297108694","title":"Ruby on Rails 6 エンジニア 養成読本","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784297108694.jpg","author":"すがわらまさのり／著 前島真一／著","description":"本書は，これからRuby（Ruby on Rails）の最新動向をいち早く知りたい人／しばらくRubyから離れていた人のために，今求められる知識，開発のトレンド，事前に準備しておきたい環境のおさらいなどを1冊にまとめたムックです。今開発の現場で求められている知識と開発の流れを学ぶことができます。Rails 6.0対応","price":"1880","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784325229896","title":"北海道大学（後期日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784325229896.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325229995","title":"岩手大学 2020年版;No.13","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784325229995.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325230175","title":"筑波大学（後期日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784325230175.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325230182","title":"宇都宮大学 2020年版;No.32","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784325230182.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325230403","title":"一橋大学（後期日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784325230403.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。5カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325230564","title":"福井県立大学 2020年版;No.70","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784325230564.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1900","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325230625","title":"信州大学（後期日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784325230625.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325231004","title":"神戸大学（後期日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784325231004.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325231264","title":"愛媛大学 2020年版;No.140","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784325231264.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325231332","title":"福岡教育大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784325231332.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325231509","title":"琉球大学 2020年版;No.164","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784325231509.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2200","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233077","title":"東京都市大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784325233077.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325233411","title":"日本大学（Ｎ方式）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784325233411.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784338261357","title":"まちがいまちにようこそ","volume":"","series":"","publisher":"小峰書店","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784338261357.jpg","author":"斉藤倫／著 うきまる／著 及川賢治／イラスト","description":"「まちがいは　たのしいね！」斉藤倫、うきまる×及川賢治（100%ORANGE）が贈る、本気の”ことば遊び”絵本。","price":"1400","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
 ]
