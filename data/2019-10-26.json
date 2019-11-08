@@ -1,7 +1,7 @@
 [
 {"isbn":"9784001126860","title":"スモンスモン","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784001126860.jpg","author":"ソーニャ・ダノウスキ／著 新本史斉／翻訳","description":"トントンにのってロンロンをもぎに出かけたスモンスモン．途中でゾンゾンに落ちてしまって，さあ大変！","price":"1800","genre":"","target":"児童","format":"絵本","content":"外国文学、その他"}
 ,
-{"isbn":"9784040640747","title":"今日も女の子を攻略した。　5","volume":"","series":"","publisher":"ＫＤＯＫＡＷＡ","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784040640747.jpg","author":"むく／著","description":"女の子が女の子を恋に落とす！ イケメン美少女ヒロイン＜無自覚＞無双！！","price":"630","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784040640747","title":"今日も女の子を攻略した。　5","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784040640747.jpg","author":"むく／著","description":"女の子が女の子を恋に落とす！ イケメン美少女ヒロイン＜無自覚＞無双！！","price":"630","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784040640754","title":"先輩は着替えができない　１","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784040640754.jpg","author":"えんど／著","description":"パンツがうまく穿けない……って、どゆことー？？　肌色不器用コメディ！！","price":"630","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -43,7 +43,7 @@
 ,
 {"isbn":"9784046042293","title":"大学入学共通テスト　英語［リスニング］予想問題集","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784046042293.jpg","author":"谷川学／著","description":"共通テスト対策で必要なことが全部載っている理想の予想問題集が完成","price":"1200","genre":"","target":"学参II(高校)","format":"単行本","content":"英米語"}
 ,
-{"isbn":"9784046042309","title":"大学入学共通テスト　数学1・A予想問題集","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784046042309.jpg","author":"佐々木誠／著","description":"共通テスト対策として必要なことをすべて備えた理想の予想問題集が完成","price":"1200","genre":"","target":"学参II(高校)","format":"単行本","content":"数学"}
+{"isbn":"9784046042309","title":"大学入学通テスト　数学1・A予想問題集","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784046042309.jpg","author":"佐々木誠／著","description":"共通テスト対策として必要なことをすべて備えた理想の予想問題集が完成","price":"1200","genre":"","target":"学参II(高校)","format":"単行本","content":"数学"}
 ,
 {"isbn":"9784046042316","title":"大学入学共通テスト　数学２・Ｂ予想問題集","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784046042316.jpg","author":"佐々木誠／著","description":"共通テスト対策として必要なことをすべて備えた理想の予想問題集が完成","price":"1200","genre":"","target":"学参II(高校)","format":"単行本","content":"数学"}
 ,
@@ -88,6 +88,4 @@
 {"isbn":"9784074390557","title":"野菜の「べんり漬け」","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784074390557.jpg","author":"榎本美紗／著","description":"野菜を手作りだしパックにつけるだけでだしがしみしみのサラダが完成。忙しい人専用の、漬けるおかず習慣です","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784074400874","title":"都会で着こなす世界の民族衣装","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784074400874.jpg","author":"主婦の友社／編集","description":"世界30ヵ国の民族衣装を”都会で着こなす”をテーマにビジュアルで楽しむ！　民族衣装が語る気候や習慣、ルーツも解説。","price":"1600","genre":"","target":"実用","format":"単行本","content":"家事"}
-,
-{"isbn":"9784148272857","title":"巨匠直伝！　究極の缶詰レシピ","volume":"","series":"ＮＨＫまる得マガジン","publisher":"NHK出版","pubdate":"2019-10-26","cover":"https://cover.openbd.jp/9784148272857.jpg","author":"野﨑洋光／著","description":"「さばの水煮」など人気の魚缶から「オイルサーディン」「帆立て貝柱」豆類まで、毎日の食卓にも大活躍する缶詰使いこなしの決定版。","price":"571","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ]
