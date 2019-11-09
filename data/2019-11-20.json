@@ -61,7 +61,7 @@
 ,
 {"isbn":"9784065176931","title":"Cocoon2　蠱惑の焔","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"","author":"夏原エヰジ／著","description":"昼は花魁、夜は鬼斬り。シリーズ第２弾！　どんなことがあっても、わっちが江戸を鬼から守る。業火に身を焼かれようとも。","price":"1350","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065176948","title":"沃野の刑事","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"","author":"堂場瞬一著","description":"１９７０年。週刊誌編集長の息子の謎めいた自殺。捜査一課と公安、理事官として辣腕を振るう高峰と海老沢は、自ら捜査に乗り出すが。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784065176948","title":"沃野の刑事","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"","author":"堂場瞬一／著","description":"１９７０年。週刊誌編集長の息子の謎めいた自殺。捜査一課と公安、理事官として辣腕を振るう高峰と海老沢は、自ら捜査に乗り出すが。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065177198","title":"KILL　the　ROSE（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"","author":"エビガワ／著","description":"自らの命を狙う政敵・テキーラをルイスは攻略することができるのか！？　そして女王との恋の行方は‥‥！？","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -80,4 +80,48 @@
 {"isbn":"9784065182741","title":"ディープインパクト不況　中国バブル崩壊という巨大隕石が世界経済を直撃する","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"","author":"真壁昭夫／著","description":"中国バブル崩壊が世界経済に与えるマグニチュードは超巨大。恐竜を滅ぼした巨大隕石級の衝撃で「ディープインパクト不況」を招来する","price":"880","genre":"","target":"一般","format":"新書","content":"社会"}
 ,
 {"isbn":"9784065183892","title":"風光る　得点への執着心編","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"","author":"川三番地／著 七三太朗／原著","description":"甲子園目指しモノマネ少年ゆたかが大活躍！","price":"590","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784086802826","title":"ハケン飯友 僕と猫のごはん歳時記","volume":"","series":"ハケン飯友","publisher":"集英社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784086802826.jpg","author":"椹野道流／著 内田美奈子／イラスト","description":"沖守さんの茶房で雇われマスターとして働くことになった坂井寛生。「猫」との食事も続いている。ある日、道端で蹲る若者に出会って…","price":"560","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784086802833","title":"異世界温泉郷 あやかし湯屋の恋ごよみ","volume":"","series":"異世界温泉郷シリーズ","publisher":"集英社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784086802833.jpg","author":"高山ちあき／著 細居美恵子／イラスト","description":"異世界の湯屋・高天原で下働きを続ける凛子。狗神の京之介との婚姻関係も継続中。ある日、人間の娘だという七緒が預けられるが…？","price":"560","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784086802840","title":"君が今夜もごはんを食べますように","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784086802840.jpg","author":"山本瑤／著 玉島ノン／イラスト","description":"家具職人見習いの蒼木相馬は、他の仕事も経験するため、女友達小梅の営む茶房で働くことになる。じんわり心に沁みる金沢ごはん物語。","price":"590","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784086802857","title":"雛翔記 天上の花、雲下の鳥","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784086802857.jpg","author":"我鳥彩子／著 禅之助／イラスト","description":"花の都に暮らす少女・日奈は王の妹の身代わりとして輿入れが決まった。ところが結婚相手の黒金の大王の暗殺を命じられ…!?","price":"610","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784086802864","title":"青い灯の百物語","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784086802864.jpg","author":"椎名鳴葉／著 七原しえ／イラスト","description":"異形とヒトの間を取り持つ真魚寺家の末裔・千秋には、従兄の小説家・青原灯がいる。実は彼は幼い日に千秋が契約を結んだ妖怪で…。","price":"660","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784086802871","title":"咎人のシジル","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784086802871.jpg","author":"樹島千草／著 鈴木康士／イラスト","description":"美青年・藍沢結人の恋は、ひとつの街でひとつ。相手の首に縄をかけ吊るすのが、最大の愛情表現だったから…。復讐の因果が回り始める","price":"610","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784086802888","title":"思い出とひきかえに、君を","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784086802888.jpg","author":"柴野理奈子／著 縞あさと／イラスト","description":"思い出とひきかえに、願いを叶えてくれるお店に迷いこんだ高1のひまり。片想いの相手・陸斗を助けるため、彼との思い出を売るが…?","price":"550","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784087440430","title":"文庫版 書楼弔堂 炎昼","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"","author":"京極夏彦／著","description":"不可思議な書店を舞台に、実在する多くの著名人が交わり、激動の明治時代を生きる人々を描く〈書楼弔堂〉シリーズ第2弾。","price":"980","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784087440447","title":"やめるときも、すこやかなるときも","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"","author":"窪美澄／著","description":"大切な人の死を忘れられない家具職人の壱晴。困窮する実家を支え、恋とは縁遠い桜子。欠けた心を抱えた二人の出会いの行方は──。","price":"760","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784087440454","title":"脇坂副署長の長い一日","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"","author":"真保裕一／著","description":"アイドルが一日署長を務めるイベント当日、署内の不祥事の収拾に動く脇坂副署長。次々と事件が連鎖し、やがて大きな疑惑へ……。","price":"790","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784087440461","title":"暗夜鬼譚 紫花玉響","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"","author":"瀬川貴次／著","description":"運命の出会いを求める帝が、見事な藤の花が咲く家で出会った美貌の姫君の正体とは──。美しくも哀しい、平安怪異譚シリーズ第5弾。","price":"800","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784087440478","title":"あるいは修羅の十億年","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784087440478.jpg","author":"古川日出男／著","description":"東日本大震災から15年後──2026年の近未来を舞台に、スリリングな平行世界「東京」と、隔離された「島」を描く近未来長編。","price":"900","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784087440485","title":"パリわずらい 江戸わずらい","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784087440485.jpg","author":"浅田次郎／著","description":"パリに隠遁を考えるも「三度三度の白いご飯がいっぱい食べられぬ」と考え、断念した話等、JAL機内誌連載の人気エッセイ第3弾。","price":"600","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784087440492","title":"黙殺 報じられない“無頼系独立候補\"たちの戦い","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784087440492.jpg","author":"畠山理仁／著","description":"選挙の魔力に取り憑かれた泡沫候補たちの「独自の戦い」を追い続けた20年間の記録。第15回開高健ノンフィクション賞受賞作。","price":"780","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784087440508","title":"水晶庭園の少年たち 瑠璃の空","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"","author":"蒼月海里／著","description":"地球の生んだ芸術品、鉱物の魅力に少年の繊細な心をオーバーラップさせた耽美ロマンの第3弾。土蔵から祖父の日記が発見され……。","price":"500","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784087440515","title":"お迎えに上がりました。 国土交通省国土政策局幽冥推進課 4","volume":"","series":"お迎えに上がりました。","publisher":"集英社","pubdate":"2019-11-20","cover":"","author":"竹林七草／著","description":"地縛霊の願いは、先祖代々の畑を守ること。しかも厄介な「幽霊土地」問題も発覚し…。笑えて泣ける心霊お仕事コメディ第4弾！","price":"620","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784087440522","title":"九代目長兵衛口入稼業","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"","author":"小杉健治／著","description":"江戸の人材派遣業九代目長兵衛は粋な店主。仕事を世話した友蔵が、賭場で荒稼ぎと噂が。中間部屋を渡り歩く友蔵の裏に何かある…？","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784087440539","title":"PSYCHO-PASS サイコパス 3 <A>","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"","author":"吉上亮／著 サイコパス製作委員会／著","description":"「正義」は、新たな世界を切り開く。フジテレビ【ノイタミナ】枠で10月から放送の人気アニメーションノベライズ！","price":"750","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784087440546","title":"定年女子 60を過ぎて働くということ","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784087440546.jpg","author":"岸本裕紀子／著","description":"女性の半数が90まで生きる時代。定年後も元気に働きたいあなたに、豊富な実例とともに「老後の前」の生き方を提案。好評第2弾。","price":"500","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784087607611","title":"パリのアパルトマン","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784087607611.jpg","author":"ギヨーム・ミュッソ／著 吉田恒雄／翻訳","description":"未解決の幼児拉致監禁事件──。天才画家の遺作に隠された衝撃の真実とは？　フランスNo.1のベストセラー作家の本格ミステリー。","price":"1150","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784087610512","title":"セレクション戦争と文学 5 日中戦争","volume":"","series":"セレクション戦争と文学","publisher":"集英社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784087610512.jpg","author":"胡桃沢耕史／著","description":"「徴発」という名の掠奪、理不尽な命令、えんえんと続く行軍……。実際に戦地へ赴いた作家たちが描く、中国戦線の実態と悲喜劇。","price":"1700","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784087925296","title":"YU-GI-OH! OCG 20th ANNIVERSARY MONSTER ART BOX","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-20","cover":"","author":"Vジャンプ編集部／著","description":"","price":"16000","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ]

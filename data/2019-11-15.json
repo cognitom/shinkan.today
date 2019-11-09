@@ -123,7 +123,7 @@
 ,
 {"isbn":"9784065173688","title":"ボイスラ！！（2）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-15","cover":"","author":"Ｏｃｔｏ／著","description":"ついに迎えたイベント当日！　Ｎｏ．１声優への大きな一歩として灯士郎は結果を残せるか！？　大注目の青春声優ストーリー第２巻！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065173886","title":"新　飛行機100点","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-15","cover":"","author":"グループ・コロンブス／著 チャーリィ古庄／写真","description":"２０１９年４月に実機公開となったＡＮＡのＡ３８０はもちろん、６月に実機公開となったＪＡＬのＡ３５０をいち早く掲載！","price":"720","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"交通・通信"}
+{"isbn":"9784065173886","title":"新　飛行機100点","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-15","cover":"https://cover.openbd.jp/9784065173886.jpg","author":"グループ・コロンブス／著 チャーリィ古庄／写真","description":"２０１９年４月に実機公開となったＡＮＡのＡ３８０はもちろん、６月に実機公開となったＪＡＬのＡ３５０をいち早く掲載！","price":"720","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"交通・通信"}
 ,
 {"isbn":"9784065175156","title":"紺田照の合法レシピ（9）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-15","cover":"","author":"馬田イスケ／著","description":"実写ドラマＡｍａｚｏｎプライム・ビデオにて絶賛放送中！高校生極道×お料理コメディ！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -147,7 +147,7 @@
 ,
 {"isbn":"9784065176801","title":"ディズニー　アナと雪の女王　アナと　エルサの　おしろシールあそび　200（ディズニーブックス）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-15","cover":"","author":"講談社／編集","description":"エルサとアナのお城の中をまるごと見せちゃう１冊です。付属のシールはたっぷり約２００枚。着せ替え遊びやお部屋作りを楽しんで！","price":"850","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"絵画・彫刻"}
 ,
-{"isbn":"9784065176849","title":"修羅の刻（19）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-15","cover":"","author":"川原正敏／著","description":"“不破”の歴史が今紡がれる――。待望の新章「東西無双編」完結！！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065176849","title":"修羅の刻（19）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-15","cover":"https://cover.openbd.jp/9784065176849.jpg","author":"川原正敏／著","description":"“不破”の歴史が今紡がれる――。待望の新章「東西無双編」完結！！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065176856","title":"K　－beautiful　pieces－","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-15","cover":"","author":"鳥飼やすゆき／著 ＧｏＲＡ・ＧｏＨａｎｄｓ／著","description":"大人気アニメシリーズ『Ｋ』のスピンオフコミカライズ決定版！　美しきカケラが一冊に…。","price":"800","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -159,7 +159,15 @@
 ,
 {"isbn":"9784065178638","title":"爆笑頭（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-15","cover":"","author":"井龍一／原著 小林ユマ／著","description":"爆笑頭","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784074389728","title":"大阪抽せん黄金出現パターン","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-11-15","cover":"","author":"主婦の友インフォス／編集","description":"数字選択式宝くじは、年に数回（１週間単位）は大阪で抽せんを行っている！その全データを余すことなく紹介したデータ＆予想本","price":"1500","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
+{"isbn":"9784074389728","title":"大阪抽せん黄金出現パターン","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-11-15","cover":"https://cover.openbd.jp/9784074389728.jpg","author":"主婦の友インフォス／編集","description":"数字選択式宝くじは、年に数回（１週間単位）は大阪で抽せんを行っている！その全データを余すことなく紹介したデータ＆予想本","price":"1500","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784074400584","title":"病気が逃げていく！　紫外線のすごい力","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-11-15","cover":"","author":"南雲吉則／著","description":"日本人は超ビタミンD不足！日光の恵みでビタミンDをしっかり合成できれば、ガンもアレルギーもうつも認知症も逃げていく！","price":"1300","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
+{"isbn":"9784074400584","title":"病気が逃げていく！　紫外線のすごい力","volume":"","series":"","publisher":"主婦の友社","pubdate":"2019-11-15","cover":"https://cover.openbd.jp/9784074400584.jpg","author":"南雲吉則／著","description":"日本人は超ビタミンD不足！日光の恵みでビタミンDをしっかり合成できれば、ガンもアレルギーもうつも認知症も逃げていく！","price":"1300","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784087210972","title":"ゲノム革命がはじまる DNA全解析とクリスパーの衝撃","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-15","cover":"","author":"小林雅一／著","description":"遺伝子解析サービス、がん治療、ゲノム編集食品、科学捜査など、様々な分野に応用されるゲノム技術。その光と影を全て描き出す！","price":"840","genre":"","target":"一般","format":"新書","content":"自然科学総記"}
+,
+{"isbn":"9784087210989","title":"人生にとって挫折とは何か","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-15","cover":"","author":"下重暁子／著","description":"人生の終盤まで誰もが引きずりがちな挫折を克服し人生の彩りへと昇華する、著者ならではの極上の哲学。","price":"780","genre":"","target":"一般","format":"新書","content":"社会"}
+,
+{"isbn":"9784087210996","title":"ジョコビッチはなぜサーブに時間をかけるのか","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-15","cover":"","author":"鈴木貴男／著","description":"痒いところに手が届く解説で定評のある現役プロテニス選手が、体験を交えながら、選手の「頭の中」まで理解できる観戦術を伝授。","price":"780","genre":"","target":"一般","format":"新書","content":"体育・スポーツ"}
+,
+{"isbn":"9784087211009","title":"悪の脳科学","volume":"","series":"","publisher":"集英社","pubdate":"2019-11-15","cover":"","author":"中野信子／著","description":"喪黒福造の“騙しの方法”を脳科学の視点で考察し、「人間の心のスキマ」を解き明かす！　巻末には藤子不二雄Ⓐとの対談も収録。","price":"780","genre":"","target":"一般","format":"新書","content":"自然科学総記"}
 ]
