@@ -15,7 +15,7 @@
 ,
 {"isbn":"9784007309496","title":"スペクトル理論I","volume":"","series":"岩波講座 基礎数学","publisher":"岩波書店","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784007309496.jpg","author":"木村俊房／著","description":"無限次元空間，特にヒルベルト空間における作用素の固有値問題として作られた壮麗な一般理論を紹介．","price":"5200","genre":"","target":"専門","format":"全集・双書","content":"数学"}
 ,
-{"isbn":"9784007309502","title":"スペクトル理論II","volume":"","series":"岩波講座 基礎数学","publisher":"岩波書店","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784007309502.jpg","author":"黒田成俊／著","description":"主として散乱理論の視点から解説．とりわけ波動作用素の存在と完全性の問題に焦点をあてる．","price":"4700","genre":"","target":"専門","format":"全集・双書","content":"数学"}
+{"isbn":"9784007309502","title":"スペクト理論II","volume":"","series":"岩波講座 基礎数学","publisher":"岩波書店","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784007309502.jpg","author":"黒田成俊／著","description":"主として散乱理論の視点から解説．とりわけ波動作用素の存在と完全性の問題に焦点をあてる．","price":"4700","genre":"","target":"専門","format":"全集・双書","content":"数学"}
 ,
 {"isbn":"9784007309519","title":"量子力学のききどころ","volume":"","series":"物理講義のききどころ","publisher":"岩波書店","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784007309519.jpg","author":"和田純夫／著","description":"複数の状態が共存し，それらが同時進行するという，量子力学の粒子像を徹底的に説明するテキスト．","price":"3000","genre":"","target":"専門","format":"全集・双書","content":"物理学"}
 ,
@@ -63,7 +63,7 @@
 ,
 {"isbn":"9784065176184","title":"おっさんずラブ（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-13","cover":"","author":"山中梅鉢／著 ＴＶドラマ「おっさんずラブ」（制作：テレビ朝日脚本：徳尾浩司）／原著","description":"大人気ドラマコミカライズ第３巻☆","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065176337","title":"PとJK（15）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-13","cover":"","author":"三次マキ／著","description":"クライマックス間近！　ポリス＆女子高生ラブ第１５巻☆","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065176337","title":"PとJK（15）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784065176337.jpg","author":"三次マキ／著","description":"クライマックス間近！　ポリス＆女子高生ラブ第１５巻☆","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065176351","title":"黒崎くんの言いなりになんてならない（15）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-13","cover":"","author":"マキノ／著","description":"大事なのは恋？　親友？　悪魔級ドＳ男子のエロキュンラブ、記憶ソーシツ編フィナーレ！","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -91,13 +91,13 @@
 ,
 {"isbn":"9784065177013","title":"TRANSIT　THE　LANDSCAPES","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784065177013.jpg","author":"ユーフォリアファクトリー／編集","description":"トラベルカルチャーマガジン『ＴＲＡＮＳＩＴ（トランジット）』初の写真集。世界中の人々の姿をとらえた「ランドスケープ」編","price":"3800","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784065177129","title":"千紘くんは、あたし中毒。（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-13","cover":"","author":"伊藤里／著","description":"イケメンデザイナーが、わたしに夢中！？千紘くんの「ひとめぼれ」から始まる、最高シンデレラストーリー。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065177129","title":"千紘くんは、あたし中毒。（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-13","cover":"","author":"伊藤里／著","description":"イケメンデザイナーが、わたしに夢中！？千紘くんの「ひとめぼれ」から始まる、最高のシンデレラストーリー。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065177136","title":"極妻デイズ～極道三兄弟にせまられてます～（6）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-13","cover":"","author":"長谷垣なるみ／著","description":"夏祭りで、桜をめぐって極道三兄弟がバトル！さらに、桜と鷲介が温泉で新婚旅行ごっこ！？ドキドキしすぎ注意！な逆ハーラブ第６巻。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065177204","title":"ホームルーム（6）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-13","cover":"","author":"千代／著","description":"前人未到のラブコメ・ホラー！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065177242","title":"中間管理録トネガワ（9）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-13","cover":"","author":"福本伸行／著 萩原天晴／原著 三好智樹／著 橋本智広／著","description":"ブラック企業・帝愛に報道のメスが！？　『カイジ』の悪魔的スピンオフ、驚乱の第９巻！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065177242","title":"中間管理録トネガワ（9）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784065177242.jpg","author":"福本伸行／著 萩原天晴／原著 三好智樹／著 橋本智広／著","description":"ブラック企業・帝愛に報道のメスが！？　『カイジ』の悪魔的スピンオフ、驚乱の第９巻！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065177464","title":"ベストバウト　オブ　はじめの一歩！　幕之内一歩VS．冴木卓麻　幕之内一歩VS．唐沢拓三　A級ボクサートーナメント＆日本フェザー級タイトルマッチ　スピードスター編","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-13","cover":"","author":"森川ジョージ／著","description":"","price":"550","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -150,24 +150,4 @@
 {"isbn":"9784097250395","title":"こねこのプーフー 10 リサとガスパールにあったよ！","volume":"","series":"","publisher":"小学館","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784097250395.jpg","author":"アン＆ゲオルグ・ハレンスレーベン／著 ふしみみさを／翻訳","description":"大人気キャラクターリサとガスパール登場！ \n\n 夜ねる前に、毎晩、楽しいお話をパパとママに聞かせてくれるこねこのプーフー。\n想像力たくましいプーフーのお話には、毎回、とんでもない出来事が起きます。\n今日は、なんと、あの大人気キャラクターのリサとガスパールにパリを案内してもらったお話です。\n初めてのパリ、プーフーは、どんなところにいったのでしょうか？\nパリのお話は、大人も楽しめます。\nどこまでが本当で、どこまでがうそなのかわからない、ちょっとクスッと笑ってしまうプーフーのお話をお楽しみに。 \n\n 【編集担当からのおすすめ情報】 \n 2020年は、著者のリサとガスパール日本上陸20周年にあたります。それを記念して、プーフーにも10巻目でリサとガスパールが登場しました。\nプーフーならではのユニークなパリ案内です。\nプーフーのシリーズは、小さな子どものベッドタイムストーリーにぴったりのかわいい絵本です。\n想像力がどんどんふくらんで、親子の会話も広がるでしょう。読み聞かせに最適です。","price":"1200","genre":"児童図書","target":"児童","format":"絵本","content":"絵画・彫刻"}
 ,
 {"isbn":"9784097267577","title":"こねこのプーフー 9 ドラゴンにあったよ！","volume":"","series":"","publisher":"小学館","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784097267577.jpg","author":"アン＆ゲオルグ・ハレンスレーベン／著 ふしみみさを／翻訳","description":"ほら吹きこねこのベッドタイムストーリー \n\n 夜ねる前に、毎晩、楽しいお話をパパとママに聞かせてくれるこねこのプーフー。\n想像力たくましいプーフーのお話には、毎回、とんでもない出来事が起きます。\n今日は、なんとドラゴンが保育園に来た話。\nどんなドラゴンがどうやって来たのでしょうか？\nどこまでが本当で、どこまでがうそなのかわからない、ちょっとクスッと笑ってしまうプーフーのお話をお楽しみに。 \n\n 【編集担当からのおすすめ情報】 \n 「こねこのプーフー」シリーズ第9弾です。\n小さな子どものベッドタイムストーリーにぴったりのかわいい絵本です。\n想像力がどんどんふくらんで、親子の会話も広がるでしょう。読み聞かせに最適です。\n\n","price":"1200","genre":"児童図書","target":"児童","format":"絵本","content":"絵画・彫刻"}
-,
-{"isbn":"9784160089495","title":"真相 「九大生体解剖事件」最後の目撃証人の実証記録","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784160089495.jpg","author":"東野利夫／著","description":"敗戦間際、米軍B29搭乗員捕虜8名が九州帝大医学部での生体実験手術で死亡。震撼の事件を精密に記録した『汚名』（小社刊）を再刊","price":"1500","genre":"","target":"一般","format":"単行本","content":"政治-含む国防軍事"}
-,
-{"isbn":"9784163910468","title":"横浜ストロングスタイル ベイスターズを改革した僕が、その後スポーツ界で経験した2年半のすべて","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784163910468.jpg","author":"池田純／著","description":"ベイスターズを変えた男は多くのスポーツ団体に関わり変革を求めない勢力の抵抗に遭う。彼らとの戦いから見えてきたスポーツの未来と","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784163910611","title":"日本の戦後を知るための12人 池上彰の〈夜間授業〉","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784163910611.jpg","author":"池上彰／著","description":"田中角栄、渡邉恒雄、ホリエモンに池田大作…。毀誉褒貶ありつつも戦後日本を決定づけた面々を池上解説。人物評論の形の戦後史です。","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784163911076","title":"宇宙から帰ってきた日本人 日本人宇宙飛行士全12人の証言","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784163911076.jpg","author":"稲泉連／著","description":"宇宙――人智を超えた漆黒の空間で、飛行士たちは何を考えたか。全日本人宇宙飛行士への取材を敢行した史上初のノンフィクション。","price":"1650","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784163911243","title":"恋愛 コレクションⅡ","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784163911243.jpg","author":"吉田修一／著","description":"デビュー作「最後の息子」から芥川賞受賞作「パーク・ライフ」、書き下ろし「自伝小説」まで十四作。恋愛小説の名作群に浸りつくせ！","price":"3600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784199506901","title":"ZINGNIZE　③","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-11-13","cover":"","author":"わらいなく／著","description":"総てを切り裂く妖刀・村正の使い手を前に、二人の甚内が共闘を決意。そして風魔一族を滅するために二人が訪ねた先にいたのは！？","price":"720","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784199506918","title":"ねこむすめ道草日記　⑲","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-11-13","cover":"","author":"いけ／著","description":"ショッピングモールにも妖怪はいます！","price":"720","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784199506925","title":"セントールの悩み　⑲","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-11-13","cover":"","author":"村山慶／著","description":"水上都市・平安京が舞台の【修学旅行】回など…８作品収録！","price":"720","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784274224409","title":"JMPではじめるデータサイエンス","volume":"","series":"","publisher":"オーム社","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784274224409.jpg","author":"三井正／著","description":"「データ分析」の基礎から多変量解析までをJMPを使用して解説。JMPならではの統計分析を習得することができる。","price":"3500","genre":"工業・工学","target":"専門","format":"単行本","content":"数学"}
-,
-{"isbn":"9784274224515","title":"電気回路教本（第2版）","volume":"","series":"","publisher":"オーム社","pubdate":"2019-11-13","cover":"https://cover.openbd.jp/9784274224515.jpg","author":"橋本洋志／著","description":"詳細な解説と図解で電気回路をよりよく理解できる教科書。改訂にあたっては記述の見直し、誌面の刷新をはかった。","price":"2500","genre":"工業・工学","target":"専門","format":"単行本","content":"電気"}
 ]

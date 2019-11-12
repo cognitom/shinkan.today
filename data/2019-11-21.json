@@ -65,7 +65,7 @@
 ,
 {"isbn":"9784041087602","title":"小説　シライサン","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-11-21","cover":"https://cover.openbd.jp/9784041087602.jpg","author":"乙一／著","description":"乙一４年ぶりの最新作＆映画原作！　その怪談を聞いた人間は――呪われる。","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041087619","title":"ねこはい","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-11-21","cover":"https://cover.openbd.jp/9784041087619.jpg","author":"南伸坊／著","description":"世界初！猫が作った、俳句絵本。『ねこはいに』も入った豪華な文庫版！","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784041087619","title":"ねこはい","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-11-21","cover":"https://cover.openbd.jp/9784041087619.jpg","author":"南伸坊／著","description":"世界初！猫が作った俳句絵本。『ねこはいに』も入った豪華な文庫版！","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784041088258","title":"愚者の檻  警視庁文書捜査官","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-11-21","cover":"https://cover.openbd.jp/9784041088258.jpg","author":"麻見和史／著","description":"矢代、文書解読班から離脱――!?　連ドラ化の人気警察シリーズ第６弾！","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -143,9 +143,9 @@
 ,
 {"isbn":"9784065177594","title":"ハコヅメ～交番女子の逆襲～（10）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-21","cover":"","author":"泰三子／著","description":"新任警察官・川合と、超美人＆刑事部のエースながらパワハラで交番に飛ばされた藤部長。交番（＝ハコ）勤務女子二人のお仕事備忘録！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065177600","title":"ハーン　‐草と鉄と羊‐（10）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-21","cover":"","author":"瀬下猛／著","description":"窮地のテムジンを救うのは、毛玉、馬、あの男！？　タタル戦、決着！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065177600","title":"ハーン　‐草と鉄と羊‐（10）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-21","cover":"","author":"瀬下猛／著","description":"義経を襲うオアシス都市の闇。そして、ユーラシア大陸を揺るがす新たなる戦いが、迫りくる――。","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065177686","title":"スポーツのおはなし　空手　空手、はじめます！","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-21","cover":"","author":"くすのきしげのり／著 下平けーすけ／著","description":"心もからだも強くなりたい！　言いたいことをなかなか言えない優太郎が、空手道場で出会ったのは、強くてかっこいい大人たちだった。","price":"1250","genre":"","target":"児童","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784065177686","title":"スポーツのおはなし　空手　空手、はじめます！","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-21","cover":"","author":"くすのきしげのり／著 下平けーすけ／著","description":"心もかだも強くなりたい！　言いたいことをなかなか言えない優太郎が、空手道場で出会ったのは、強くてかっこいい大人たちだった。","price":"1250","genre":"","target":"児童","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065177761","title":"マンガ　サ道～マンガで読むサウナ道～（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-21","cover":"","author":"タナカカツキ／著","description":"日常に心が削られている僕らに、今、必要なもの。多数のメディアで取り上げられ続け、ＴＶドラマ化もされた話題のサウナマンガ！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -200,16 +200,4 @@
 {"isbn":"9784122068049","title":"方法序説・情念論","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-11-21","cover":"https://cover.openbd.jp/9784122068049.jpg","author":"デカルト／著 野田又夫／翻訳","description":"私は考える、ゆえに私はある――デカルト哲学におけるこの基本原理は、ヨーロッパ近代思想の核心を端的に示した人間理性の独立宣言であった。彼の学問的自叙伝ともいうべき『方法序説』に、自己の欲望そのほかの情念を統御する道について考察した『情念論』を加える。デカルト哲学を知るための絶好の書。\n\n\n〈巻末対談〉大岡昇平×野田又夫","price":"1100","genre":"文庫","target":"教養","format":"文庫","content":"哲学"}
 ,
 {"isbn":"9784130160407","title":"和辻哲郎の解釈学的倫理学","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2019-11-21","cover":"https://cover.openbd.jp/9784130160407.jpg","author":"飯嶋裕治／著","description":"和辻哲郎の倫理学の意義とは何か．近代日本思想史の文脈に密着したものでなく，近現代の西洋哲学のコンテクストに置いて（ハイデガー，H・ドレイファス，C・テイラーなど），あくまでも普遍的な理論として捉え全体像を解明し，そこから理論的可能性を提示する．","price":"11000","genre":"","target":"専門","format":"単行本","content":"哲学"}
-,
-{"isbn":"9784163911342","title":"ネオサピエンス 回避型人類の登場","volume":"","series":"","publisher":"文藝春秋","pubdate":"2019-11-21","cover":"https://cover.openbd.jp/9784163911342.jpg","author":"岡田尊司／著","description":"かつて数万年単位で起きた人類の進化が、いまや数十年で起きようとしている。心の絆を求めない人々の登場に、あなたは耐えられるか。","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784274224232","title":"Pythonによるバイオデータ解析入門","volume":"","series":"","publisher":"オーム社","pubdate":"2019-11-21","cover":"https://cover.openbd.jp/9784274224232.jpg","author":"山内長承／著","description":"バイオのデータもPythonで！生物学分野のデータ解析処理について、Pythonを用いて行う方法を解説します。","price":"3800","genre":"コンピュータ","target":"専門","format":"単行本","content":"生物学"}
-,
-{"isbn":"9784274224508","title":"わかりやすいパターン認識（第2版）","volume":"","series":"","publisher":"オーム社","pubdate":"2019-11-21","cover":"https://cover.openbd.jp/9784274224508.jpg","author":"石井健一郎／著 上田修功／著 前田英作／著 村瀬洋／著","description":"パターン認識を初めて学ぶ読者をおもな対象として、扱うテーマを基本的な項目にしぼり、それらを重点的かつ詳細に解説。","price":"2800","genre":"工業・工学","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784274224553","title":"2020年版　基本情報技術者標準教科書","volume":"","series":"","publisher":"オーム社","pubdate":"2019-11-21","cover":"https://cover.openbd.jp/9784274224553.jpg","author":"大滝みや子／著・編集 坂部和久／著 早川芳彦／著","description":"学校・企業等で安心して採用できる正統派テキストとして好評を得ている、基本情報技術者のための受験テキスト。","price":"1900","genre":"","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784274224577","title":"やさしく学ぶ  第二級陸上特殊無線技士試験（改訂2版）","volume":"","series":"","publisher":"オーム社","pubdate":"2019-11-21","cover":"https://cover.openbd.jp/9784274224577.jpg","author":"吉村和昭／著","description":"第二級陸上特殊無線技士試験（二陸特）の受験対策書。最近の出題傾向にそった追加・変更を行っているので万全の対策が可能。","price":"2800","genre":"","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784278039184","title":"インコのおねだり","volume":"","series":"","publisher":"大泉書店","pubdate":"2019-11-21","cover":"","author":"一級愛玩動物飼養管理士磯崎哲也／監修","description":"「シバイヌ主義」「うさぎ様には敵わない」に続く、人気シリーズ第3弾\n\n老若男女問わず、人気の高いインコ。その習や行動を写真と「ひとこと」でわかりやすく表現。\nSNSで注目を集める「インコ映え」な子たちが見せる多彩な表情！\nパラパラとめくるだけでも癒される、インコファンなら手元に置いておきたい一冊！","price":"1300","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ]
