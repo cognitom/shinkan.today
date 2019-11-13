@@ -15,5 +15,21 @@
 ,
 {"isbn":"9784049127928","title":"魔女と少女の愛した世界","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-11-16","cover":"https://cover.openbd.jp/9784049127928.jpg","author":"浅白深也／著 海島千本／イラスト","description":"怠惰な魔女と捨てられた幼子の不器用で愛しい共同生活。","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065176535","title":"スパイダーマン：ファー・フロム・ホーム","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-16","cover":"","author":"スティーブ・ベーリング／著 ジョン・ワッツ／著 上杉隼人／翻訳","description":"ＭＪとの恋か、トニー・スタークの『鉄の意志』を継ぐのか。映画「スパイダーマン」最新作を世界最速でノベライズ化！！！","price":"880","genre":"","target":"児童","format":"単行本","content":"外国文学、その他"}
+{"isbn":"9784065176535","title":"スパイダーマン：ファー・フロム・ホーム","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-16","cover":"https://cover.openbd.jp/9784065176535.jpg","author":"スティーブ・ベーリング／著 ジョン・ワッツ／著 上杉隼人／翻訳","description":"ＭＪとの恋か、トニー・スタークの『鉄の意志』を継ぐのか。映画「スパイダーマン」最新作を世界最速でノベライズ化！！！","price":"880","genre":"","target":"児童","format":"単行本","content":"外国文学、その他"}
+,
+{"isbn":"9784274224300","title":"実践　ロボット制御 基礎から動力学まで","volume":"","series":"","publisher":"オーム社","pubdate":"2019-11-16","cover":"https://cover.openbd.jp/9784274224300.jpg","author":"細田耕／著 株式会社アールティ／著","description":"制御工学や機械力学の知識を取り込みながらも、ロボティクスとして包括的・実践的な教科書・参考書として活用できる一冊。","price":"2500","genre":"工業・工学","target":"専門","format":"単行本","content":"機械"}
+,
+{"isbn":"9784274224560","title":"2020年版　ラクしてうかる！第二種電気工事士筆記試験","volume":"","series":"","publisher":"オーム社","pubdate":"2019-11-16","cover":"https://cover.openbd.jp/9784274224560.jpg","author":"オーム社／編集","description":"第二種電気工事士の筆記試験の受験対策書として、合格するために必要な知識のみに的を絞って解説した独習用のテキスト。","price":"1800","genre":"","target":"専門","format":"単行本","content":"電気"}
+,
+{"isbn":"9784276546417","title":"混声合唱組曲　ことばのとおりに","volume":"","series":"","publisher":"株式会社音楽之友社","pubdate":"2019-11-16","cover":"https://cover.openbd.jp/9784276546417.jpg","author":"谷川俊太郎／詩 国枝春恵","description":"取り組みやすい難易度と親しみやすい詩の内容から、中学生や高校生のコンクールレパートリーとしても十分の混声合唱組曲。","price":"1600","genre":"","target":"教養","format":"単行本","content":"音楽・舞踊"}
+,
+{"isbn":"9784276558489","title":"女声合唱とピアノのための　そうそうと花は燃えよ","volume":"","series":"","publisher":"株式会社音楽之友社","pubdate":"2019-11-16","cover":"https://cover.openbd.jp/9784276558489.jpg","author":"金丸桝一／詩 信長貴富","description":"単一楽章の女声合唱曲。この世に存在する意味を問い、喜びや悲しみを歌い続ける強い決意を持った壮大な作品。","price":"1700","genre":"","target":"教養","format":"単行本","content":"音楽・舞踊"}
+,
+{"isbn":"9784276922365","title":"ヴィオラとピアノのためのソナタ","volume":"","series":"現代日本の音楽","publisher":"株式会社音楽之友社","pubdate":"2019-11-16","cover":"https://cover.openbd.jp/9784276922365.jpg","author":"矢代秋雄","description":"1949年の若さあふれる作品。当時としては難易度の高い作品であったといえるが、現代では多くのヴィオラ演奏者が愛奏できる。","price":"4500","genre":"","target":"教養","format":"単行本","content":"音楽・舞踊"}
+,
+{"isbn":"9784297109578","title":"Kubernetesポケットリファレンス","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-11-16","cover":"https://cover.openbd.jp/9784297109578.jpg","author":"岡本隆史／著 佐藤聖規、岩成祐樹／著 正野勇嗣、村上大河／著","description":"コンテナの基盤技術として標準の地位を獲得したKubernetesが、「ポケットリファレンス」シリーズに登場。\n\n近年コンテナ技術への注目が高まり、実プロジェクトへの普及が進んでいます。本書では、Kubernetes初のリファレンス本として、kubectlのコマンドとリソースを網羅的に解説。また、入門者向けのDockerの基本やKubernetesの導入はもちろん、リファレンスだけではカバーできない実践的な使用方法やよくあるエラーとトラブル対処法も押さえました。\n\nさらに、折り込み付録としてKubernetes利用の全体像を俯瞰できる「チートシート」を収録。初心者から上級者まで、Kubernetesを使う開発者にとって必携の1冊です。","price":"2980","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784297109691","title":"60分でわかる！　SDGs 超入門","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-11-16","cover":"https://cover.openbd.jp/9784297109691.jpg","author":"バウンド／監修：功能聡子／監修 佐藤寛／監修","description":"「ビジネスにおけるSDGs入門の決定版！」\n今年いちばんのビジネスキーワード・SDGsとは「Sustainable Development Goals（持続可能な開発目標）」の略称。国連が策定した17の目標（ゴール）と169のターゲットで構成されています。本書は「いまさら聞けないSDGsの基本」から始まり、SDGsに取り組む企業のインセンティブと意義についてサプライチェーン＆バリューチェーンの視点からわかりやすく解説。「投資を呼び込む」「ビジネスチャンスを拡大する」「企業の知名度を向上させる」「採用に強くなる」など、ビジネスとSDGsを両立させている事例も合わせて紹介します。企業が取り組むべき課題と目標がひと目でわかる＜バリューチェーン・マップ＞付き。","price":"1080","genre":"","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784297110345","title":"つくってマスターPython - 機械学習・Webアプリケーション・スクレイピング・文書処理ができる！","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-11-16","cover":"https://cover.openbd.jp/9784297110345.jpg","author":"掌田津耶乃／著","description":"ちらしに同","price":"2580","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
 ]
