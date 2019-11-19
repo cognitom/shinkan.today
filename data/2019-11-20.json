@@ -69,7 +69,7 @@
 ,
 {"isbn":"9784065173787","title":"大天使はミモザの香り","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784065173787.jpg","author":"高野史緒／著","description":"ヨーロッパから来日した時価２億のヴァイオリンが消えた。平凡なアマオケ団員・光子と、天才高校生・拓人にこのトリックは解けるか？","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065174654","title":"東京ディズニーシー　行くまえに！　知っとくガイド2020","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"","author":"講談社／編集","description":"東京ディズニーシーの最新情報を先取り。これからパークに行こうと思う方の予習にピッタリ！　ハンディで見やすい少し大判サイズ。","price":"1000","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"旅行"}
+{"isbn":"9784065174654","title":"東京ディズニーシー　行くまえに！　知っとくガイド2020","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784065174654.jpg","author":"講談社／編集","description":"東京ディズニーシーの最新情報を先取り。これからパークに行こうと思う方の予習にピッタリ！　ハンディで見やすい少し大判サイズ。","price":"1000","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"旅行"}
 ,
 {"isbn":"9784065175705","title":"絵本　江戸のたび","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784065175705.jpg","author":"太田大輔／著","description":"江戸のまちから伊勢神宮まで、昔の人の旅のようすを緻密なイラストで描く江戸絵本の決定版！　捜し物絵本としても楽しめます！","price":"1600","genre":"","target":"児童","format":"絵本","content":"日本歴史"}
 ,
@@ -87,9 +87,9 @@
 ,
 {"isbn":"9784065177310","title":"ギルドレ（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"","author":"朝霧カフカ／原著 坂野杏梨／著","description":"『文豪ストレイドッグス』朝霧カフカが熱筆した本格バトルＳＦ小説を、『さよならピーターパン』坂野杏梨が怒涛のコミカライズ！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065177853","title":"アナと雪の女王2　おたのしみブック　（ディズニーブックス）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"","author":"伊藤圭子／著","description":"「アナと雪の女王２」の世界を楽しみながら、クイズや迷路、ちがいさがし、点つなぎ、ぬりえなどであそぼう！","price":"800","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"絵画・彫刻"}
+{"isbn":"9784065177853","title":"アナと雪の女王2　おたのしみブック　（ディズニーブックス）","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784065177853.jpg","author":"伊藤圭子／著","description":"「アナと雪の女王２」の世界を楽しみながら、クイズや迷路、ちがいさがし、点つなぎ、ぬりえなどであそぼう！","price":"800","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"絵画・彫刻"}
 ,
-{"isbn":"9784065177860","title":"目的地がすぐわかる！　マップで歩く東京ディズニーリゾート　2020","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"","author":"講談社／編集","description":"パッと見て目的地への行き方がすぐわかる！　見やすさ満点の東京ディズニーリゾート・ガイドブック最新版！","price":"1000","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"旅行"}
+{"isbn":"9784065177860","title":"目的地がすぐわかる！　マップで歩く東京ディズニーリゾート　2020","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784065177860.jpg","author":"講談社／編集","description":"パッと見て目的地への行き方がすぐわかる！　見やすさ満点の東京ディズニーリゾート・ガイドブック最新版！","price":"1000","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"旅行"}
 ,
 {"isbn":"9784065178454","title":"乃木坂の詩　episode　1　－きっかけー（1）　特装版","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784065178454.jpg","author":"御池慧／著 秋元康／監修","description":"乃木坂４６の曲が紡ぐ新たなるボーイミーツガール開幕！　特装版には乃木坂４６メンバーのスペシャル着せ替えカバー付き！","price":"1000","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -173,6 +173,8 @@
 ,
 {"isbn":"9784106038495","title":"「悟り体験」を読む","volume":"","series":"新潮選書","publisher":"新潮社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784106038495.jpg","author":"大竹晋／著","description":"菩提達摩から白隠慧鶴、さらに明治から戦前にいたる約五十人の覚醒体験から、目くるめく境地の真相に迫る。本邦初の「悟り学入門」。","price":"1400","genre":"","target":"一般","format":"全集・双書","content":"仏教"}
 ,
+{"isbn":"9784109101516","title":"さざ波の記憶","volume":"","series":"","publisher":"新潮社","pubdate":"2019-11-20","cover":"","author":"安西カオリ／著 安西水丸／イラスト","description":"","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
 {"isbn":"9784120052484","title":"丸山式「謎手紙」のススメ","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784120052484.jpg","author":"丸山桂里奈／著","description":"共演者の間で「ジワジワくる」と話題の「謎手紙」はこうして生まれた！　ページをめくれば、あなたもきっと謎手紙のとりこ！","price":"1100","genre":"芸能・タレント","target":"教養","format":"単行本","content":"写真・工芸"}
 ,
 {"isbn":"9784120052491","title":"武田百合子対談集（仮）","volume":"","series":"","publisher":"中央公論新社","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784120052491.jpg","author":"武田百合子／著","description":"深沢七郎、金井久美子・美恵子、吉行淳之介らとの対談を収録する著者初の対談集。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
@@ -241,15 +243,7 @@
 ,
 {"isbn":"9784199806087","title":"前田慶次 かぶき旅　②","volume":"","series":"","publisher":"ノース・スターズ・ピクチャーズ","pubdate":"2019-11-20","cover":"","author":"原哲夫／著 堀江信彦／著 出口真人／著","description":"前田慶次がいくさを求めて向かった肥後。加藤清正はじめ、強者が集う地で、日ノ本の命運を賭けた御前試合が開催される！","price":"620","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784251099303","title":"ぼくはくるま、みんなもくるま","volume":"","series":"","publisher":"かね書房","pubdate":"2019-11-20","cover":"","author":"高橋祐次／著","description":"クラクションがならない車が、友だちにラッパをもらった。でも…。まわりとちがっても、友だちがいれば大丈夫と勇気がわく絵本！","price":"1300","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
+{"isbn":"9784251099303","title":"ぼくはくるま、みんなもくるま","volume":"","series":"","publisher":"あかね書房","pubdate":"2019-11-20","cover":"","author":"高橋祐次／著","description":"クラクションがならない車が、友だちにラッパをもらった。でも…。まわりとちがっても、友だちがいれば大丈夫と勇気がわく絵本！","price":"1300","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784253107785","title":"スキウサギ第３巻","volume":"","series":"","publisher":"秋田書店","pubdate":"2019-11-20","cover":"","author":"キューライス／著","description":"新撰組にスキウサギ入隊！？突撃スキウサギインタビュー！など今回もスキウサギが大暴れ！","price":"1000","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784272150441","title":"グローバリゼーション下の韓国資本主義","volume":"","series":"","publisher":"大月書店","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784272150441.jpg","author":"大津健登／著","description":"急成長やV字回復が称賛される一方、少数の財閥による支配などの歪みが注目される韓国資本主義。その特徴を構造的・歴史的に解明。","price":"7000","genre":"","target":"一般","format":"単行本","content":"経済・財政・統計"}
-,
-{"isbn":"9784272407330","title":"くらす、はたらく、経済のはなし","volume":"","series":"","publisher":"大月書店","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784272407330.jpg","author":"山田博文／著 赤池佳江子／イラスト","description":"株式会社のはじまりから、独占禁止法や社会的責任などの企業の規則と、労働者の権利をやさしい文章とイラストで子どもたちに解説。","price":"2000","genre":"児童図書","target":"児童","format":"全集・双書","content":"経済・財政・統計"}
-,
-{"isbn":"9784272612390","title":"沖縄　記憶と告発の文学","volume":"","series":"","publisher":"大月書店","pubdate":"2019-11-20","cover":"https://cover.openbd.jp/9784272612390.jpg","author":"尾西康充／著","description":"基地反対闘争の最前線に身を置く作家・目取真俊が描く沖縄の共同体の内なる暴力とは。沖縄と「本土」の関係を問う批評集。","price":"2600","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784275021151","title":"中国華北農民の生活誌","volume":"","series":"","publisher":"御茶の水書房","pubdate":"2019-11-20","cover":"","author":"李恩民／著","description":"３億５０００万人を擁する中国華北地域。そこで生活を営んできた農民の生活の実相を忠実に描く。","price":"4200","genre":"社会科学","target":"専門","format":"単行本","content":"社会"}
 ]
