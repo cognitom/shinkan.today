@@ -27,7 +27,7 @@
 ,
 {"isbn":"9784046043399","title":"ゼッタイわかる　中３理科","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-11-30","cover":"https://cover.openbd.jp/9784046043399.jpg","author":"佐川大三／監修 モゲラッタ／著・イラスト しぐれうい／イラスト 尽／著","description":"マンガ×会話だから楽しすぎて勝手に成績アップ！予習復習もこれ１冊で◎！","price":"1300","genre":"","target":"学参I(小中)","format":"単行本","content":"自然科学総記"}
 ,
-{"isbn":"9784046045133","title":"9割の人からお洒落と言われる法則","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-11-30","cover":"https://cover.openbd.jp/9784046045133.jpg","author":"げんじ／著","description":"ほとんどの人からおしゃれと言われるファッションは簡単だった","price":"1300","genre":"","target":"一般","format":"単行本","content":"家事"}
+{"isbn":"9784046045133","title":"9割の人からお洒落と言われる法則","volume":"","series":"","publisher":"ＫＡＤＯＡＷＡ","pubdate":"2019-11-30","cover":"https://cover.openbd.jp/9784046045133.jpg","author":"げんじ／著","description":"ほとんどの人からおしゃれと言われるファッションは簡単だった","price":"1300","genre":"","target":"一般","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784046045157","title":"読むだけで人生観が変わる 「やべー」宇宙の話","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-11-30","cover":"https://cover.openbd.jp/9784046045157.jpg","author":"気になる宇宙／著 榎戸輝揚／監修","description":"スケールが大きすぎて、気になってしょうがない宇宙科学の話を集めました！","price":"1300","genre":"","target":"一般","format":"単行本","content":"天文・地学"}
 ,
@@ -91,7 +91,7 @@
 ,
 {"isbn":"9784074412532","title":"無属性魔法の救世主（メサイア）　７","volume":"","series":"ヒーロー文庫","publisher":"主婦の友社","pubdate":"2019-11-30","cover":"https://cover.openbd.jp/9784074412532.jpg","author":"武藤健太／著 るろお／イラスト","description":"魔剣武祭に偽ウサギが登場！？　本物VS偽物の勝負の行方は？　アスラの身に最大の危機が迫る！","price":"670","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784074412761","title":"小さな魔女と野良犬騎士　５","volume":"","series":"ヒーロ文庫","publisher":"主婦の友社","pubdate":"2019-11-30","cover":"https://cover.openbd.jp/9784074412761.jpg","author":"麻倉英理也／著 西出ケンゴロー／イラスト","description":"小さな魔女がメイドに就職？　戦闘狂の少女に狙われる！？　少女の失われた記憶を取り戻せ！","price":"650","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784074412761","title":"小さな魔女と野良犬騎士　５","volume":"","series":"ヒーロー文庫","publisher":"主婦の友社","pubdate":"2019-11-30","cover":"https://cover.openbd.jp/9784074412761.jpg","author":"麻倉英理也／著 西出ケンゴロー／イラスト","description":"小さな魔女がメイドに就職？　戦闘狂の少女に狙われる！？　少女の失われた記憶を取り戻せ！","price":"650","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784074412822","title":"賢者の剣　７","volume":"","series":"ヒーロー文庫","publisher":"主婦の友社","pubdate":"2019-11-30","cover":"https://cover.openbd.jp/9784074412822.jpg","author":"陽山純樹／著 さらちよみ／イラスト","description":"大人気ファンタジー感動のクライマックス！　魔王と最終決戦！　世界の真実とは？　ゲームキャラに転生した少年の運命は……。","price":"660","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -100,6 +100,12 @@
 {"isbn":"9784074413072","title":"英雄の忘れ形見　４","volume":"","series":"ヒーロー文庫","publisher":"主婦の友社","pubdate":"2019-11-30","cover":"https://cover.openbd.jp/9784074413072.jpg","author":"風見祐輝／著 ｓｙｏ５／イラスト","description":"孤児院で秘密裏に銃弾の生産！？　王女様を助け出す！？　無自覚だった最強の少年が、父親の手がかりを追って世界を旅する！","price":"650","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784149110189","title":"ＮＨＫ大河ドラマ歴史ハンドブック　麒麟がくる","volume":"","series":"ＮＨＫシリーズ","publisher":"NHK出版","pubdate":"2019-11-30","cover":"","author":"ＮＨＫ出版／編集","description":"大河ドラマ『麒麟がくる』をより深く楽しむための歴史ガイド本。主人公・明智光秀の生涯や同時代の戦国武将紹介など情報満載の一冊。","price":"1000","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"日本歴史"}
+,
+{"isbn":"9784198649241","title":"サッカーとビジネスのプロが明かす育成の本質","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-11-30","cover":"","author":"菊原志郎／著 仲山進也／著","description":"中島翔哉選手、推薦！　育成のプロ２人が、サッカーから得られる学びと、それらのビジネスや人生への活かし方を徹底解説！！","price":"1500","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
+,
+{"isbn":"9784198649784","title":"時代考証家のきもの指南","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-11-30","cover":"","author":"山田順子／著","description":"時代考証家である著者が着物の色、文様、染めと織りの産地などを解説。行事着物の関係、ふさわしい色や柄、小物なども紹介。","price":"2200","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784198649883","title":"パワーオブナウ　魂が目覚める日々の言葉","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-11-30","cover":"","author":"エックハルト・トール／著 山川紘矢・亜希子／翻訳","description":"２１世紀最高のスピリチュアル・リーダーのエックハルト・トールが、あなたの魂を目覚めさせる珠玉の言葉がふりっそぎます！","price":"1500","genre":"","target":"一般","format":"単行本","content":"心理(学)"}
 ,
 {"isbn":"9784274223556","title":"放射線システム情報学（改訂2版）","volume":"","series":"放射線技術学シリーズ","publisher":"オーム社","pubdate":"2019-11-30","cover":"","author":"日本放射線技術学会／監修 奥田保男／編集 小笠原克彦／編集 坂本博／編集","description":"国家試験の出題内容に対応した定番教科書シリーズの最新改訂版。","price":"5000","genre":"工業・工学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
 ,
@@ -136,8 +142,4 @@
 {"isbn":"9784406063968","title":"日本の支配者","volume":"","series":"","publisher":"新日本出版社","pubdate":"2019-11-30","cover":"","author":"佐々木憲昭／著","description":"非正規、格差、低年金、戦争できる国づくり……日本社会は誰がどう支配しているか。複雑な実態のコアにあるものをわかりやすく解明。","price":"2000","genre":"","target":"一般","format":"単行本","content":"経済・財政・統計"}
 ,
 {"isbn":"9784406064217","title":"パパッとかんたん！主食レシピ","volume":"","series":"火も包丁も使わない！安心・安全クッキング①","publisher":"新日本出版社","pubdate":"2019-11-30","cover":"","author":"寺西恵里子／著","description":"電子レンジと炊飯器で作るカフェごはん、オーブントースターで作れる定番レシピなど。楽しく作って、お料理のスキルアップを！","price":"2800","genre":"児童図書","target":"児童","format":"全集・双書","content":"家事"}
-,
-{"isbn":"9784418191345","title":"へるぱる　２０２０年　１・２月","volume":"","series":"","publisher":"世界文化社","pubdate":"2019-11-30","cover":"","author":"世界文化社／著","description":"訪問介護事業所・サービス提供責任者・ホームヘルパーの皆さんのための情報誌。訪問介護する上で知っておくと役立つ内容がぎっしり！","price":"1764","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"社会"}
-,
-{"isbn":"9784418191369","title":"眼鏡Ｂｅｇｉｎ　ｖｏｌ．２７","volume":"","series":"BIGMANスペシャル","publisher":"世界文化社","pubdate":"2019-11-30","cover":"","author":"世界文化社／著","description":"選りすぐりの最旬フレームを、スマホでヴァーチャル試着できるのは本誌だけ！旬の眼鏡で、新たな自分の魅力が発見できます。","price":"1000","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ]
