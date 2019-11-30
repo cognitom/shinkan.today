@@ -3,7 +3,7 @@
 ,
 {"isbn":"9784022775641","title":"週刊朝日ムック　ポケットハレやか　脳を元気にするナンプレ　初級編","volume":"","series":"週刊朝日ムック","publisher":"朝日新聞出版","pubdate":"2019-11-29","cover":"","author":"","description":"","price":"600","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784040641041","title":"プリンセスお母さん","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784040641041.jpg","author":"並庭マチ／著","description":"庶民の主婦でも心は貴族。　お母さんは今日も元気です。","price":"1050","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784040641041","title":"プリンセスお母さん","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784040641041.jpg","author":"並庭マチコ／著","description":"庶民の主婦でも心は貴族。　お母さんは今日も元気です。","price":"1050","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784040641126","title":"新しいパパがどう見ても凶悪すぎる","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784040641126.jpg","author":"横山了一／著","description":"母親の再婚相手は、スゴイ怖いがスゴイ優しい。","price":"950","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
@@ -38,6 +38,10 @@
 {"isbn":"9784065174005","title":"ねこ鉄　～猫と鉄道の出会いの風景～","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784065174005.jpg","author":"花井健朗／著・写真","description":"猫と鉄道車両、猫と駅舎、猫と線路など、猫と鉄道風景を同時に撮影した本邦初の写真集。猫と鉄道の魅力が満載です。","price":"1400","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
 ,
 {"isbn":"9784065178478","title":"図解　日本人なら知っておきたい　しきたり大全","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784065178478.jpg","author":"岩下宣子／著","description":"令和になったからこそ、知っておきたい、日本の季節、年中行事、冠婚葬祭を気軽に学べる。累計１７万部突破のシリーズ最新作","price":"1200","genre":"","target":"実用","format":"単行本","content":"家事"}
+,
+{"isbn":"9784065180266","title":"25ans　2020年1月号　×　「オー・ドゥエ・ヴィータ」　クレンジングミルク　特別セット","volume":"","series":"","publisher":"ハースト婦人画報社","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784065180266.jpg","author":"ハースト婦人画報社／編集","description":"２５ａｎｓ　２０２０年１月号　×　「オー・ドゥエ・ヴィータ」　クレンジングミルク　特別セット","price":"1473","genre":"","target":"一般","format":"ムック・その他","content":"諸芸・娯楽"}
+,
+{"isbn":"9784065180273","title":"Richesse　No．30　×　「メゾンレクシア」オラクル　パワーモイスチャー美容液　特別セット","volume":"","series":"","publisher":"ハースト婦人画報社","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784065180273.jpg","author":"ハースト婦人画報社／編集","description":"Ｒｉｃｈｅｓｓｅ　Ｎｏ．３０　×　「メゾンレクシア」オラクル　パワーモイスチャー美容液　特別セット","price":"4182","genre":"","target":"一般","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784065183168","title":"カーリングシトーンズ　壮年マガジン","volume":"","series":"","publisher":"講談社","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784065183168.jpg","author":"カーリングシトーンズ／著","description":"カーリングシトーンズが、”ともにカルチャーを共有してきた”世代に届けるエンタメブックです。","price":"1700","genre":"","target":"一般","format":"単行本","content":"音楽・舞踊"}
 ,
@@ -132,4 +136,28 @@
 {"isbn":"9784265087341","title":"今日から始める　防災対策","volume":"","series":"いざというとき自分を守る　防災の本","publisher":"岩崎書店","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784265087341.jpg","author":"防災問題研究会／編集","description":"いざというときのために日頃から備えておくべきものと自宅の防災対策の仕方。学校や地域を防災の観点からチェックする方法など。","price":"3000","genre":"児童図書","target":"児童","format":"全集・双書","content":"社会"}
 ,
 {"isbn":"9784265851447","title":"アップル　スティーブ・ジョブズ","volume":"","series":"世界の大起業家から学ぶ","publisher":"岩崎書店","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784265851447.jpg","author":"フレドリック・コルティング／著 メリッサ・メディナ／著 米山夏子／イラスト 石崎洋司／翻訳","description":"アップル社を立ち上げ、MacやiPhoneを世に送り出したスティーブ・ジョブズ。夢をかなえたヒントを学べる伝記絵本。","price":"1600","genre":"児童図書","target":"児童","format":"絵本","content":"伝記"}
+,
+{"isbn":"9784274224539","title":"やさしい計量経済学","volume":"","series":"","publisher":"オーム社","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784274224539.jpg","author":"加藤久和／著","description":"実証分析のために計量経済学を学びたい読者を対象として、フリーソフトgretlを用いて基礎と実践を解説。","price":"2600","genre":"工業・工学","target":"専門","format":"単行本","content":"数学"}
+,
+{"isbn":"9784274507526","title":"LiDAR入門","volume":"","series":"","publisher":"オーム社","pubdate":"2019-11-29","cover":"","author":"井村順一／著・編集 原辰次／著・編集","description":"LiDARの基本的なしくみ、原理を解説。分野・シーンに適した選び方・使い方、技術的な課題、具体的な適用例も豊富に紹介。","price":"2700","genre":"工業・工学","target":"専門","format":"単行本","content":"機械"}
+,
+{"isbn":"9784274507533","title":"次世代電力システム設計論","volume":"","series":"","publisher":"オーム社","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784274507533.jpg","author":"井村順一／著・編集 原辰次／著・編集","description":"予測と制御を融合した調和型の次世代電力システムの設計手法について、詳述した専門書。","price":"6200","genre":"","target":"専門","format":"単行本","content":"電気"}
+,
+{"isbn":"9784296103621","title":"昭和モダン建築巡礼・完全版1965-75","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784296103621.jpg","author":"磯達雄／著 宮沢洋／著・イラスト 日経アーキテクチュア／編集","description":"名建築の現状を、イラストとうんちくルポで伝える「建築巡礼」シリーズの高度経済成長期編。大阪万博、沖縄海洋博への進化を検証。","price":"2700","genre":"工業・工学","target":"専門","format":"単行本","content":"建築"}
+,
+{"isbn":"9784296103867","title":"転職エバンジェリストの技術系成功メソッド","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784296103867.jpg","author":"天笠淳／著","description":"転職を10回した人材コンサルタント\n経験に基づく超実践ノウハウが満載\n","price":"1800","genre":"","target":"一般","format":"単行本","content":"社会"}
+,
+{"isbn":"9784296103980","title":"新アジアビジネス","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784296103980.jpg","author":"松島大輔／著","description":"変貌するアジア、停滞する日本経済。成長ビジネスは「新興アジア」が舞台となる","price":"2200","genre":"","target":"一般","format":"単行本","content":"経営"}
+,
+{"isbn":"9784296104826","title":"海外旅行のスマホ術 2020最新版","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784296104826.jpg","author":"日経PC21／編集","description":"旅行に出かける準備から海外での通信手段の確保、現地での道案内や会話まで、海外旅行に関するスマホの活用方法を丁寧に紹介","price":"1400","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"旅行"}
+,
+{"isbn":"9784296104833","title":"最新マーケティングの教科書2020","volume":"","series":"日経BPムック","publisher":"日経ＢＰ","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784296104833.jpg","author":"日経クロストレンド／編集","description":"デジタルマーケティングの最新事情をキーワードとケーススタディ、トピックで徹底解説","price":"1400","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"経営"}
+,
+{"isbn":"9784307071130","title":"核医学ノート 第6版","volume":"","series":"","publisher":"金原出版","pubdate":"2019-11-29","cover":"https://cover.openbd.jp/9784307071130.jpg","author":"久保敦司／著 藤井博史／著 橋本順／著","description":"基礎と臨床がコンパクトにわかる定番入門書がフルカラーで改訂！","price":"4800","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784309028354","title":"素顔の文士たち","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-11-29","cover":"","author":"田村茂／著","description":"佐藤春夫、坂口安吾、三島由紀夫など昭和の文士をはじめ、文筆にかかわった81人を厳選。太宰治の「最期の27枚」を初完全収録。","price":"3600","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784309028446","title":"最後の楽園 服部まゆみ全短編集","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-11-29","cover":"","author":"服部まゆみ／著","description":"幻想、怪奇、ゴシック、ミステリ……無二の作家・服部まゆみの珠玉の短編、全作品。未発表作品を含む、物語の歓びに満ちた十七篇。","price":"3800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784309921853","title":"ベーシック 命をつなぐ物語","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-11-29","cover":"","author":"廣田尚久／著","description":"400年以上にわたり検討されてきた、ベーシック・インカムの制度に光明を見出す、深い思索と多彩な議論がめぐる物語。","price":"2000","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ]
