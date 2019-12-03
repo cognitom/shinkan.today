@@ -16,4 +16,34 @@
 {"isbn":"9784065184349","title":"歴史紀行ガイド　明智光秀の足跡をたどる旅","volume":"","series":"","publisher":"講談社","pubdate":"2019-12-03","cover":"https://cover.openbd.jp/9784065184349.jpg","author":"「明智光秀の足跡をたどる旅」製作委員会／著・編集","description":"２０２０年１月スタートの大河ドラマ「麒麟がくる」の放送に合わせ、主人公・明智光秀のゆかりの地を訪ねる旅行ガイドブック。","price":"1500","genre":"","target":"一般","format":"単行本","content":"旅行"}
 ,
 {"isbn":"9784130302159","title":"危機対応の社会科学　上 想定外を超えて","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2019-12-03","cover":"https://cover.openbd.jp/9784130302159.jpg","author":"東大社研／編集 玄田有史／編集 飯田高／編集","description":"社会のなかのさまざまな危機について，法学，政治学，経済学，社会学の研究成果に基づく考察を通じて，人びとが危機とその対応に対する不安に向き合うための新たな視座の提供を目指す．本巻では，想定外という言葉で安易に片づけてはならない，世界，政策，組織，選択にまつわる危機について考える．【下巻は2019年12月下旬刊行予定】","price":"4800","genre":"","target":"専門","format":"単行本","content":"社会科学総記"}
+,
+{"isbn":"9784254118414","title":"数学解析(上)（数理解析シリーズ）","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-12-03","cover":"https://cover.openbd.jp/9784254118414.jpg","author":"溝畑茂／著","description":"微積分法の真のおもしろさを学ぶことができるよう配慮してまとめられている。","price":"5000","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
+,
+{"isbn":"9784254118421","title":"数学解析(下)（数理解析シリーズ）","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-12-03","cover":"https://cover.openbd.jp/9784254118421.jpg","author":"溝畑茂／著","description":"微積分法の歴史を踏まえて，アドバンスドな微積分法を充分理解できるように解説。","price":"5000","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
+,
+{"isbn":"9784254118438","title":"代数学（新数学講座）","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-12-03","cover":"https://cover.openbd.jp/9784254118438.jpg","author":"永尾汎／著","description":"群・環・体といった基本的な代数系について，簡潔かつ平易にまとめられている。","price":"3200","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784254118445","title":"常微分方程式（新数学講座）","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-12-03","cover":"https://cover.openbd.jp/9784254118445.jpg","author":"高野恭一／著","description":"大学理工系学生のための常微分方程式の入門書。","price":"3200","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784254118452","title":"位相幾何学（新数学講座）","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-12-03","cover":"https://cover.openbd.jp/9784254118452.jpg","author":"一樂重雄／著","description":"位相幾何学のみならず数学の入門書としても学習できるようわかりやすく解説。","price":"3200","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784254118476","title":"複素関数（応用数学基礎講座）","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-12-03","cover":"https://cover.openbd.jp/9784254118476.jpg","author":"山口博史／著","description":"複素多変数関数論の入門として上空移行の原理に触れ静電磁気学を関数論的手法で見直す","price":"3700","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784254118483","title":"確率・統計（応用数学基礎講座）","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-12-03","cover":"https://cover.openbd.jp/9784254118483.jpg","author":"岡部靖憲／著","description":"確率論と統計学の基礎と応用を扱い，両者の交流を述べる。","price":"3700","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784254118490","title":"微分幾何（応用数学基礎講座）","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-12-03","cover":"https://cover.openbd.jp/9784254118490.jpg","author":"細野忍／著","description":"応用を目指す初学者に役立つ例題と演習・解答を添えて理論構築の過程を丁寧に解説。","price":"3400","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784254118506","title":"トポロジー（応用数学基礎講座）","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-12-03","cover":"https://cover.openbd.jp/9784254118506.jpg","author":"杉原厚吉／著","description":"大規模集積回路の配線設計や有限要素法のためのメッシュ生成など応用例多数。","price":"3400","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784254118513","title":"連続群論の基礎（基礎数学シリーズ）","volume":"","series":"","publisher":"朝倉書店","pubdate":"2019-12-03","cover":"https://cover.openbd.jp/9784254118513.jpg","author":"村上信吾／著","description":"代数・幾何・解析が美しく交錯し巧みに調和した連続群の世界の魅力を豊富な例で解説。","price":"3400","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784255011455","title":"ぼくは0てん","volume":"","series":"","publisher":"朝日出版社","pubdate":"2019-12-03","cover":"https://cover.openbd.jp/9784255011455.jpg","author":"山縣良和／著・イラスト","description":"落ちこぼれの「ぼく」にだって\nそとの世界は、きっとある。\nそもそも「点数」って、なんだろう？\n\n　　　ぼくも0てんをもらったことがあって、\n　　　そのときから0がすきになった。――谷川俊太郎\n\nいつも「0てん」ばかりとって、いじめられていた「ぼく」は、\nいいてんをとって認めてもらおうと必死にもがくけれど……\n\n世界も注目するブランド「リトゥンアフターワーズ」の\nファッションデザイナー・山縣良和が、\n故郷の鳥取へと帰る深夜バスの中でふと思いついた物語。\n勉強もできず自信の持てなかった子供時代を過ごし、\nやがてイギリスへと飛び立っていった自身の半生に重ねる。\n０てん、12てん、36てん、59てん、78てん、85てん、100てん……\n「点数」「クズ」「ゆうめい」といった\n“レッテル貼り”“他人の評価”から自由になって、\n自分の得意なことを見つけ出していくストーリーを、\n愛らしい「てんすう」たちのキャラクターで描く。","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784309207841","title":"ピッツェリア・カミカゼ","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-12-03","cover":"","author":"エトガル・ケレット／著 アサフ・ハヌカ／イラスト 母袋夏生／翻訳","description":"自殺者が集まる世界でかつての恋人を探すハイムは「意味のない奇跡」に満ちたサマーキャンプにたどり着く。傑作グラフィックノベル。","price":"2900","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
+,
+{"isbn":"9784309256382","title":"こんにちは！あたらしいいのち","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-12-03","cover":"","author":"アイナ・ベスタルド／著 青山南／翻訳","description":"トレーシングペーパーを透かして、生きものの誕生のふしぎを見よう！繊細で美しいイラストは幅広い世代を魅了。プレゼントにも最適。","price":"2800","genre":"","target":"一般","format":"単行本","content":"絵画・彫刻"}
+,
+{"isbn":"9784309417219","title":"サイレント・トーキョー","volume":"","series":"河出文庫","publisher":"河出書房新社","pubdate":"2019-12-03","cover":"","author":"秦建日子／著","description":"「これは戦争だ」――恵比寿、渋谷で起きる連続爆弾テロ。第３のテロを予告し首相とのテレビ生対談を要求する犯人の目的は？","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784380190094","title":"今、在日朝鮮人の人権は","volume":"","series":"","publisher":"三一書房","pubdate":"2019-12-03","cover":"https://cover.openbd.jp/9784380190094.jpg","author":"朝鮮大学校政治経済学部法律学科創設20周年記念誌刊行委員会／著・編集","description":"創設20年を迎える朝鮮大学政治経済学部法律学科。卒業生が、同胞の人権問題に取り組み、闘い、展望をつくり出そうしてきた記録。","price":"2300","genre":"","target":"一般","format":"単行本","content":"社会"}
 ]
