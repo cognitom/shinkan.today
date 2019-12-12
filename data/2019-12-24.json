@@ -23,7 +23,7 @@
 ,
 {"isbn":"9784041084380","title":"うちの執事に願ったならば　８","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041084380.jpg","author":"高里椎奈／著","description":"1通の書留が執事の作業室から消えた――。大人気、上流階級ミステリ！","price":"560","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041084403","title":"ハリネズミ乙女、はじめての恋","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041084403.jpg","author":"令丈ヒロ子／著","description":"運命の相方、ハリネズミのハリ君には、隠された秘密があった――。","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784041084403","title":"ハリネズミ乙女、はじめての恋","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041084403.jpg","author":"令丈ヒロ子／著","description":"「大人という実体のないものにちくちく苛まれている人たちへ 」著者","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784041084441","title":"文庫版 オジいサン","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041084441.jpg","author":"京極夏彦／著","description":"なにも起きない老後。でもそれがいい。ほっこり笑える、シニア応援小説！","price":"760","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -47,7 +47,7 @@
 ,
 {"isbn":"9784041088807","title":"シュマリ　下","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041088807.jpg","author":"手塚治虫／著","description":"近代文明は人を幸福にしたか！？","price":"940","genre":"","target":"一般","format":"文庫","content":"コミックス・劇画"}
 ,
-{"isbn":"9784041088852","title":"小説 アナと雪の女王 影のひそむ森","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041088852.jpg","author":"ウォルト・ディズニー・ジャパン株式会社／監修 越前敏弥／翻訳 ないとうふみこ／翻訳","description":"前作『アナ雪』と『ナ雪２』をつなぐオリジナルサイドストーリー！","price":"760","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+{"isbn":"9784041088852","title":"小説 アナと雪の女王 影のひそむ森","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041088852.jpg","author":"ウォルト・ディズニー・ジャパン株式会社／監修 越前敏弥／翻訳 ないとうふみこ／翻訳","description":"前作『アナ雪』から、『２』につなぐ完全オリジナルストーリー！","price":"760","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
 {"isbn":"9784041088951","title":"ほどけるとける","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041088951.jpg","author":"大島真寿美／著","description":"あわのような日々は、ふわふわと。","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -106,10 +106,4 @@
 {"isbn":"9784106208294","title":"新潮日本古典集成〈新装版〉 狭衣物語（下）","volume":"","series":"新潮日本古典集成","publisher":"新潮社","pubdate":"2019-12-24","cover":"","author":"鈴木一雄／解説","description":"源氏の宮への報われぬ想いに苦悩しつつ、他の女性達と不如意な関係を重ねる狭衣大将。『源氏物語』と並んで愛読された王朝長篇。","price":"2800","genre":"","target":"一般","format":"全集・双書","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784106208812","title":"新潮日本古典集成〈新装版〉 東海道四谷怪談","volume":"","series":"新潮日本古典集成","publisher":"新潮社","pubdate":"2019-12-24","cover":"","author":"郡司正勝／解説","description":"貞淑なお岩と不実な民谷伊右衛門。愛と憎悪から生じる凄まじい怨念。江戸の世紀末的退廃をえぐりだす鶴屋南北最晩年の傑作幽霊狂言。","price":"2900","genre":"","target":"一般","format":"全集・双書","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784130104142","title":"パウロの神秘論","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784130104142.jpg","author":"宮本久雄／著","description":"二度にわたる大戦や今も続く紛争，大量難民の発生など，現代のわれわれがその只中にあってもつ危機意識は，パウロが直面した当時の彼の「今」の終末論的危機意識とも重なる．パウロはその危機に対し，イエス・キリストを通じて開示された神の愛のプラン，すなわちパウロにとっての「神秘」を生きることによって闘った．時代の閉塞と危機を突破しうる鍵としてのその「神秘」は一体どのような内実と性格をもつのか．他者との相生の地平を創造するパウロ神秘論の核心をひらく．","price":"7500","genre":"","target":"専門","format":"単行本","content":"キリスト教"}
-,
-{"isbn":"9784130323932","title":"国際租税法　第4版","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784130323932.jpg","author":"増井良啓／著 宮崎裕子／著","description":"国際租税法を初めて学ぶ人のための最良の基本書．国際取引との関係でとくに問題となる所得課税（所得税と法人税）について，日本の国内法と租税条約の骨格を丁寧に解説する．外国子会社合算税制や移転価格税制の見直し，BEPS防止措置実施条約の発効など重要な税制改正を踏まえ大幅に刷新し，事例演習や練習問題を織り交ぜながら，基礎から応用まで分かりやすく解き明かす．","price":"3200","genre":"","target":"専門","format":"単行本","content":"法律"}
-,
-{"isbn":"9784144072512","title":"からだと病気のしくみ講義","volume":"","series":"教養・文化シリーズ","publisher":"NHK出版","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784144072512.jpg","author":"仲野徹／著","description":"大注目の病理学教授が教える、からだと病気のしくみ、そのつながりとは。素朴な疑問にも楽しく答える、初学者のための超入門書。","price":"670","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"医学・歯学・薬学"}
 ]
