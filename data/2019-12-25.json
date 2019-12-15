@@ -61,7 +61,7 @@
 ,
 {"isbn":"9784065179857","title":"笑顔のたえない職場です。（1）","volume":"","series":"","publisher":"講談社","pubdate":"2019-12-25","cover":"","author":"くずしろ／著","description":"新人漫画家の双見先生は、担当さんやアシさんに支えられながら、時々本人曰く職業病の激しい妄想を拗らせながら、今日もお仕事中！","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065181393","title":"クッキングパパ　そば","volume":"","series":"","publisher":"講談社","pubdate":"2019-12-25","cover":"","author":"うえやまとち／著","description":"いよいよ年の瀬！　今年一年がんばったみんなに贈る、パパ渾身の料理が登場だぞ！","price":"336","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065181393","title":"クッングパパ　そば","volume":"","series":"","publisher":"講談社","pubdate":"2019-12-25","cover":"","author":"うえやまとち／著","description":"いよいよ年の瀬！　今年一年がんばったみんなに贈る、パパ渾身の料理が登場だぞ！","price":"336","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065181423","title":"ディズニームービーブック　アナと雪の女王2","volume":"","series":"","publisher":"講談社","pubdate":"2019-12-25","cover":"","author":"中井はるの／著 駒田文子／著","description":"大ヒット作「アナと雪の女王２」をノベライズ化！　映画のシーンもたくさん収録。エンディングまでじっくりお読みください。","price":"880","genre":"","target":"児童","format":"単行本","content":"外国文学、その他"}
 ,
@@ -152,4 +152,24 @@
 {"isbn":"9784101801803","title":"オニキス －公爵令嬢刑事 西有栖宮綾子ー","volume":"","series":"新潮文庫ｎｅｘ（ネックス）","publisher":"新潮社","pubdate":"2019-12-25","cover":"","author":"古野まほろ／著","description":"","price":"670","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784102045138","title":"特別な友情","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2019-12-25","cover":"","author":"ランボー／著 コクトー／著 ジッド／著","description":"","price":"750","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784140818053","title":"世界中の女子が読んだ！　からだと性の教科書","volume":"","series":"","publisher":"NHK出版","pubdate":"2019-12-25","cover":"https://cover.openbd.jp/9784140818053.jpg","author":"エレン・ストッケン・ダール／著 ニナ・ブロックマン／著 高橋幸子／監修","description":"月経のしくみから避妊法まで、女性にとって必須の“性の知識と情報”がこの一冊ですべてわかる。性の先進国ノルウェー発の話題作！","price":"2200","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
+,
+{"isbn":"9784142231072","title":"呉兢『貞観政要』　2020年1月","volume":"","series":"１００分 ｄｅ 名著","publisher":"NHK出版","pubdate":"2019-12-25","cover":"","author":"出口治明／著","description":"日本でも徳川家康や明治天皇が愛読したという、帝王学の古典として名高い唐代の書『貞観政要』　を、現代的な視点で読み解く。","price":"524","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"外国文学、その他"}
+,
+{"isbn":"9784148272871","title":"炊飯器でつくる！世界の炊き込みご飯","volume":"","series":"ＮＨＫまる得マガジン","publisher":"NHK出版","pubdate":"2019-12-25","cover":"","author":"荻野恭子／著","description":"世界各地のさまざまな米料理を炊飯器で簡単アレンジ！パエリア、カオマンガイ、メキシカンライスなどがスイッチひとつでつくれます。","price":"571","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
+,
+{"isbn":"9784149110110","title":"こころをよむ　和食という文化","volume":"","series":"ＮＨＫシリーズ","publisher":"NHK出版","pubdate":"2019-12-25","cover":"","author":"熊倉功夫／著","description":"ユネスコ無形文化遺産に登録されたのは個々の料理や技術ではなく「和食」という文化だ。この定義しづらい独特な文化の精神性に迫る。","price":"762","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"民族・風習"}
+,
+{"isbn":"9784199608131","title":"艶もよう、恋もよう","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-12-25","cover":"","author":"高城リョウ／著","description":"傾きかけたオンボロ旅館を舞台に恋の艶花を咲かせまくるｖ\n大人気イケメン細腕繁盛記シリーズ、待望の続編登場――！！","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199608148","title":"DEADLOCK③","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-12-25","cover":"","author":"英田サキ／著 高階佑／著","description":"大人気キャラ文庫をコミカライズした囚人たちのデッドエンドＬＯＶＥ、クライマックスに向け２冊同時発売！！","price":"620","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199608155","title":"おまもり狸の恋愛成就","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-12-25","cover":"","author":"果桃なばこ／著","description":"難攻不落の恋のキューピットは、こどものお狸様！？","price":"640","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784199608162","title":"DEADLOCK④","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-12-25","cover":"","author":"英田サキ／著 高階佑／著","description":"暴動後のディックの脱出行を描く書き下ろし小説番外編収録。ＢＬ史上に鮮烈な足跡を残した大人気コミカライズ、ついに完結??","price":"620","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784267906879","title":"カジュアルワイド　三国志　７","volume":"","series":"","publisher":"潮出版社","pubdate":"2019-12-25","cover":"","author":"横山光輝／著","description":"ロングセラーコミック、横山光輝「三国志」がコンビニ向けで発売！全25巻。","price":"620","genre":"コミックス(廉)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784296105243","title":"日経エンタテインメント！ 日向坂46 Special＜クリアファイル2枚付き＞","volume":"","series":"日経BPムック","publisher":"日経ＢＰ","pubdate":"2019-12-25","cover":"https://cover.openbd.jp/9784296105243.jpg","author":"日経エンタテインメント！／編集","description":"日向坂46、デビューイヤーを締めくくるビジュアル＆インタビューブック。\n","price":"2500","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ]
