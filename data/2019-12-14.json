@@ -1,11 +1,21 @@
 [
 {"isbn":"9784000245401","title":"日々の子どもたち","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-12-14","cover":"https://cover.openbd.jp/9784000245401.jpg","author":"エドゥアルド・ガレアーノ／著 久野量一／翻訳","description":"李白，トウェイン，原発とクロサワ，そして時を逍遥する無名の人びと――古今東西の〈記憶〉を旅する三六六日，一日一話．","price":"2800","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
 ,
-{"isbn":"9784000248280","title":"マーケティングのSONY","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-12-14","cover":"","author":"立石泰則／著","description":"「技術のSONY」において，製品を売る「市場を創り出す」ために苦闘する，営業部門の挑戦を描く．","price":"2400","genre":"","target":"一般","format":"単行本","content":"社会"}
+{"isbn":"9784000248280","title":"マーケティングのSONY","volume":"","series":"","publisher":"岩波書店","pubdate":"2019-12-14","cover":"https://cover.openbd.jp/9784000248280.jpg","author":"立石泰則／著","description":"「技術のSONY」において，製品を売る「市場を創り出す」ために苦闘する，営業部門の挑戦を描く．","price":"2400","genre":"","target":"一般","format":"単行本","content":"社会"}
 ,
-{"isbn":"9784047334373","title":"チュウニズム ビジュアルコレクション","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ　Ｇａｍｅ　Ｌｉｎｋａｇｅ","pubdate":"2019-12-14","cover":"https://cover.openbd.jp/9784047334373.jpg","author":"ファミ通書籍編集部／編集","description":"総勢250以上のキャラクターがこの一冊に！","price":"3800","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+{"isbn":"9784047334373","title":"チュウニズム ビジュアルコレクション","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ　Ｇａｍｅ　Ｌｉｎｋａｇｅ","pubdate":"2019-12-14","cover":"https://cover.openbd.jp/9784047334373.jpg","author":"ファ通書籍編集部／編集","description":"総勢250以上のキャラクターがこの一冊に！","price":"3800","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784049128895","title":"ライザのアトリエ ～常闇の女王と秘密の隠れ家～ 公式ビジュアルコレクション","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ　Ｇａｍｅ　Ｌｉｎｋａｇｅ","pubdate":"2019-12-14","cover":"https://cover.openbd.jp/9784049128895.jpg","author":"電撃ゲーム書籍編集部／編集","description":"あの夏の冒険、そのすべてがここに－。貴重なイラスト群をこの一冊に集約！","price":"2700","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784065161913","title":"スター・ウォーズ　トリビュート画集　TRIBUTE　TO　STAR　WARS","volume":"","series":"","publisher":"講談社","pubdate":"2019-12-14","cover":"https://cover.openbd.jp/9784065161913.jpg","author":"講談社／編集","description":"日本を代表する漫画家＆イラストレーターが集結！　安彦良和、ちばてつや他、豪華ラインナップ！　ルーカス社のコメントつき","price":"3800","genre":"","target":"一般","format":"単行本","content":"演劇・映画"}
+,
+{"isbn":"9784265014354","title":"心霊探偵ゴーストハンターズ⑤　消えない悪魔とポルターガイスト","volume":"","series":"心霊探偵ゴーストハンターズ","publisher":"岩崎書店","pubdate":"2019-12-14","cover":"https://cover.openbd.jp/9784265014354.jpg","author":"石崎洋司／著 かしのき彩／イラスト","description":"あの悪魔は消えていなかった…。美湖さんに迫る魔の手。恐怖のどん底に叩き落されるメンバーたち。どうするゴーストハンターズ！","price":"900","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784265050949","title":"東国　下","volume":"","series":"アラルエン戦記","publisher":"岩崎書店","pubdate":"2019-12-14","cover":"https://cover.openbd.jp/9784265050949.jpg","author":"ジョン・フラナガン／著 入江真佐子／翻訳","description":"ホラスと再会したアラルエン一行。数で圧倒的に不利な戦いを強いられた、ウィルたちが編み出した戦法とー。シリーズ最終巻！","price":"1600","genre":"児童図書","target":"児童","format":"全集・双書","content":"外国文学小説"}
+,
+{"isbn":"9784265851478","title":"いっぴきぐらしのジュリアン","volume":"","series":"","publisher":"岩崎書店","pubdate":"2019-12-14","cover":"https://cover.openbd.jp/9784265851478.jpg","author":"ジョー・トッド・スタントン／著 いわじょうよしひと／翻訳","description":"ジュリアンはいっぴきぐらしのねずみ。だれにも会わないように暮らしていた。そんなジュリアンをじっと見ているきつねがいた。","price":"1400","genre":"児童図書","target":"児童","format":"絵本","content":"外国文学、その他"}
+,
+{"isbn":"9784274224492","title":"センサ工学の基礎（第3版）","volume":"","series":"","publisher":"オーム社","pubdate":"2019-12-14","cover":"https://cover.openbd.jp/9784274224492.jpg","author":"山﨑弘郎／著","description":"計測や自動制御技術を学ぶ学生やセンサを扱う他分野の技術者、研究者を対象として、センサ工学の基礎を解説した教科書。","price":"2700","genre":"工業・工学","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784274224775","title":"Rで学ぶVAR実証分析","volume":"","series":"","publisher":"オーム社","pubdate":"2019-12-14","cover":"https://cover.openbd.jp/9784274224775.jpg","author":"村尾博／著","description":"Rを使ってベクトル自己回帰分析を行う。理論に関する疑問、分析ツールをRで書くことなど役に立つ情報を提供。","price":"4500","genre":"コンピュータ","target":"専門","format":"単行本","content":"数学"}
 ]
