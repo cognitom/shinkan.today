@@ -15,7 +15,7 @@
 ,
 {"isbn":"9784041080535","title":"櫻子さんの足下には死体が埋まっている わたしを殺したお人形","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041080535.jpg","author":"太田紫織／著 鉄雄／イラスト","description":"「骨が、繋がらないんだよ」骨と真実を愛するお嬢様と少年の胸躍る謎解き！","price":"600","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041082942","title":"鼠、嘘つきは役人の始まり","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041082942.jpg","author":"赤川次郎／著","description":"うかうか盗みもしちゃいられねえ！鼠小僧次郎吉が出会った奇妙な事件たち。","price":"660","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784041082942","title":"鼠、嘘つきは役人の始まり","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041082942.jpg","author":"赤川次郎／著","description":"うかうか盗みもしちゃいられねえ！鼠小僧次郎吉が出会った奇妙な事件たち。","price":"660","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784041083147","title":"デルタの悲劇","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041083147.jpg","author":"浦賀和宏／著","description":"浦賀和宏が死んだ！？","price":"560","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -51,7 +51,7 @@
 ,
 {"isbn":"9784041089033","title":"サハラの薔薇","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041089033.jpg","author":"下村敦史／著","description":"生き残るのか正義か――究極の葛藤。手に汗握る冒険小説×予想外のラスト！","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041089484","title":"5月とメルヒェン","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041089484.jpg","author":"緒崎カホ／著","description":"その依頼人は童話に支配されている。童話と現実交わうメンタルミステリー！","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784041089484","title":"5月とメルヒェン","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041089484.jpg","author":"緒崎カホ著","description":"その依頼人は童話に支配されている。童話と現実交わうメンタルミステリー！","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784041089491","title":"こはる日和とアニマルボイス（４）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784041089491.jpg","author":"加藤えりこ／著","description":"待望のアニマルセラピー第４巻！モフモフの大渋滞継続中！","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -103,13 +103,11 @@
 ,
 {"isbn":"9784106208812","title":"新潮日本古典集成〈新装版〉 東海道四谷怪談","volume":"","series":"新潮日本古典集成","publisher":"新潮社","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784106208812.jpg","author":"郡司正勝／解説","description":"貞淑なお岩と不実な民谷伊右衛門。愛と憎悪から生じる凄まじい怨念。江戸の世紀末的退廃をえぐりだす鶴屋南北最晩年の傑作幽霊狂言。","price":"2900","genre":"","target":"一般","format":"全集・双書","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784130104142","title":"パウロの神秘論","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784130104142.jpg","author":"宮本久雄／著","description":"二度にわたる大戦や今も続く紛争，大量難民の発生など，現代のわれわれがその只中にあってもつ危機意識は，パウロが直面した当時の彼の「今」の終末論的危機意識とも重なる．パウロはその危機に対し，イエス・キリストを通じて開示された神の愛のプラン，すなわちパウロにとっての「神秘」を生きることによって闘った．時代の閉塞と危機を突破しうる鍵としてのその「神秘」は一体どのような内実と性格をもつのか．他者との相生の地平を創造するパウロ神秘論の核心をひらく．","price":"7500","genre":"","target":"専門","format":"単行本","content":"キリスト教"}
+{"isbn":"9784109101547","title":"弁護士物語 第三巻","volume":"","series":"","publisher":"新潮社","pubdate":"2019-12-24","cover":"","author":"戸田等／著","description":"","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784130323932","title":"国際租税法　第4版","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784130323932.jpg","author":"増井良啓／著 宮崎裕子／著","description":"国際租税法を初めて学ぶ人のための最良の基本書．国際取引との関係でとくに問題となる所得課税（所得税と法人税）について，日本の国内法と租税条約の骨格を丁寧に解説する．外国子会社合算税制や移転価格税制の見直し，BEPS防止措置実施条約の発効など重要な税制改正を踏まえ大幅に刷新し，事例演習や練習問題を織り交ぜながら，基礎から応用まで分かりやすく解き明かす．","price":"3200","genre":"","target":"専門","format":"単行本","content":"法律"}
+{"isbn":"9784109101554","title":"日出處電子天子 電子の国コアラ未来編","volume":"","series":"","publisher":"新潮社","pubdate":"2019-12-24","cover":"","author":"尾野徹／著","description":"","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784144072512","title":"からだと病気のしくみ講義","volume":"","series":"教養・文化シリーズ","publisher":"NHK出版","pubdate":"2019-12-24","cover":"https://cover.openbd.jp/9784144072512.jpg","author":"仲野徹／著","description":"大注目の病理学教授が教える、からだと病気のしくみ、そのつながりとは。素朴な疑問にも楽しく答える、初学者のための超入門書。","price":"670","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"医学・歯学・薬学"}
+{"isbn":"9784109101578","title":"夢を叶える。幸せになる。","volume":"","series":"","publisher":"新潮社","pubdate":"2019-12-24","cover":"","author":"仙人さん／著","description":"","price":"2980","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784198650001","title":"ボケの品格 清く、気高く、いさぎよく","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-12-24","cover":"","author":"川北義則／著","description":"ベストセラー「男の品格」から１５年。これまで多くの著書で「品格」「生き方」を説いてきた著者が軽度の認知症と診断された！","price":"1300","genre":"社会科学","target":"一般","format":"単行本","content":"家事"}
-,
-{"isbn":"9784198650018","title":"唯誠 さらば矢野康生","volume":"","series":"","publisher":"徳間書店","pubdate":"2019-12-24","cover":"","author":"若野康玄／著","description":"組織に背を向けても仁義を貫いた最後の烈士の生き様を見よ","price":"1800","genre":"","target":"一般","format":"単行本","content":"社会"}
+{"isbn":"9784109101585","title":"Ｑｕｅｅｎ Ｅｌｉｚａｂｅｔｈ","volume":"","series":"","publisher":"新潮社","pubdate":"2019-12-24","cover":"","author":"光齋昇馬／著","description":"","price":"1200","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
 ]
