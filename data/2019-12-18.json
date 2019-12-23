@@ -73,7 +73,7 @@
 ,
 {"isbn":"9784103530114","title":"なないろ","volume":"","series":"","publisher":"新潮社","pubdate":"2019-12-18","cover":"https://cover.openbd.jp/9784103530114.jpg","author":"夏樹玲奈／著","description":"私が密かに恋心を抱く叔父には、未成年の男の恋人がいて――。切ない三角関係を描くＲ-18文学賞読者賞受賞作ほか全5篇の連作。","price":"1450","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784103530510","title":"涙をなくした君に","volume":"","series":"","publisher":"新潮社","pubdate":"2019-12-18","cover":"https://cover.openbd.jp/9784103530510.jpg","author":"藤野恵美／著","description":"私は、最愛の息子を支配しようとしている……？　両親の愛を享受できなかった記憶に抗いつつも翻弄された、人間の性を抉る長編小説。","price":"1650","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784103530510","title":"涙をなくした君に","volume":"","series":"","publisher":"新潮社","pubdate":"2019-12-18","cover":"https://cover.openbd.jp/9784103530510.jpg","author":"藤野恵美／著","description":"私は、最愛の子を支配しようとしている……？　両親の愛を享受できなかった記憶に抗いつつも翻弄された、人間の性を抉る長編小説。","price":"1650","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784104595075","title":"清く貧しく美しく","volume":"","series":"","publisher":"新潮社","pubdate":"2019-12-18","cover":"https://cover.openbd.jp/9784104595075.jpg","author":"石田衣良／著","description":"30歳非正規社員×28歳パート。この冷酷な世界で二人の幸せだけは永遠と信じていた。恋愛小説の名手が描く現代の切実な恋の行方。","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
@@ -128,4 +128,28 @@
 {"isbn":"9784265860463","title":"グラフィック伝記　フレディ・マーキュリー","volume":"","series":"","publisher":"岩崎書店","pubdate":"2019-12-18","cover":"https://cover.openbd.jp/9784265860463.jpg","author":"アルフォンソ・カサス／著 宇野和美／翻訳 小原京子／翻訳","description":"映画『ボヘミアン・ラプソディ』で注目の集まるクイーンのボーカリスト、フレディ・マーキュリーのグラフィックノベル風伝記。","price":"1800","genre":"児童図書","target":"一般","format":"単行本","content":"伝記"}
 ,
 {"isbn":"9784297110758","title":"10日でマスター　Live2Dモデルメイキング講座","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-12-18","cover":"https://cover.openbd.jp/9784297110758.jpg","author":"fumi／著","description":"【Live2D Cubism Editor ver.4.0対応】\nモデル制作から配信、アニメーションまで静止画イラストに命を吹き込む Live2Dは、2Dのイラストで立体表現を可能とするクリエイティブツールです。 本書は、Live2Dの使い方を丁寧に解説。 ソフトの基本操作、キャラクターイラストの動かし方、声を当てた際の挙動のコツなどモデル制作からアニメーションまで著者独自のノウハウを10日間でマスターできる1冊です。","price":"2480","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784309227924","title":"偽書『東日流外三郡誌』の亡霊","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-12-18","cover":"","author":"藤原明／著","description":"東北の古代～中世史を書き換えようとした偽書・東日流外三郡誌。その捏造ぶりを「プレ三郡誌」に遡り徹底的に検証する解説書。","price":"1950","genre":"","target":"一般","format":"単行本","content":"日本歴史"}
+,
+{"isbn":"9784309256498","title":"あかちゃんはどうやってつくられるの？","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-12-18","cover":"","author":"アンナ・フィスケ／著 さわきちはる／翻訳","description":"みんなの不思議を北欧の人気イラストレーターが愉快に紹介。ごまかしも恥ずかしさもナシ、ユーモアたっぷりの命の話。一緒に読もう！","price":"1800","genre":"","target":"児童","format":"絵本","content":"教育"}
+,
+{"isbn":"9784309979885","title":"片渕須直","volume":"","series":"文藝別冊","publisher":"河出書房新社","pubdate":"2019-12-18","cover":"","author":"河出書房新社／編集","description":"12月公開の映画『この世界の（さらにいくつもの）片隅に』の片渕監督を特集。宇多丸、春日太一、町山智浩ほか豪華メンバーが参加。","price":"1500","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
+,
+{"isbn":"9784334044466","title":"バンクシー アート・テロリスト","volume":"","series":"","publisher":"光文社","pubdate":"2019-12-18","cover":"","author":"毛利嘉孝／著","description":"","price":"980","genre":"","target":"一般","format":"新書","content":"絵画・彫刻"}
+,
+{"isbn":"9784334044473","title":"つつまし酒","volume":"","series":"","publisher":"光文社","pubdate":"2019-12-18","cover":"","author":"パリッコ／著","description":"","price":"900","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784334044497","title":"美を見極める力 古美術に学ぶ","volume":"","series":"","publisher":"光文社","pubdate":"2019-12-18","cover":"","author":"白洲信哉／著","description":"","price":"1200","genre":"","target":"一般","format":"新書","content":"芸術総記"}
+,
+{"isbn":"9784334044503","title":"続・秘蔵カラー写真で味わう６０年前の東京・日本","volume":"","series":"","publisher":"光文社","pubdate":"2019-12-18","cover":"","author":"Ｊ・ウォーリー・ヒギンズ／著","description":"","price":"1600","genre":"","target":"一般","format":"新書","content":"写真・工芸"}
+,
+{"isbn":"9784334951290","title":"時間とテクノロジー","volume":"","series":"","publisher":"光文社","pubdate":"2019-12-18","cover":"","author":"佐々木俊尚／著","description":"","price":"1800","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
+,
+{"isbn":"9784334962357","title":"この指がＩＳから街を守った","volume":"","series":"","publisher":"光文社","pubdate":"2019-12-18","cover":"","author":"アザド・クディ／著 上野元美／翻訳","description":"","price":"1900","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
+,
+{"isbn":"9784335314339","title":"債権総論","volume":"","series":"伊藤塾呉明植基礎本シリーズ","publisher":"弘文堂","pubdate":"2019-12-18","cover":"https://cover.openbd.jp/9784335314339.jpg","author":"呉明植／著","description":"●盤石な基礎固めのためのGOシリーズ、債権法改正施行後を見据えた、コンパクトなテキスト！","price":"2200","genre":"社会科学","target":"教養","format":"全集・双書","content":"法律"}
+,
+{"isbn":"9784335561382","title":"共同体なき社会の韻律","volume":"","series":"","publisher":"弘文堂","pubdate":"2019-12-18","cover":"https://cover.openbd.jp/9784335561382.jpg","author":"川瀬由高／著","description":"「何もない日常」に通底するもの","price":"5000","genre":"社会科学","target":"専門","format":"単行本","content":"民族・風習"}
+,
+{"isbn":"9784336065599","title":"ホープ・レスリー","volume":"","series":"","publisher":"国書刊行会","pubdate":"2019-12-18","cover":"https://cover.openbd.jp/9784336065599.jpg","author":"キャサリン・マリア・セジウィック／著 高野一良／翻訳","description":"『モヒカン族の最後』と並ぶ、白人とインディアンをめぐるアメリカ歴史小説の傑作、待望の翻訳！新世代の若者たちの人種を超えた絆。","price":"3600","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
 ]

@@ -47,7 +47,7 @@
 ,
 {"isbn":"9784047334601","title":"別冊てれびげーむマガジン　スペシャル　マインクラフト　なろうぜ！　マイクラ博士号","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ　Ｇａｍｅ　Ｌｉｎｋａｇｅ","pubdate":"2019-12-23","cover":"https://cover.openbd.jp/9784047334601.jpg","author":"","description":"マイクラ好きな子どもたちにピッタリのムック最新号が登場","price":"908","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784047358447","title":"MARVEL Avengers:Endgame SHOPPING ECO BAG & POUCH BOOK","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-23","cover":"https://cover.openbd.jp/9784047358447.jpg","author":"ディズニー／監修","description":"『アベンジャーズ』特製モノグラムエコバッグ＆ポーチ付きムック発売！","price":"1900","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+{"isbn":"9784047358447","title":"MARVEL Avengers:Endgame SHOPPING ECO BAG & POUCH BOOK","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-23","cover":"https://cover.openbd.jp/9784047358447.jpg","author":"ディズニー／監修","description":"『アベンジャーズ』特製モノグラムコバッグ＆ポーチ付きムック発売！","price":"1900","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784048966788","title":"レタスクラブ　Special edition ほぼ100円のゆる糖質オフおかず","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2019-12-23","cover":"https://cover.openbd.jp/9784048966788.jpg","author":"","description":"材料費ほぼ100円でここまでできた！　家計応援ワンコインムック第４弾！","price":"500","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
@@ -91,7 +91,7 @@
 ,
 {"isbn":"9784065180419","title":"太陽の塔（3）","volume":"","series":"","publisher":"講談社","pubdate":"2019-12-23","cover":"","author":"かしのこおり／著 森見登美彦／原著","description":"森見登美彦伝説のデビュー作、１６年越しの完結！！　原作者の手による描きおろし原稿も収録！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065180679","title":"はじめアルゴリズム（10）","volume":"","series":"","publisher":"講談社","pubdate":"2019-12-23","cover":"","author":"三原和人／著","description":"「無限」「死」「交わる平行線」などなど。関口ハジメ（小６）は、見えない世界を数学で解き明かす！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065180679","title":"はじめアルゴリズム（10）","volume":"","series":"","publisher":"講談社","pubdate":"2019-12-23","cover":"","author":"三原和人／著","description":"僕の世界は広がってみんなと繋がった。数学少年ジュブナイル、完結！！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065181072","title":"会長　島耕作（13）","volume":"","series":"","publisher":"講談社","pubdate":"2019-12-23","cover":"","author":"弘兼憲史／著","description":"『会長　島耕作』完結！！　余力を残して次なるステージへ。最後の仕事は次代のテコットを担う後任選び！？","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -140,4 +140,14 @@
 {"isbn":"9784297111038","title":"ゼロからはじめる　ドコモ AQUOS sense3 SH-02M スマートガイド","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-12-23","cover":"https://cover.openbd.jp/9784297111038.jpg","author":"リンクアップ／著","description":"本書は、NTTドコモから発売されたスマートフォン「AQUOS sense3 SH-02M」の初心者向け解説書です。通話、メール、インターネットなどの基本的な使い方のほか、AQUOS sense3 SH-02Mの独自機能、アプリケーションのインストールや使い方、NTTドコモのサービスの利用方法なども解説しています。本書があれば、AQUOS sense3 SH-02Mの基本操作と活用法がバッチリわかります。","price":"1580","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
 ,
 {"isbn":"9784297111090","title":"WEB+DB PRESS Vol.114","volume":"","series":"","publisher":"技術評論社","pubdate":"2019-12-23","cover":"https://cover.openbd.jp/9784297111090.jpg","author":"WEB+DBPRESS編集部編／著","description":"■特集1\nAWS/GCPセキュア化計画 ── 安全運用のためのベストプラクティス！\n本特集では、AWSとGCPでの安全な設定の指針を解説します。クラウド利用者にとってセキュリティは最優先事項です。また、クラウドには、従来のオンプレミスとは異なる特有のセキュリティ項目があります。本特集では、AWSとGCPそれぞれの特性を踏まえて、最小の工数で高いセキュリティレベルを実現する方法を説明します。さらに、セキュリティで必須となる監査において、結果の集中管理と可視化を行う方法を紹介します。\n\n■特集2\n作って学ぶWebAuthn ── 生体認証でさよならパスワード\nWebAuthnは、2019年3月にW3Cで標準化されたパスワードの代わりに公開鍵を使用するWeb認証の仕様です。フィッシング被害を撲滅する安全性と、簡単にログインできる利便性を両立します。本特集では、まず第1章で、パスワードや2段階認証など従来の認証が抱える問題を、WebAuthnがどのように解決するのか紹介します。第2章でWebAuthnの仕様を詳しく解説します。第3章からは実践編として、WebAuthnの一番の魅力であるパスワードレス認証を実装します。第3章で開発環境を構築したうえで、第4章では公開鍵の生成と登録処理を、第5章では署名の生成と認証処理を実装します。\n\n■特集3\nKyash開発ノウハウ大公開 ── カード発行、決済、個人間送金の舞台裏\n\nモバイルアプリからプリペイド式Visaカードの発行や個人間送金が誰でも簡単に行えるKyash。リアルカードを発行すれば、オンラインだけでなく実店舗でも決済ができます。本特集では、Kyashのカード決済システムやカード情報を守るためのセキュリティ、そして2019年10月から提供を開始したカード発行と決済を提供する企業向けサービスKyash Directの設計と実装を紹介します。\n\n■19周年記念エッセイ\n過去の自分へコードレビュー ── 経験、技術力の向上、技術の進化を経た今、思うこと\n\n\n","price":"1480","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784309207896","title":"魅せられた旅人","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-12-23","cover":"","author":"ニコライ・レスコフ／著 東海晃久／翻訳","description":"19世紀ロシア文学の異才レスコフの代表作を新訳。馬のことならなんでもできるイヴァンが預言者として遍歴にでるまでの数奇な生涯。","price":"2900","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
+,
+{"isbn":"9784309249391","title":"奇妙な死体のとんでもない事情","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-12-23","cover":"","author":"巽信二／著","description":"死因が特定できない遺体、事件性があるか不明な遺体…そして、解剖で判明した驚きの真実とは。熟練の監察医が記憶に残る事件を語る。","price":"1400","genre":"","target":"一般","format":"単行本","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784309631165","title":"日本史　自由自在","volume":"","series":"","publisher":"河出書房新社","pubdate":"2019-12-23","cover":"","author":"本郷和人／著","description":"たった漢字ひと文字のお題から日本史の勘どころへ。東京大学史料編纂所教授が教える、新しい歴史の愉しみ方・第二弾。","price":"810","genre":"","target":"一般","format":"新書","content":"日本歴史"}
+,
+{"isbn":"9784335160967","title":"神道文化の現代的役割","volume":"","series":"","publisher":"弘文堂","pubdate":"2019-12-23","cover":"https://cover.openbd.jp/9784335160967.jpg","author":"黒﨑浩行／著","description":"現代社会で神道・神社が果たせる役割とは","price":"3800","genre":"哲学・宗教","target":"専門","format":"単行本","content":"宗教"}
+,
+{"isbn":"9784336065377","title":"サイレント映画の黄金時代","volume":"","series":"","publisher":"国書刊行会","pubdate":"2019-12-23","cover":"https://cover.openbd.jp/9784336065377.jpg","author":"ケヴィン・ブラウンロウ／著 宮本高晴／翻訳","description":"〈サイレント映画〉の魅惑と謎を解き明かす名著、ついに邦訳！スターや監督らへのインタビューと資料でサイレント映画の世界が甦る。","price":"8800","genre":"芸能・タレント","target":"一般","format":"単行本","content":"演劇・映画"}
 ]
