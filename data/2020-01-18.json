@@ -3,7 +3,7 @@
 ,
 {"isbn":"9784003120132","title":"荷風追想","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-01-18","cover":"https://cover.openbd.jp/9784003120132.jpg","author":"多田蔵人／編集","description":"文豪・荷風と遭遇した同時代人の回想50数篇を精選、巨人の風貌を探る。荷風文学への道案内とする。","price":"1000","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784003361979","title":"自然宗教をめぐる対話","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-01-18","cover":"https://cover.openbd.jp/9784003361979.jpg","author":"ヒューム／著 犬塚元／翻訳","description":"神の存在本性について、異なる立場の三人が議論をくり広げる。ヒュームの思想理解に欠かせない重要著作。","price":"780","genre":"文庫","target":"一般","format":"文庫","content":"哲学"}
+{"isbn":"9784003361979","title":"自然宗教をめぐる対話","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-01-18","cover":"https://cover.openbd.jp/9784003361979.jpg","author":"ヒューム／著 犬塚元／翻訳","description":"神の存在や本性について、異なる立場の三人が議論をくり広げる。ヒュームの思想理解に欠かせない重要著作。","price":"780","genre":"文庫","target":"一般","format":"文庫","content":"哲学"}
 ,
 {"isbn":"9784003500286","title":"声でたのしむ　美しい日本の詩","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-01-18","cover":"https://cover.openbd.jp/9784003500286.jpg","author":"大岡信／編集 谷川俊太郎／編集","description":"万葉集から現代詩まで、日本語がもつ深い調べと美しいリズムをそなえた珠玉の作品を精選。","price":"1100","genre":"文庫","target":"一般","format":"文庫","content":"日本文学詩歌"}
 ,
@@ -13,7 +13,7 @@
 ,
 {"isbn":"9784006004149","title":"『キング』の時代 国民大衆雑誌の公共性","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-01-18","cover":"https://cover.openbd.jp/9784006004149.jpg","author":"佐藤卓己／著","description":"伝説的雑誌『キング』の分析を通じ、「雑誌王」と「講談社文化」が果たした役割を解き明かす。（解説 與那覇潤）","price":"1760","genre":"文庫","target":"一般","format":"文庫","content":"社会"}
 ,
-{"isbn":"9784006023157","title":"夢十夜","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-01-18","cover":"https://cover.openbd.jp/9784006023157.jpg","author":"近藤ようこ／著 夏目漱石／企画","description":"怪しく美しい漱の夢の世界を、名手近藤ようこが漫画化。描き下ろしの「第十一夜」を新たに収録。","price":"780","genre":"文庫","target":"一般","format":"文庫","content":"コミックス・劇画"}
+{"isbn":"9784006023157","title":"夢十夜","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-01-18","cover":"https://cover.openbd.jp/9784006023157.jpg","author":"近藤ようこ／著 夏目漱石／企画","description":"怪しく美しい漱石の夢の世界を、名手近藤ようこが漫画化。描き下ろしの「第十一夜」を新たに収録。","price":"780","genre":"文庫","target":"一般","format":"文庫","content":"コミックス・劇画"}
 ,
 {"isbn":"9784006023164","title":"村に火をつけ，白痴になれ 伊藤野枝伝","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-01-18","cover":"https://cover.openbd.jp/9784006023164.jpg","author":"栗原康／著","description":"貧乏に徹しわがままに生きた一〇〇年前のアナキスト、伊藤野枝の生涯を、体当たりで描いた爆裂評伝。","price":"1120","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
@@ -72,4 +72,18 @@
 {"isbn":"9784074383863","title":"ビザールプランツ　冬型　珍奇植物最新情報","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-01-18","cover":"","author":"主婦の友社／編集","description":"『ビザールプランツ夏型珍奇植物最新情報』に続く第２弾。冬型植物のケープバルブ、ハオルチア、コノフィツムを大特集。","price":"1600","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784074414253","title":"はくだけでやせるインソールｆｏｒＭＥＮ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-01-18","cover":"","author":"主婦の友社／編集","description":"日常生活を利用したはくだけダイエット！靴の中にしのばせるだけ。累計100万足の実績ある「3点バランス保持理論」を採用","price":"1200","genre":"","target":"実用","format":"単行本","content":"家事"}
+,
+{"isbn":"9784143302757","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちドイツ語　2020年2月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-01-18","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"ドイツ語"}
+,
+{"isbn":"9784143312756","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちフランス語　2020年2月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-01-18","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"フランス語"}
+,
+{"isbn":"9784143322755","title":"ＮＨＫ　ＣＤ　ラジオ　まいにち中国語　2020年2月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-01-18","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"各国語"}
+,
+{"isbn":"9784143332754","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちハングル講座　2020年2月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-01-18","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"各国語"}
+,
+{"isbn":"9784143342753","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちロシア語　2020年2月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-01-18","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"各国語"}
+,
+{"isbn":"9784143352752","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちスペイン語　2020年2月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-01-18","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"各国語"}
+,
+{"isbn":"9784143362751","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちイタリア語　2020年2月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-01-18","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"各国語"}
 ]
