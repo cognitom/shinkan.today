@@ -33,7 +33,7 @@
 ,
 {"isbn":"9784065184455","title":"漢　a．k．a．　GAMI　監修　MCバトル全書","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-14","cover":"https://cover.openbd.jp/9784065184455.jpg","author":"漢ａ．ｋ．ａ．ＧＡＭＩ／監修 有田ハンタ／著","description":"ＭＣバトル界の重鎮・漢ａ．ｋ．ａ　ＧＡＭＩ監修。これ１冊で、ＭＣバトルの「いま」が分かる！","price":"1600","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784065185018","title":"詩への小路　ドゥイノの悲歌","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-14","cover":"https://cover.openbd.jp/9784065185018.jpg","author":"古井由吉／著","description":"著者が愛読してきたリルケ「ドゥイノの悲歌」の翻訳をはじめ、マラルメ、ヴァレリー、ダンテ、漱石等、詩をめぐる思索が結晶した名篇","price":"1900","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784065185018","title":"詩への小路　ドゥイノの悲歌","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-14","cover":"https://cover.openbd.jp/9784065185018.jpg","author":"古井由吉／著","description":"ライナー・マリア・リルケ「ドゥイノの悲歌」全訳をはじめ、詩と散文を往還し、日本語の新たな領野を拓く名篇。","price":"1900","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784065185285","title":"発達障害の内側から見た世界　名指すことと分かること","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-14","cover":"https://cover.openbd.jp/9784065185285.jpg","author":"兼本浩祐／著","description":"精神科医が自らを「発達障害」と診断したとき、自分というもののあり方や他者との関係・了解はどのよう問いとして立ち上がるのか。","price":"1700","genre":"","target":"一般","format":"全集・双書","content":"哲学"}
 ,
@@ -44,4 +44,24 @@
 {"isbn":"9784065185469","title":"形を読む　生物の形態をめぐって","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-14","cover":"https://cover.openbd.jp/9784065185469.jpg","author":"養老孟司／著","description":"生物の「形」が含む「意味」とは？　解剖学、哲学、美術…古今の人間の知見を豊富に使って繰り広げられる、スリリングな形態学総論！","price":"960","genre":"","target":"一般","format":"文庫","content":"自然科学総記"}
 ,
 {"isbn":"9784065185667","title":"ジョン・ロック～「統治二論」より～","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-14","cover":"https://cover.openbd.jp/9784065185667.jpg","author":"ロック／原著 ＮＡＨＡ／著","description":"古典的自由主義の名著「統治二論」をまんがで読み解くことで、現代のアメリカの抱える問題が解き明かされていく。","price":"780","genre":"","target":"一般","format":"文庫","content":"社会科学総記"}
+,
+{"isbn":"9784143232757","title":"ＮＨＫ　ＣＤ　ラジオ　ラジオ英会話　2020年2月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-01-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784143242756","title":"ＮＨＫ　ＣＤ　ラジオ　実践ビジネス英語　2020年2月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-01-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784143252755","title":"ＮＨＫ　ＣＤ　ラジオ　英会話タイムトライアル　2020年2月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-01-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784143512750","title":"ＮＨＫ　ＣＤ　ラジオ　入門ビジネス英語　2020年2月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-01-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1400","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784143612757","title":"ＮＨＫ　ＣＤ　ラジオ　高校生からはじめる「現代英語」　2020年2月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-01-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1400","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784143642754","title":"ＮＨＫ　ＣＤ　ラジオ　遠山顕の英会話楽習　2020年2月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-01-14","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784163911540","title":"おやつを食べてやせ体質に！ 間食ダイエット","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-01-14","cover":"https://cover.openbd.jp/9784163911540.jpg","author":"森由香子／著","description":"「ダイエット中の間食は厳禁」という考え方はもう古い。間食をやせるためのツールとして活用し、ダイエットを成功に導く方法を解説。","price":"1300","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784260038706","title":"公衆衛生看護技術 第4版","volume":"","series":"","publisher":"医学書院","pubdate":"2020-01-14","cover":"","author":"中村裕美子／著","description":"","price":"3200","genre":"","target":"専門","format":"全集・双書","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784262153964","title":"頭のトレーニング　ナンプレ　簡単２０２","volume":"","series":"","publisher":"池田書店","pubdate":"2020-01-14","cover":"","author":"Conceptis／著・編集","description":"・面白いほどスラスラ解けてストレス解消！脳いきいき！","price":"580","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784262153971","title":"頭のトレーニング　ナンプレ難問　２０２","volume":"","series":"","publisher":"池田書店","pubdate":"2020-01-14","cover":"","author":"Conceptis／著・編集","description":"・難易度最高レベルの難問を202問収録！","price":"580","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
 ]
