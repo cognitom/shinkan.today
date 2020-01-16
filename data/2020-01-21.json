@@ -19,7 +19,7 @@
 ,
 {"isbn":"9784122068193","title":"おいしい給食","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-01-21","cover":"https://cover.openbd.jp/9784122068193.jpg","author":"紙吹みつ葉／著","description":"0","price":"700","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784122068209","title":"膠着 ナマチ株式会社奮闘記","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-01-21","cover":"https://cover.openbd.jp/9784122068209.jpg","author":"今野敏／著","description":"0","price":"660","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784122068209","title":"膠着 スナマチ株式会社奮闘記","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-01-21","cover":"https://cover.openbd.jp/9784122068209.jpg","author":"今野敏／著","description":"0","price":"660","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784122068216","title":"雪虫 刑事・鳴沢了","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-01-21","cover":"https://cover.openbd.jp/9784122068216.jpg","author":"堂場瞬一／著","description":"0","price":"850","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -40,4 +40,6 @@
 {"isbn":"9784122068292","title":"極北","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-01-21","cover":"https://cover.openbd.jp/9784122068292.jpg","author":"マーセル・セロー／著","description":"0","price":"860","genre":"文庫","target":"教養","format":"文庫","content":"外国文学小説"}
 ,
 {"isbn":"9784140402870","title":"シクラメン　ガーデンシクラメン　原種シクラメン","volume":"11","series":"ＮＨＫ趣味の園芸１２か月栽培ナビ(11)","publisher":"NHK出版","pubdate":"2020-01-21","cover":"","author":"吉田健一／著","description":"１月～１２月まで各月の栽培管理方法を丁寧に解説。「花図鑑」では定番から最新品種まで紹介する、新しいシクラメン栽培の決定版！","price":"1200","genre":"","target":"実用","format":"全集・双書","content":"農林業"}
+,
+{"isbn":"9784309290669","title":"色彩・配色・混色","volume":"","series":"","publisher":"河出書房新社","pubdate":"2020-01-21","cover":"","author":"ベティ・エドワーズ／著 高橋早苗／翻訳","description":"ベストセラー『脳の右側で描け』の著者による色彩の入門書。色彩の基本構造がよくわかり、配色や混色の技術が実習で身につく。","price":"2800","genre":"","target":"一般","format":"単行本","content":"芸術総記"}
 ]
