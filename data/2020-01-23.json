@@ -93,7 +93,7 @@
 ,
 {"isbn":"9784041089095","title":"新火盗改鬼与力 最後の秘剣","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784041089095.jpg","author":"鳥羽亮／著","description":"鬼与力・雲井竜之介、最大の危機が迫る！最後の秘剣は敵に届くのか！？","price":"720","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041090046","title":"SICK'S 厩乃抄","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784041090046.jpg","author":"豊田美加／著 西荻弓絵／企画","description":"SPECサーガ完結篇「SICK’S」恕覇厩、最終章――ついに開幕！","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784041090046","title":"SICK'S 厩乃抄","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784041090046.jpg","author":"豊田美加／著 西荻弓絵／企画","description":"SPECサガ完結篇「SICK’S」恕覇厩、最終章――ついに開幕！","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784041090077","title":"超・殺人事件","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784041090077.jpg","author":"東野圭吾／著","description":"東野圭吾の隠れた名作！　ベストセラー作家の苦悩とは。","price":"540","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -155,43 +155,41 @@
 ,
 {"isbn":"9784058011157","title":"チョコレート検定　公式テキスト　２０２０年版","volume":"","series":"","publisher":"学研プラス","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784058011157.jpg","author":"株式会社明治チョコレート検定委員会／監修","description":"チョコレートにまつわる知識を幅広く学べる１冊。海外＆国内の最新ショコラティエ情報や、前年の検定問題の一部も収録。","price":"1600","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
-{"isbn":"9784065155240","title":"アニメタ！（5）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"花村ヤソ／著","description":"休みなしで働き月給６万８０００円。でも夢がある。愛がある。元アニメーターがリアルに描く、熱血アニメーター漫画！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784065175910","title":"詳説　日本仏教13宗派がわかる本","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"正木晃／著・編集","description":"日本仏教１３宗派の違いがわかる！成り立ち、教義の違い、作法、しきたり、寺院、本山、本尊まで徹底解説。寺院巡りにも役立ちます。","price":"1600","genre":"","target":"実用","format":"全集・双書","content":"仏教"}
+{"isbn":"9784065155240","title":"アニメタ！（5）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065155240.jpg","author":"花村ヤソ／著","description":"休みなしで働き月給６万８０００円。でも夢がある。愛がある。元アニメーターがリアルに描く、熱血アニメーター漫画！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065178096","title":"御社のチャラ男","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065178096.jpg","author":"絲山秋子／著","description":"チャラ男って本当にどこにでもいるんです。一定の確率で必ず。すべての働くひとに贈る芥川賞受賞作『沖で待つ』以来の“会社員”小説","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065180396","title":"はじめての虐殺（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"稲光伸二／著","description":"『性食鬼』（秋田書店刊）の鬼才が描く、本格クライムサスペンス！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065180396","title":"はじめての虐殺（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065180396.jpg","author":"稲光伸二／著","description":"『性食鬼』（秋田書店刊）の鬼才が描く、本格クライムサスペンス！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065180662","title":"幕末イグニッション（2）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"大間九郎／原著 忠見周／著","description":"小太刀日本一・佐々木只三郎、獣の化身・芹沢鴨と相まみえる。幕末幻想活劇、クライマックスへ！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065180662","title":"幕末イグニッション（2）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065180662.jpg","author":"大間九郎／原著 忠見周／著","description":"小太刀日本一・佐々木只三郎、獣の化身・芹沢鴨と相まみえる。幕末幻想活劇、クライマックスへ！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065181140","title":"大蜘蛛ちゃんフラッシュ・バック（5）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"植芝理一／著","description":"母さんが締め切り直前に高熱を！　やむなく漫研の一（にのまえ）を呼び出したんだけど、母さんが漫画家だって言ってなかった……！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065181140","title":"大蜘蛛ちゃんフラッシュ・バック（5）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065181140.jpg","author":"植芝理一／著","description":"母さんが締め切り直前に高熱を！　やむなく漫研の一（にのまえ）を呼び出したんだけど、母さんが漫画家だって言ってなかった……！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065181546","title":"マリアージュ～神の雫　最終章～（21）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"オキモト・シュウ／著 亜樹直／原著","description":"日本ワイン×和食のマリアージュ！　ワイン×日本酒の登場で勝負を切り抜けられるか。","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065181546","title":"マリアージュ～神の雫　最終章～（21）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065181546.jpg","author":"オキモト・シュウ／著 亜樹直／原著","description":"日本ワイン×和食のマリアージュ！　ワイン×日本酒の登場で勝負を切り抜けられるか。","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065181577","title":"ハコヅメ～交番女子の逆襲～（11）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"泰三子／著","description":"新任警察官・川合と、超美人＆刑事部のエースながらパワハラで交番に飛ばされた藤部長。交番（＝ハコ）勤務女子二人のお仕事備忘録！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065181577","title":"ハコヅメ～交番女子の逆襲～（11）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065181577.jpg","author":"泰三子／著","description":"新任警察官・川合と、超美人＆刑事部のエースながらパワハラで交番に飛ばされた藤部長。交番（＝ハコ）勤務女子二人のお仕事備忘録！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065181591","title":"クッキングパパ（152）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"うえやまとち／著","description":"今日はお家で、クッキングパパ活（カツ）！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065181591","title":"クッキングパパ（152）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065181591.jpg","author":"うえやまとち／著","description":"今日はお家で、クッキングパパ活（カツ）！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065181607","title":"グラゼニ～パ・リーグ編～（7）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"足立金太郎／著 森高夕次／原著","description":"球界に、打ち出の小槌、降臨！？　夏之介、則川らのリーグ優勝＆タイトル争いは、過熱激熱！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065181607","title":"グラゼニ～パ・リーグ編～（7）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065181607.jpg","author":"足立金太郎／著 森高夕次／原著","description":"球界に、打ち出の小槌、降臨！？　夏之介、則川らのリーグ優勝＆タイトル争いは、過熱激熱！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065181867","title":"カバチ！！！－カバチタレ！3－（26）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"田島隆／原著 東風孝広／著","description":"事務所の大ボス・大野ですらも大苦戦！　あれば嬉しいはずの財産が、まさかの疫病神に…負の不動産相続編！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065181867","title":"カバチ！！！－カバチタレ！3－（26）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065181867.jpg","author":"田島隆／原著 東風孝広／著","description":"事務所の大ボス・大野ですらも大苦戦！　あれば嬉しいはずの財産が、まさかの疫病神に…負の不動産相続編！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065181973","title":"大上さん、だだ漏れです。（7）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"吉田丸悠／著","description":"彼に触れられるとエッチな本音が全部漏れちゃう！　リビドー全開の思春期悶々エロラブコメ、完結巻！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065181973","title":"大上さん、だだ漏れです。（7）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065181973.jpg","author":"吉田丸悠／著","description":"彼に触れられるとエッチな本音が全部漏れちゃう！　リビドー全開の思春期悶々エロラブコメ、完結巻！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065182017","title":"青野くんに触りたいから死にたい（6）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"椎名うみ／著","description":"君を愛することは、この命と引き換えだ。幽霊と女子高生――断絶した世界のふたりがつむぐ、濃密ホラーラブストーリー第６巻！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065182017","title":"青野くんに触りたいから死にたい（6）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065182017.jpg","author":"椎名うみ／著","description":"君を愛することは、この命と引き換えだ。幽霊と女子高生――断絶した世界のふたりがつむぐ、濃密ホラーラブストーリー第６巻！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065182024","title":"ドラゴン桜2（8）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"三田紀房／著","description":"猛烈な数学特訓が始まった連休中の勉強合宿。東大合格に必須の「数の暗黙知」を鍛える二人の前に伝説の数学教師・柳鉄之介が現れた！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065182024","title":"ドラゴン桜2（8）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065182024.jpg","author":"三田紀房／著","description":"猛烈な数学特訓が始まった連休中の勉強合宿。東大合格に必須の「数の暗黙知」を鍛える二人の前に伝説の数学教師・柳鉄之介が現れた！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065182079","title":"どくヤン！（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"左近洋一郎／原著 カミムラ晋作／著","description":"不良×読書の核融合！　令和最初にして最後の、ヤンキービブリオギャグ！","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065182079","title":"どくヤン！（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065182079.jpg","author":"左近洋一郎／原著 カミムラ晋作／著","description":"不良×読書の核融合！　令和最初にして最後の、ヤンキービブリオギャグ！","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065182086","title":"あせとせっけん（6）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"山田金鉄／著","description":"多汗女子×嗅覚男子の、超純愛においフェチラブコメ第６巻！","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065182086","title":"あせとせっけん（6）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065182086.jpg","author":"山田金鉄／著","description":"多汗女子×嗅覚男子の、超純愛においフェチラブコメ第６巻！","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065182499","title":"ハーン　‐草と鉄と羊‐（11）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"瀬下猛／著","description":"高原の命運をかけて――義経軍ＶＳ．ジャムカ軍、最終決戦！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065182499","title":"ハーン　‐草と鉄と羊‐（11）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065182499.jpg","author":"瀬下猛／著","description":"高原の命運をかけて――義経軍ＶＳ．ジャムカ軍、最終決戦！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065182581","title":"ノラと雑草（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"真造圭伍／著","description":"「じゃあね、お父さん」。家出少女と娘を亡くした刑事。孤独を寄せ合い家族になろうとする二人が、逃れられない「家族」という呪縛。","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065182581","title":"ノラと雑草（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065182581.jpg","author":"真造圭伍／著","description":"「じゃあね、お父さん」。家出少女と娘を亡くした刑事。孤独を寄せ合い家族になろうとする二人が、逃れられない「家族」という呪縛。","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065182826","title":"RaW　HERO（4）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"平本アキラ／著","description":"愛しのマリコに迫る大ピンチ…！　頼みの主人公は今…寝ている！？　目覚めろ千秋！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065182826","title":"RaW　HERO（4）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065182826.jpg","author":"平本アキラ／著","description":"愛しのマリコに迫る大ピンチ…！　頼みの主人公は今…寝ている！？　目覚めろ千秋！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065182956","title":"ミッフィーのシェープブック　ミッフィーの　どうぶつえん","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"ディックブルーナ／著","description":"ミッフィーの形をした絵本として大人気の「シェープブック」シリーズの新装版。厚紙製で小さい手でもめくりやすくい形です。","price":"850","genre":"","target":"児童","format":"絵本","content":"絵画・彫刻"}
 ,
@@ -203,13 +201,13 @@
 ,
 {"isbn":"9784065183823","title":"はりねずみのあずき＆もなか　ポストカードブック","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065183823.jpg","author":"角田修一／著・写真","description":"ＳＮＳでは見られない貴重な写真で綴る、はりねずみ界大スターのポストカードブック。ギフトやインテリアにも心癒され、悶絶カワイイ","price":"1000","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
 ,
-{"isbn":"9784065184981","title":"妻に恋する66の方法（6）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"福満しげゆき／著","description":"また妻と恋を始めよう！　ネガティブ漫画家・福満しげゆきが、妻と家族の爆笑エピソードを描きつづるショートエッセイ最終巻！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065184981","title":"妻に恋する66の方法（6）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065184981.jpg","author":"福満しげゆき／著","description":"また妻と恋を始めよう！　ネガティブ漫画家・福満しげゆきが、妻と家族の爆笑エピソードを描きつづるショートエッセイ最終巻！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065185728","title":"森心地の日々","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065185728.jpg","author":"森博嗣／著","description":"森博嗣の洞察、示唆、薫陶。日々思うこと、考えていること。１８１日分。","price":"1850","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784065187838","title":"あせとせっけん（6）限定版","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"山田金鉄／著","description":"累計１００万部突破！（電子含む）　話題沸騰の超純愛においフェチラブコメ第６巻に、付箋ブック付き限定版が登場！","price":"1200","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065187838","title":"あせとせっけん（6）限定版","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065187838.jpg","author":"山田金鉄／著","description":"累計１００万部突破！（電子含む）　話題沸騰の超純愛においフェチラブコメ第６巻に、付箋ブック付き限定版が登場！","price":"1200","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065188835","title":"銀行渉外担当　竹中治夫　メガバンク誕生（2）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"","author":"こしのりょう／著 高杉良／企画","description":"頭取交代劇、ついに決着！　大物フィクサー・児玉由紀夫が逝去し、協銀の未来を懸けた抗争劇が始まる――。","price":"700","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065188835","title":"銀行渉外担当　竹中治夫　メガバンク誕生（2）","volume":"","series":"","publisher":"講談社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784065188835.jpg","author":"こしのりょう／著 高杉良／企画","description":"頭取交代劇、ついに決着！　大物フィクサー・児玉由紀夫が逝去し、協銀の未来を懸けた抗争劇が始まる――。","price":"700","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784073417125","title":"中國紀行ＣＫＲＭ　Ｖｏｌ．１８","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-01-23","cover":"","author":"中國紀行ＣＫＲＭ編集部／編集","description":"空海が目指した青龍寺への道と、最澄が学んだ天台山を巡る旅。中國紀行CKRM的視点で、多くの謎に迫ります。","price":"909","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"民族・風習"}
 ,
@@ -253,37 +251,5 @@
 ,
 {"isbn":"9784153350465","title":"荒潮","volume":"","series":"","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784153350465.jpg","author":"陳楸帆／著 中原尚哉／翻訳","description":"電子ゴミまみれの島でゴミから資源を探し出す&quot;ゴミ人&quot;の米米の運命は、ある出会いで狂い始める。中国ＳＦの超新星が放つデビュー作","price":"1800","genre":"","target":"一般","format":"新書","content":"外国文学小説"}
 ,
-{"isbn":"9784163911311","title":"雲を紡ぐ","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784163911311.jpg","author":"伊吹有喜／著","description":"家出をした二の美緒は盛岡で毛織物の工房を営む祖父の家に駆けこむ。雲を紡ぎ、光を染め、風を織る中で少女は希望を見つけていく。","price":"1750","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784284204668","title":"悩みや不安にふりまわされない！　きみを強くする30のことば　偉人に学ぶ生き方のヒント","volume":"","series":"","publisher":"日本図書センター","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784284204668.jpg","author":"齋藤孝／監修","description":"孔子・福沢諭吉・孫子・ブッダ・アドラー・ドラッカーなど12人の偉人のことばを、わかりやすく「こども訳」！　「こんな性格の自分はイヤ！」「勉強する意味ってなに？」など、子どもたちの悩みや疑問に答えるかたちで紹介！","price":"1500","genre":"","target":"児童","format":"単行本","content":"教育"}
-,
-{"isbn":"9784297109950","title":"令和02-03年 基本情報技術者 試験によくでる問題集【午後】","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784297109950.jpg","author":"角谷一成＋イエローテールコンピュータ／著","description":"基本情報技術者試験、午後問題を完全対策！\n\n本書は、基本情報技術者試験のうち、「午後問題」に的を絞ったテーマ別頻出問題集です。\n令和02年試験からの出題数／配点変更にともない、より重要となったテーマの問題数をアップ。\n手厚く対策でき、合格へと着実に近づくことができます！\n\n●本書の特徴\n・近年の出題傾向を踏まえて、よくでる問題を厳選収録\n・頻出問題をテーマ別に掲載。苦手な分野を集中対策できる\n・設問ごとのていねいな解説で、解き方がしっかりわかる\n・単なる解き方だけでなく、各設問の技術的な背景もわかりやすく解説\n・試験の時間配分を考慮した速読＆解答テクニックも掲載","price":"1880","genre":"","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784297110871","title":"なぜ、いま学校でプログラミングを学ぶのか－はじまる「プログラミング教育」必修化","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784297110871.jpg","author":"平井聡一郎・利根川裕太／著","description":"「結局どんなことを、どこまでやればいいの？」\n「うちの学校、まだICT環境も十分整っていない……」\n\nそんな先生や学校、自治体を救うべく、日本全国を飛び回り、プログラミング未経験の先生方への指導や授業づくりの支援に力を尽くす識者二人が語る直前対策の書です。\n\nときには自らも教壇に立ち、アイデアあふれる授業づくりの実践を重ねる元校長の平井聡一郎氏。\n「すべての子どもがプログラミングを楽しむ国」を目指し、先生の支援に取り組む「みんなのコード」代表理事の利根川裕太氏。\n\n現場を知り尽くした二人の実践者が「必修化の背景」から「授業で実際に取り組む方法」までくわしく解説。\n教育関係の方々はもちろん「これから小学校でどんなことを学ぶのか？」と不安な保護者の方も、バッチリ理解できます。\n必修化が直前に迫る現場の今と課題、プログラミング教育にかける想いを「本音」で語りあった対談も必読です！","price":"1500","genre":"","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784297111496","title":"中小企業のIT担当者必携 本気のセキュリティ対策ガイド","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784297111496.jpg","author":"佐々木伸彦／著","description":"東京五輪を控えてサイバーセキュリティ関連のニュースをよく耳にするようになりました。また、マイナンバー法の施行や個人情報保護法の改正で、中小企業でも法的・社会的責任を負うリスクが高まり、セキュリティ対策は優先課題の1つとなっています。しかし現実には、実業務だけで手一杯だし、ITに精通した社員もいないと後回しになったり、とにかくセキュリティ対策製品を導入しておけば大丈夫と勘違いしていませんか？\n本書ではセキュリティリスクを経営リスクとして捉え、正しく評価し、組織的に推進させるための手順やノウハウを、セキュリティコンサルタントである著者がわかりやすく解説します。無償で公開されているガイドラインをフルに活用しているので、ぜひ、あなたの会社の正しいセキュリティ対策に活用してください。","price":"1980","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784299001283","title":"読まずにわかる!「経営学」イラスト講義","volume":"","series":"","publisher":"宝島社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784299001283.jpg","author":"長内厚／著","description":"本誌は、経営学の先生が全編話し言葉・講義形式で教えてくれる、「誌上ビジネススクール本」です。\n一番の特長は、多忙で時間のないビジネスパーソンに嬉しい作りになっているところ。\n自身の興味や都合に応じてカリキュラムを組み、横断的に学べます。\n「受講」の仕方を自分で調節できるので、無理なく進められる!\n要点が文字の強弱などで視覚的に捉えられるので、「読まずに」するっと理解できます。","price":"1200","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"経営"}
-,
-{"isbn":"9784299001306","title":"雅子さまの素顔 新皇后のご足跡","volume":"","series":"","publisher":"宝島社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784299001306.jpg","author":"三橋健／監修","description":"2019年5月1日、令和の時代を迎え、徳仁天皇陛下と雅子皇后陛下がご即位されました。\n本誌は、新皇后・雅子さまのお生まれからご交友、素敵なファッションまで、\nカラーグラビアと秘蔵エピソードで総特集し、その “素顔\"に迫る永久保存版の一冊です。\n同年10月23日に行われた「即位礼正殿の儀」および11月10日のパレード「祝賀御列の儀」から、\n令和時代初となる新年一般参賀までの見どころも満載です!","price":"820","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"写真・工芸"}
-,
-{"isbn":"9784299001375","title":"永楽屋 細辻伊兵衛商店 RAAK がま口バッグBOOK","volume":"","series":"","publisher":"宝島社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784299001375.jpg","author":"","description":"京都の老舗ブランド「永楽屋 細辻伊兵衛商店」のがま口バッグができました。\n万華鏡をイメージしたテキスタイルを全面にプリント。\n口金はアンティークゴールドをセレクトし、上品さを際立たせています。\nショルダーバッグ、ハンドバッグと2WAYで使えるので、様々なファッションのアクセントに。","price":"2180","genre":"","target":"一般","format":"ムック・その他","content":"諸芸・娯楽"}
-,
-{"isbn":"9784299001382","title":"MISS ESSENCE MAYUMI 人生を楽しむお洒落のコツ","volume":"","series":"","publisher":"宝島社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784299001382.jpg","author":"MISSESSENCEMAYUMI／著","description":"「アンチエイジングではなく、アクティブエイジングよ!」\n10年連続個人売り上げ1億円を記録している美容師界のマドンナMAYUMI。\n白人の頭蓋骨のバランスに近づけるオリジナルの『MAYUMI CUT』や、\n老いやコンプレックスを解消するへアカラーで女性に絶大な支持を誇っています。\nそんな彼女による年を重ねた今だからこそ似合うヘアスタイル、アレンジ、\nコーディネートなど、お洒落を楽しむコツをトータルで披露。","price":"1500","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
-,
-{"isbn":"9784299001528","title":"Why Bag Book","volume":"","series":"","publisher":"宝島社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784299001528.jpg","author":"","description":"1966年にスタートした人気バッグブランド「why(ホワイ)」初のブランドブックです。\n特別アイテムは馬蹄のモノグラム柄が大人可愛いショルダーバッグ。\n前後面にポケットがある三層構造なため、スマホなどの出し入れにも便利です。","price":"1980","genre":"","target":"一般","format":"ムック・その他","content":"諸芸・娯楽"}
-,
-{"isbn":"9784299001702","title":"世にもかわいい♥クッキー缶レシピ","volume":"","series":"","publisher":"宝島社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784299001702.jpg","author":"えん93／著","description":"フタを開けた瞬間、そのかわいさに思わず笑みがこぼれるクッキー缶。色や形、味や食感など種類ごとにおいしさの違いも楽しめて、「見ても」「食べても」楽しめるのが魅力です。本書では、ひとつの生地で数種類のクッキーが作れる簡単なレシピから、表情豊かなクッキー缶の詰め方まで、お菓子作り初心者でも失敗なく作れる方法を紹介します。そのほか、「すきまができちゃう」「ちょうどいい缶がない」などのギモンにもお答えします。","price":"980","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
-,
-{"isbn":"9784299001801","title":"LICENTIA Bag Book","volume":"","series":"","publisher":"宝島社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784299001801.jpg","author":"","description":"特別アイテムは、ひそかにブームとなっている\nアンティーク風の地図柄をあしらったトートバッグ。\n様々な服装に合わせやすい、落ち着いたデザインです。","price":"2080","genre":"","target":"一般","format":"ムック・その他","content":"諸芸・娯楽"}
-,
-{"isbn":"9784299001931","title":"帝都異世界レジスタンス","volume":"","series":"","publisher":"宝島社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784299001931.jpg","author":"遠藤浅蜊／著 海苔せんべい／イラスト 深崎暮人／企画 株式会社ディー・エヌ・エー／企画","description":"人気作「魔法少女育成計画」の遠藤浅蜊による待望の新シリーズです。時は大正。開国以来西欧から流れ込んできた文化や亜人たちが日本にも馴染んできた頃、帝都に突如、謎の半球型建造物「はむすぴあ」が出現する。政府主導の研究機関や軍部の調査により転移装置と判明したが、華族・君小路家のハーフエルフのエアルミアが利用するとなぜか異世界へと繋がってしまい……。果たして、エアルミアは科学者・陸軍などの勢力から逃れ、「はむすぴあ」の真相に迫ることができるのか!? 遠藤浅蜊が贈る大正ロマン冒険ファンタジー。またゲーム化プロジェクトも進んでおり、キャラクターデザインは大人気作『冴えない彼女の育てかた』のイラストレーター、深崎暮人氏に決定。注目の一冊になります。","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784299002556","title":"LINE/Facebook/Twitter/Instagram の「わからない！」をぜんぶ解決する本 決定版","volume":"","series":"","publisher":"宝島社","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784299002556.jpg","author":"","description":"本誌では、数あるSNSの中でも特に人気の高い「LINE」「Facebook」\n「Twitter」「Instagram」の使い方をQ&A形式で解説します。\nそれぞれのSNSで、アカウントのつくり方から基本的な使い方、\n快適に使うための方法や、個人情報を守るセキュリティ対策まで、\nこれらSNSをはじめる人はもちろん、もっと使いこなしたい人にも\n役立つ情報をこの一冊にすべて詰め込みました。","price":"1200","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
-,
-{"isbn":"9784306073548","title":"パブリックスペース","volume":"","series":"","publisher":"鹿島出版会","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784306073548.jpg","author":"マシュー・カーモナ／著 クラウディオ・デ・マガリャエス／著 レオ・ハモンド／著 北原理雄／翻訳","description":"公共空間を良好な状態に保ち、有効に利用していくためのマネジメントを考える。","price":"3800","genre":"工業・工学","target":"専門","format":"単行本","content":"建築"}
-,
-{"isbn":"9784309227979","title":"日本人のための中国共産党１００年史","volume":"","series":"","publisher":"河出書房新社","pubdate":"2020-01-23","cover":"","author":"内藤博文／著","description":"香港・台湾問題、対米貿易摩擦で揺れる中国。習近平に至る中国共産党100年史を、「脱毛沢東の失敗の歴史」という観点から解読！","price":"820","genre":"","target":"一般","format":"単行本","content":"外国歴史"}
-,
-{"isbn":"9784309287690","title":"血圧を下げるのに降圧剤はいらない","volume":"","series":"","publisher":"河出書房新社","pubdate":"2020-01-23","cover":"","author":"宇多川久美子／著","description":"飲まない人の２倍の脳梗塞リスクがあり、認知症の原因にもなると言われる降圧剤の真実と、薬に頼らず自分で血圧を下げる方法を伝授！","price":"1250","genre":"","target":"一般","format":"単行本","content":"家事"}
+{"isbn":"9784163911311","title":"雲を紡ぐ","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784163911311.jpg","author":"伊吹有喜／著","description":"家出をした高二の美緒は盛岡で毛織物の工房を営む祖父の家に駆けこむ。雲を紡ぎ、光を染め、風を織る中で少女は希望を見つけていく。","price":"1750","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ]
