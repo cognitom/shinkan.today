@@ -105,7 +105,7 @@
 ,
 {"isbn":"9784041090220","title":"脳科学捜査官　真田夏希 ドラスティック・イエロー","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784041090220.jpg","author":"鳴神響一／著","description":"夏希に迫る最大の危機！　頭脳派犯罪者の素顔を暴け！","price":"600","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041090336","title":"機動戦士ガンダム　GROUND　ZERO　コロニーの落ちた地で　（3）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784041090336.jpg","author":"才谷ウメタロウ／著 矢立肇・富野由悠季／原著 バンダイナムコエンターテインメント／著 ほか","description":"ドム部隊がホワイト・ディンゴに迫る！その圧倒的な力にレイヤー大苦戦！？","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784041090336","title":"機動戦士ガンダム　GROUND　ZERO　コロニーの落ちた地で　（3）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784041090336.jpg","author":"才谷ウメタロウ／著 矢立肇・富由悠季／原著 バンダイナムコエンターテインメント／著 ほか","description":"ドム部隊がホワイト・ディンゴに迫る！その圧倒的な力にレイヤー大苦戦！？","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784041090343","title":"異世界はスマートフォンとともに。　（7）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784041090343.jpg","author":"そと／著 冬原パトラ／原著 兎塚エイジ／企画","description":"どきどき、ぐるぐる、異世界のナゾが見え隠れ――!?","price":"620","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -222,4 +222,34 @@
 {"isbn":"9784130611640","title":"擬似双直交性理論","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784130611640.jpg","author":"小川英光／著","description":"擬似双直交性理論は，雑音や故障に強い標本化定理の再構成関数の構成や，その統一的な扱いの数理的基礎を提供する．近年のAIブームのなかで重要性を増す信号処理や画像処理，パターン認識，機械学習においても威力を発揮する本理論とその応用を解説する．","price":"8900","genre":"","target":"専門","format":"単行本","content":"電子通信"}
 ,
 {"isbn":"9784130831116","title":"中国美術全史　第一巻","volume":"","series":"中国美術全史","publisher":"東京大学出版会","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784130831116.jpg","author":"李松／著 古田真一／翻訳","description":"中国美術の権威たちが執筆陣に名を連ねた『中国美術誌』全4巻（人民大学出版社、2014年）の日本語版。世界に類を見ない豊かで独特な美術を形成してきた中国美術の、先史時代から清代までの展開について時代性や社会思想と関連させながら、数多くの図版を用いて網羅的に解説する。第一巻では先史・殷・周・秦・漢の時代を扱う。","price":"35000","genre":"","target":"専門","format":"単行本","content":"芸術総記"}
+,
+{"isbn":"9784150122652","title":"ハルト人ソクラテス","volume":"609","series":"宇宙英雄ローダン・シリーズ","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784150122652.jpg","author":"ペーター・テリド／著 Ｈ・Ｇ・フランシス／著 増田久美子／翻訳","description":"アトランとサリクたちがスタルセンから転送されて向かった先は、住人がみなグレイ生物になった深淵の別の領域、ムータンだった！","price":"700","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784150122669","title":"七王国の騎士","volume":"","series":"","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784150122669.jpg","author":"ジョージ・Ｒ・Ｒ・マーティン／著 酒井昭伸／翻訳","description":"ターガリエン家が〈鉄の玉座〉に座る時代、数奇な運命を背負う騎士ダンクと従者エッグの冒険を描く〈氷と炎の歌〉シリーズ短篇集","price":"1600","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784150122676","title":"アトランティス滅亡","volume":"23","series":"ローダンＮＥＯ","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784150122676.jpg","author":"クリスチャン・モンティロン／著 鵜田良江／翻訳","description":"クレストらは惑星ケドハッサンを離れた後、何もない宇宙空間にいた。彼らの緊急信号はアルコンとメタンズの両艦隊に傍受されてしまう！","price":"780","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784150314125","title":"ダークナンバー","volume":"","series":"","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784150314125.jpg","author":"長沢樹／著","description":"関東を震撼させる二つの凶悪事件が発生。警視庁の分析捜査官・渡瀬敦子と東都放送の土方玲衣は奇妙な協力関係を結び、犯人を追う","price":"960","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784150314132","title":"ペニス","volume":"","series":"","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784150314132.jpg","author":"津原泰水／著","description":"井ノ頭恩賜公園の管理人として、チャイコフスキーとともに日常を送る男は、ある日、少年の死体と遭遇する。初期長篇、復刊第２弾","price":"1100","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784150414610","title":"サバヨミ！","volume":"","series":"","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784150414610.jpg","author":"パメラ・レドモンド／著 久野郁子／翻訳 佐藤桂／翻訳","description":"去る夫、巣立つ娘。孤独な44歳の主婦が、外見の若さを生かして20代を詐!?　恋も就職も全てやり直す、ロマンティック・コメディ","price":"800","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784150505530","title":"不道徳な経済学 転売屋は社会に役立つ","volume":"","series":"","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784150505530.jpg","author":"ウォルター・ブロック／著 橘玲／翻訳","description":"ダフ屋も売春婦もヤク中もヒーローだ！　51万部突破『言ってはいけない』の国民的作家が「超訳」で贈る、「ポリコレ」時代の劇薬","price":"960","genre":"","target":"一般","format":"文庫","content":"社会"}
+,
+{"isbn":"9784151837524","title":"生物学探偵セオ・クレイ　街の狩人","volume":"","series":"","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784151837524.jpg","author":"アンドリュー・メイン／著 唐木田みゆき／翻訳","description":"街に潜んで殺人を繰り返す〝おもちゃ男〟の存在を察知したセオは、その正体を追うことに。生物学探偵の暴走気味の大活躍を見よ！","price":"940","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784152099099","title":"ハウ・トゥー","volume":"","series":"","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784152099099.jpg","author":"ランドール・マンロー／著 吉田三知世／翻訳","description":"引越しの方法から自撮りのコツまで、なぜか試してはいけないやり方を教える、思わず笑える『ホワット・イフ？』の著者待望の最新作。","price":"1600","genre":"","target":"一般","format":"単行本","content":"自然科学総記"}
+,
+{"isbn":"9784152099105","title":"自由の命運 上","volume":"","series":"","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784152099105.jpg","author":"ダロン・アセモグル／著 ジェイムズ・Ａ・ロビンソン／著 櫻井祐子／翻訳","description":"ジャレド・ダイアモンド激賞、『国家はなぜ衰退するのか』著者の最新作！　自由と繁栄に至る「狭い回廊」への道とは？　世界的話題作","price":"2600","genre":"","target":"一般","format":"単行本","content":"歴史総記"}
+,
+{"isbn":"9784152099112","title":"自由の命運 下","volume":"","series":"","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784152099112.jpg","author":"ダロン・アセモグル／著 ジェイムズ・Ａ・ロビンソン／著 櫻井祐子／翻訳","description":"","price":"2600","genre":"","target":"一般","format":"単行本","content":"歴史総記"}
+,
+{"isbn":"9784152099129","title":"シャーリー・ホームズとバスカヴィル家の狗","volume":"","series":"","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784152099129.jpg","author":"高殿円／著","description":"半電脳顧問探偵シャーリーと女医ジョー・ワトソンが、バスカヴィル家に纏わる謎に挑む、女性化現代版ホームズ・パスティーシュ第2弾","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784152099136","title":"ウルトラマンダイナ","volume":"","series":"","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784152099136.jpg","author":"長谷川圭一／著","description":"１９９０年代にテレビ放映された平成ウルトラマンシリーズ。その完全小説化プロジェクト第２弾！","price":"2200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784153350465","title":"荒潮","volume":"","series":"","publisher":"早川書房","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784153350465.jpg","author":"陳楸帆／著 中原尚哉／翻訳","description":"電子ゴミまみれの島でゴミから資源を探し出す&quot;ゴミ人&quot;の米米の運命は、ある出会いで狂い始める。中国ＳＦの超新星が放つデビュー作","price":"1800","genre":"","target":"一般","format":"新書","content":"外国文学小説"}
+,
+{"isbn":"9784163911311","title":"雲を紡ぐ","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-01-23","cover":"https://cover.openbd.jp/9784163911311.jpg","author":"伊吹有喜／著","description":"家出をした高二の美緒は盛岡で毛織物の工房を営む祖父の家に駆けこむ。雲を紡ぎ、光を染め、風を織る中で少女は希望を見つけていく。","price":"1750","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ]
