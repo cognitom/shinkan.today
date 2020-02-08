@@ -83,7 +83,7 @@
 ,
 {"isbn":"9784049130102","title":"シノゴノ言わずに私に甘えていればいーの！（２）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784049130102.jpg","author":"旭蓑雄／著 なたーしゃ／イラスト","description":"怠惰の悪魔と社畜リーマンのイチャイチャ問答。押しかけ甘々コメディ第二弾","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784049130218","title":"声優ラジオのウラオモテ #01 夕陽とやすみは隠しきれない？","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784049130218.jpg","author":"二月公／著 さばみぞれ／イラスト","description":"ギャル＆地味子の放課後は、超清純派のアドル声優!?","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784049130218","title":"声優ラジオのウラオモテ #01 夕陽とやすみは隠しきれない？","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784049130218.jpg","author":"二月公／著 さばみぞれ／イラスト","description":"ギャル＆地味子の放課後は、超清純派のアイドル声優!?","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784049130720","title":"七つの魔剣が支配するV","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784049130720.jpg","author":"宇野朴人／著 ミユキルリア／イラスト","description":"運命の魔剣を巡る魔法バトルファンタジー、待望の第5弾！","price":"650","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -127,9 +127,9 @@
 ,
 {"isbn":"9784065187999","title":"異世界ダイナー　1　侵略のセントラルキッチン","volume":"","series":"","publisher":"講談社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784065187999.jpg","author":"罠火擽／著 シソ／イラスト","description":"新鮮な牛肉によるハンバーガーが売りの異世界のダイナーに、現代世界のノウハウを導入したハンバーガーチェーンが立ちはだかる！","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784083215568","title":"デジモンアドベンチャー LAST EVOLUTION 絆 映画ノベライズ みらい文庫版","volume":"","series":"","publisher":"集英社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784083215568.jpg","author":"河端朝日／著 大和屋暁／監修","description":"アニメ20周年を迎える『デジモンアドベンチャー』が映画化。“選ばれし子どもたち”とデジモンたちの冒険ストーリーをノベライズ！","price":"700","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
+{"isbn":"9784083215568","title":"デジモンアドベンチャー LAST EVOLUTION 絆 映画ノベライズ みらい文庫版","volume":"","series":"","publisher":"集英社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784083215568.jpg","author":"河端朝日／著 大和屋暁／原著","description":"アニメ20周年を迎える『デジモンアドベンチャー』が映画化。“選ばれし子どもたち”とデジモンたちの冒険ストーリーをノベライズ！","price":"700","genre":"","target":"児童","format":"新書","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784086313551","title":"映画ノベライズ デジモンアドベンチャー LAST EVOLUTION 絆","volume":"","series":"","publisher":"集英社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784086313551.jpg","author":"真紀涼介／著 大和屋暁／著","description":"大人気シリーズ劇場版を最速小説化！“選ばれし子どもたち”が大人になる少し前、“八神太一とアグモンたち”の最後の物語。","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784086313551","title":"デジモンアドベンチャー LAST EVOLUTION 絆 映画ノベライズ","volume":"","series":"","publisher":"集英社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784086313551.jpg","author":"真紀涼介／著 大和屋暁／原著","description":"大人気シリーズ劇場版を最速小説化！“選ばれし子どもたち”が大人になる少し前、“八神太一とアグモンたち”の最後の物語。","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784087925548","title":"遊☆戯☆王 オフィシャルカードゲーム デュエルモンスターズ マスターガイド 6","volume":"","series":"","publisher":"集英社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784087925548.jpg","author":"Vジャンプ編集部／著","description":"","price":"1300","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -159,11 +159,73 @@
 ,
 {"isbn":"9784120052682","title":"猫ピッチャー　１０","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784120052682.jpg","author":"そにしけんじ／著","description":"ついに第１０巻！　子どもから大人まで楽しめる大人気猫マンガ。今回もミー太郎が大活躍！　＜読売新聞日曜版人気連載＞","price":"800","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784121506764","title":"海底の支配者 底生生物","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784121506764.jpg","author":"清家弘治／著","description":"地表の７割を占める海底、そのほぼ全てに穴を掘り、ひそむのがゴカイ・ユムシら底生生物だ。”謎”しかない彼らの生態に驚愕せよ！","price":"820","genre":"","target":"教養","format":"新書","content":"生物学"}
+{"isbn":"9784121506764","title":"底の支配者 底生生物","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784121506764.jpg","author":"清家弘治／著","description":"地表の７割を占める海底、そのほぼ全てに穴を掘り、ひそむのがゴカイ・ユムシら底生生物だ。”謎”しかない彼らの生態に驚愕せよ！","price":"820","genre":"","target":"教養","format":"新書","content":"生物学"}
 ,
 {"isbn":"9784121506771","title":"歴史に残る外交三賢人","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784121506771.jpg","author":"伊藤貫／著","description":"明晰な頭脳とパワーをもち合わせた三賢人が実践した「リアリズム」は最強の戦略論であり、日本が冷酷な世界を生き抜く方策となる。","price":"880","genre":"","target":"教養","format":"新書","content":"政治-含む国防軍事"}
 ,
 {"isbn":"9784121506788","title":"英語コンプレックス粉砕宣言","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784121506788.jpg","author":"鳥飼玖美子／著 齋藤孝／著","description":"「ペラペラ幻想」に翻弄される日本人諸君！　英語を話せるようになるための、全く新しい方法論がここに！　鳥飼・斎藤版学習指導要綱","price":"840","genre":"","target":"教養","format":"新書","content":"語学総記"}
 ,
 {"isbn":"9784121506795","title":"新装版 学術的に「正しい」若い体のつくり方","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784121506795.jpg","author":"谷本道哉／著","description":"若さを保ちたければ筋トレと食事！今すぐできて、効果絶大な方法を人気テレビ番組出演の著者が伝授。筋肉こそ「生涯の友」である！","price":"840","genre":"","target":"教養","format":"新書","content":"体育・スポーツ"}
+,
+{"isbn":"9784198945244","title":"初恋","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-02-07","cover":"","author":"大倉崇裕／著 中村雅／著","description":"最期に出会った、最初の恋――。\n映画『初恋』窪田正孝主演、三池崇史監督のラブストーリーを小説化","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198945329","title":"流転の峠 問答無用　〈新装版〉","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-02-07","cover":"","author":"稲葉稔／著","description":"公儀隠密の命を受け、江戸を離れて探索を続ける佐久間音次郎。凄腕剣客が悪を斬る！　ファーストシーズン完結篇。","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198945336","title":"ダブルトーン","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-02-07","cover":"","author":"梶尾真治／著","description":"熊本を舞台に、記憶をめぐり、不可思議な出来事に遭遇する二人の女性を描く。","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198945343","title":"天狗の鼻を討て 見参、諸国廻り","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-02-07","cover":"","author":"倉阪鬼一郎／著","description":"将軍の命を受け、諸国を巡って、悪事を断つ若侍の活躍を描く。","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198945350","title":"刑罰０号","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-02-07","cover":"","author":"西條奈加／著","description":"記憶を他人に追体験させる技術が出来た？　このシステムの開発者と被験者たちが織り成す、ヒューマン・ドラマ傑作長篇。","price":"710","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198945367","title":"弥生、三月","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-02-07","cover":"","author":"遊川和彦 南々井梢／著","description":"運命で結ばれた二人の３０年を３月だけで紡ぐ激動のラブストーリー。３月３１日、物語のラスト、人生の意味に涙する――。","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198945374","title":"半蔵女難 婿殿開眼六","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-02-07","cover":"","author":"牧秀彦／著","description":"美女二人の間で揺れ動く半蔵、嫉妬に苦しむ佐和。中睦まじい夫婦に最大の危機が。好評の時代剣戟シリーズ第六弾！","price":"660","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198945381","title":"紅の掟","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-02-07","cover":"","author":"矢月秀作／著","description":"ハードアクション界のトップランナーが描く、暴力の連鎖。矢月秀作の真骨頂ここにあり！","price":"710","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198945398","title":"夜行快速えちご殺人事件","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-02-07","cover":"","author":"西村京太郎／著","description":"大金を携え、夜行列車から突然消えた男女！？\nその行方を追う十津川＆亀井を待ち受けるものは？","price":"650","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784253130400","title":"ヤコとポコ  5","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-02-07","cover":"","author":"水沢悦子／著","description":"大人気大型船「こいのぼり」のチケットが当選したヤコとポコだけど!?","price":"680","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253211192","title":"どらコン！  2","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-02-07","cover":"","author":"触媒ヒロオミ／著","description":"蛙神のグクがトオルを襲い、マイとまさかの子作りイベント発生!?","price":"454","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253217552","title":"逃亡者エリオ  2","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-02-07","cover":"","author":"細川雅巳／著","description":"エリオとララを匿うゴルディ邸に警吏バルドと刺客デボラが追いつき、さらにはペドロ国王の軍も迫り一触触発！！","price":"454","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253219372","title":"SHY  2","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-02-07","cover":"","author":"実樹ぶきみ／著","description":"英のヒーロー・スターダストとの闘いの中で、シャイの秘められた力が開花して…!?","price":"454","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253227254","title":"弱虫ペダル  65","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-02-07","cover":"","author":"渡辺航／著","description":"週刊少年チャンピオン大人気連載!! 誰もが認める大人気高校ロードレース青春譚!","price":"454","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253228190","title":"もういっぽん！  6","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-02-07","cover":"","author":"村岡ユウ／著","description":"未知たちが挑む、汗と涙の全国大会「金鷲旗」!! 強豪・立川学園のメンバーは!?","price":"454","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253228282","title":"あつまれ！ふしぎ研究部  8","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-02-07","cover":"","author":"安部真弘／著","description":"季節は夏から秋へと移ろい、演劇部と合同で劇をしたり、海に行ったり、お月見したりイベント盛りだくさん!!","price":"454","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253252829","title":"クローズ外伝　鳳仙花 the beginning of HOUSEN 7","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-02-07","cover":"","author":"髙橋ヒロシ／著 齋藤周平／著","description":"ブッタ率いる鳳仙と勇次郎率いる河二! 一年同士の対決、ついに決着!! 〝殺しの軍団〟鳳仙学園、初代の物語第7巻!!","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253254182","title":"WORST外伝 ドクロ  3","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-02-07","cover":"","author":"髙橋ヒロシ／著 きだまさし／著","description":"阿知羅軍団との戦いで窮地に追い込まれた鉄生だったが、武田好誠を始めとする武装戦線の面々が眼前に現れると再び立ち上がり…!?","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253254670","title":"新装版 WORST  17","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-02-07","cover":"","author":"髙橋ヒロシ／著","description":"花が鈴蘭の番長になったが萬侍帝国の影が…?　カバー全巻描き下ろし!　17巻はE.M.O.Dだ!　新作描き下ろし収録巻!","price":"750","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253254687","title":"新装版 WORST  18","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-02-07","cover":"","author":"髙橋ヒロシ／著","description":"萬侍帝国が戸亜留市全体へ襲いかかる！だがクセモノ揃いの戸亜留市では…？カバー全巻描き下ろし！18巻は萬侍帝国幹部だ！","price":"750","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784254117707","title":"ディリクレ形式入門","volume":"20","series":"現代基礎数学","publisher":"朝倉書店","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784254117707.jpg","author":"竹田雅好／著 桑江一洋／著","description":"確率過程論において理論と応用の両面で展開してきた対称マルコフ過程とディリクレ形式を詳説。","price":"4000","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784254122442","title":"事例とベストプラクティス Python機械学習","volume":"","series":"","publisher":"朝倉書店","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784254122442.jpg","author":"Yuxi(Hayden)Liu／著 黒川\t利明／翻訳","description":"機械学習の基本，重要なアルゴリズムと技法，実際のプロジェクトで使えるベストプラクティス","price":"3900","genre":"コンピュータ","target":"専門","format":"単行本","content":"数学"}
+,
+{"isbn":"9784254131277","title":"宇宙物理学ハンドブック","volume":"","series":"","publisher":"朝倉書店","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784254131277.jpg","author":"高原文郎／編集 家正則／編集 小玉英雄／編集 高橋忠幸／編集","description":"理論・実験・観測の進展を踏まえ，広範な物理学の領域にかかわるその全体像と正確な知識を提供","price":"22000","genre":"自然科学","target":"専門","format":"事・辞典","content":"物理学"}
+,
+{"isbn":"9784296105434","title":"競争力が持続する戦略","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784296105434.jpg","author":"安彦元／著","description":"成功企業の勝ちパターンを徹底解説！　技術に投資すべきタイミング、自社技術を守る方法、チャンスを広げる考え方がわかる\n","price":"2400","genre":"","target":"一般","format":"単行本","content":"経営"}
+,
+{"isbn":"9784296105441","title":"Amazon Web Services 基礎からのネットワーク＆サーバー構築　改訂3版","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784296105441.jpg","author":"大澤文孝／著 玉川憲／著 片山暁雄／著 今井雄太／著","description":"AWSを実機代わりにネットワークを学び直す、をコンセプトにまとめた1冊です。改訂3版。\n","price":"2700","genre":"","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784299000972","title":"防衛シミュレーション! 自衛隊vs統一朝鮮","volume":"","series":"","publisher":"宝島社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784299000972.jpg","author":"伊藤俊幸／監修","description":"ギリギリのところでGSOMIA破棄は免れたものの、文在寅政権における韓国は、\n今後、ゆるやかに日米の自由民主主義側から中国側へ進み、北朝鮮との統合を\n目指すであろうと多くの識者が指摘しています。\nそこで、本書では「もし統一朝鮮(もしくは朝鮮連合)と日本が対峙することになったら」、\n自衛隊は日本をどう防衛するのか、新たな防衛線となる「新アチソンライン」を巡る\nその攻防を、元海上自衛隊・海将の伊藤俊幸氏を監修に迎え、CGや図説で、詳細に\nシミュレートする一冊です。","price":"1500","genre":"","target":"一般","format":"単行本","content":"政治-含む国防軍事"}
+,
+{"isbn":"9784299002259","title":"仕事のアイデア出し＆問題解決にサクっと役立つ! ビジネスフレームワーク見るだけノート","volume":"","series":"","publisher":"宝島社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784299002259.jpg","author":"嶋田毅／監修","description":"問題解決に頭を抱えがちなビジネスパーソンに贈るビジュアル版「フレームワーク」解説書です。\nゼロから考えるのではなく、思考の「型」にはめることで解決する手法=「フレームワーク」を用いれば、\nマーケティング、戦略プランニング、マネジメントなどの業務で次々と発生する問題を、\n効率よくさばくことが可能になります。従来の「見るだけノート」シリーズより大きな紙面なので、\n図解イラストを直感的に理解することができます。","price":"1700","genre":"","target":"一般","format":"単行本","content":"経済・財政・統計"}
+,
+{"isbn":"9784309287805","title":"フランス郷土料理","volume":"","series":"","publisher":"河出書房新社","pubdate":"2020-02-07","cover":"","author":"アンドレ・パッション／著","description":"フランス料理の奥義は土地の食材から作る郷土の料理。本書はフランス全地方の郷土料理を網羅。著者の秘蔵のレシピを完全初公開！","price":"8800","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784323064345","title":"完全版はだしのゲン４","volume":"","series":"完全版はだしのゲン","publisher":"金の星社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784323064345.jpg","author":"中沢啓治／著・イラスト","description":"「はだしのゲン」の完全版。","price":"3200","genre":"コミックス(書)","target":"一般","format":"全集・双書","content":"コミックス・劇画"}
+,
+{"isbn":"9784323064352","title":"完全版はだしのゲン５","volume":"","series":"完全版はだしのゲン","publisher":"金の星社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784323064352.jpg","author":"中沢啓治／著・イラスト","description":"「はだしのゲン」の完全版。","price":"3200","genre":"コミックス(書)","target":"一般","format":"全集・双書","content":"コミックス・劇画"}
+,
+{"isbn":"9784323081274","title":"呪いの人形（ひとがた）","volume":"17","series":"怪談 5分間の恐怖","publisher":"金の星社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784323081274.jpg","author":"中村まさみ／著","description":"1話5分で読み切れる ほんとうにあった怖い話シリーズ!","price":"1300","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
 ]
