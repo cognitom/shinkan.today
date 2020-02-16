@@ -81,7 +81,7 @@
 ,
 {"isbn":"9784049129526","title":"魔法も奇跡もない、この退屈な世界で","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784049129526.jpg","author":"渡風夕／著 rioka／イラスト","description":"改造人間達と超常者達が争う23世紀日本が舞台の痛快SF犯罪アクション！","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784049130102","title":"シノゴノ言わずに私に甘えていればいーの！（２）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784049130102.jpg","author":"旭蓑雄／著 なたーしゃ／イラスト","description":"怠惰の悪魔と社畜リーマンのイチャイチャ問答。押しかけ甘々コメディ第二弾","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784049130102","title":"シノゴノ言わずに私に甘えていればいーの！（）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784049130102.jpg","author":"旭蓑雄／著 なたーしゃ／イラスト","description":"怠惰の悪魔と社畜リーマンのイチャイチャ問答。押しかけ甘々コメディ第二弾","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784049130218","title":"声優ラジオのウラオモテ #01 夕陽とやすみは隠しきれない？","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784049130218.jpg","author":"二月公／著 さばみぞれ／イラスト","description":"ギャル＆地味子の放課後は、超清純派のアイドル声優!?","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -228,12 +228,4 @@
 {"isbn":"9784323064352","title":"完全版はだしのゲン５","volume":"","series":"完全版はだしのゲン","publisher":"金の星社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784323064352.jpg","author":"中沢啓治／著・イラスト","description":"「はだしのゲン」の完全版。","price":"3200","genre":"コミックス(書)","target":"一般","format":"全集・双書","content":"コミックス・劇画"}
 ,
 {"isbn":"9784323081274","title":"呪いの人形（ひとがた）","volume":"17","series":"怪談 5分間の恐怖","publisher":"金の星社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784323081274.jpg","author":"中村まさみ／著","description":"1話5分で読み切れる ほんとうにあった怖い話シリーズ!","price":"1300","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784339043730","title":"プロセス・トライボロジー","volume":"3","series":"新塑性加工技術シリーズ","publisher":"コロナ社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784339043730.jpg","author":"日本塑性加工学会／編集 中村保／著 水野高嗣／著 土屋能成／著 木村茂樹／著 石橋格／著 ほか","description":"摩擦・潤滑の基礎，および塑性加工における潤滑問題を平易に解説。","price":"5500","genre":"工業・工学","target":"専門","format":"全集・双書","content":"機械"}
-,
-{"isbn":"9784339045406","title":"機械設計工学","volume":"E-2","series":"機械系コアテキストシリーズ","publisher":"コロナ社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784339045406.jpg","author":"村上存／著 柳澤秀吉／著","description":"材料や加工法の基礎から機械の仕組み，さらには人間と機械の適合性などもわかりやすく解説。","price":"2200","genre":"工業・工学","target":"専門","format":"全集・双書","content":"機械"}
-,
-{"isbn":"9784339052701","title":"構造解析のための材料力学","volume":"","series":"","publisher":"コロナ社","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784339052701.jpg","author":"舘石和雄／著","description":"構造物が力を受けた際に,それを構成する部材の内部に生じる力や変形について,内容を厳選し,コンパクトにまとめた。","price":"2200","genre":"工業・工学","target":"専門","format":"単行本","content":"土木"}
-,
-{"isbn":"9784385119694","title":"ベーシッククラウン伊和・和伊辞典","volume":"","series":"","publisher":"三省堂","pubdate":"2020-02-07","cover":"https://cover.openbd.jp/9784385119694.jpg","author":"杉本裕之／監修 谷口真生子／監修 三省堂編修所／編集","description":"伊和＋和伊＋文法解説＋動詞変化表＋音声が聞けるウェブサービスで学習の最初の一歩をトールサポート。知識ゼロから使える。","price":"3300","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"各国語"}
 ]

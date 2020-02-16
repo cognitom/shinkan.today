@@ -81,7 +81,7 @@
 ,
 {"isbn":"9784253252546","title":"怪獣のトカゲ  2","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-02-17","cover":"","author":"山本崇一朗／企画 福地カミオ／著","description":"トカゲと姉妹のもとに現れたのは、甲羅を背負ったカメかいじゅうで…！？","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784254122466","title":"回帰分析(新装版)","volume":"","series":"統計ライブラリー","publisher":"朝倉書店","pubdate":"2020-02-17","cover":"https://cover.openbd.jp/9784254122466.jpg","author":"佐和隆光／著","description":"実用に供されることの多い回帰分析の方法を，豊富な実例と厳密な数学的証明をおりまぜて解説。","price":"3200","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
+{"isbn":"9784254122466","title":"回帰分析(新装版)","volume":"","series":"統計ライブラリ","publisher":"朝倉書店","pubdate":"2020-02-17","cover":"https://cover.openbd.jp/9784254122466.jpg","author":"佐和隆光／著","description":"実用に供されることの多い回帰分析の方法を，豊富な実例と厳密な数学的証明をおりまぜて解説。","price":"3200","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
 ,
 {"isbn":"9784254122473","title":"時系列解析の実際Ｉ(新装版)","volume":"","series":"統計科学選書","publisher":"朝倉書店","pubdate":"2020-02-17","cover":"https://cover.openbd.jp/9784254122473.jpg","author":"赤池弘次／編集 北川源四郎／編集","description":"様々な分野の実際の問題へ適用した事例を解説。","price":"3200","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
 ,
@@ -148,8 +148,4 @@
 {"isbn":"9784330019208","title":"オリンピックと鉄道","volume":"140","series":"交通新聞社新書","publisher":"交通新聞社","pubdate":"2020-02-17","cover":"","author":"松本典久／著","description":"国内で開催されたオリンピックに際し、交通インフラがどのように整備され、どのような輸送が行なわれたかを振り返る一冊。","price":"800","genre":"","target":"一般","format":"新書","content":"交通・通信"}
 ,
 {"isbn":"9784330020204","title":"東京駅コンシェルジュの365日","volume":"141","series":"交通新聞社新書","publisher":"交通新聞社","pubdate":"2020-02-17","cover":"","author":"渡辺雅史／著","description":"「ステーション・コンシェルジュ東京」の業務日誌をもとに、巨大ターミナル駅を利用する人たちの多様な姿を浮き彫りにしていく。","price":"800","genre":"","target":"一般","format":"新書","content":"交通・通信"}
-,
-{"isbn":"9784335313868","title":"労働法務のチェックポイント","volume":"","series":"実務の技法シリーズ","publisher":"弘文堂","pubdate":"2020-02-17","cover":"https://cover.openbd.jp/9784335313868.jpg","author":"市川充／編集 加戸茂樹／編集 亀田康次／著 軽部龍太郎／著 高仲幸雄／著 町田悠生子／著","description":"中小企業の職場でありがちな法律問題を、使用者側の観点から解説","price":"2800","genre":"社会科学","target":"教養","format":"全集・双書","content":"法律"}
-,
-{"isbn":"9784337310117","title":"かいくんとセラピー犬バディ","volume":"","series":"","publisher":"国土社","pubdate":"2020-02-17","cover":"https://cover.openbd.jp/9784337310117.jpg","author":"井上こみち／著","description":"保護犬のバディがセラピー犬になるまで、アニマルセラピーについて、海くんとボランティアの活動ぶりを追う。","price":"1300","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学総記"}
 ]

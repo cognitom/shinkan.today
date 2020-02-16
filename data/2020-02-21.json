@@ -173,7 +173,7 @@
 ,
 {"isbn":"9784074386994","title":"Ｇｒａｚｉｅ　Ｙａｍａｕｃｈｉ　Ｋｅｉｓｕｋｅ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"","author":"主婦の友社／編集","description":"紅白歌合戦出場の演歌の貴公子、山内惠介の本格写真集第2弾。","price":"5000","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
 ,
-{"isbn":"9784074396290","title":"よくわかる　こころの病気に効く漢方薬","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"","author":"根本幸夫／著 降籏隆二／著 青木浩義／著 根本安人／著","description":"うつ、引きこもり、夜尿症、発達障害、摂食障害、不安症、不眠症、認知症まで、こころの病気に効果発揮する漢方薬が丸わかり。","price":"1500","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
+{"isbn":"9784074396290","title":"よくわかる　こころの病気に効く漢方薬","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"","author":"根本幸夫／著 降籏隆二／著 青木浩義／著 根本安人／著","description":"うつ、引きこもり、夜尿症、発達障害、摂食障害、不安症、不眠症、認知症まで、こころの病気に効果を発揮する漢方薬が丸わかり。","price":"1500","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
 ,
 {"isbn":"9784074396641","title":"血液のがん　悪性リンパ腫・白血病・多発性骨髄腫","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"","author":"木崎昌弘／監修","description":"病気のしくみが複雑で難解といわれる「血液のがん」を図解を用いわかりやすく解説。新薬が登場し治療法が格段に進化しています！","price":"1500","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
 ,
@@ -246,16 +246,4 @@
 {"isbn":"9784315522198","title":"1日1ページ 数学の教養365","volume":"","series":"","publisher":"ニュートンプレス","pubdate":"2020-02-21","cover":"","author":"クリフォード・A・ピックオーバー／著","description":"","price":"2800","genre":"","target":"教養","format":"単行本","content":"数学"}
 ,
 {"isbn":"9784326549672","title":"庄内藩の東海道道中日記","volume":"","series":"中京大学経済学研究叢書","publisher":"勁草書房","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784326549672.jpg","author":"阿部英樹／著","description":"従来の近世庄内研究ではほとんど取り上げられてこなかった庄内藩京都御用の実態を、東海道の道中日記により再現する。","price":"4700","genre":"歴史・地理","target":"専門","format":"全集・双書","content":"経済・財政・統計"}
-,
-{"isbn":"9784336064547","title":"『究竟一乗宝性論』と東アジア仏教","volume":"","series":"","publisher":"国書刊行会","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784336064547.jpg","author":"李子捷／著","description":"宝性論に影響を受けた文献の如来蔵・真如・種姓を検討し、五～七世紀までの東アジア仏教における如来蔵思想の受容と展開を解明。","price":"13000","genre":"哲学・宗教","target":"専門","format":"単行本","content":"仏教"}
-,
-{"isbn":"9784336065650","title":"女であるだけで","volume":"","series":"新しいマヤの文学","publisher":"国書刊行会","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784336065650.jpg","author":"ソル・ケー・モオ／著 フェリペ・エルナンデス・デ・ラ・クルス／解説 吉田栄人／翻訳","description":"メキシコ・マヤ先住民女性の夫殺しと恩赦を法廷劇的に描いた、《世界文学》志向の新しい現代ラテンアメリカ文学×フェミニズム小説。","price":"2400","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
-,
-{"isbn":"9784336065926","title":"切り剣 福田理代切り絵作品集","volume":"","series":"","publisher":"国書刊行会","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784336065926.jpg","author":"福田理代／著","description":"SNSで話題！　クラゲ、蛸、深海魚など多様な生物をモチーフにレース編みのような細かさで切り出される超絶的な切り絵の世界。","price":"2400","genre":"芸能・タレント","target":"一般","format":"単行本","content":"写真・工芸"}
-,
-{"isbn":"9784336065971","title":"知られざる兵団 帝国陸軍独立混成旅団史","volume":"","series":"","publisher":"国書刊行会","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784336065971.jpg","author":"藤井非三四／著","description":"本書は中国・南方での地味な治安戦から沖縄での玉砕戦まで各地の戦場で苦闘した独立混成旅団の全貌を記す初の書籍となる。","price":"3400","genre":"歴史・地理","target":"一般","format":"単行本","content":"政治-含む国防軍事"}
-,
-{"isbn":"9784339078220","title":"まちがいだらけの文書から卒業しよう－基本はここだ！－ 工学系卒論の書き方","volume":"","series":"","publisher":"コロナ社","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784339078220.jpg","author":"別府俊幸／著 渡辺賢治／著","description":"工学系の大学・高専学生がわかりやすく論理的な文章を書くための論文作成ガイドブック。卒論指導をする教員にも最適な一冊。","price":"2600","genre":"工業・工学","target":"専門","format":"単行本","content":"工学・工学総記"}
-,
-{"isbn":"9784391154269","title":"50歳からのからだ整え2品献立","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784391154269.jpg","author":"藤井恵／著","description":"50歳以上の女性向けの体にいい献立レシピ本。作るおかずは2品だけ！　からだの調子がみるみる整う、栄養満点のおかずが満載。","price":"1400","genre":"","target":"一般","format":"単行本","content":"家事"}
 ]
