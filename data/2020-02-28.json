@@ -117,7 +117,7 @@
 ,
 {"isbn":"9784065187524","title":"いっしょに　うたおう！　アナと雪の女王2　うたの　えほん","volume":"","series":"","publisher":"講談社","pubdate":"2020-02-28","cover":"","author":"講談社／編集","description":"映画「アナと雪の女王２」のおはなしとうたを両方楽しもう！歌詞はすべてひらがな表記なので、ひらがなのお勉強にもぴったり！","price":"550","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
 ,
-{"isbn":"9784074410309","title":"薬屋のひとりごと　９　ドラマＣＤ付き限定特装版","volume":"","series":"ヒーロー文庫","publisher":"主婦の友社","pubdate":"2020-02-28","cover":"","author":"日向夏／著 しのとうこ／イラスト","description":"シリーズ累計600万部超の大人気ミステリー。日向夏先生書き下ろしシナリオで初のドラマCD登場！ 主演は悠木碧・櫻井孝宏。","price":"2400","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784074410309","title":"薬屋のひとりごと　９　ドラマＣＤ付き限定特装版","volume":"","series":"ヒーロー文庫","publisher":"主婦の友社","pubdate":"2020-02-28","cover":"","author":"日向夏／著 しのとうこ／イラスト","description":"シリーズ累計600万部超大人気ミステリー。日向夏先生書き下ろしシナリオで初のドラマCD登場！ 主演は悠木碧・櫻井孝宏。","price":"2400","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784074419166","title":"魔神少女と孤独の騎士　１","volume":"","series":"ヒーロー文庫","publisher":"主婦の友社","pubdate":"2020-02-28","cover":"","author":"三月ふゆ／著 ともぞ／イラスト","description":"内気な中学生の少女が、亡国の騎士を従えて魔の王になる。現実と異世界が交差する、残酷で美しい珠玉の異世界冒険譚。","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -224,56 +224,4 @@
 {"isbn":"9784101018713","title":"ライムスター宇多丸の映画カウンセリング","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-02-28","cover":"","author":"宇多丸／著","description":"","price":"710","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784101132594","title":"移植医たち","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-02-28","cover":"","author":"谷村志穂／著","description":"","price":"850","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101216522","title":"動物たちのまーまー","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-02-28","cover":"","author":"一條次郎／著","description":"","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101233116","title":"魂でもいいから、そばにいて","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-02-28","cover":"","author":"奥野修司／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784101273747","title":"古都再見","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-02-28","cover":"","author":"葉室麟／著","description":"","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784101313566","title":"三島由紀夫を巡る旅 悼友紀行","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-02-28","cover":"","author":"徳岡孝夫／著 ドナルド・キーン／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784101345277","title":"いまひとたびの","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-02-28","cover":"","author":"志水辰夫／著","description":"","price":"670","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101346113","title":"変見自在 朝日は今日も腹黒い","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-02-28","cover":"","author":"髙山正之／著","description":"","price":"550","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784101390536","title":"オペレーションＺ","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-02-28","cover":"","author":"真山仁／著","description":"","price":"950","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101801841","title":"彼女は弊社の泥酔ヒロイン","volume":"","series":"新潮文庫ｎｅｘ（ネックス）","publisher":"新潮社","pubdate":"2020-02-28","cover":"","author":"梶尾真治／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101801858","title":"綺羅星 銀座ともしび探偵社","volume":"","series":"新潮文庫ｎｅｘ（ネックス）","publisher":"新潮社","pubdate":"2020-02-28","cover":"","author":"小松エメル／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784102180839","title":"名犬ベラの６５０ｋｍの帰宅","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-02-28","cover":"","author":"Ｗ・ブルース・キャメロン／著 青木多香子／翻訳","description":"","price":"800","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
-,
-{"isbn":"9784103530817","title":"デス・ストランディング ノベライズ スチールブック（Ｒ）エディション","volume":"","series":"","publisher":"新潮社","pubdate":"2020-02-28","cover":"","author":"小島秀夫／原著 野島一人／著","description":"ゲーム『DEATH STRANDING』を完全ノベライズし、スチールブック®に収めた世界初の仕様。ファン必携の特装版！","price":"4980","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784140113653","title":"中野ジェームズ修一×運動嫌い","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-02-28","cover":"","author":"中野ジェームズ修一／著","description":"トレーニングのプロが「運動嫌い」たちの口から飛び出す理屈や言い訳を真剣に受け止め、伝えようとした運動の本質とは？","price":"1400","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
-,
-{"isbn":"9784140817360","title":"日本の名画・名品を訪ねて　旅する日曜美術館　北海道・東北・関東・甲信越・北陸","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-02-28","cover":"","author":"ＮＨＫ「日曜美術館」制作班／編集","description":"４０余年の番組アーカイブスから精選した「多彩な出演者の言葉」をたよりに、日本各地の美術館で「とっておきの美」に出会う旅。","price":"2400","genre":"芸術","target":"一般","format":"単行本","content":"芸術総記"}
-,
-{"isbn":"9784140817377","title":"日本の名画・名品を訪ねて　旅する日曜美術館　東海・近畿・中国・四国・九州","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-02-28","cover":"","author":"ＮＨＫ「日曜美術館」制作班／編集","description":"名画に対面し、作者を想い、美を思索した日曜美術館の多彩な出演者たち。その豊かなアーカイブスから生まれる美術館読本。","price":"2400","genre":"芸術","target":"一般","format":"単行本","content":"芸術総記"}
-,
-{"isbn":"9784142132607","title":"ＮＨＫ出版　音声DL BOOK　中学３年間の英語が中２病フレーズなら１週間で学べるなんてわたしは信じない","volume":"","series":"語学シリーズ","publisher":"NHK出版","pubdate":"2020-02-28","cover":"","author":"佐藤誠司／著","description":"「中２病的例文」を楽しんでいるうちに、気づいたら中学英語をマスター！ 無料ダウンロードの日本語音声は声優の悠木碧さんが担当！","price":"1200","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"英米語"}
-,
-{"isbn":"9784251093363","title":"そうげん・やまの　どうぶつ　マヌルネコ　キリン　パンダなど","volume":"2","series":"くらべて　よもう　どうぶつの赤ちゃん","publisher":"あかね書房","pubdate":"2020-02-28","cover":"https://cover.openbd.jp/9784251093363.jpg","author":"成島悦雄／監修","description":"取次広報誌掲載不要","price":"3000","genre":"児童図書","target":"児童","format":"全集・双書","content":"生物学"}
-,
-{"isbn":"9784251099310","title":"しまふくろうの森","volume":"","series":"","publisher":"あかね書房","pubdate":"2020-02-28","cover":"https://cover.openbd.jp/9784251099310.jpg","author":"前川貴行／著・写真","description":"絶滅が危ぶまれているしまふくろうは、北の森で保護されながら種をつないでいる。その生態を、迫力の写真と熱い言葉で紹介する。","price":"1500","genre":"児童図書","target":"児童","format":"絵本","content":"生物学"}
-,
-{"isbn":"9784265087426","title":"あくびしてるの　だーれ？","volume":"","series":"どうぶつえほん　だーれ？　どーする？","publisher":"岩崎書店","pubdate":"2020-02-28","cover":"https://cover.openbd.jp/9784265087426.jpg","author":"穂髙順也／著 クレーン謙／イラスト 今泉忠明／監修","description":"なんの動物のあくびか、わかるかな？ライオン、カバ、ラクダ、ゴリラが登場します。動物のくちをクローズアップしています。","price":"1600","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784265087433","title":"あし　あし　だーれ？","volume":"","series":"どうぶつえほん　だーれ？　どーする？","publisher":"岩崎書店","pubdate":"2020-02-28","cover":"https://cover.openbd.jp/9784265087433.jpg","author":"穂髙順也／著 サトウマサノリ／イラスト 今泉忠明／監修","description":"なんの動物のあしか、わかるかな？キリン、ねこ、カエル、だちょうが登場します。","price":"1600","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784265088034","title":"調べてまとめる「学習新聞」","volume":"","series":"新聞をつくろう！","publisher":"岩崎書店","pubdate":"2020-02-28","cover":"https://cover.openbd.jp/9784265088034.jpg","author":"菊池健一／監修","description":"ひとつのテーマを掘り下げてまとめる新聞。自由研究に役立つテーマの決め方や、一歩進んだ取材の方法を説明。作例の紹介も。","price":"3000","genre":"児童図書","target":"児童","format":"全集・双書","content":"教育"}
-,
-{"isbn":"9784265088041","title":"新聞づくりのアイデア集","volume":"","series":"新聞をつくろう！","publisher":"岩崎書店","pubdate":"2020-02-28","cover":"https://cover.openbd.jp/9784265088041.jpg","author":"菊池健一／監修","description":"デザインや割りつけの工夫や、読者を楽しませるコーナーづくりなど、新聞づくりに役立つ情報満載。参考になるサイトなども紹介。","price":"3000","genre":"児童図書","target":"児童","format":"全集・双書","content":"教育"}
-,
-{"isbn":"9784326251407","title":"震災と学校のエスノグラフィー","volume":"","series":"","publisher":"勁草書房","pubdate":"2020-02-28","cover":"","author":"清水睦美／著 妹尾渉／著 日下田岳史／著 堀健志／著 松田洋介／著 山本宏樹／著","description":"東日本大震災後、学校は災害経験とどう向き合ってきたのか。陸前高田の中学校における8年にわたるフィールドワークを基に描き出す。","price":"3800","genre":"教育","target":"専門","format":"単行本","content":"教育"}
-,
-{"isbn":"9784326302864","title":"東アジアの重層的サブリージョンと新たな地域アーキテクチャ","volume":"","series":"","publisher":"勁草書房","pubdate":"2020-02-28","cover":"","author":"多賀秀敏／編集 五十嵐誠一／編集","description":"東南アジアや東北アジアよりも地理的に小さな空間領域であるサブリージョン（下位地域）。その新たな地域秩序の可能性を開拓する。","price":"5000","genre":"社会科学","target":"専門","format":"単行本","content":"政治-含む国防軍事"}
-,
-{"isbn":"9784326603275","title":"子育て支援を労働として考える","volume":"","series":"","publisher":"勁草書房","pubdate":"2020-02-28","cover":"","author":"相馬直子／編集 松木洋人／編集","description":"「子育て支援労働」を実証分析するはじめての学術書。市民性・当事者性が強調される労働実態と身分保障の重要性を示す。","price":"2500","genre":"社会科学","target":"専門","format":"単行本","content":"社会"}
-,
-{"isbn":"9784330009209","title":"ちかてつ　もぐらごう","volume":"","series":"でんしゃのおはなし絵本","publisher":"交通新聞社","pubdate":"2020-02-28","cover":"","author":"大森裕子／イラスト","description":"もぐらたちが運行する、「ちかてつもぐらごう」で、「つちのしたツアー」に動物たちが出かけます。","price":"1300","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784330031200","title":"はしれ！　みんなのSL","volume":"","series":"でんしゃのひみつシリーズ","publisher":"交通新聞社","pubdate":"2020-02-28","cover":"","author":"溝口イタル／イラスト","description":"鉄道にまつわる疑問を絵と文でわかりやすく解き明かす、大人気の「でんしゃのひみつ」シリーズの第8弾！　今回のテーマはSLです。","price":"1300","genre":"児童図書","target":"児童","format":"絵本","content":"交通・通信"}
 ]
