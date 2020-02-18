@@ -65,7 +65,7 @@
 ,
 {"isbn":"9784041087527","title":"紙屋ふじさき記念館  麻の葉のカード","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784041087527.jpg","author":"ほしおさなえ／著","description":"紙っていいなあ。持ってるだけで幸せになるね。","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041087893","title":"新訳 ドリトル先生アフリカへ行く","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784041087893.jpg","author":"ヒューロフティング／著 河合祥一郎／翻訳","description":"【映画化】動物と話せるお医者さんのびっくりゆかいな大冒険！新訳＆挿絵付","price":"440","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
+{"isbn":"9784041087893","title":"新訳 ドリトル先生アフリカへ行く","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784041087893.jpg","author":"ヒュー・ロフティング／著 河合祥一郎／翻訳","description":"【映画化】動物と話せるお医者さんのびっくりゆかいな大冒険！新訳＆挿絵付","price":"440","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
 {"isbn":"9784041087909","title":"新訳 ドリトル先生航海記","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784041087909.jpg","author":"ヒュー・ロフティング／著 河合祥一郎／翻訳","description":"【映画化】動物と話せるお医者さん、巨大カタツムリと海底旅行！？　新訳で","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
@@ -123,13 +123,13 @@
 ,
 {"isbn":"9784065181584","title":"僕はまだ野球を知らない（5）","volume":"","series":"","publisher":"講談社","pubdate":"2020-02-21","cover":"","author":"西餅／著","description":"「統計学」を駆使して、弱小校が本気で甲子園を目指す！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065182833","title":"キャサリンはどのように子供を産んだのか？　How　Did　Catherine　Cooper　Have　a　Child　？","volume":"","series":"","publisher":"講談社","pubdate":"2020-02-21","cover":"","author":"森博嗣／著","description":"研究所内の無菌密室。消失した博士と隠された娘。","price":"720","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784065182833","title":"キャサリンはどのように子供を産んだのか？　How　Did　Catherine　Cooper　Have　a　Child　？","volume":"","series":"","publisher":"講談社","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784065182833.jpg","author":"森博嗣／著","description":"研究所内の無菌密室。消失した博士と隠された娘。","price":"720","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065183281","title":"日本全国！　新　家のちかくでよく見る電車100点","volume":"","series":"","publisher":"講談社","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784065183281.jpg","author":"広田尚敬／写真 広田泉／写真 坂正博／著","description":"全国で活躍する、普通電車を一挙に紹介！　身近な電車を親子で乗りにいこう！　首都圏をはじめ、全国主要都市以外も私鉄も大紹介！","price":"750","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"交通・通信"}
 ,
 {"isbn":"9784065184318","title":"宇宙兄弟（37）","volume":"","series":"","publisher":"講談社","pubdate":"2020-02-21","cover":"","author":"小山宙哉／著","description":"遂に、六太とフィリップのレスキューミッションが動き出す！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065184332","title":"オールカラー版1巻付き　宇宙兄弟（37）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2020-02-21","cover":"","author":"小山宙哉／著","description":"全ページ美麗に着彩された「単行本１巻オールカラー版」が付録でついた超豪華版！","price":"1800","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065184332","title":"オールカラー版1巻付き　宇宙兄弟（37）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2020-02-21","cover":"","author":"小山宙哉／著","description":"全ページ美麗着彩された「単行本１巻オールカラー版」が付録でついた超豪華版！","price":"1800","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065184493","title":"イサック（8）","volume":"","series":"","publisher":"講談社","pubdate":"2020-02-21","cover":"","author":"真刈信二／著 ＤＯＵＢＬＥーＳ／著","description":"イサックとロレンツォ。仇敵同士、一対一の死闘が始まる！！","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -167,21 +167,21 @@
 ,
 {"isbn":"9784065189276","title":"瑠璃と料理の王様と（11）","volume":"","series":"","publisher":"講談社","pubdate":"2020-02-21","cover":"","author":"きくち正太／著","description":"「男の食彩」編集部に現れた新たな仕事仲間（手伝い）はなんとアメリカからの留学生！　日本の食文化研究に来たというが・・・。","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065189399","title":"レディ・ヴィクトリア　ローズの秘密のノートから","volume":"","series":"","publisher":"講談社","pubdate":"2020-02-21","cover":"","author":"篠田真由美／著","description":"清朝末期、柳模様（ウィロー・パターン）の磁器（チャイナ）に秘められた謎","price":"800","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784065189399","title":"レディ・ヴィクトリア　ローズの秘密のノートから","volume":"","series":"","publisher":"講談社","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784065189399.jpg","author":"篠田真由美／著","description":"清朝末期、柳模様（ウィロー・パターン）の磁器（チャイナ）に秘められた謎","price":"800","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784074384693","title":"きらいな母を看取れますか？　関係がわるい母娘の最終章","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"","author":"寺田和代／著","description":"親子の縁、切ってもいいですか？　関係がわるい母と娘が最後に向き合う機会＝「介護」。重すぎる母の介護、あなたはどうする？","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784074384693","title":"きらいな母を看取れますか？　関係がわるい母娘の最終章","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784074384693.jpg","author":"寺田和代／著","description":"親子の縁、切ってもいいですか？　関係がわるい母と娘が最後に向き合う機会＝「介護」。重すぎる母の介護、あなたはどうする？","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784074386994","title":"Ｇｒａｚｉｅ　Ｙａｍａｕｃｈｉ　Ｋｅｉｓｕｋｅ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"","author":"主婦の友社／編集","description":"紅白歌合戦出場の演歌の貴公子、山内惠介の本格写真集第2弾。","price":"5000","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
 ,
-{"isbn":"9784074396290","title":"よくわかる　こころの病気に効く漢方薬","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"","author":"根本幸夫／著 降籏隆二／著 青木浩義／著 根本安人／著","description":"うつ、引きこもり、夜尿症、発達障害、摂食障害、不安症、不眠症、認知症まで、こころの病気に効果を発揮する漢方薬が丸わかり。","price":"1500","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
+{"isbn":"9784074396290","title":"よくわかる　こころの病気に効く漢方薬","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784074396290.jpg","author":"根本幸夫／著 降籏隆二／著 青木浩義／著 根本安人／著","description":"うつ、引きこもり、夜尿症、発達障害、摂食障害、不安症、不眠症、認知症まで、こころの病気に効果を発揮する漢方薬が丸わかり。","price":"1500","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
 ,
-{"isbn":"9784074396641","title":"血液のがん　悪性リンパ腫・白血病・多発性骨髄腫","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"","author":"木崎昌弘／監修","description":"病気のしくみが複雑で難解といわれる「血液のがん」を図解を用いわかりやすく解説。新薬が登場し治療法が格段に進化しています！","price":"1500","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
+{"isbn":"9784074396641","title":"血液のがん　悪性リンパ腫・白血病・多発性骨髄腫","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784074396641.jpg","author":"木崎昌弘／監修","description":"病気のしくみが複雑で難解といわれる「血液のがん」を図解を用いわかりやすく解説。新薬が登場し治療法が格段に進化しています！","price":"1500","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
 ,
-{"isbn":"9784074404728","title":"朝ごはんの食べ方で糖質オフダイエットも挫折しない","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"","author":"金本郁男／監修","description":"糖質オフ中にパンやごはんを食べてOK！朝ごはんの食べ方次第で、効果が変わる！　カギは食物繊維、乳製品、油、酢","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784074404728","title":"朝ごはんの食べ方で糖質オフダイエットも挫折しない","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784074404728.jpg","author":"金本郁男／監修","description":"糖質オフ中にパンやごはんを食べてOK！朝ごはんの食べ方次第で、効果が変わる！　カギは食物繊維、乳製品、油、酢","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
-{"isbn":"9784074408511","title":"散歩しながら子どもに教えてあげられる草花図鑑","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"","author":"亀田龍吉／著","description":"「このお花、葉っぱ、なあに？」散歩中の子どもの疑問にこたえられる、身近な草花のハンディ図鑑。昔ながらの草花遊びも掲載。","price":"800","genre":"","target":"実用","format":"図鑑","content":"教育"}
+{"isbn":"9784074408511","title":"散歩しながら子どもに教えてあげられる草花図鑑","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784074408511.jpg","author":"亀田龍吉／著","description":"「このお花、葉っぱ、なあに？」散歩中の子どもの疑問にこたえられる、身近な草花のハンディ図鑑。昔ながらの草花遊びも掲載。","price":"800","genre":"","target":"実用","format":"図鑑","content":"教育"}
 ,
-{"isbn":"9784074412181","title":"くつしたパーティ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"","author":"ティナ・オーケ／著 石津ちひろ／翻訳","description":"右左バラバラの靴下ってヘン?自分の「いいな!」を信じてみて。「いつもとちがうこと」「まわりとちがうこと」は貴重な贈り物。","price":"1300","genre":"","target":"児童","format":"絵本","content":"外国文学、その他"}
+{"isbn":"9784074412181","title":"くつしたパーティ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784074412181.jpg","author":"ティナ・オーケ／著 石津ちひろ／翻訳","description":"右左バラバラの靴下ってヘン?自分の「いいな!」を信じてみて。「いつもとちがうこと」「まわりとちがうこと」は貴重な贈り物。","price":"1300","genre":"","target":"児童","format":"絵本","content":"外国文学、その他"}
 ,
 {"isbn":"9784086313490","title":"魔弾の王と聖泉の双紋剣 2","volume":"","series":"魔弾の王と聖泉の双紋剣","publisher":"集英社","pubdate":"2020-02-21","cover":"https://cover.openbd.jp/9784086313490.jpg","author":"瀬尾つかさ／著 川口士／原著 八坂ミナト／イラスト","description":"ティグルとリムの率いるギネヴィア軍は王都に迫り、蘇りし初代国王アルトリウスの軍勢と激突。そこへ驚くべき人物が救援に現れる。","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
