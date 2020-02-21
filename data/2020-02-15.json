@@ -5,7 +5,7 @@
 ,
 {"isbn":"9784040729855","title":"おいしいベランダ。 ８番線ホームのベンチとサイダー","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-15","cover":"https://cover.openbd.jp/9784040729855.jpg","author":"竹岡葉月／著 おかざきおか／イラスト","description":"プロポーズからの神戸編スタート！　しかし関西でまもりの就活は逆境に!?","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784040734712","title":"香港シェヘラザード 上・蕾の義","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-15","cover":"https://cover.openbd.jp/9784040734712.jpg","author":"三角くるみ／著 猫将軍／イラスト","description":"新人外交官と香港マフィア。生き方も立場も正反対の二人の道が今、交わる。","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784040734712","title":"香港シェヘラザード 上・蕾の義","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-15","cover":"https://cover.openbd.jp/9784040734712.jpg","author":"三角くるみ／著 猫将軍／イラスト","description":"新人外交官と香港マフィア。生き方も立場も正反対の二人の道が今、交わ。","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784040734729","title":"香港シェヘラザード 下・花の奸","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-02-15","cover":"https://cover.openbd.jp/9784040734729.jpg","author":"三角くるみ／著 猫将軍／イラスト","description":"外交官の秋穂と黒道の立花、二人は出会うべきではなかった。けれど。","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -68,4 +68,12 @@
 {"isbn":"9784074414543","title":"無印良品　片づけ上手さんの収納術","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-15","cover":"","author":"主婦の友社／編集","description":"片付けが苦手でも、すぐマネできて2度と散らからない。無印良品の人気アイテムを使った収納術を、実例写真で詳しく解説！","price":"980","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
 {"isbn":"9784074415502","title":"世界の国旗図鑑","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-02-15","cover":"https://cover.openbd.jp/9784074415502.jpg","author":"吹浦忠正／著","description":"オリンピック参加208カ国の旗の秘密と最新データ、大会出場種目もひと目でわかる！　NHK「いだてん」・吹浦忠正監修","price":"1500","genre":"","target":"一般","format":"単行本","content":"地理"}
+,
+{"isbn":"9784106108488","title":"ひとの住処 １９６４－２０２０","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2020-02-15","cover":"https://cover.openbd.jp/9784106108488.jpg","author":"隈研吾／著","description":"人間にとって建築とはなにか？　ふたつのオリンピックをつなぐ、圧巻の半自伝的文明論、登場！","price":"740","genre":"","target":"一般","format":"新書","content":"建築"}
+,
+{"isbn":"9784106108495","title":"心臓によい運動、悪い運動","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2020-02-15","cover":"https://cover.openbd.jp/9784106108495.jpg","author":"古川哲史／著","description":"筋トレは２〜３日に１回がよい？　腎臓病も運動で改善できる？　医者が教える健康の新常識！","price":"760","genre":"","target":"一般","format":"新書","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784106108501","title":"２１０日ぶりに帰ってきた奇跡のネコ","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2020-02-15","cover":"https://cover.openbd.jp/9784106108501.jpg","author":"藤原博史／著","description":"「おかえり！」迷子捜しのプロが目撃した、ペットと家族をめぐる感動のドラマ。実話７つを収録。","price":"720","genre":"","target":"一般","format":"新書","content":"家事"}
+,
+{"isbn":"9784106108518","title":"カズのまま死にたい","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2020-02-15","cover":"https://cover.openbd.jp/9784106108518.jpg","author":"三浦知良／著","description":"「現役をやめるのは死ぬとき、かも」。プロサッカー選手生活35年目に突入。明日をせいいっぱい生きる、キング・カズの言葉の数々。","price":"840","genre":"","target":"一般","format":"新書","content":"体育・スポーツ"}
 ]
