@@ -1,7 +1,7 @@
 [
-{"isbn":"9784003121412","title":"けものたちは故郷をめざす","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-03-15","cover":"","author":"安部公房／著","description":"満州国崩壊の混乱の中，故郷・日本をめざす少年の冒険譚．安部文学の初期代表作（解説＝リービ英雄）．","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784003121412","title":"けものたちは故郷をめざす","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-03-15","cover":"https://cover.openbd.jp/9784003121412.jpg","author":"安部公房／著","description":"満州国崩壊の混乱の中，故郷・日本をめざす少年の冒険譚．安部文学の初期代表作（解説＝リービ英雄）．","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784003257524","title":"火の娘たち","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-03-15","cover":"","author":"ネルヴァル／著 野崎歓／翻訳","description":"珠玉の短篇「シルヴィ」ほか，小説・戯曲・翻案・詩を一つに編み上げた作品集．夢と幻想の作家の代表作を爽やかな訳文で．","price":"1260","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
+{"isbn":"9784003257524","title":"火の娘たち","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-03-15","cover":"https://cover.openbd.jp/9784003257524.jpg","author":"ネルヴァル／著 野崎歓／翻訳","description":"珠玉の短篇「シルヴィ」ほか，小説・戯曲・翻案・詩を一つに編み上げた作品集．夢と幻想の作家の代表作を爽やかな訳文で．","price":"1260","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
 {"isbn":"9784003900024","title":"自由論","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-03-15","cover":"https://cover.openbd.jp/9784003900024.jpg","author":"Ｊ．Ｓ．ミル／著 関口正司／翻訳","description":"個人が圧殺される事態を憂慮し，自由に対する干渉を限界づける原理を示した古典的著作．待望の新訳．","price":"840","genre":"文庫","target":"一般","format":"文庫","content":"政治-含む国防軍事"}
 ,
@@ -28,6 +28,4 @@
 {"isbn":"9784065191446","title":"遊川夕妃の実験手記　彼女が孔雀の箱に落ちたわけ","volume":"","series":"","publisher":"星海社","pubdate":"2020-03-15","cover":"","author":"綿世景／著 ろるあ／イラスト","description":"女子校で起きた教師と生徒の失踪事件。遊川夕妃は助手と共に母校の事件解決に乗り出すのだが…星海社ＦＩＣＴＩＯＮＳ新人賞受賞作。","price":"900","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065191552","title":"不可視都市","volume":"","series":"","publisher":"星海社","pubdate":"2020-03-15","cover":"","author":"高島雄哉／著 焦茶／イラスト","description":"不可視都市が分断した世界で、恋人たちは再会を信じ奔走する。『ランドスケープと夏の定理』が激賞されたハードＳＦの新旗手が登場！","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784254122435","title":"Excelによる統計入門 （第4版）","volume":"","series":"","publisher":"朝倉書店","pubdate":"2020-03-15","cover":"","author":"縄田和満／著","description":"初版から20年以上版を重ねる定番テキストの最新改訂．Excel操作の初歩から基礎統計学まで。","price":"2900","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
 ]
