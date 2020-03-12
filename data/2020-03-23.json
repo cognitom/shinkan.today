@@ -49,7 +49,7 @@
 ,
 {"isbn":"9784041071847","title":"【CD付】スタンフォード式　睡眠負債解消ブック","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-03-23","cover":"https://cover.openbd.jp/9784041071847.jpg","author":"西野精治／著","description":"”入眠”と”覚醒”のメカニズムを知り尽くした研究者が新開発！","price":"1500","genre":"","target":"一般","format":"単行本","content":"医学・歯学・薬学"}
 ,
-{"isbn":"9784041085059","title":"人を心から愛したことがないのと気づいてしまっても","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-03-23","cover":"https://cover.openbd.jp/9784041085059.jpg","author":"戸田真琴／著","description":"いつか、ちゃんと愛を始めてみたかった","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784041085059","title":"人を心から愛したことがないのだと気づいてしまっても","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-03-23","cover":"https://cover.openbd.jp/9784041085059.jpg","author":"戸田真琴／著","description":"いつか、ちゃんと愛を始めてみたかった","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784041091524","title":"明治浪漫綺話　第二巻","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-03-23","cover":"https://cover.openbd.jp/9784041091524.jpg","author":"音中さわき／著","description":"華族の令嬢と不死の吸血鬼、種を超えた二人の激動の吸血鬼浪漫譚！","price":"620","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -59,7 +59,7 @@
 ,
 {"isbn":"9784041093863","title":"新装版　うちの陛下が新米で。　（２）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-03-23","cover":"https://cover.openbd.jp/9784041093863.jpg","author":"湖住ふじこ／著","description":"湖住ふじこヒット作、中華風ラブファンタジー再燃！","price":"920","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784046040664","title":"この１冊で合格！ 丸山紀代のITパスポート　テキスト＆問題集","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-03-23","cover":"https://cover.openbd.jp/9784046040664.jpg","author":"丸山紀代／著 ITパスポート試験ドットコム／著","description":"合格率９割のプロ講師×月間10万人利用の人気サイト＝最短合格！","price":"1580","genre":"","target":"専門","format":"単行本","content":"電子通信"}
+{"isbn":"9784046040664","title":"この１冊で合格！ 丸山紀代のITパスポート　テキスト＆問題集","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-03-23","cover":"https://cover.openbd.jp/9784046040664.jpg","author":"丸山紀代／著 ITパスポート試験ドットコム／著","description":"合格率9割のプロ講師×月間10万人利用の人気サイト＝最短合格！","price":"1580","genre":"","target":"専門","format":"単行本","content":"電子通信"}
 ,
 {"isbn":"9784046044846","title":"音声DL付 ディズニーの英語［コレクション２１　アナと雪の女王２］","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-03-23","cover":"https://cover.openbd.jp/9784046044846.jpg","author":"石原真弓／解説","description":"累計40万部突破の多読シリーズ！","price":"1450","genre":"語学・辞事典","target":"一般","format":"単行本","content":"英米語"}
 ,
@@ -145,27 +145,7 @@
 ,
 {"isbn":"9784065189979","title":"「鬼灯の冷徹」落書き帳","volume":"","series":"","publisher":"講談社","pubdate":"2020-03-23","cover":"","author":"江口夏実／著","description":"Ｔｗｉｔｔｅｒ上で発表し続けた江口夏実の落書きが１冊に！　未公開分含め１２０枚超を収録したオールカラーイラスト集です！","price":"1300","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065192443","title":"強欲「奴隷国家」からの脱却　非正規労働時代をマルクスが読み解いたら","volume":"","series":"","publisher":"講談社","pubdate":"2020-03-23","cover":"","author":"浜矩子／著","description":"弱者排除、労働者のロボット化を推し進めるアホノミクスはこの国を完全に壊しつつある。国民を無意識の奴隷化から救うメッセージとは","price":"880","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784065194416","title":"ソフトバンク崩壊の恐怖と農中・ゆうちょに迫る金融危機","volume":"","series":"","publisher":"講談社","pubdate":"2020-03-23","cover":"","author":"黒川敦彦／著","description":"「史上最大の金融危機」を予言するカリスマ・ユーチューバーが緊急出版！　マネーゲームに狂奔するソフトバンク、農林中金の未来とは","price":"840","genre":"","target":"一般","format":"新書","content":"経済・財政・統計"}
-,
-{"isbn":"9784065194430","title":"危ない日本史","volume":"","series":"","publisher":"講談社","pubdate":"2020-03-23","cover":"","author":"本郷和人／著 ＮＨＫ「偉人たちの健康診断」取材班／著","description":"本能寺の変の動機、秀吉豹変の理由、龍馬暗殺の黒幕など、東大史料編纂所の人気教授とＮＨＫーＢＳ名物番組の最強コラボで解き明かす","price":"860","genre":"","target":"一般","format":"新書","content":"日本歴史"}
-,
 {"isbn":"9784065196212","title":"ピーナッツバターサンドウィッチ（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-03-23","cover":"","author":"ミツコ／著","description":"２９歳がけっぷちＯＬ４人の婚活奮闘記。女性誌ｗｉｔｈの取材からアラサーＯＬのリアルエピソードを盛り込んだ斬新な内容！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065196786","title":"短編集","volume":"","series":"","publisher":"講談社","pubdate":"2020-03-23","cover":"","author":"魚喃キリコ／著・編集","description":"９０年～００年初頭にかけてカリスマ的な人気を誇った漫画家・魚喃キリコの作品が、限定新装版として復活！","price":"1500","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784065196793","title":"痛々しいラヴ","volume":"","series":"","publisher":"講談社","pubdate":"2020-03-23","cover":"","author":"魚喃キリコ／著・編集","description":"９０年～００年初頭にかけてカリスマ的な人気を誇った漫画家・魚喃キリコの作品が、限定新装版として復活！","price":"1500","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784065196823","title":"strawberry　shortcakes","volume":"","series":"","publisher":"講談社","pubdate":"2020-03-23","cover":"","author":"魚喃キリコ／著・編集","description":"９０年～００年初頭にかけてカリスマ的な人気を誇った漫画家・魚喃キリコの作品が、限定新装版として復活！","price":"1800","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
-,
 {"isbn":"9784103532514","title":"カラスは飼えるか","volume":"","series":"","publisher":"新潮社","pubdate":"2020-03-23","cover":"","author":"松原始／著","description":"え、飼えるの？　食べる人がいるの？　そもそも鳥としてどうなの？　と目が点なあなたに。「カラス先生」の変で愉快な、いきもの語り","price":"1400","genre":"","target":"一般","format":"単行本","content":"生物学"}
-,
-{"isbn":"9784142287925","title":"こんどこそスマホ","volume":"","series":"趣味どきっ！","publisher":"NHK出版","pubdate":"2020-03-23","cover":"","author":"岡嶋裕史／著","description":"電話のかけ方から多彩なアプリの使いこなし、話題のスマホ決済まで。スマホ初心者が安心して使える、いちばん親切なスマホの入門書。","price":"1300","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"情報科学"}
-,
-{"isbn":"9784142287932","title":"カラダ喜ぶ　春ベジらいふ","volume":"","series":"趣味どきっ！","publisher":"NHK出版","pubdate":"2020-03-23","cover":"","author":"本多京子／著","description":"菜の花、たけのこ・春キャベツなどの春野菜16種の栄養をムダなくいただく簡単レシピ集。生産農家に聞く野菜の選び方、保存方法も。","price":"1100","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
-,
-{"isbn":"9784142287949","title":"みんなができる！　体幹バランス　ブレない・ケガしない体へ","volume":"","series":"趣味どきっ！","publisher":"NHK出版","pubdate":"2020-03-23","cover":"","author":"木場克己／著","description":"姿勢が安定し、腰痛や肩こり、つまずきなども解消してくれる「体幹バランストレーニング」。自分に合ったメニューで、さあトライ！","price":"1100","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"体育・スポーツ"}
-,
-{"isbn":"9784148272901","title":"今年こそイライラしない！　怒りのセルフコントロール術","volume":"","series":"ＮＨＫまる得マガジン","publisher":"NHK出版","pubdate":"2020-03-23","cover":"","author":"安藤俊介／著","description":"後悔しないために知っておきたい、怒り・イライラのコントロールレッスン。衝動、思考、行動面でのマネジメント法を紹介。","price":"571","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"心理(学)"}
 ]
