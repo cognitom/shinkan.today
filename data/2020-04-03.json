@@ -106,4 +106,16 @@
 {"isbn":"9784088823034","title":"ZIPMAN!! 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-04-03","cover":"","author":"芝田優作／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784088823102","title":"アンデッドアンラック 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-04-03","cover":"","author":"戸塚慶文／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784254118469","title":"非線型数学（新数学講座）","volume":"","series":"朝倉復刊セレクション","publisher":"朝倉書店","pubdate":"2020-04-03","cover":"https://cover.openbd.jp/9784254118469.jpg","author":"増田久弥／著","description":"非線型問題のいくつかの基礎的側面を,常微分方程式に例をとりながら簡潔明快に解説。","price":"3000","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784254122527","title":"論理回路の基礎","volume":"","series":"","publisher":"朝倉書店","pubdate":"2020-04-03","cover":"","author":"田口亮／著 金杉昭徳／著 佐々木智志／著 菅原真司／著","description":"論理回路を具体的に理解する","price":"2900","genre":"自然科学","target":"専門","format":"単行本","content":"情報科学"}
+,
+{"isbn":"9784254163612","title":"東京地理入門","volume":"","series":"","publisher":"朝倉書店","pubdate":"2020-04-03","cover":"https://cover.openbd.jp/9784254163612.jpg","author":"菊地俊夫／編集 松山洋／編集","description":"東京の地理を自然地理・人文地理双方の視点から最新の知見とともにバランスよく解説。","price":"2400","genre":"歴史・地理","target":"専門","format":"単行本","content":"地理"}
+,
+{"isbn":"9784254431247","title":"遺伝子・細胞から見た 応用微生物学","volume":"","series":"","publisher":"朝倉書店","pubdate":"2020-04-03","cover":"https://cover.openbd.jp/9784254431247.jpg","author":"阪井康能／著・編集 竹川薫／著・編集 橋本渉／著・編集 片山\t高嶺／著・編集","description":"遺伝子発現や細胞生理を通して応用微生物を解説。2色刷。最新の話題もコラムとして多く掲載。","price":"4300","genre":"自然科学","target":"専門","format":"単行本","content":"農林業"}
+,
+{"isbn":"9784254445039","title":"農村地域計画学","volume":"","series":"シリーズ〈地域環境工学〉","publisher":"朝倉書店","pubdate":"2020-04-03","cover":"https://cover.openbd.jp/9784254445039.jpg","author":"渡邉紹裕／編集 星野敏／編集 清水夏樹／編集","description":"日本の農村計画に関する標準的な知識体系を示し，「農村計画学」のスタンダードとなるテキスト。","price":"3700","genre":"自然科学","target":"専門","format":"全集・双書","content":"心理(学)"}
+,
+{"isbn":"9784254470550","title":"森林計画学入門","volume":"","series":"","publisher":"朝倉書店","pubdate":"2020-04-03","cover":"https://cover.openbd.jp/9784254470550.jpg","author":"田中和博／編集 吉田茂二郎／編集 白石則彦／編集 松村直人／編集","description":"森林計画学の基礎から応用までを平易に解説。現代的なトピックも数多く収録。","price":"3400","genre":"自然科学","target":"専門","format":"単行本","content":"農林業"}
 ]

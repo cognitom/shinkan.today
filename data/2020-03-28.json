@@ -49,7 +49,7 @@
 ,
 {"isbn":"9784048967587","title":"KansaiWalker特別編集 関西の山登り＆ハイキング ウォーカームック","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784048967587.jpg","author":"","description":"すぐ行ける！ 関西エリアのおすすめ山登り＆ハイキングコースを網羅！","price":"900","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784049110401","title":"週刊アスキー特別編集　2020春の超お買物特大号","volume":"","series":"","publisher":"角川アスキー総合研究所","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784049110401.jpg","author":"週刊アスキー編集部／企画・編集","description":"５Ｇでスマホはどう変わる？パソコン拡張術で今あるマシンを長く使おう！","price":"680","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"情報科学"}
+{"isbn":"9784049110401","title":"週刊アスキー特別編集　2020春の超お買物特大号","volume":"","series":"","publisher":"角川アスキー総合研究所","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784049110401.jpg","author":"週刊アスキー編集部／企画・編集","description":"５Ｇでスマホはどう変わる？ パソコン拡張術で今あるマシンを長く使おう！","price":"680","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"情報科学"}
 ,
 {"isbn":"9784056115598","title":"ＤＩＹ収納の作り方＆アイデア","volume":"","series":"学研ムック　ＤＩＹシリーズ","publisher":"学研プラス","pubdate":"2020-03-28","cover":"","author":"ドゥーパ！編集部／編集","description":"ＤＩＹだからできる、我が家にピッタリな収納作りのレシピ・アイデア・実例・テクニックを満載した、収納本の決定版！","price":"1600","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
@@ -65,53 +65,75 @@
 ,
 {"isbn":"9784065194973","title":"キナミトパンノホン","volume":"","series":"","publisher":"講談社","pubdate":"2020-03-28","cover":"","author":"木南晴夏／著","description":"芸能界イチのパン好き、女優・木南晴夏がオススメするパン屋をまとめた自身初の著書。お気に入りのパン屋全４８軒が登場します。","price":"1600","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
+{"isbn":"9784074411061","title":"ＭＯＲＩ　ＢＡＲ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"","author":"毛利隆雄／著","description":"伝説バーテンダー、Mr.マティーニ・毛利隆雄が半生を懸けて磨いてきたカクテルのテクニックと味の秘密を披露。豪華ハード版","price":"4000","genre":"","target":"実用","format":"単行本","content":"家事"}
+,
 {"isbn":"9784074411580","title":"声優グランプリｐｌｕｓ　ｈｏｍｍｅ　ｖｏｌ．１","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"","author":"主婦の友インフォス／編集","description":"声優グランプリが推したい男性声優をピックアップ！ハイクオリティなグラビアやレポートを大ボリューム特集でお届け！","price":"1800","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"写真・工芸"}
 ,
-{"isbn":"9784074415663","title":"自分の機嫌は「家事」でとる","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"","author":"主婦の友社／著","description":"「心地よくいられるための家事」を楽しんでいる方の実例集。人気Vloggerの家事ルーティンもYouTubeで配信。","price":"1480","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784074415663","title":"自分の機嫌は「家事」でとる","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784074415663.jpg","author":"主婦の友社／著","description":"「心地よくいられるための家事」を楽しんでいる方の実例集。人気Vloggerの家事ルーティンもYouTubeで配信。","price":"1480","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
-{"isbn":"9784074416844","title":"心地よい庭づくりＱ＆Ａ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"","author":"石正園平井孝幸／著","description":"さわやかでここちよい庭を作るヒントがいっぱい！豊富な実例をみながら、庭づくりの疑問がすっきり解決し、管理のコツもわかる！","price":"1700","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
+{"isbn":"9784074416844","title":"心地よい庭づくりＱ＆Ａ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784074416844.jpg","author":"石正園平井孝幸／著","description":"さわやかでここちよい庭を作るヒントがいっぱい！豊富な実例をみながら、庭づくりの疑問がすっきり解決し、管理のコツもわかる！","price":"1700","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784074417216","title":"膵臓がん・胆道がん","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"","author":"神澤輝実／監修","description":"膵臓がんと胆道がんは、新しい検査法や治療法により生存率が高まってきています。最新情報と治療生活アドバイスをくわしく解説。","price":"1500","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
+{"isbn":"9784074417216","title":"膵臓がん・胆道がん","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784074417216.jpg","author":"神澤輝実／監修","description":"膵臓がんと胆道がんは、新しい検査法や治療法により生存率が高まってきています。最新情報と治療生活アドバイスをくわしく解説。","price":"1500","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
 ,
-{"isbn":"9784074417506","title":"世界の国旗の「えっ！」","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"","author":"吹浦忠正／著","description":"思わず「へぇ～」と叫びたくなる、国旗のアレコレをまとめちゃいました！　世界208カ国にわたる国旗140ネタを収録！","price":"1400","genre":"","target":"一般","format":"単行本","content":"歴史総記"}
+{"isbn":"9784074417506","title":"世界の国旗の「えっ！」","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784074417506.jpg","author":"吹浦忠正／著","description":"思わず「へぇ～」と叫びたくなる、国旗のアレコレをまとめちゃいました！　世界208カ国にわたる国旗140ネタを収録！","price":"1400","genre":"","target":"一般","format":"単行本","content":"歴史総記"}
 ,
-{"isbn":"9784074418107","title":"おかいもの","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"","author":"前田まゆみ／著","description":"お買い物デビューを応援！“体験型お買い物絵本”で、初めてのお買物に出かける前後に、リアルお買物体験。","price":"1000","genre":"","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
+{"isbn":"9784074418107","title":"おかいもの","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784074418107.jpg","author":"前田まゆみ／著","description":"お買い物デビューを応援！“体験型お買い物絵本”で、初めてのお買物に出かける前後に、リアルお買物体験。","price":"1000","genre":"","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784074418275","title":"おさんぽ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"","author":"前田まゆみ／著","description":"お散歩デビューを応援！“体験型お散歩絵本”で、お散歩に出かける前後や、お散歩に行けない日も、リアルお散歩体験。","price":"1000","genre":"","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
+{"isbn":"9784074418275","title":"おさんぽ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784074418275.jpg","author":"前田まゆみ／著","description":"お散歩デビューを応援！“体験型お散歩絵本”で、お散歩に出かける前後や、お散歩に行けない日も、リアルお散歩体験。","price":"1000","genre":"","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784074418626","title":"魚焼きグリルを使ってラクにおいしく作りましょう","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"","author":"貝谷郁子／著","description":"強い火力であっという間に絶品料理が完成！　魚はもちろん肉や野菜も、うまみを閉じ込めてジューシーに！","price":"1100","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784074418626","title":"魚焼きグリルを使ってラクにおいしく作りましょう","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784074418626.jpg","author":"貝谷郁子／著","description":"強い火力であっという間に絶品料理が完成！　魚はもちろん肉や野菜も、うまみを閉じ込めてジューシーに！","price":"1100","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784074423187","title":"貼ればすぐ効く不思議な痛みとりシール＆切りとってすぐ使える厳選クスリ絵シート　豪華！シール倍増版","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"","author":"丸山修寛／著","description":"5刷を重ねた丸山修寛先生のムック第2弾。今回は、丸山先生厳選の「痛みとりシール」が、第1弾の倍の1064枚も付録","price":"1200","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
-{"isbn":"9784101004730","title":"新任刑事（上）","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"","author":"古野まほろ／著","description":"","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784101004730","title":"新任刑事（上）","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101004730.jpg","author":"古野まほろ／著","description":"","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101004747","title":"新任刑事（下）","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"","author":"古野まほろ／著","description":"","price":"670","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784101004747","title":"新任刑事（下）","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101004747.jpg","author":"古野まほろ／著","description":"","price":"670","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101018812","title":"球道恋々","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"","author":"木内昇／著","description":"","price":"1000","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784101018812","title":"球道恋々","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101018812.jpg","author":"木内昇／著","description":"","price":"1000","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101019512","title":"漂流","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"","author":"角幡唯介／著","description":"","price":"1000","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784101019512","title":"漂流","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101019512.jpg","author":"角幡唯介／著","description":"","price":"1000","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784101019710","title":"宮沢賢治の真実 修羅を生きた詩人","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"","author":"今野勉／著","description":"","price":"800","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784101019710","title":"宮沢賢治の真実 修羅を生きた詩人","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101019710.jpg","author":"今野勉／著","description":"","price":"800","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784101019819","title":"東京の異界 渋谷円山町","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"","author":"本橋信宏／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784101019819","title":"東京の異界 渋谷円山町","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101019819.jpg","author":"本橋信宏／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784101026053","title":"人とつき合う法","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"","author":"河盛好蔵／著","description":"","price":"550","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784101026053","title":"人とつき合う法","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101026053.jpg","author":"河盛好蔵／著","description":"","price":"550","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784101159331","title":"鞄に本だけつめこんで","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"","author":"群ようこ／著","description":"","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784101159331","title":"鞄に本だけつめこんで","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101159331.jpg","author":"群ようこ／著","description":"","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784101188287","title":"守教（上）","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"","author":"帚木蓬生／著","description":"","price":"750","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784101188287","title":"守教（上）","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101188287.jpg","author":"帚木蓬生／著","description":"","price":"750","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101188294","title":"守教（下）","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"","author":"帚木蓬生／著","description":"","price":"800","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784101188294","title":"守教（下）","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101188294.jpg","author":"帚木蓬生／著","description":"","price":"800","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101206172","title":"組長の妻、はじめます。","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"","author":"廣末登／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784101206172","title":"組長の妻、はじめます。","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101206172.jpg","author":"廣末登／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784101296241","title":"花になるらん 明治おんな繁盛記","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"","author":"玉岡かおる／著","description":"","price":"800","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784101296241","title":"花になるらん 明治おんな繁盛記","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101296241.jpg","author":"玉岡かおる／著","description":"","price":"800","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101412030","title":"やってよかった東京五輪","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"","author":"山口文憲／編集","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784101412030","title":"やってよかった東京五輪","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101412030.jpg","author":"山口文憲／編集","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784101801865","title":"トリガー 国家認定殺人者","volume":"","series":"新潮文庫ｎｅｘ（ネックス）","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101801865.jpg","author":"板倉俊之／著","description":"","price":"750","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784101801872","title":"暗号通貨クライシス","volume":"","series":"新潮文庫ｎｅｘ（ネックス）","publisher":"新潮社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784101801872.jpg","author":"福田和代／著","description":"","price":"750","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784120052958","title":"瀬戸内寂聴　「笑って生ききる」日めくりカレンダー","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784120052958.jpg","author":"瀬戸内寂聴／著","description":"作家として、僧侶として、たくさんの名言を残している瀬戸内寂聴さん。年齢を重ね、老いを受け入れ、周囲との人間関係や、家族のかたちも変わっていく中で、私たちは、その言葉によりどころを求めます。雑誌『婦人公論』に掲載された記事から厳選して書籍『笑って生ききる』を刊行。その中から毎日を悔いなく生きることができる珠玉の言葉31を選び、日めくりカレンダーに。","price":"1200","genre":"","target":"一般","format":"ムック・その他","content":""}
+,
+{"isbn":"9784198649852","title":"胡蝶綺異聞 胡蝶綺 若き信長より","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"笹野恵／著 中嶋敦子／イラスト","description":"幼き日の信長の素顔が描かれる！　ＴＶアニメ『胡蝶綺　～若き信長～』の「アニメージュ」連載ノベライズ作品。","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198650117","title":"「新型コロナ恐慌」後の世界","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"渡邉哲也／著","description":"消費税１０％の影響は？　五輪後の日本経済は？　日中雪解け、日韓対立、トランプ再選で、今後の日本に起こることを完全解説！","price":"1500","genre":"","target":"一般","format":"単行本","content":"経済・財政・統計"}
+,
+{"isbn":"9784198650278","title":"虫籠のカガステル　下","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"柴村仁／著 橋本花鳥／著","description":"ついに解き放たれた閉ざされた記憶――命に立ち向かえ。ＮＥＴＦＬＩＸオリジナルアニメーション化作品、渾身のノベライズ下巻。","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198650322","title":"１％の生活習慣を変えるだけで人生が輝き出すカイゼン・メソッド","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"サラ・ハーベイ／著 三宅康雄／翻訳","description":"これぞ、日本の魅力！仕事に疲れ人間関係に悩んでいたイギリス人女性が、日本で暮らして見つけた、らく～にできる自己カイゼン法","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784198650537","title":"公安狼","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"笹本稜平／著","description":"あの男に、極刑を含む可能な限りの刑罰を与えてやる――。","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198650636","title":"1980年の松田聖子","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"石田伸也／著","description":"デビュー４０周年を迎える松田聖子は稀代のアイドルとして女性たちの生き方まで変えた。実名徹底取材で描く全く新しい人物評伝。","price":"1300","genre":"芸能・タレント","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784198650643","title":"40代からはじめる　「腸活×菌活」完全マニュアル","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"藤田紘一郎／監修 田和璃佳／著","description":"日進月歩を遂げる腸活の最新知識とわかりやすい基礎知識を網羅した待望の一冊。藤田紘一郎氏と著者・田和璃佳氏との対談も収録","price":"1200","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784198650681","title":"日本プロ野球育成新論","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"大道典良／著","description":"千賀滉大、甲斐拓也。周東佑京はなぜ活躍するのか。ソフトバンクホークスの育成システムを現役コーチが解説する。","price":"1300","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
+,
+{"isbn":"9784198650742","title":"日本人が教えたい新しい世界史","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"宮脇淳子／著","description":"中国・韓国の言う歴史は政治であって、歴史ではない。これまでの国家と時代の枠組みを超えた新しい世界史を日本がつくる！","price":"900","genre":"社会科学","target":"一般","format":"単行本","content":"外国歴史"}
+,
+{"isbn":"9784198650872","title":"レムリアの波動に包まれた地球があなたを「幸せな変容」に導く","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"ほおじろえいいち／著","description":"レムリアの波動が地球を次元上昇させ、私たちに「幸せな変容」を起こし始めている。幸せの遺伝子をオンにするための方法を解説","price":"1600","genre":"","target":"一般","format":"単行本","content":"心理(学)"}
 ]
