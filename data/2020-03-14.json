@@ -57,7 +57,7 @@
 ,
 {"isbn":"9784047360266","title":"彼女が魔女に着替える時","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-03-14","cover":"https://cover.openbd.jp/9784047360266.jpg","author":"冬村蜜柑／著 青井秋／イラスト","description":"そのドレスを身に纏い、女たちは魔女になる──","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784047360549","title":"ケメンの先輩が実は不器用で鈍感でした","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-03-14","cover":"https://cover.openbd.jp/9784047360549.jpg","author":"野花さおり／著","description":"これから先も、ずっとずっと一緒にいましょう――","price":"680","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784047360549","title":"イケメンの先輩が実は不器用で鈍感でした","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-03-14","cover":"https://cover.openbd.jp/9784047360549.jpg","author":"野花さおり／著","description":"これから先も、ずっとずっと一緒にいましょう――","price":"680","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784047360556","title":"年上の彼は不機嫌につやめく","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-03-14","cover":"https://cover.openbd.jp/9784047360556.jpg","author":"げそたると／著","description":"そんな表情を見たら淫らになかせたくなる――","price":"680","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -79,7 +79,7 @@
 ,
 {"isbn":"9784106108525","title":"習近平ｖｓ．中国人","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2020-03-14","cover":"https://cover.openbd.jp/9784106108525.jpg","author":"宮崎紀秀／著","description":"上に政策あれば下に対策あり。在北京のジャーナリストが描いた「一党独裁」むき出しの現実。","price":"800","genre":"","target":"一般","format":"新書","content":"社会"}
 ,
-{"isbn":"9784106108532","title":"倉本聰の言葉 ドラマの中の名言","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2020-03-14","cover":"https://cover.openbd.jp/9784106108532.jpg","author":"碓井広義／編集","description":"「金なんか望む。倖せだけを見ろ」。巨匠の全作品から愛弟子が精選した四〇〇余点の名ゼリフ。","price":"720","genre":"","target":"一般","format":"新書","content":"演劇・映画"}
+{"isbn":"9784106108532","title":"倉本聰の言葉 ドラマの中の名言","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2020-03-14","cover":"https://cover.openbd.jp/9784106108532.jpg","author":"碓井広義／編集","description":"「金なんか望むな。倖せだけを見ろ」。巨匠の全作品から愛弟子が精選した四〇〇余点の名ゼリフ。","price":"720","genre":"","target":"一般","format":"新書","content":"演劇・映画"}
 ,
 {"isbn":"9784106108549","title":"トラックドライバーにも言わせて","volume":"","series":"新潮新書","publisher":"新潮社","pubdate":"2020-03-14","cover":"https://cover.openbd.jp/9784106108549.jpg","author":"橋本愛喜／著","description":"車体の特性から、とかく悪者にされがちなトラックの複雑な事情を、元ドライバーの著者が解説。","price":"760","genre":"","target":"一般","format":"新書","content":"交通・通信"}
 ,
@@ -154,4 +154,6 @@
 {"isbn":"9784338126571","title":"きょうりゅうたちのおーっとあぶない","volume":"","series":"","publisher":"小峰書店","pubdate":"2020-03-14","cover":"https://cover.openbd.jp/9784338126571.jpg","author":"ジェイン・ヨーレン／著 マーク・ティーグ／イラスト なかがわちひろ／翻訳","description":"「おーっと、あぶない！」元気いっぱいのきょうりゅうたちには、ひやっとする瞬間もいっぱい！どうやったら安全に楽しく遊べるかな？","price":"1400","genre":"児童図書","target":"児童","format":"絵本","content":"外国文学小説"}
 ,
 {"isbn":"9784338276122","title":"恐竜トリケラトプスとあくまのもり","volume":"","series":"","publisher":"小峰書店","pubdate":"2020-03-14","cover":"https://cover.openbd.jp/9784338276122.jpg","author":"黒川みつひろ／著・イラスト","description":"ないている恐竜のために「あくまのもり」にはいったトリケラトプス。おそろしいギガノトサウルスたちが、まちかまえていて…。","price":"1000","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784393111208","title":"如来出現と衆生利益 『大法鼓経』研究","volume":"","series":"","publisher":"春秋社","pubdate":"2020-03-14","cover":"https://cover.openbd.jp/9784393111208.jpg","author":"鈴木隆泰／著","description":"如来蔵思想が抱える、修行の必要性と煩悩の問題を論理的に解決しようとした『大法鼓経』を徹底検証した、画期的な論考。","price":"9200","genre":"哲学・宗教","target":"専門","format":"単行本","content":"仏教"}
 ]

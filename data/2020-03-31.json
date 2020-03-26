@@ -55,7 +55,9 @@
 ,
 {"isbn":"9784049131024","title":"女子中・高生の制服攻略本","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-03-31","cover":"https://cover.openbd.jp/9784049131024.jpg","author":"クマノイ／著","description":"制服について、わかる・語れる。この一冊で女子学生制服を完全攻略！","price":"2100","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784065187760","title":"きみに応援歌を　古関裕而物語","volume":"","series":"","publisher":"講談社","pubdate":"2020-03-31","cover":"","author":"大野益弘／著","description":"日本が誇る偉大なる作曲家・古関裕而とは？　ＮＨＫの連続テレビ小説「エール」の主人公の知られざるエピソードを名曲とともに綴る！","price":"1300","genre":"","target":"児童","format":"単行本","content":"伝記"}
+{"isbn":"9784065183960","title":"Aneひめ　vol．8","volume":"","series":"","publisher":"講談社","pubdate":"2020-03-31","cover":"","author":"講談社／編集","description":"かわいいが大好きなＪＳのための、本物おしゃれふろくつきＭＯＯＫ！","price":"980","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+,
+{"isbn":"9784065187760","title":"きみに応援歌を　古関裕而物語","volume":"","series":"","publisher":"講談社","pubdate":"2020-03-31","cover":"https://cover.openbd.jp/9784065187760.jpg","author":"大野益弘／著","description":"日本が誇る偉大なる作曲家・古関裕而とは？　ＮＨＫの連続テレビ小説「エール」の主人公の知られざるエピソードを名曲とともに綴る！","price":"1300","genre":"","target":"児童","format":"単行本","content":"伝記"}
 ,
 {"isbn":"9784097355830","title":"ポケットモンスター ソード・シールド シールコレクション","volume":"","series":"","publisher":"小学館","pubdate":"2020-03-31","cover":"https://cover.openbd.jp/9784097355830.jpg","author":"小学館／著","description":"400匹以上のポケモンがシールになった！ \n\n ゲーム『ポケットモンスター ソード・シールド』に登場するポケモン400匹がシールになって大集合！ キョダイマックスのすがたのカッコイイシールも収録！","price":"620","genre":"児童図書","target":"児童","format":"絵本","content":"絵画・彫刻"}
 ,
@@ -106,4 +108,12 @@
 {"isbn":"9784335358203","title":"条解行政不服審査法","volume":"","series":"条解シリーズ","publisher":"弘文堂","pubdate":"2020-03-31","cover":"https://cover.openbd.jp/9784335358203.jpg","author":"小早川光郎／編集 高橋滋／編集","description":"行政不服審査法の定番コンメンタールの最新版！","price":"12000","genre":"社会科学","target":"専門","format":"単行本","content":"法律"}
 ,
 {"isbn":"9784335358241","title":"入門アメリカ法","volume":"","series":"","publisher":"弘文堂","pubdate":"2020-03-31","cover":"https://cover.openbd.jp/9784335358241.jpg","author":"丸山英二／著","description":"","price":"2800","genre":"社会科学","target":"教養","format":"単行本","content":"法律"}
+,
+{"isbn":"9784344846333","title":"竜王子の天翔ける花","volume":"","series":"","publisher":"幻冬舎コミックス","pubdate":"2020-03-31","cover":"","author":"戸田環紀／著 小山田あみ／イラスト","description":"天涯孤独のルカは竜人族が住む国に召喚される。第一王子のヴィルヘルムに手厚く迎えられるが召喚された理由を一切教えてもらえず…？","price":"870","genre":"","target":"一般","format":"新書","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784344846371","title":"スマートさんぽ　ｉｎ　沖縄 小波津亜廉","volume":"","series":"","publisher":"幻冬舎コミックス","pubdate":"2020-03-31","cover":"","author":"スマートボーイズ／編集","description":"舞台「ハイキュー!!」など2.5次元作品で大人気！小波津亜廉が沖縄を地元民ならではの視点でスマートにさんぽ♪","price":"4000","genre":"芸能・タレント","target":"一般","format":"磁性媒体など","content":"諸芸・娯楽"}
+,
+{"isbn":"9784395320684","title":"「住む」ための事典","volume":"","series":"","publisher":"彰国社","pubdate":"2020-03-31","cover":"https://cover.openbd.jp/9784395320684.jpg","author":"篠原聡子／編集 黒石いずみ／編集 大月敏雄／編集 槻橋修／編集","description":"「住む」ことへの構想力を鍛え上げ、生活をゆたかに組み替えるために考える素材を提供する本。","price":"2450","genre":"工業・工学","target":"専門","format":"事・辞典","content":"建築"}
+,
+{"isbn":"9784395321490","title":"建築物の新給水給湯負荷算定法と実務設計","volume":"","series":"","publisher":"彰国社","pubdate":"2020-03-31","cover":"https://cover.openbd.jp/9784395321490.jpg","author":"村川三郎／著・編集 池田大輔／著 坂本和彦／著 高田宏／著","description":"本書は、膨大な基礎データを基に開発した給水給湯負荷算定プログラムを使用し、省エネルギー設計に活かせるよう解説したものである。","price":"6000","genre":"工業・工学","target":"専門","format":"単行本","content":"建築"}
 ]
