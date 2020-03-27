@@ -61,8 +61,6 @@
 ,
 {"isbn":"9784065193532","title":"ELLE　JAPON　2020年　5月号　「MARNI」花咲くワーキング手帳付き　特別版","volume":"","series":"","publisher":"ハースト婦人画報社","pubdate":"2020-03-28","cover":"","author":"ハースト婦人画報社／編集","description":"ＥＬＬＥ　ＪＡＰＯＮ　２０２０年　５月号　「ＭＡＲＮＩ」花咲くワーキング手帳付き　特別版","price":"891","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784065194973","title":"キナミトパンノホン","volume":"","series":"","publisher":"講談社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784065194973.jpg","author":"木南晴夏／著","description":"芸能界イチのパン好き、女優・木南晴夏がオススメするパン屋をまとめた自身初の著書。お気に入りのパン屋全４８軒が登場します。","price":"1600","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
-,
 {"isbn":"9784074411061","title":"ＭＯＲＩ　ＢＡＲ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"","author":"毛利隆雄／著","description":"伝説バーテンダー、Mr.マティーニ・毛利隆雄が半生を懸けて磨いてきたカクテルのテクニックと味の秘密を披露。豪華ハード版","price":"4000","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784074411580","title":"声優グランプリｐｌｕｓ　ｈｏｍｍｅ　ｖｏｌ．１","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784074411580.jpg","author":"主婦の友インフォス／編集","description":"声優グランプリが推したい男性声優をピックアップ！ハイクオリティなグラビアやレポートを大ボリューム特集でお届け！","price":"1800","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"写真・工芸"}
@@ -121,7 +119,7 @@
 ,
 {"isbn":"9784198650278","title":"虫籠のカガステル　下","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"柴村仁／著 橋本花鳥／著","description":"ついに解き放たれた閉ざされた記憶――命に立ち向かえ。ＮＥＴＦＬＩＸオリジナルアニメーション化作品、渾身のノベライズ下巻。","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784198650322","title":"１％の生活習慣を変えるだけで人生が輝き出すカイゼン・メソッド","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"サラ・ハーベイ／著 三宅康雄／翻訳","description":"これぞ、日本の力！仕事に疲れ人間関係に悩んでいたイギリス人女性が、日本で暮らして見つけた、らく～にできる自己カイゼン法","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784198650322","title":"１％の生活習慣を変えるだけで人生が輝き出すカイゼン・メソッド","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"サラ・ハーベイ／著 三宅康雄／翻訳","description":"これぞ、日本の魅力！仕事に疲れ人間関係に悩んでいたイギリス人女性が、日本で暮らして見つけた、らく～にできる自己カイゼン法","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784198650537","title":"公安狼","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"笹本稜平／著","description":"あの男に、極刑を含む可能な限りの刑罰を与えてやる――。","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
@@ -134,20 +132,4 @@
 {"isbn":"9784198650742","title":"日本人が教えたい新しい世界史","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"宮脇淳子／著","description":"中国・韓国の言う歴史は政治であって、歴史ではない。これまでの国家と時代の枠組みを超えた新しい世界史を日本がつくる！","price":"900","genre":"社会科学","target":"一般","format":"単行本","content":"外国歴史"}
 ,
 {"isbn":"9784198650872","title":"レムリアの波動に包まれた地球があなたを「幸せな変容」に導く","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-28","cover":"","author":"ほおじろえいいち／著","description":"レムリアの波動が地球を次元上昇させ、私たちに「幸せな変容」を起こし始めている。幸せの遺伝子をオンにするための方法を解説","price":"1600","genre":"","target":"一般","format":"単行本","content":"心理(学)"}
-,
-{"isbn":"9784326302888","title":"冷戦後の東アジア秩序","volume":"","series":"","publisher":"勁草書房","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784326302888.jpg","author":"佐橋亮／編集","description":"東アジアの国際秩序はどこから来て、どこへ向かうのか。主要国の認識、構想、そしてその帰結を追い、東アジアの将来を見定める。","price":"4200","genre":"社会科学","target":"専門","format":"単行本","content":"政治-含む国防軍事"}
-,
-{"isbn":"9784326451203","title":"民法3　親族法・相続法　第4版","volume":"","series":"","publisher":"勁草書房","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784326451203.jpg","author":"我妻榮／著 有泉亨／著 遠藤浩／著 川井健／著 野村豊弘／著","description":"小型でパワフル、名著ダットサン民法。債権法、相続法等の改正を盛り込み、さらにパワーアップした待望の改訂版。","price":"2200","genre":"社会科学","target":"専門","format":"単行本","content":"法律"}
-,
-{"isbn":"9784326698424","title":"美容資本 なぜ人は見た目に投資するのか","volume":"","series":"シリーズ　数理・計量社会学の応用","publisher":"勁草書房","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784326698424.jpg","author":"小林盾／著","description":"なぜ人びとは内面が大切だと思っていても、見た目を意識せざるをえないのか。ハンサムや美人は、ほんとうにモテて、幸せなのか。","price":"2700","genre":"社会科学","target":"専門","format":"全集・双書","content":"社会"}
-,
-{"isbn":"9784331804407","title":"別冊野球太郎 2020春","volume":"","series":"","publisher":"廣済堂出版","pubdate":"2020-03-28","cover":"","author":"","description":"例年の好評企画です。","price":"1391","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"体育・スポーツ"}
-,
-{"isbn":"9784341087609","title":"関東在住の育児ママでも成功した\"ワッキー流\"地方「５万円戸建て」投資！","volume":"","series":"","publisher":"ごま書房新社","pubdate":"2020-03-28","cover":"","author":"岩崎えり／著 脇田雄太／著","description":"銀行融資を使わない、令和トレンドの「少額不動産投資。\n「地方・激安戸建て投資成功者」の事例より初心者向け成功術…","price":"1600","genre":"","target":"一般","format":"単行本","content":"経営"}
-,
-{"isbn":"9784341087616","title":"借金地獄寸前のサラリーマン大家だった僕が、月収３００万円になった「４つ」の投資術","volume":"","series":"","publisher":"ごま書房新社","pubdate":"2020-03-28","cover":"","author":"KENJI／著","description":"サラリーマンが副業でコツコツ不動産投資を続けて月収３００万円超え！\nメディアも注目！物件を買わない「レンタルス…","price":"1600","genre":"","target":"一般","format":"単行本","content":"経営"}
-,
-{"isbn":"9784341132637","title":"大学入試 現代文・入門〈別冊付・書き込み式学習で偏差値アップ！〉","volume":"","series":"","publisher":"ごま書房新社","pubdate":"2020-03-28","cover":"","author":"長島康二／著","description":"入試の分れ目「現代文」。重要ポイントを「書き込む」ことですんなりマスター。","price":"1350","genre":"学参","target":"学参II(高校)","format":"単行本","content":"日本語"}
-,
-{"isbn":"9784385365183","title":"メロスはなぜ少女に赤面するのか","volume":"","series":"","publisher":"三省堂","pubdate":"2020-03-28","cover":"https://cover.openbd.jp/9784385365183.jpg","author":"鈴木昌弘／著","description":"テクストを根拠に「解」を求める過程こそ論理的思考である。「テクスト分析」の手法で、国語の授業を力強くサポートする。","price":"2000","genre":"教育","target":"教養","format":"単行本","content":"教育"}
 ]
