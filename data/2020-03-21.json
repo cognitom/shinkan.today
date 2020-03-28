@@ -73,7 +73,7 @@
 ,
 {"isbn":"9784141992905","title":"家族のため、わたしのため　からだのための常備菜","volume":"","series":"生活実用シリーズ","publisher":"NHK出版","pubdate":"2020-03-21","cover":"","author":"新谷友里江／著","description":"管理栄養士かつ料理研究家の著者が、最新の栄養学を踏まえつつ、誰もが手軽においしく食べられる四季の常備菜をたっぷりと紹介する。","price":"900","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
-{"isbn":"9784149110301","title":"ＮＨＫ　社会福祉セミナー　2020年4～9月","volume":"","series":"ＮＨＫシリーズ","publisher":"NHK出版","pubdate":"2020-03-21","cover":"","author":"","description":"福祉の基本や歴史、そして現状をそれぞれの分野のエキスパートが懇切ていねいに解説します。番組とともに学ぶ「社会福祉セミナー」。","price":"750","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"社会"}
+{"isbn":"9784149110301","title":"ＮＨＫ　社会福祉セミナー　2020年4～9月","volume":"","series":"ＮＨＫシリーズ","publisher":"NHK出版","pubdate":"2020-03-21","cover":"","author":"","description":"福祉の基本や歴史、そして現状をそれぞれの分野のキスパートが懇切ていねいに解説します。番組とともに学ぶ「社会福祉セミナー」。","price":"750","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"社会"}
 ,
 {"isbn":"9784198650407","title":"埼玉絶景散歩２ ～里山歩きと季節の花めぐり～","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-03-21","cover":"","author":"おでかけNA埼玉制作班／著","description":"埼玉県の魅力である里山歩き、低山ハイクのガイドブック「埼玉絶景散歩」の第二弾。","price":"1850","genre":"","target":"一般","format":"単行本","content":"旅行"}
 ,
@@ -102,4 +102,18 @@
 {"isbn":"9784297113216","title":"ゼロからはじめる　ドコモ AQUOS zero2　SH-01M スマートガイド","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-03-21","cover":"https://cover.openbd.jp/9784297113216.jpg","author":"技術評論社編集部／著","description":"2020年1月30日に発売されたハイエンドスマートフォン「AQUOS zero2 SH-01M」の解説書です。基本操作のほか、ドコモ固有のサービスやAQUOSシリーズ専用のアプリについても解説を行っています。","price":"1580","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
 ,
 {"isbn":"9784299003201","title":"にゃー SPECIAL FAN BOOK にゃーのマルチケース&ポーチ","volume":"","series":"","publisher":"宝島社","pubdate":"2020-03-21","cover":"https://cover.openbd.jp/9784299003201.jpg","author":"","description":"「にゃー」のSPECIAL FAN BOOKの最新号です。\n\n春夏の新作に加え、アウトドアシーズンにぴったりのアイテムもたっぷり紹介。\n\nスペシャルアイテムはスマホやコイン、カード、パスポートなどが入る、\n\n小さくても収納力抜群のマルチケースと、カラビナ付のミニポーチです。\n\n■付録サイズ マルチケース: W12cm×H17.5cm ポーチ: W12.5×H9.5cm","price":"1815","genre":"","target":"一般","format":"ムック・その他","content":"諸芸・娯楽"}
+,
+{"isbn":"9784315522242","title":"ニュートン式 超図解 最強にわかる!! 死とは何か","volume":"","series":"","publisher":"ニュートンプレス","pubdate":"2020-03-21","cover":"","author":"田沼靖一／監修","description":"","price":"900","genre":"","target":"実用","format":"単行本","content":"生物学"}
+,
+{"isbn":"9784315522259","title":"ニュートン式 超図解 最強に面白い!! 宇宙","volume":"","series":"","publisher":"ニュートンプレス","pubdate":"2020-03-21","cover":"","author":"佐藤勝彦／監修","description":"","price":"900","genre":"","target":"実用","format":"単行本","content":"天文・地学"}
+,
+{"isbn":"9784315522280","title":"A CURIOUS HISTORY 数学大百科","volume":"","series":"","publisher":"ニュートンプレス","pubdate":"2020-03-21","cover":"","author":"ジョエル・レビー／著","description":"","price":"2600","genre":"","target":"一般","format":"単行本","content":"数学"}
+,
+{"isbn":"9784315522297","title":"ザ・ヒストリー 科学大百科","volume":"","series":"","publisher":"ニュートンプレス","pubdate":"2020-03-21","cover":"","author":"トム・ジャクソン／著","description":"","price":"2500","genre":"","target":"一般","format":"単行本","content":"自然科学総記"}
+,
+{"isbn":"9784339013641","title":"騒音・振動","volume":"4","series":"音響学講座","publisher":"コロナ社","pubdate":"2020-03-21","cover":"https://cover.openbd.jp/9784339013641.jpg","author":"日本音響学会／編集 山本貢平／著・編集 橘秀樹／著 坂本慎一／著 福島昭則／著 尾本章／著 ほか","description":"大学院生・社会人向けの教科書として，大きく騒音，振動，低周波音の3分野に分けて解説。","price":"4800","genre":"工業・工学","target":"専門","format":"全集・双書","content":"電子通信"}
+,
+{"isbn":"9784339032284","title":"大学講義テキスト　古典制御","volume":"","series":"","publisher":"コロナ社","pubdate":"2020-03-21","cover":"https://cover.openbd.jp/9784339032284.jpg","author":"森泰親／著","description":"古典制御の概念や定理を，数値例や図を多用し丁寧に解説。復習と演習問題で学習効果アップ。","price":"2600","genre":"工業・工学","target":"専門","format":"単行本","content":"機械"}
+,
+{"isbn":"9784339052671","title":"農業食料工学ハンドブック","volume":"","series":"","publisher":"コロナ社","pubdate":"2020-03-21","cover":"https://cover.openbd.jp/9784339052671.jpg","author":"農業食料工学会／編集","description":"農業機械はもとよりセンシング技術や電子制御，自動化といった幅広い技術分野を体系的にまとめた。農業食料工学の知見に資する一冊。","price":"36000","genre":"工業・工学","target":"専門","format":"単行本","content":"農林業"}
 ]
