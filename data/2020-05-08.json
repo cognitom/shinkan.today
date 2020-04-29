@@ -103,13 +103,11 @@
 ,
 {"isbn":"9784121101075","title":"平成の経済政策はどう決められたか","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784121101075.jpg","author":"土居丈朗／著","description":"第２次安倍内閣の経済政策は小泉内閣と何が似ていて何が違うのか。諮問会議の民間議員を務めた経済学者たちが見た政策の理想と現実","price":"1800","genre":"","target":"教養","format":"全集・双書","content":"経済・財政・統計"}
 ,
-{"isbn":"9784121506870","title":"神になった日本人","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784121506870.jpg","author":"小松和彦／著","description":"空海、崇徳院、門、家康、西郷…。十一人の日本史のヒーローたち。誰が、なぜ、いつから彼らの魂を神として祀るようになったのか","price":"900","genre":"","target":"教養","format":"新書","content":"日本歴史"}
+{"isbn":"9784121506870","title":"神になった日本人","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784121506870.jpg","author":"小松和彦／著","description":"空海、崇徳院、将門、家康、西郷…。十一人の日本史のヒーローたち。誰が、なぜ、いつから彼らの魂を神として祀るようになったのか","price":"900","genre":"","target":"教養","format":"新書","content":"日本歴史"}
 ,
 {"isbn":"9784121506887","title":"宗教別 おもてなしマニュアル","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784121506887.jpg","author":"島田裕巳／著","description":"異教徒をもてなす際におさえておきたいポイントを宗教別に解説する入門書。ホテル、レストラン、観光地のスタッフも必見。","price":"820","genre":"","target":"教養","format":"新書","content":"社会"}
 ,
 {"isbn":"9784121506894","title":"お父さんは認知症","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784121506894.jpg","author":"田中亜紀子／著","description":"バブルＯＬだった著者が、独りで認知症の父と向き合うことに。子どものような父と娘の日々をコミカルに綴った介護奮闘記。","price":"800","genre":"","target":"教養","format":"新書","content":"社会"}
-,
-{"isbn":"9784167914561","title":"耳袋秘帖 眠れない凶四郎（四）","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-08","cover":"","author":"風野真知雄／著","description":"妻殺害の難事件は解決した。が、名奉行根岸の命により、不眠症がいまだ治らない凶四郎は江戸の夜を巡る。今度の魔物は一体何か？","price":"630","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784167914851","title":"僕が殺した人と僕を殺した人","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784167914851.jpg","author":"東山彰良／著","description":"一九八四年、台湾で四人の少年たちは友情を育んでいた。三十年後、人生の歯車は彼らを大きく変える。圧倒的熱量で描く青春ミステリ。","price":"700","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -134,6 +132,8 @@
 {"isbn":"9784167914950","title":"風と共にゆとりぬ","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784167914950.jpg","author":"朝井リョウ／著","description":"壮絶（かつ爆笑）な痔瘻の手術体験を綴った「肛門記」、日経新聞連載エッセイ他ゆとり世代の日々をひたすら楽しく描くエッセイ集。","price":"670","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784167914967","title":"苦汁100% 濃縮還元","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784167914967.jpg","author":"尾崎世界観／著","description":"処女小説が文壇を驚愕させた著者の日常と非日常。クリープハイプ結成10周年ライブ中の最新日記を加筆。苦みとうま味が増してます！","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784167914974","title":"すき焼きを浅草で","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784167914974.jpg","author":"平松洋子／著 下田昌克／イラスト","description":"銀座のせりそば、小倉のカクテル、仙台の中華そば。イノシシに悶絶し、家では作り慣れた塩卵に油揚げカレー。大人気シリーズ最新刊。","price":"670","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784167914981","title":"ヒヨコの蠅叩き","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784167914981.jpg","author":"群ようこ／著","description":"母が土地を衝動買いしてしまうハプニングにもめげず、失礼なタクシー運転手には肘鉄を食らわす。毎日ハプニング続出の痛快エッセイ。","price":"630","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
@@ -170,4 +170,10 @@
 {"isbn":"9784253254083","title":"おひ釣りさま  5","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784253254083.jpg","author":"とうじたつや／著","description":"おひ釣りさまセイラ、フライフィッシングに挑む!タイラバ・ハゼクラなど話題の釣法もしっかり描きます!そしてバトル展開も…!?","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784253254724","title":"パトラスでニューゲーム！  1","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-08","cover":"","author":"明方いるか／著 日本アニメーション／監修","description":"不運な死を遂げた二人の男が目を覚ますと目の前には神様が!!ゲーム特化型世界へ、ラス〇ルとパト〇ッシュになって異世界転生!?","price":"900","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784323074597","title":"グレタ・トゥーンベリ","volume":"","series":"","publisher":"金の星社","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784323074597.jpg","author":"ヴィヴィアナマッツァ／著 赤塚きょう子／翻訳","description":"17歳の少女グレタは何を思い、わたしたちに、何を伝えたいのか。彼女自身の言葉や彼女を取り巻く人々の動きとともに知る。","price":"1300","genre":"児童図書","target":"児童","format":"単行本","content":"外国文学、その他"}
+,
+{"isbn":"9784323074627","title":"オリンピックせんしゅになりたいな","volume":"","series":"","publisher":"金の星社","pubdate":"2020-05-08","cover":"","author":"城井文／著・イラスト","description":"","price":"1300","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784330016191","title":"鉄道花札 てつふだ","volume":"","series":"","publisher":"交通新聞社","pubdate":"2020-05-08","cover":"","author":"","description":"日本全国を走るJRの鉄道をテーマにした花札が新登場！　通常の花札の遊び方に加え、マニア心をくすぐる小ネタ役も。","price":"1600","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ]
