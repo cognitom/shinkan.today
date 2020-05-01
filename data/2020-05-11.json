@@ -1,5 +1,5 @@
 [
-{"isbn":"9784000237437","title":"『存在と時間』第2篇評釈","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-05-11","cover":"","author":"須藤訓任／著","description":"一語一語に向き合い、みずからの力で、二十世紀最大の哲学書を「わかる」ものにする。","price":"11000","genre":"哲学・宗教","target":"専門","format":"単行本","content":"哲学"}
+{"isbn":"9784000237437","title":"『存在と時間』第2篇評釈","volume":"","series":"","publisher":"岩波書店","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784000237437.jpg","author":"須藤訓任／著","description":"一語一語に向き合い、みずからの力で、二十世紀最大の哲学書を「わかる」ものにする。","price":"11000","genre":"哲学・宗教","target":"専門","format":"単行本","content":"哲学"}
 ,
 {"isbn":"9784047360808","title":"生理ちゃん　３日目","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784047360808.jpg","author":"小山健／著","description":"第23回手塚治虫文化賞［短編賞］受賞作！","price":"1200","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -19,11 +19,11 @@
 ,
 {"isbn":"9784053043665","title":"金谷の日本史単語帳","volume":"","series":"","publisher":"学研プラス","pubdate":"2020-05-11","cover":"","author":"金谷俊一郎／著","description":"「２０秒講義で流れがわかる」＋「流れとひもづけて覚えられる単語帳形式」カリスマ講師金谷俊一郎による超効率的メソッド！","price":"1400","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"日本歴史"}
 ,
-{"isbn":"9784053046963","title":"イチから鍛える生物演習１０ｍｉｎ．","volume":"","series":"大学受験ＴＥＲＩＯＳ","publisher":"学研プラス","pubdate":"2020-05-11","cover":"","author":"佐野恵美子／著 河崎健吾／著","description":"１０分以内で解くべき問題で構成された生物の問題集。知識問題、計算問題、記述問題を中心に構成。基本問題を多数掲載。","price":"1350","genre":"学参","target":"学参II(高校)","format":"単行本","content":"生物学"}
+{"isbn":"9784053046963","title":"イチから鍛える生物演習１０ｍｉｎ．","volume":"","series":"大学受験ＴＥＲＩＯＳ","publisher":"学研プラス","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784053046963.jpg","author":"佐野恵美子／著 河崎健吾／著","description":"１０分以内で解くべき問題で構成された生物の問題集。知識問題、計算問題、記述問題を中心に構成。基本問題を多数掲載。","price":"1350","genre":"学参","target":"学参II(高校)","format":"単行本","content":"生物学"}
 ,
-{"isbn":"9784053047427","title":"イチから鍛える化学演習１０ｍｉｎ．","volume":"","series":"大学受験ＴＥＲＩＯＳ","publisher":"学研プラス","pubdate":"2020-05-11","cover":"","author":"安東靖／著","description":"１０分以内で解くべき問題で構成された化学基礎・化学の問題集。知識問題、計算問題を中心に構成。基本問題を多数掲載。","price":"1350","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"化学"}
+{"isbn":"9784053047427","title":"イチから鍛える化学演習１０ｍｉｎ．","volume":"","series":"大学受験ＴＥＲＩＯＳ","publisher":"学研プラス","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784053047427.jpg","author":"安東靖／著","description":"１０分以内で解くべき問題で構成された化学基礎・化学の問題集。知識問題、計算問題を中心に構成。基本問題を多数掲載。","price":"1350","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"化学"}
 ,
-{"isbn":"9784053048097","title":"イチから鍛える物理演習１０ｍｉｎ．","volume":"","series":"大学受験ＴＥＲＩＯＳ","publisher":"学研プラス","pubdate":"2020-05-11","cover":"","author":"木村亮太／著","description":"１０分以内で解くべき問題で構成された物理基礎・物理の問題集。知識問題、計算問題を中心に構成。基本問題を多数掲載。","price":"1300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"物理学"}
+{"isbn":"9784053048097","title":"イチから鍛える物理演習１０ｍｉｎ．","volume":"","series":"大学受験ＴＥＲＩＯＳ","publisher":"学研プラス","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784053048097.jpg","author":"木村亮太／著","description":"１０分以内で解くべき問題で構成された物理基礎・物理の問題集。知識問題、計算問題を中心に構成。基本問題を多数掲載。","price":"1300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"物理学"}
 ,
 {"isbn":"9784054067752","title":"スマホ人生戦略　お金・教養・フォロワー３５の行動スキル","volume":"","series":"","publisher":"学研プラス","pubdate":"2020-05-11","cover":"","author":"堀江貴文／著","description":"ホリエモンのスマホの使い方はあなたと同じだが、見ている景色は異なる。お金、教養、時間……すべてを手に入れるスキルを公開。","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
@@ -36,4 +36,16 @@
 {"isbn":"9784065197653","title":"人類最強のsweetheart","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784065197653.jpg","author":"西尾維新／著 竹／著","description":"不屈の赤・哀川潤。彼女は決して止まらない。《最強》シリーズ、完結！","price":"800","genre":"","target":"一般","format":"新書","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065201251","title":"高杉さんのチビヤンヒーロー　2","volume":"","series":"","publisher":"星海社","pubdate":"2020-05-11","cover":"","author":"とみさー／著","description":"高身長陰キャ女子・高杉さんと低身長ヤンキー男子・正勝くん。身長も性格も真逆でアンバランスなふたりの凸凹青春ラブコメ、第２巻！","price":"680","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784140886168","title":"移動革命","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-05-11","cover":"","author":"三菱総合研究所／著","description":"ＥＶ・自動運転・シェアリング。立ち上がるモビリティ関連市場。誰が覇権を握るのか? 激動の業界を徹底追跡!!","price":"800","genre":"","target":"一般","format":"新書","content":"経済・財政・統計"}
+,
+{"isbn":"9784140886229","title":"もっと試験に出る哲学","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-05-11","cover":"","author":"斎藤哲也／著","description":"ブッダに道元、西田幾多郎まで。「センター倫理」厳選26問を解き、解説とイラストを楽しむうちに、基本知識が速攻で身につく。","price":"900","genre":"","target":"一般","format":"新書","content":"哲学"}
+,
+{"isbn":"9784140886236","title":"２０２５年のデジタル資本主義","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-05-11","cover":"","author":"田中道昭／著","description":"巨大テック企業による富の独占に抗い、世界で高まる個人情報保護の機運。デジタル資本主義が進展する中で、次に覇権を握る者とは？","price":"900","genre":"","target":"一般","format":"新書","content":"経済・財政・統計"}
+,
+{"isbn":"9784140886243","title":"今ここを生きる勇気","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-05-11","cover":"","author":"岸見一郎／著","description":"ギリシア哲学・アドラー心理学から、家族論・教育論まで、ベストセラー『嫌われる勇気』の著者による講義形式の新書が初登場！","price":"800","genre":"","target":"一般","format":"新書","content":"哲学"}
+,
+{"isbn":"9784163912059","title":"死者との対話","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784163912059.jpg","author":"石原慎太郎／著","description":"作家として政治家として活躍してきた著者も齢八十七を迎えた。忍び寄る死の影をも直視しつつ綴った珠玉の七編を収録した最新短編集。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784262160382","title":"化粧劇場　わたしたちが本当に知りたいメイク術","volume":"","series":"","publisher":"池田書店","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784262160382.jpg","author":"イガリシノブ／監修 劇団雌猫／監修","description":"メイクで、“自分の顔を愛する、育てる”をはじめる！","price":"1400","genre":"","target":"実用","format":"単行本","content":"家事"}
 ]
