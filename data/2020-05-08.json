@@ -141,7 +141,7 @@
 ,
 {"isbn":"9784167915001","title":"まるごと 腐女子のつづ井さん","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784167915001.jpg","author":"つづ井／著","description":"ボーイズラブにハマったオタク=腐女子の日常を描いたコミックエッセイ。BLに限らず、何かにハマった人の共感を呼ぶ楽しい日々。","price":"900","genre":"","target":"一般","format":"文庫","content":"コミックス・劇画"}
 ,
-{"isbn":"9784167915018","title":"その日の後刻に","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784167915018.jpg","author":"グレイス・ペイリー／著 村上春樹／翻訳","description":"生涯に三冊の作品集を残したグレイス・ペイリーの上春樹訳が完結。十七の短篇とエッセイ、ロングインタビュー、訳者あとがき。","price":"820","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
+{"isbn":"9784167915018","title":"その日の後刻に","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784167915018.jpg","author":"グレイス・ペイリー／著 村上春樹／翻訳","description":"生涯に三冊の作品集を残したグレイス・ペイリーの村上春樹訳が完結。十七の短篇とエッセイ、ロングインタビュー、訳者あとがき。","price":"820","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
 {"isbn":"9784167915025","title":"2020年・米朝核戦争","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784167915025.jpg","author":"ジェフリー・ルイス／著 土方奈美／翻訳","description":"二〇二〇年、米朝間で核戦争勃発。北朝鮮による韓国旅客機撃墜に始まる悪夢のシナリオ。元米国防省高官が各国政治家の実名で描く。","price":"850","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
@@ -170,4 +170,8 @@
 {"isbn":"9784253254083","title":"おひ釣りさま  5","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784253254083.jpg","author":"とうじたつや／著","description":"おひ釣りさまセイラ、フライフィッシングに挑む!タイラバ・ハゼクラなど話題の釣法もしっかり描きます!そしてバトル展開も…!?","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784253254724","title":"パトラスでニューゲーム！  1","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-08","cover":"","author":"明方いるか／著 日本アニメーション／監修","description":"不運な死を遂げた二人の男が目を覚ますと目の前には神様が!!ゲーム特化型世界へ、ラス〇ルとパト〇ッシュになって異世界転生!?","price":"900","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784323074597","title":"グレタ・トゥーンベリ","volume":"","series":"","publisher":"金の星社","pubdate":"2020-05-08","cover":"https://cover.openbd.jp/9784323074597.jpg","author":"ヴィヴィアナマッツァ／著 赤塚きょう子／翻訳","description":"17歳の少女グレタは何を思い、わたしたちに、何を伝えたいのか。彼女自身の言葉や彼女を取り巻く人々の動きとともに知る。","price":"1300","genre":"児童図書","target":"児童","format":"単行本","content":"外国文学、その他"}
+,
+{"isbn":"9784323074627","title":"オリンピックせんしゅになりたいな","volume":"","series":"","publisher":"金の星社","pubdate":"2020-05-08","cover":"","author":"城井文／著・イラスト","description":"","price":"1300","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
 ]
