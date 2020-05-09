@@ -5,11 +5,11 @@
 ,
 {"isbn":"9784022516879","title":"身のある話と、歯に詰まるワタシ","volume":"","series":"","publisher":"朝日新聞出版","pubdate":"2020-05-20","cover":"","author":"尾崎世界観／著","description":"","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784023318700","title":"「わがまま」がチームを強くする。","volume":"","series":"","publisher":"朝日新聞出版","pubdate":"2020-05-20","cover":"","author":"サイボウズチームワーク総研／著","description":"","price":"1600","genre":"","target":"一般","format":"単行本","content":"経営"}
+{"isbn":"9784023318700","title":"「わがまま」がチームを強くする。","volume":"","series":"","publisher":"朝日新聞出版","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784023318700.jpg","author":"サイボウズチームワーク総研／著","description":"わがままは「社会を変えるかもしれないアイデア」である。社員のわがままを大切にして12年連続シェアNo.1の会社「サイボウズ」","price":"1400","genre":"","target":"一般","format":"単行本","content":"経営"}
 ,
-{"isbn":"9784023318748","title":"文豪の謝罪・悪口・切り返し","volume":"","series":"","publisher":"朝日新聞出版","pubdate":"2020-05-20","cover":"","author":"山口謠司／著","description":"","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784023318748","title":"文豪の悪態","volume":"","series":"","publisher":"朝日新聞出版","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784023318748.jpg","author":"山口謠司／著","description":"「青鯖が空に浮かんだような顔」「オタンチン・パレオロガス」……明治・大正・昭和に活躍した文豪が放った皮肉・罵倒の語彙とは。文","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784023318755","title":"続・日本人はこうして歯を失っていく　専門医が教える全身の健康につながる歯周病","volume":"","series":"","publisher":"朝日新聞出版","pubdate":"2020-05-20","cover":"","author":"日本歯周病学会・日本臨床歯周病学／著","description":"","price":"720","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
+{"isbn":"9784023318755","title":"続・日本人はこうして歯を失っていく　専門医が教える全身の健康につながる歯周病","volume":"","series":"","publisher":"朝日新聞出版","pubdate":"2020-05-20","cover":"","author":"日本歯周病学会・日本臨床歯周病学／著","description":"日本歯周病学会・日本臨床歯周病学会が歯周病の正しい情報を解説する公式本第２弾。歯周病は歯を失う原因１位だけでなく、糖尿病や心","price":"720","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
 ,
 {"isbn":"9784023333222","title":"エコクラフトのかご屋さん　編んで使って楽しむ","volume":"","series":"","publisher":"朝日新聞出版","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784023333222.jpg","author":"古木明美／著 古木明美／著","description":"メルカドバッグやサークルバッグなど、流行のデザインを取り入れたエコクラフトで作るかごバッグの作品集。技法は人気の編む作品が多","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
@@ -79,15 +79,15 @@
 ,
 {"isbn":"9784087441130","title":"森まゆみと読む 林芙美子 「放浪記」","volume":"","series":"","publisher":"集英社","pubdate":"2020-05-20","cover":"","author":"森まゆみ／著","description":"社会の底辺で叫ぶ若き芙美子の飾らない生の声が迸る「放浪記」原本。後世の手が入っていないこの版の魅力を森まゆみが紹介する。","price":"850","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784087441147","title":"時代小説傑作選 土方歳三がゆく","volume":"","series":"","publisher":"集英社","pubdate":"2020-05-20","cover":"","author":"細谷正充／編集","description":"門井慶喜、北原亞以子、早乙女貢、羽山信樹、火坂雅志、中村彰彦。鬼の新選組副長・土方歳三の素顔に迫る時代小説アンソロジー。","price":"580","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784087441147","title":"時代小説傑作選 土方歳三がゆく","volume":"","series":"","publisher":"集英社","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784087441147.jpg","author":"細谷正充／編集","description":"門井慶喜、北原亞以子、早乙女貢、羽山信樹、火坂雅志、中村彰彦。鬼の新選組副長・土方歳三の素顔に迫る時代小説アンソロジー。","price":"580","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784087441154","title":"水晶庭園の少年たち 喪に服す電気石","volume":"","series":"水晶庭園の少年たち","publisher":"集英社","pubdate":"2020-05-20","cover":"","author":"蒼月海里／著","description":"き父の遺品であるトルマリンを処分しようとする少年・天音に樹は……。鉱物の魅力をふんだんに盛り込んだ青春小説第4弾。","price":"500","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784087441154","title":"水晶庭園の少年たち 喪に服す電気石","volume":"","series":"水晶庭園の少年たち","publisher":"集英社","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784087441154.jpg","author":"蒼月海里／著","description":"亡き父の遺品であるトルマリンを処分しようとする少年・天音に樹は……。鉱物の魅力をふんだんに盛り込んだ青春小説第4弾。","price":"500","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784087441161","title":"なんて嫁だ めおと相談屋奮闘記","volume":"","series":"よろず相談屋繁盛記","publisher":"集英社","pubdate":"2020-05-20","cover":"","author":"野口卓／著","description":"波乃を伴侶に迎えた信吾。相談屋には今日も珍客が訪れる。ある客を波乃が相手することになり……。痛快爽快青春時代小説、新展開！","price":"640","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784087441178","title":"ばけもの好む中将 九 真夏の夜の夢まぼろし","volume":"","series":"ばけもの好む中将","publisher":"集英社","pubdate":"2020-05-20","cover":"","author":"瀬川貴次／著","description":"夏の離宮での宴に出掛けた宣能と宗孝。この場所では過去に陰惨な殺人が行われ、今も怨霊が出ると聞いて色めき立つ宣能は……!?","price":"550","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784087441178","title":"ばけもの好む中将 九 真夏の夜の夢まぼろし","volume":"","series":"ばけもの好む中将","publisher":"集英社","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784087441178.jpg","author":"瀬川貴次／著","description":"夏の離宮での宴に出掛けた宣能と宗孝。この場所では過去に陰惨な殺人が行われ、今も怨霊が出ると聞いて色めき立つ宣能は……!?","price":"550","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784087441185","title":"焼け跡の高校教師","volume":"","series":"","publisher":"集英社","pubdate":"2020-05-20","cover":"","author":"大城立裕／著","description":"戦後の沖縄。教科書はないけれど、終戦の開放感と希望にあふれた若者たちと、22歳の新米国語教師の青春。自伝的小説。書き下ろし。","price":"500","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784087441185","title":"焼け跡の高校教師","volume":"","series":"","publisher":"集英社","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784087441185.jpg","author":"大城立裕／著","description":"戦後の沖縄。教科書はないけれど、終戦の開放感と希望にあふれた若者たちと、22歳の新米国語教師の青春。自伝的小説。書き下ろし。","price":"500","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784087441192","title":"帝都妖怪ロマンチカ 〜 狐火の火遊び 〜","volume":"","series":"帝都妖怪ロマンチカ","publisher":"集英社","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784087441192.jpg","author":"真堂樹／著","description":"令嬢が集う女学校の寄宿舎で狐火が目撃された。謎を解くため潜入する心理学者の嘉寿哉とお供の猫又・弐矢だが…？　あやかし浪漫譚。","price":"620","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -132,4 +132,76 @@
 {"isbn":"9784166612635","title":"県警VS暴力団 刑事が見たヤクザの真実","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-20","cover":"","author":"藪正孝／著","description":"警察官人生を通じ暴力団対策とりわけ凶暴として知られた工藤會対策に従事した刑事が明かす、暴力団との戦いのこれまでとこれから。","price":"850","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784166612642","title":"遊王 徳川家斉","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-20","cover":"","author":"岡崎守恭／著","description":"五十年も将軍の座につき、華やかな文化文政の世を築いた家斉。子沢山ばかりが取り上げられがちな将軍の統治手法と魅力を解き明かす。","price":"850","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784251065742","title":"オオカミの旅","volume":"","series":"","publisher":"あかね書房","pubdate":"2020-05-20","cover":"","author":"ロザンナ・パリー／著 モニカ・アルミーニョ／イラスト","description":"敵の襲撃によって家族を失った若いオオカミ。自分の故郷を作るために旅立ったスウィフトの苦難と成長、冒険えがいた作品。","price":"1400","genre":"児童図書","target":"児童","format":"単行本","content":"外国文学小説"}
+,
+{"isbn":"9784253140270","title":"明日クビになりそう  2","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784253140270.jpg","author":"サレンダー橋本／著","description":"宮本にリストラの危機??社長室に呼ばれたクズの運命は…??新たなるクズも登場し、波乱が走る第2巻！","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253140409","title":"運びの犬  2","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784253140409.jpg","author":"清水ヤスヲミ／著","description":"千年に一人の美少女・ココアをAV女優させる「運び」の任務を遂行中、頭部を狙撃されたイヌイ。予測不能の運び屋ストーリー！","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253142328","title":"新しい上司はど天然  2","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784253142328.jpg","author":"いちかわ暖／著","description":"1巻発売即大重版！\n2019年WEBマンガ総選挙第1位！！\n\n桃瀬が朝目覚めると、何故か主任の家にいて…！？\nかまってちゃん課長と金城の初出張など新作エピソード盛りだくさん！\n主任の、ど天然っぷりがますます可愛い?第２巻！\n大好評の描き下ろしも４０P超あり！！","price":"815","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253152303","title":"クズ!! ～アナザークローズ九頭神竜男～  19","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784253152303.jpg","author":"鈴木大／著","description":"九頭神竜男と天馬奏翔、ついに激突した二人の“クズ”。はたしてどちらがこの因縁の戦いを制するのか…!?そして暗躍する謎の影…!","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253236782","title":"サエイズム  8","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"","author":"内水融／著","description":"美沙緒と親しい者たちを次々と消し、孤独にすることでついに美沙緒を手に入れることができた冴。だが冴の行動に不信感を抱き始め…？","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253238342","title":"神呪のネクタール  9","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784253238342.jpg","author":"吉野弘幸／著 佐藤健悦／著","description":"学園の麻薬汚染を追うカイとノエルに、地下迷宮の魔獣が襲い掛かる！　陰謀錯綜するアルビオン宮廷で明かされる惨劇の真相とは!?","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253239059","title":"絢爛たるグランドセーヌ  15","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"","author":"Cuvie／著","description":"「第四回ミッドサマー・バレエ・ガラ」当日、奏と暁人はバレエの演目『パリの炎』をパ・ドゥ・ドゥで踊るため、舞台の上に立つ。","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253239530","title":"瞳ちゃんは人見知り  3","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"","author":"夏海ちょりすけ／著","description":"怖そうな見た目とは裏腹に優しくて照れ屋(あと発育良好)な瞳ちゃんと、彼女のことが気になっていた先輩・宇佐見くんが急接近!?","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253256773","title":"ジェイソン先生とおいしい食卓  2","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784253256773.jpg","author":"龍牙翔／著","description":"絶賛引きこもり中の超人気漫画家を説得することになった新人編集者がとったある方法。それは先生においしい御飯を作る事！","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253257541","title":"性食鬼  14","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784253257541.jpg","author":"稲光伸二／著","description":"狛江の“愛”により、いずみの女王化が解除。しかし、新女王となった高幡から王子が誕生してしまう！ 性食鬼新章突入の第１４巻！","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253300018","title":"角栄に花束を  1","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784253300018.jpg","author":"大和田秀樹／著","description":"大和田秀樹の新作はなんと「田中角栄」。100万部本「天才」など書籍大ヒット連発の角栄モノがついに漫画に！ 昭和立志伝開幕!","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253300216","title":"我にチートを ～ハズレチートの召喚勇者は異世界でゆっくり暮らしたい～ 1","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784253300216.jpg","author":"温泉卵／著 山田モジ美／著","description":"ある日突然異世界に転移したサブロウ。召喚ボーナスは運+1。ハズレ勇者に認定された彼は人形姫と共にスローライフを始めるが?","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253300414","title":"あさこ  1","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784253300414.jpg","author":"よしだもろへ／著","description":"1996年夏、田舎で暮らす11才の少年・青島将司。そんな彼の前に謎の美女・あさこが現れる。彼女との交流で将司の心はざわめき","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253300612","title":"３３３APP  1","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784253300612.jpg","author":"彭傑／著","description":"人間を消すことができる殺人アプリを入手した少女達。だが誰かを消さねば自分が消える。…人が人を殺すとき、そこに正義はあるか!?","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253300810","title":"ウラアカジョシ  1","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784253300810.jpg","author":"七保志天十／著","description":"女子が裏の顔を綴るアカウント、それが『ウラアカ』。彼女たちの秘密の欲望が招くヤバい”結末”とはーー!?","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253301015","title":"性食鬼 Aliens Meet Girls  1","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784253301015.jpg","author":"稲光伸二／著 RustySoul 或十せねか／著","description":"首都圏で連続強姦事件が発生。所轄の女刑事・橘が捜査にあたるが、事件現場で橘が触れた液体は「精液」ではなく…。","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784255011776","title":"認知症にならない29の習慣","volume":"","series":"","publisher":"朝日出版社","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784255011776.jpg","author":"鎌田實／著","description":"72歳の鎌田医師が教える「ボケないために今日からできること」。","price":"1280","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784299002365","title":"書き込み式でみるみる痩せる! 月曜断食ノート","volume":"","series":"","publisher":"宝島社","pubdate":"2020-05-20","cover":"","author":"関口賢／著","description":"お金、道具、特別な運動は必要なし。簡単なルールだけでOK!\n圧倒的支持を集める最強ダイエット「月曜断食」のための専用ノートができました。\n進め方やルールを豊富なビジュアルでわかりやすく紹介、\nさらに簡単で続けやすい8週間分の書き込み式ノートで、\nあなたの「月曜断食」を成功へと導きます。\n体験者のリアルなクチコミ204件に、関口先生のアドバイスもたっぷり収録。\nついつい食べすぎてしまう人、ズボラで飽きっぽい人、\n最近家にこもりがちな人にオススメの一冊です。\n\n【月曜断食ノートのここがスゴイ】\n・チェック欄の記入だけで、ズボラさんも続けやすい!\n・1週間ごとのまとめページで、振り返りができる!\n・“月曜”以外も設定できるので、生活に合わせられる!\n\n【CONTENTS】\n■月曜断食でみるみる体重が落ちるワケ\n■さあはじめよう! 月曜断食(進め方とルール、Q&A、体験者の声)\n■書き込み式ノートでみるみる痩せる(月曜断食ノートの使い方)\n■月曜断食ノート 8週間チャレンジ","price":"880","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
+,
+{"isbn":"9784299003850","title":"これが世界標準! 科学が証明した最強の筋トレ","volume":"","series":"","publisher":"宝島社","pubdate":"2020-05-20","cover":"","author":"庵野拓将／監修","description":"アスリートのトレーナーや理学療法士として、これまで延べ6万人の体づくりに携わってきた監修者が、世界の最新研究論文に基づいてさまざまな筋トレメソッドを紹介。筋トレの王道「ビッグ3」(スクワット、ベンチプレス、デッドリフト)から筋肉が喜ぶスペシャルレシピまで、効率的に正しく筋肉を付けるためのメソッドをビジュアルで解説する、世界最先端の筋トレ本!!","price":"1300","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784299004444","title":"1輪から愉しむ 花のある暮らし","volume":"","series":"","publisher":"宝島社","pubdate":"2020-05-20","cover":"","author":"","description":"TVの趣味番組では「花と暮らす」テーマが人気を集めており、季節の花が定期的に届くサブスクリプションも多数登場。SNSの人気のアカウントでは、お部屋のインテリアとして花が登場することも多く、花のある暮らしに憧れる人が増えています。本誌では、花一輪の飾り方、花の買い方、花器の選び方などを丁寧にレッスン。花屋さんで気軽に買える花の名前や花言葉がわかる花図鑑つき。花のある暮らしをスタートする人のための一冊です。","price":"680","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
+,
+{"isbn":"9784299004604","title":"あのプロ野球選手の少年時代","volume":"","series":"","publisher":"宝島社","pubdate":"2020-05-20","cover":"","author":"花田雪／著・編集","description":"あのプロ野球選手は、子どものときから天才・怪物だったのか? 侍JAPANに名を連ねる日本を代表する選手たちの少年時代を家族、指導者(小・中学校)、友人、そして本人に取材した記録集です。甲子園での活躍は知っているものの、さらに遡った少年時代のエピソードとなると、知らないことばかり。いったいどんな練習をしてきたのか。そして、家族の支え、恩師、仲間との出会いにより、いかにして日本代表に名を刻む選手に成長したのかがわかる一冊です。","price":"1500","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
+,
+{"isbn":"9784309980119","title":"新選組〈増補新版〉","volume":"","series":"文藝別冊","publisher":"河出書房新社","pubdate":"2020-05-20","cover":"","author":"河出書房新社編集部／編集","description":"さらに注目著しい新選組の全貌に様々な角度から迫る総特集。元版は2001年刊。増補に、明治に起きた元隊士の大事件など。","price":"1400","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"日本歴史"}
+,
+{"isbn":"9784313151123","title":"市民と行政がタッグを組む！生駒市発！『自治体3.0』のまちづくり","volume":"","series":"","publisher":"学陽書房","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784313151123.jpg","author":"小紫雅史／著","description":"生駒市による最先端のまちづくりの視点、理論、実践がこの１冊で全てわかる！","price":"1800","genre":"","target":"一般","format":"単行本","content":"経営"}
+,
+{"isbn":"9784313161634","title":"事例でわかる！ここまでできる！自治体の実践ＲＰＡ","volume":"","series":"","publisher":"学陽書房","pubdate":"2020-05-20","cover":"https://cover.openbd.jp/9784313161634.jpg","author":"津田博／著・編集 森正治／著","description":"自治体ＲＰＡ導入による効果、検討点、導入の実際について事例をふまえ、まとめた1冊！","price":"2400","genre":"","target":"専門","format":"単行本","content":"社会"}
+,
+{"isbn":"9784315522433","title":"ニュートン式 超図解 最強に面白い!! 数学 図形編","volume":"","series":"","publisher":"ニュートンプレス","pubdate":"2020-05-20","cover":"","author":"","description":"","price":"900","genre":"","target":"実用","format":"単行本","content":"数学"}
+,
+{"isbn":"9784315522440","title":"ニュートン式 超図解 最強に面白い!! 無の科学","volume":"","series":"","publisher":"ニュートンプレス","pubdate":"2020-05-20","cover":"","author":"","description":"","price":"900","genre":"","target":"実用","format":"単行本","content":"物理学"}
+,
+{"isbn":"9784315522457","title":"ザ・ヒストリー 医学大百科","volume":"","series":"","publisher":"ニュートンプレス","pubdate":"2020-05-20","cover":"","author":"ジル・デイビーズ／著","description":"","price":"2700","genre":"","target":"一般","format":"単行本","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784315522464","title":"THE STORY 哲学大図鑑","volume":"","series":"","publisher":"ニュートンプレス","pubdate":"2020-05-20","cover":"","author":"アン・ルーニー／著","description":"","price":"2700","genre":"","target":"一般","format":"単行本","content":"哲学"}
+,
+{"isbn":"9784334044343","title":"歴史秘話　外務省研修所","volume":"","series":"","publisher":"光文社","pubdate":"2020-05-20","cover":"","author":"片山和之／著","description":"","price":"800","genre":"","target":"一般","format":"新書","content":"政治-含む国防軍事"}
+,
+{"isbn":"9784334044480","title":"日本の映画産業を殺すクールジャパンマネー","volume":"","series":"","publisher":"光文社","pubdate":"2020-05-20","cover":"","author":"ヒロ・マスダ／著","description":"","price":"1200","genre":"","target":"一般","format":"新書","content":"演劇・映画"}
+,
+{"isbn":"9784334044596","title":"笑わせる技術","volume":"","series":"","publisher":"光文社","pubdate":"2020-05-20","cover":"","author":"西条みつとし／著","description":"","price":"780","genre":"","target":"一般","format":"新書","content":"諸芸・娯楽"}
+,
+{"isbn":"9784334044688","title":"日本の少子化対策はなぜ失敗したのか？","volume":"","series":"","publisher":"光文社","pubdate":"2020-05-20","cover":"","author":"山田昌弘／著","description":"","price":"780","genre":"","target":"一般","format":"新書","content":"社会"}
+,
+{"isbn":"9784334044695","title":"炎上ＣＭでよみとくジェンダー論","volume":"","series":"","publisher":"光文社","pubdate":"2020-05-20","cover":"","author":"瀬地山角／著","description":"","price":"820","genre":"","target":"一般","format":"新書","content":"社会"}
+,
+{"isbn":"9784334044756","title":"業界破壊企業","volume":"","series":"","publisher":"光文社","pubdate":"2020-05-20","cover":"","author":"斉藤徹／著","description":"","price":"820","genre":"","target":"一般","format":"新書","content":"経営"}
+,
+{"isbn":"9784334044763","title":"「高学歴ワーキングプア」からの脱出","volume":"","series":"","publisher":"光文社","pubdate":"2020-05-20","cover":"","author":"水月昭道／著","description":"","price":"780","genre":"","target":"一般","format":"新書","content":"社会"}
 ]
