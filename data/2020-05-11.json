@@ -43,7 +43,7 @@
 ,
 {"isbn":"9784140886236","title":"２０２５年のデジタル資本主義","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-05-11","cover":"","author":"田中道昭／著","description":"巨大テック企業による富の独占に抗い、世界で高まる個人情報保護の機運。デジタル資本主義が進展する中で、次に覇権を握る者とは？","price":"900","genre":"","target":"一般","format":"新書","content":"経済・財政・統計"}
 ,
-{"isbn":"9784140886243","title":"今ここを生きる勇気","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-05-11","cover":"","author":"岸見一郎／著","description":"ギリシア哲学・アドラー理学から、家族論・教育論まで、ベストセラー『嫌われる勇気』の著者による講義形式の新書が初登場！","price":"800","genre":"","target":"一般","format":"新書","content":"哲学"}
+{"isbn":"9784140886243","title":"今ここを生きる勇気","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-05-11","cover":"","author":"岸見一郎／著","description":"ギリシア哲学・アドラー心理学から、家族論・教育論まで、ベストセラー『嫌われる勇気』の著者による講義形式の新書が初登場！","price":"800","genre":"","target":"一般","format":"新書","content":"哲学"}
 ,
 {"isbn":"9784163912059","title":"死者との対話","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784163912059.jpg","author":"石原慎太郎／著","description":"作家として政治家として活躍してきた著者も齢八十七を迎えた。忍び寄る死の影をも直視しつつ綴った珠玉の七編を収録した最新短編集。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
@@ -64,4 +64,20 @@
 {"isbn":"9784323041919","title":"どうぶつのおもちゃ","volume":"","series":"みの回りにあるものをつかう　楽しいおもちゃの作り方","publisher":"金の星社","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784323041919.jpg","author":"きむらゆういち／企画 宮本えつよし／著 ＷＩＬＬこども知育研究所／編集","description":"","price":"2000","genre":"児童図書","target":"児童","format":"全集・双書","content":"写真・工芸"}
 ,
 {"isbn":"9784323041926","title":"あそべるおもちゃ","volume":"","series":"みの回りにあるものをつかう　楽しいおもちゃの作り方","publisher":"金の星社","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784323041926.jpg","author":"きむらゆういち／企画 宮本えつよし／企画 ＷＩＬＬこども知育研究所／編集","description":"","price":"2000","genre":"児童図書","target":"児童","format":"全集・双書","content":"写真・工芸"}
+,
+{"isbn":"9784344927797","title":"おばさんになるってわけか","volume":"","series":"","publisher":"幻冬舎","pubdate":"2020-05-11","cover":"","author":"宮久梟／著","description":"おばさんになるってわけか","price":"900","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784380200038","title":"21世紀の平和憲法","volume":"","series":"","publisher":"三一書房","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784380200038.jpg","author":"川本兼／著","description":"次世代、他国の人々にも受け継いでもらえる運動構築のために。\n平和憲法によって平和が実現したと「錯覚してしまった人」におくる","price":"2300","genre":"","target":"一般","format":"単行本","content":"社会"}
+,
+{"isbn":"9784415231020","title":"これだけ覚えるFP技能士2級・AFP　一問一答+要点整理'20→'21年版","volume":"","series":"","publisher":"成美堂出版","pubdate":"2020-05-11","cover":"","author":"株式会社家計の総合相談センター／著","description":"FP2級合格のコツをポケットサイズに完全収録。重要項目を集めた要点整理+一問一答で合格力がすぐ身につく。赤シート付き。","price":"1400","genre":"","target":"実用","format":"単行本","content":"経営"}
+,
+{"isbn":"9784415231037","title":"これだけ覚えるFP技能士3級一問一答+要点整理'20→'21年版","volume":"","series":"","publisher":"成美堂出版","pubdate":"2020-05-11","cover":"","author":"株式会社家計の総合相談センター／著","description":"FP3級合格のコツをポケットサイズに完全収録。重要項目を集めた要点整理+一問一答で合格力がすぐ身につく。赤シート付き。","price":"1000","genre":"","target":"実用","format":"単行本","content":"経営"}
+,
+{"isbn":"9784415231198","title":"スピード合格！ケアマネ直前対策 '20年版","volume":"","series":"","publisher":"成美堂出版","pubdate":"2020-05-11","cover":"","author":"コンデックス情報研究所／著・編集","description":"直近試験を徹底分析し、今年の出題傾向をズバリ予測。年度区切り前後の最新法改正も網羅した、試験直前の仕上げに最適な一冊。","price":"1300","genre":"","target":"専門","format":"単行本","content":"社会"}
+,
+{"isbn":"9784416520376","title":"図解 心理学用語大全","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784416520376.jpg","author":"田中正人／著 齊藤勇／監修","description":"「深い」そして「つながる」！　人の心理にかかわる小難しい理論もすっと理解できる、ビジュアルメインの図解用語辞典。","price":"1800","genre":"哲学・宗教","target":"一般","format":"単行本","content":"心理(学)"}
+,
+{"isbn":"9784416520789","title":"プロ野球語辞典 令和の怪物現る！ 編","volume":"","series":"","publisher":"誠文堂新光社","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784416520789.jpg","author":"長谷川晶一／著 佐野文二郎／イラスト","description":"オール新語で600語を掲載！　『プロ野球語辞典』で入門した初心者がさらに野球を深く知ることができる１冊。","price":"1600","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784426101749","title":"現代用語の基礎知識 増刊NEWS版","volume":"","series":"","publisher":"自由国民社","pubdate":"2020-05-11","cover":"https://cover.openbd.jp/9784426101749.jpg","author":"堀潤／著 五野井郁夫／著 片山夏子／著 藍原寛子／著 土屋彰久／著 現代用語検定協会／監修","description":"2020年、現在進行形の事件や押さえておきたい重要ニュース。それぞれの要点、そもそもの背景などを明解に、簡潔に解説した本です","price":"1300","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"年鑑・雑誌"}
 ]
