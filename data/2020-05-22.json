@@ -75,13 +75,13 @@
 ,
 {"isbn":"9784065187302","title":"惑わない星（5）","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"石川雅之／著","description":"前代未聞の惑星擬人化漫画！　謎の黒い星によって、人類は未だかつてない危機に瀕する。","price":"750","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065187937","title":"特製インソール付き　足を守って一生歩く！　かかと超厚インソール","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"笠原巖／著","description":"足の第一人者が開発した超厚インソールで体に負担のないウォーキングを！　歩き方が改善され、ひざ痛、腰痛、足の悩みを解消します。","price":"1980","genre":"","target":"実用","format":"単行本","content":"体育・スポーツ"}
+{"isbn":"9784065187937","title":"特製インソール付き　足を守って一生歩く！　かかと超厚インソール","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"https://cover.openbd.jp/9784065187937.jpg","author":"笠原巖／著","description":"足の第一人者が開発した超厚インソールで体に負担のないウォーキングを！　歩き方が改善され、ひざ痛、腰痛、足の悩みを解消します。","price":"1980","genre":"","target":"実用","format":"単行本","content":"体育・スポーツ"}
 ,
 {"isbn":"9784065189658","title":"望郷太郎（2）","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"山田芳裕／著","description":"人間五百年。祖国「日本」を目指す舞鶴太郎。「相棒」パルとシベリアの凍土をゆく。","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065192665","title":"とんがり帽子のアトリエ（7）","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"白浜鴎／著","description":"限定版も同時発売！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065192726","title":"探偵は御簾の中　検非違使と奥様の平安事件簿","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"汀こるもの／著","description":"夫はヘタレな警察トップ、妻は隠れた名探偵。夫にかわって謎解きよ！　笑って泣ける平安ラブコメミステリー誕生！","price":"720","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784065192726","title":"探偵は御簾の中　検非違使と奥様の平安事件簿","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"https://cover.openbd.jp/9784065192726.jpg","author":"汀こるもの／著","description":"夫はヘタレな警察トップ、妻は隠れた名探偵。夫にかわって謎解きよ！　笑って泣ける平安ラブコメミステリー誕生！","price":"720","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065193341","title":"とんがり帽子のキッチン（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"佐藤宏海／著 白浜鴎／著・原著","description":"昼間は多忙な魔法使い、キーフリーとオルーギオが、魔法を駆使して夜食を作る＆食べる！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -103,21 +103,19 @@
 ,
 {"isbn":"9784065195857","title":"ふたりソロキャンプ（6）","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"出端祐大／著","description":"ふたりでソロする！？　キャンプマンガ第６弾！　雫の家に現れた親し気な男、その正体は！？","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065197837","title":"パンダ探偵","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"鳥飼否宇／著","description":"「シロクロはっきりつけてやる！」パンダ探偵ナンナンは、動物の国で巻き起こる難事件に立ち向かう！","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784065197837","title":"パンダ探偵","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"https://cover.openbd.jp/9784065197837.jpg","author":"鳥飼否宇／著","description":"「シロクロはっきりつけてやる！」パンダ探偵ナンナンは、動物の国で巻き起こる難事件に立ち向かう！","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065198070","title":"内向型人間が無理せず幸せになる唯一の方法","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"スーザン・ケイン／著 古草秀子／翻訳","description":"全米ミリオンセラー、日本でも各界絶賛のベストセラーが縮約版で登場！　メンタリストＤａｉＧｏ熱烈推薦！","price":"900","genre":"","target":"一般","format":"新書","content":"心理(学)"}
-,
-{"isbn":"9784065200247","title":"週刊現代別冊　おとなの週刊現代　2020　vol．4　病院はこんなに怖いところ","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"週刊現代／編集","description":"ウイルスだらけの待合室、頻繁に起きる手術ミス。病院に通うことが習慣になっているあなた、病院の本当の怖さを知っていますか？","price":"909","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"医学・歯学・薬学"}
+{"isbn":"9784065198070","title":"内向型人間が無理せず幸せになる唯一の方法","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"https://cover.openbd.jp/9784065198070.jpg","author":"スーザン・ケイン／著 古草秀子／翻訳","description":"全米ミリオンセラー、日本でも各界絶賛のベストセラーが縮約版で登場！　メンタリストＤａｉＧｏ熱烈推薦！","price":"900","genre":"","target":"一般","format":"新書","content":"心理(学)"}
 ,
 {"isbn":"9784065201176","title":"天牢のアヴァロン（4）","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"浜村俊基／原著 藤澤紀幸／著","description":"荒野、血、そして戦闘機械。突如戦場に放り出された青年・アズマは、戦いの果てに何を見るのか。気鋭のコンビが紡ぐＳＦ巨編。","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065202593","title":"魚喃キリコ　未収録作品集　上","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"魚喃キリコ／著・編集","description":"９０年～００年初頭にかけてカリスマ的な人気を誇った漫画家・魚喃キリコの未収録作品集。","price":"1500","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065202593","title":"魚喃キリコ　未収録作品集　上","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"https://cover.openbd.jp/9784065202593.jpg","author":"魚喃キリコ／著・編集","description":"９０年～００年初頭にかけてカリスマ的な人気を誇った漫画家・魚喃キリコの未収録作品集。","price":"1500","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065202661","title":"とんがり帽子のアトリエ（7）限定版","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"白浜鴎／著","description":"白浜鴎が完全監修。魔法使いの必携アイテム、魔円手帳付き限定版！作中に出てくる魔法陣に加え、描き下ろしイラストも収録！","price":"1950","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065202661","title":"とんがり帽子のアトリエ（7）限定版","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"https://cover.openbd.jp/9784065202661.jpg","author":"白浜鴎／著","description":"白浜鴎が完全監修。魔法使いの必携アイテム、魔円手帳付き限定版！作中に出てくる魔法陣に加え、描き下ろしイラストも収録！","price":"1950","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065202784","title":"銀行渉外担当　竹中治夫　メガバンク誕生（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"こしのりょう／著 高杉良／企画","description":"頭取交代劇、ついに決着！　大物フィクサー・児玉由紀夫が逝去し、協銀の未来を懸けた抗争劇が始まる――。","price":"700","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065202968","title":"魚喃キリコ　未収録作品集　下","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"","author":"魚喃キリコ／著・編集","description":"９０年～００年初頭にかけてカリスマ的な人気を誇った漫画家・魚喃キリコの未収録作品集。","price":"1500","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065202968","title":"魚喃キリコ　未収録作品集　下","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-22","cover":"https://cover.openbd.jp/9784065202968.jpg","author":"魚喃キリコ／著・編集","description":"９０年～００年初頭にかけてカリスマ的な人気を誇った漫画家・魚喃キリコの未収録作品集。","price":"1500","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784074431342","title":"これでできた！　とびばことさかあがり","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-05-22","cover":"","author":"柳澤秋孝／監修","description":"親子で楽しく体を動かす遊びをしながら、ちょっとしたコツでさか上がりや跳び箱がラクラクできるようになる本。","price":"1300","genre":"","target":"実用","format":"単行本","content":"体育・スポーツ"}
 ,
@@ -148,4 +146,12 @@
 {"isbn":"9784086313650","title":"吸血鬼は僕のために姉になる","volume":"","series":"","publisher":"集英社","pubdate":"2020-05-22","cover":"https://cover.openbd.jp/9784086313650.jpg","author":"景詠一／著 みきさい／イラスト","description":"祖父を亡くした僕は、吸血鬼と噂される丘の上の屋敷に住む女性に引き取られるが……。第8回集英社ライトノベル新人賞銀賞受賞作！","price":"690","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784086313667","title":"善人おっさん、生まれ変わったらSSSランク人生が確定した 6","volume":"","series":"善人おっさん、生まれ変わったらSSSランク人生が確定した","publisher":"集英社","pubdate":"2020-05-22","cover":"https://cover.openbd.jp/9784086313667.jpg","author":"三木なずな／著 伍長／イラスト","description":"前世の善行の応報でSSSランク人生を送るアレク。さらに善行を積みすぎ、創造神が世界のバランスを保とうと神罰で攻撃してくるが?","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784150505592","title":"ホット・ゾーン","volume":"","series":"","publisher":"早川書房","pubdate":"2020-05-22","cover":"https://cover.openbd.jp/9784150505592.jpg","author":"リチャード・プレストン／著 高見浩／翻訳","description":"ワシントン近郊で死のエボラウイルス発生！　政府・医療関係者による決死の制圧作戦が始まる。世界250万部の傑作ノンフィクション","price":"1060","genre":"","target":"一般","format":"文庫","content":"社会科学総記"}
+,
+{"isbn":"9784163912080","title":"あの子の殺人計画","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-22","cover":"","author":"天祢涼／著","description":"風俗店オーナー殺人事件の美貌の容疑者が仕組んだ〈アリバイトリック〉。捜査の鍵を握るのは母親から虐待されている娘の証言だった。","price":"1650","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784163912110","title":"スーベニア","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-22","cover":"https://cover.openbd.jp/9784163912110.jpg","author":"しまおまほ／著","description":"両親、友だち、恋人と呼べない関係だけど大好きな人、再会した元カレ……。三十代半ばの働く女性の人間関係と複雑な心模様を描く。","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198650889","title":"世界に何が起こっても自分を生ききる25の決断本","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-05-22","cover":"","author":"千田琢哉／著","description":"カリスマ作家が本当は教えてたくなかった人生に迷わないために読むべき２５冊！\nつべこべ言わず、これを読め！","price":"1400","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
 ]
