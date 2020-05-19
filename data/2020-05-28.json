@@ -47,7 +47,7 @@
 ,
 {"isbn":"9784053052049","title":"大学学科案内【新訂版】","volume":"","series":"大学受験プライムゼミブックス","publisher":"学研プラス","pubdate":"2020-05-28","cover":"","author":"学研プラス／編集","description":"どの大学にどんな学科があり、将来どんな職業につながるのかを簡単に調べられる。学研プライムゼミ特任講師が教える学習法付。","price":"1800","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"教育"}
 ,
-{"isbn":"9784058011515","title":"発達障害の子どもの行動が変わる魔法の子育てノート","volume":"","series":"ヒューマンケアブックス","publisher":"学研教育みらい","pubdate":"2020-05-28","cover":"","author":"藤原里美／著","description":"多くの子どもや保護者とかかわってきた著者が、子どもの困った行動への魔法のかかわり方、魔法の言葉の使い方を紹介する。","price":"1400","genre":"教育","target":"一般","format":"単行本","content":"教育"}
+{"isbn":"9784058011515","title":"発達障害の子どもの行動が変わる魔法の子育てノート","volume":"","series":"ヒューマンケアブックス","publisher":"学研教育みらい","pubdate":"2020-05-28","cover":"https://cover.openbd.jp/9784058011515.jpg","author":"藤原里美／著","description":"多くの子どもや保護者とかかわってきた著者が、子どもの困った行動への魔法のかかわり方、魔法の言葉の使い方を紹介する。","price":"1400","genre":"教育","target":"一般","format":"単行本","content":"教育"}
 ,
 {"isbn":"9784058011539","title":"「語り合い」で保育が変わる","volume":"","series":"Ｇａｋｋｅｎ保育Ｂｏｏｋｓ","publisher":"学研教育みらい","pubdate":"2020-05-28","cover":"","author":"大豆生田啓友／著 大豆生田啓友／編集 髙嶋景子／著 三谷大紀／著","description":"いま注目される「子ども主体の保育」を考える本書。研修（保育者の語り合い）を通して、保育を見直した２４の事例を紹介します。","price":"2700","genre":"教育","target":"一般","format":"単行本","content":"教育"}
 ,
@@ -131,15 +131,21 @@
 ,
 {"isbn":"9784101200743","title":"鬼門の将軍 平将門","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-05-28","cover":"","author":"高田崇史／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101801902","title":"さよなら世界の終わり","volume":"","series":"新潮文庫ｎｅｘ（ネックス）","publisher":"新潮社","pubdate":"2020-05-28","cover":"","author":"佐野徹夜／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784101801902","title":"さよなら世界の終わり","volume":"","series":"新潮文庫ｎｅｘ（ネックス）","publisher":"新潮社","pubdate":"2020-05-28","cover":"https://cover.openbd.jp/9784101801902.jpg","author":"佐野徹夜／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101801919","title":"処女のまま死ぬやつなんていない、みんな世の中にやられちまうからな","volume":"","series":"新潮文庫ｎｅｘ（ネックス）","publisher":"新潮社","pubdate":"2020-05-28","cover":"","author":"葵遼太／著","description":"","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784101801919","title":"処女のまま死ぬやつなんていない、みんな世の中にやられちまうからな","volume":"","series":"新潮文庫ｎｅｘ（ネックス）","publisher":"新潮社","pubdate":"2020-05-28","cover":"https://cover.openbd.jp/9784101801919.jpg","author":"葵遼太／著","description":"","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784101801926","title":"呪殺島の殺人","volume":"","series":"新潮文庫ｎｅｘ（ネックス）","publisher":"新潮社","pubdate":"2020-05-28","cover":"","author":"萩原麻里／著","description":"","price":"710","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784101801926","title":"呪殺島の殺人","volume":"","series":"新潮文庫ｎｅｘ（ネックス）","publisher":"新潮社","pubdate":"2020-05-28","cover":"https://cover.openbd.jp/9784101801926.jpg","author":"萩原麻里／著","description":"","price":"710","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784102451175","title":"ブルックリン・フォリーズ","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-05-28","cover":"","author":"ポール・オースター／著 柴田元幸／翻訳","description":"","price":"800","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
 ,
-{"isbn":"9784163912097","title":"天皇論 江藤淳と三島由紀夫","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-28","cover":"","author":"富岡幸一郎／著","description":"昭和天皇崩御直後の江藤淳と筆者との長時間対論。その肉声と、没後五十年を迎える三島由紀夫の天皇観とを対峙させた画期的論考。","price":"2200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784163912097","title":"天皇論 江藤淳と三島由紀夫","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-28","cover":"https://cover.openbd.jp/9784163912097.jpg","author":"富岡幸一郎／著","description":"昭和天皇崩御直後の江藤淳と筆者との長時間対論。その肉声と、没後五十年を迎える三島由紀夫の天皇観とを対峙させた画期的論考。","price":"2200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784163912127","title":"血まみれ鉄拳ハイスクール","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-28","cover":"","author":"ライアン・ギャティス／著 夏来健次／翻訳","description":"暴力の支配するその学園を人はカンフー・ハイスクールと呼ぶ。壮絶な抗争を拳で切り抜ける少女を描く気鋭のノワール作家の問題作。","price":"2000","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
+{"isbn":"9784163912127","title":"血まみれ鉄拳ハイスクール","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-05-28","cover":"https://cover.openbd.jp/9784163912127.jpg","author":"ライアン・ギャティス／著 夏来健次／翻訳","description":"暴力の支配するその学園を人はカンフー・ハイスクールと呼ぶ。壮絶な抗争を拳で切り抜ける少女を描く気鋭のノワール作家の問題作。","price":"2000","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
+,
+{"isbn":"9784253247948","title":"アンコール出版 範馬刃牙 史上最強の親子喧嘩編5","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-28","cover":"","author":"板垣恵介／著","description":"アンコール出版 範馬刃牙 史上最強の親子喧嘩編5","price":"573","genre":"コミックス(廉)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253248259","title":"アンコール出版 本気！ 抗争編⑤／気志団","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-28","cover":"","author":"立原あゆみ／著","description":"アンコール出版 本気！ 抗争編⑤／気志団","price":"591","genre":"コミックス(廉)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253249003","title":"警視庁十津川警部の事件簿＆鉄道ミステリーベストコミック  13","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-28","cover":"","author":"西村京太郎／著 宗美智子／著 風祭壮太／著 大舞キリコ／著","description":"警視庁十津川警部の事件簿＆鉄道ミステリーベストコミック  13","price":"573","genre":"コミックス(廉)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ]
