@@ -51,7 +51,7 @@
 ,
 {"isbn":"9784065188538","title":"化物語（9）","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-15","cover":"https://cover.openbd.jp/9784065188538.jpg","author":"西尾維新／原著 大暮維人／著","description":"『化物語』前日譚にして第零話『傷物語』「こよみヴァンプ」！！　ようこそ夜の世界へ。","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065188545","title":"ブルーロック（9）","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-15","cover":"https://cover.openbd.jp/9784065188545.jpg","author":"金城宗幸／原著 ノ村優介／著","description":"４人となった潔チームは、ついに蜂楽を奪ったＴＯＰ３チームとの再戦の時を迎える！　己がエゴを貫き通す“かいぶつ”は誰なのか！？","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065188545","title":"ブルーロック（9）","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-15","cover":"https://cover.openbd.jp/9784065188545.jpg","author":"金城宗幸／原著 ノ村介／著","description":"４人となった潔チームは、ついに蜂楽を奪ったＴＯＰ３チームとの再戦の時を迎える！　己がエゴを貫き通す“かいぶつ”は誰なのか！？","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065188552","title":"ドメスティックな彼女（27）","volume":"","series":"","publisher":"講談社","pubdate":"2020-05-15","cover":"https://cover.openbd.jp/9784065188552.jpg","author":"流石景／著","description":"桃源先生の後を継ぎ、執筆活動を再開した夏生。一方で、瑠衣は上司から、陽菜は母親から、予想外の提案を切り出され…。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -163,7 +163,7 @@
 ,
 {"isbn":"9784253274340","title":"妖精国の騎士 Ballad 〜金緑の谷に眠る竜〜 4","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-05-15","cover":"","author":"中山星香／著","description":"ロビンは光の魔法によりメリロットを救うも、彼の生命の炎は尽きかけていて…!?","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784254485042","title":"ノリの科学","volume":"4","series":"シリーズ〈水産の科学〉","publisher":"朝倉書店","pubdate":"2020-05-15","cover":"","author":"二羽恭／著・編集","description":"ノリ養殖の歴史と食文化 から生産まで","price":"4000","genre":"自然科学","target":"専門","format":"全集・双書","content":"水産業"}
+{"isbn":"9784254485042","title":"ノリの科学","volume":"4","series":"シリーズ〈水産の科学〉","publisher":"朝倉書店","pubdate":"2020-05-15","cover":"","author":"二羽恭介／著・編集","description":"ノリ養殖の歴史と食文化 から生産まで","price":"4000","genre":"自然科学","target":"専門","format":"全集・双書","content":"水産業"}
 ,
 {"isbn":"9784254640489","title":"衛生動物の事典","volume":"","series":"","publisher":"朝倉書店","pubdate":"2020-05-15","cover":"https://cover.openbd.jp/9784254640489.jpg","author":"津田良夫／編集 安居院宣昭／編集 谷川力／編集 夏秋優／編集 林利彦／編集 平林公男／編集 ほか","description":"人の健康に肉体的・精神的な害を与える衛生動物について，総合的および各論的に解説した事典","price":"14000","genre":"自然科学","target":"専門","format":"事・辞典","content":"家事"}
 ,
@@ -202,8 +202,4 @@
 {"isbn":"9784320009325","title":"クラウドソーシングが不可能を可能にする","volume":"32","series":"共立スマートセレクション","publisher":"共立出版","pubdate":"2020-05-15","cover":"","author":"森嶋厚行／著 喜連川優／解説","description":"「人工知能」「新しい働き方」を実現する鍵である「クラウドソーシング」を深く理解し，ビジネスや研究に活用するために最適な一冊。","price":"2000","genre":"コンピュータ","target":"専門","format":"全集・双書","content":"数学"}
 ,
 {"isbn":"9784330050201","title":"JR電車編成表2020夏","volume":"","series":"","publisher":"交通新聞社","pubdate":"2020-05-15","cover":"","author":"JRR／編集","description":"ＪＲグループのすべての電車を、各配置区所別、用途別、実際に運転されている編成ごとにまとめた最新データベースです。","price":"2700","genre":"","target":"一般","format":"単行本","content":"交通・通信"}
-,
-{"isbn":"9784339029079","title":"Pythonによるアルゴリズムとデータ構造の基礎","volume":"","series":"","publisher":"コロナ社","pubdate":"2020-05-15","cover":"https://cover.openbd.jp/9784339029079.jpg","author":"永田武／著","description":"Pythonの基礎から学ぶことができ，各章の最後には基本情報処理技術者試験の過去問題も含めて豊富な章末問題を掲載。","price":"2600","genre":"工業・工学","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784339072464","title":"人体の力学","volume":"","series":"","publisher":"コロナ社","pubdate":"2020-05-15","cover":"https://cover.openbd.jp/9784339072464.jpg","author":"松井剛一／著・編集 照井直人／著 岡本覚／著 横山隆／著 田邊裕治／著 坂本信／著 ほか","description":"ヒト人体）が持つ能力・機能について，基礎的な理解と正確な解釈を可能にする教科書。実務者・研究者の知識の整理にも役立つ一冊。","price":"3100","genre":"工業・工学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
 ]
