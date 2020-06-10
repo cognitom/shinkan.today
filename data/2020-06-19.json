@@ -129,7 +129,7 @@
 ,
 {"isbn":"9784088915692","title":"君のことが大大大大大好きな100人の彼女 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-06-19","cover":"","author":"野澤ゆき子／著 中村力斗／原著","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088915708","title":"アルマ 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-06-19","cover":"","author":"三都慎司／著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088915708","title":"アルマ 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784088915708.jpg","author":"三都慎司／著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784088915715","title":"秋の鹿は笛に寄る 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-06-19","cover":"","author":"きづきあきら／著 サトウナンキ／著","description":"","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -183,6 +183,8 @@
 ,
 {"isbn":"9784198651183","title":"仕組まれたパンデミックと隠されたミッション　これから世界で起きる４つのこと","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-06-19","cover":"","author":"高島康司／著","description":"緊急出版！パンデミックは予言されていたことだった！メディアが決して報じないコロナウイスルに隠された真実","price":"1600","genre":"","target":"一般","format":"単行本","content":"経済・財政・統計"}
 ,
+{"isbn":"9784198651343","title":"世界ウィルス戦争の真実","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-06-19","cover":"","author":"日高義樹／著","description":"ワシントンからの緊急報告！　コロナ戦争の未来とは？","price":"1500","genre":"","target":"一般","format":"単行本","content":"政治-含む国防軍事"}
+,
 {"isbn":"9784198651367","title":"免疫力が高まるシンプルな暮らし","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-06-19","cover":"","author":"進藤幸恵／著 進藤義晴／著","description":"足元を温めるだけで、免疫力は高まる！　冷えとり健康法の考案者親子が伝える、１日１分からできる体を守る生活習慣のすすめ。","price":"1350","genre":"","target":"一般","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784198651381","title":"川上晶也の「コロナに負けない！」健康レシピ手帖","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-06-19","cover":"","author":"川上晶也／著","description":"近隣のスーパーで気軽に買える食材のみで、非常時でもサッと作ることができる「コロナに負けない」免疫力ＵＰ食事術を紹介！","price":"1300","genre":"","target":"一般","format":"単行本","content":"家事"}
@@ -198,4 +200,40 @@
 {"isbn":"9784253258234","title":"青の島とねこ一匹  3","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784253258234.jpg","author":"小林俊彦／著","description":"凪島に冬がやってきた? そんな中、名コンビの青とミケが大ゲンカ? そして青と草太の関係にもホットな変化が…?","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784253301411","title":"黄昏のエトス  1","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784253301411.jpg","author":"艶々／著","description":"『落日のパトス』の仲井間がまだ高校教師だった頃。学校を舞台にまだ見ぬ淫欲物語が始まる！","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784258010202","title":"アジア動向年報２０２０","volume":"","series":"","publisher":"アジア経済研究所","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784258010202.jpg","author":"アジア経済研究所／編集","description":"アジア諸国を国別に分析した定評ある年報。総論／国別概況／日誌／参考資料／統計資料など重要項目を網羅する。","price":"6300","genre":"社会科学","target":"一般","format":"単行本","content":"年鑑・雑誌"}
+,
+{"isbn":"9784276922433","title":"合唱パート練習CD　レッツ・パー練！　Vol.7","volume":"","series":"","publisher":"株式会社音楽之友社","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784276922433.jpg","author":"音楽之友社／編集","description":"Vol.7には『新・中学生のクラス合唱曲集』シリーズ近刊の新曲を主に収録。『レッツ・コーラス！ 第二版』収録曲も新録音で。","price":"8000","genre":"","target":"学参I(小中)","format":"磁性媒体など","content":"音楽・舞踊"}
+,
+{"isbn":"9784276963108","title":"音の最終調整 真空管グラフィック・イコライザーの調べ","volume":"","series":"ONTOMO MOOK","publisher":"株式会社音楽之友社","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784276963108.jpg","author":"stereo／編集","description":"ラックスマン真空管キットシリーズ第4弾は、グラフィックイコライザー。 5バンド(55Hz/220Hz/880Hz/3.5k…","price":"17000","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"音楽・舞踊"}
+,
+{"isbn":"9784295008606","title":"いちばんやさしいLINEマーケティングの教本","volume":"","series":"いちばんやさしい教本","publisher":"インプレス","pubdate":"2020-06-19","cover":"","author":"","description":"","price":"1680","genre":"","target":"","format":"","content":""}
+,
+{"isbn":"9784295008637","title":"美術の経済","volume":"","series":"","publisher":"インプレス","pubdate":"2020-06-19","cover":"","author":"","description":"","price":"1600","genre":"","target":"","format":"","content":""}
+,
+{"isbn":"9784295008965","title":"SDGsが生み出す未来のビジネス","volume":"","series":"","publisher":"インプレス","pubdate":"2020-06-19","cover":"","author":"","description":"","price":"1680","genre":"","target":"","format":"","content":""}
+,
+{"isbn":"9784296106738","title":"“秒速”プレゼン術","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784296106738.jpg","author":"戸田覚／著","description":"テレワーク時代の必須スキル！ 3分でひき付けるオンラインプレゼン\n時代が求める新世代スキルの極意を緊急出版！","price":"1600","genre":"","target":"一般","format":"単行本","content":"経営"}
+,
+{"isbn":"9784299004710","title":"あらゆる不調を消す医者が考案したクスリ絵シールブック","volume":"","series":"","publisher":"宝島社","pubdate":"2020-06-19","cover":"","author":"丸山修寛／著","description":"医師・丸山修寛先生によって神聖幾何学とカタカムナ(古代文字)から作られたヒーリングアートの1種、クスリ絵。私たち人間が秘めている潜在能力を最大限引き出せるように、緻密に組まれています。見たり、触れたりするだけでも十分に効果があるクスリ絵ですが、本書ではより高い効果の期待できるシールを250枚以上収録。いつでも身につけて、あらゆる不調から解放された軽やかな毎日を送りましょう!","price":"1800","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784299005786","title":"MonoMax特別編集 最強!男の工具図鑑 最新ギアガイド","volume":"","series":"","publisher":"宝島社","pubdate":"2020-06-19","cover":"","author":"","description":"ナンバー1モノ雑誌『MonoMax』が作った工具カタログです。DIYに役立つ工具を用途別に紹介。実例からハウツーまで網羅しています。特別アイテムとしてミッドセンチュリーモダン特製の豪華な工具セット付きです。","price":"2200","genre":"","target":"一般","format":"ムック・その他","content":"諸芸・娯楽"}
+,
+{"isbn":"9784299006448","title":"キミの頭脳に挑戦状! マインクラフト謎解きパズル バラエティボックス","volume":"","series":"","publisher":"宝島社","pubdate":"2020-06-19","cover":"","author":"マイクラ職人組合／著","description":"Nintendo Switch版がミリオンセラーとなり、今や小学生を中心に大定番人気ソフトとなった『マインクラフト』。本書はゲームの攻略本ではなく、主人公のスティーブや敵キャラのクリーパーといった登場キャラクター、ブロック、アイテムなど、マイクラの世界観が詰まった謎解きパズル本です。迷路、なぞなぞ、間違いさがし、点つなぎなど様々なパズル、謎解き問題を収録。頭を使うのが好きなマイクラファンのお子さんにピッタリです。","price":"1000","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784299006745","title":"栗村修のいちばん身につく 最強ロードバイクトレーニング","volume":"","series":"","publisher":"宝島社","pubdate":"2020-06-19","cover":"","author":"栗村修／著","description":"ロードバイク人口がじわじわと増えてきています。科学的トレーニング全盛の現在、間違ったトレーニングはしていませんか。本書では、効果的に科学的トレーニングを活かす方法、また科学的トレーニングの落とし穴もきっちりと紹介。J SPORTSの中継解説でもおなじみの栗村修氏がイラストと写真を使って初心者から上級者までわかりやすく解説。ロードバイク乗りにはひとり一冊の必需品です!","price":"1800","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
+,
+{"isbn":"9784309028965","title":"現代語訳　怪談「諸国百物語」","volume":"","series":"","publisher":"河出書房新社","pubdate":"2020-06-19","cover":"","author":"志村有弘／著","description":"江戸前期に諸国の怪談を集めて編まれ、「百物語」の嚆矢ともなった怪奇談の金字塔初めて全編通して現代語訳。圧巻の一冊。","price":"2200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784309922089","title":"全記録　スワノセ第四世界","volume":"","series":"","publisher":"河出書房新社","pubdate":"2020-06-19","cover":"","author":"上野圭一／監修 塩澤幸登／編集","description":"南溟の果て、絶海の孤島スワノセに楽園を夢みたヒッピーたち。その生活と思想のすべてを映画『スワノセ・第四世界』と共に紹介。","price":"2700","genre":"","target":"一般","format":"単行本","content":"演劇・映画"}
+,
+{"isbn":"9784327401726","title":"ポライトネスの語用論","volume":"","series":"","publisher":"研究社","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784327401726.jpg","author":"ジェフリー・リーチ／著 田中典子／監修・翻訳 熊野真理／翻訳 斉藤早智子／翻訳 鈴木卓／翻訳 ほか","description":"ポライトネス研究のこれまでの流れを概観するとともに、コーパスのデータを用いて、謝罪・依頼・感謝などの発話事象を具体的に考察。","price":"6300","genre":"語学・辞事典","target":"専門","format":"単行本","content":"語学総記"}
+,
+{"isbn":"9784335314612","title":"民法","volume":"","series":"伊藤真ファーストトラックシリーズ","publisher":"弘文堂","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784335314612.jpg","author":"伊藤真／監修 伊藤塾／著","description":"法律学習のスタート地点に立つ読者に贈る、伊藤真の「民法」入門！","price":"2000","genre":"社会科学","target":"教養","format":"全集・双書","content":"法律"}
+,
+{"isbn":"9784336065476","title":"新柳集","volume":"3","series":"澁澤龍彦 泉鏡花セレクション","publisher":"国書刊行会","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784336065476.jpg","author":"泉鏡花／著 澁澤龍彦／編集 山尾悠子／解説","description":"澁澤龍彦生前に企画されながらも実現を見ずに終った幻の選集が、半世紀の歳月を経てついに刊行。第3巻は草迷宮、戦国茶漬等全8篇。","price":"8800","genre":"","target":"一般","format":"全集・双書","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784391154818","title":"暮らしを磨く美しい言葉","volume":"","series":"","publisher":"主婦と生活社","pubdate":"2020-06-19","cover":"","author":"丹生谷真美／著","description":"エレガンスとは人生を愛する心、人への優しさ、自分を見失わない強さ。フィニッシングサロン主宰者による美しく生きるための名言集。","price":"1400","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784394880073","title":"読むだけで、子育てがうんと楽しくなる本","volume":"","series":"","publisher":"春陽堂書店","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784394880073.jpg","author":"原坂一郎／著","description":"『男の子のしつけに悩んだら読む本』（すばる舎様）の著者、原坂一郎氏の最新刊！\n\n“子育てで大切なのは笑顔“…ですが、わかってはいてもなかなかできないのが子育て。笑顔は勝手にやってくるわけではありません。そこで、そんな悩みを解決する「笑顔の法則30」を本書では四コマ漫画もまじえてご紹介。時間も手間も、お金もかからず簡単にできるものばかりです。\nその他…\n●“しつけ”は叱ることではなく伝えること\n●子育てと料理の共通点\n●日常の中にクイズを\n●言葉のオウム返しで子どもは笑顔に\n●あきらめたらやってくる笑顔\n…など基本の心構えやポイントも解説。","price":"1500","genre":"","target":"一般","format":"単行本","content":"教育"}
 ]
