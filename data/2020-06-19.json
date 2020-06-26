@@ -83,7 +83,7 @@
 ,
 {"isbn":"9784086803274","title":"実写映画ノベライズ 思い、思われ、ふり、ふられ","volume":"","series":"","publisher":"集英社","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784086803274.jpg","author":"阿部暁子／著 咲坂伊緒／原著 東宝(株)／監修","description":"性格も恋愛観も全く違う高校生の朱里、由奈、理央、和臣。同じ高校に通う4人の友情と恋愛を描く青春群像劇！実写映画を完全小説化！","price":"580","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784086803281","title":"後宮染華伝 黒の罪妃と紫の寵妃","volume":"","series":"","publisher":"集英社","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784086803281.jpg","author":"はるおかりの／著 SayHANa／イラスト","description":"後宮を統率するため皇貴妃として入宮した紫蓮。夫の皇帝隆青とは職務上の絆でしかなかった。青にはかつて深く愛した妃がいたが…。","price":"620","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784086803281","title":"後宮染華伝 黒の罪妃と紫の寵妃","volume":"","series":"","publisher":"集英社","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784086803281.jpg","author":"はるおかりの／著 SayHANa／イラスト","description":"後宮を統率するため皇貴妃として入宮した紫蓮。夫の皇帝隆青とは職務上の絆でしかなかった。隆青にはかつて深く愛した妃がいたが…。","price":"620","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784087034974","title":"おいしいコーヒーのいれ方 Second Season 9 ありふれた祈り","volume":"","series":"おいしいコーヒーのいれ方","publisher":"集英社","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784087034974.jpg","author":"村山由佳／著 結布／イラスト","description":"国民的超人気恋愛ノベル、ついに完結編！　帰国した勝利は、かれんと再会……。ふたりの恋の行方は大団円を迎えるのか!?","price":"1000","genre":"","target":"一般","format":"新書","content":"日本文学、小説・物語"}
 ,
@@ -111,7 +111,7 @@
 ,
 {"isbn":"9784087441321","title":"バンチョ高校クイズ研","volume":"","series":"","publisher":"集英社","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784087441321.jpg","author":"蓮見恭子／著","description":"仙台の高校に赴任した慎太郎は、クイズ研究会復興のために部員のスカウトを開始！　うっかり感動、とってもヘンな青春物語。","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784088823409","title":"おいしいコーヒーのいれ方 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784088823409.jpg","author":"青沼裕貴／著 村山由佳／原著 雀村アオ／編集 結布／イラスト","description":"惚れてます! マスターの前での告白から数か月。かれんの同僚である英語教師・中沢彼女に対して猛アタック! あせる勝利は意を決して、かれんに再度、自分の気持ちを伝えるため、鴨川行きに同行する。かれんからの返事は果たして……!?","price":"850","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088823409","title":"おいしいコーヒーのいれ方 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784088823409.jpg","author":"青沼裕貴／著 村山由佳／原著 雀村アオ／編集 結布／イラスト","description":"惚れてます! マスターの前での告白から数か月。かれんの同僚である英語教師・中沢が彼女に対して猛アタック! あせる勝利は意を決して、かれんに再度、自分の気持ちを伝えるため、鴨川行きに同行する。かれんからの返事は果たして……!?","price":"850","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784088913957","title":"フールズ 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784088913957.jpg","author":"皿池篤志／著","description":"普通の日本、普通の東京。ただごく少数の人間が「バカ」という化け物に突然変異し駆除される世界。クラスでも孤立しがちな女子高生･須永文子は、そんな「バカ」の画像を集める奇矯な趣味の持ち主。想像力がすべてを変える。新鋭が放つ傑作SF第1巻!","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -180,26 +180,4 @@
 {"isbn":"9784166612680","title":"女性を美しく見せる「錯覚」の魔法","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784166612680.jpg","author":"テート小畠利子／著","description":"すべての肉体的欠点は美点に変えることができる。一万人をみてきた著者が明かすイメージの魔法のすべて。女性の新バイブル誕生！","price":"1050","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784166612703","title":"ウイルスVS人類","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784166612703.jpg","author":"瀬名秀明／著 押谷仁／著 五箇公一／著 岡部信彦／著 河岡義裕／著 大曲貴夫／著 NHK取材班／著","description":"未知のウイルスにいかに立ち向かうか。顕わになった現代文明の脆弱性を克服する道はあるのか。第一線の専門家が語り尽くす。","price":"800","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784198651183","title":"仕組まれたパンデミックと隠されたミッション　これから世界で起きる４つのこと","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-06-19","cover":"","author":"高島康司／著","description":"緊急出版！パンデミックは予言されていたことだった！メディアが決して報じないコロナウイスルに隠された真実","price":"1600","genre":"","target":"一般","format":"単行本","content":"経済・財政・統計"}
-,
-{"isbn":"9784198651343","title":"世界ウィルス戦争の真実","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-06-19","cover":"","author":"日高義樹／著","description":"ワシントンからの緊急報告！　コロナ戦争の未来とは？","price":"1500","genre":"","target":"一般","format":"単行本","content":"政治-含む国防軍事"}
-,
-{"isbn":"9784198651367","title":"免疫力が高まるシンプルな暮らし","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-06-19","cover":"","author":"進藤幸恵／著 進藤義晴／著","description":"足元を温めるだけで、免疫力は高まる！　冷えとり健康法の考案者親子が伝える、１日１分からできる体を守る生活習慣のすすめ。","price":"1500","genre":"","target":"一般","format":"単行本","content":"家事"}
-,
-{"isbn":"9784198651381","title":"川上晶也の「コロナに負けない！」健康レシピ手帖","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-06-19","cover":"","author":"川上晶也／著","description":"近隣のスーパーで気軽に買える食材のみで、非常時でもサッと作ることができる「コロナに負けない」免疫力ＵＰ食事術を紹介！","price":"1300","genre":"","target":"一般","format":"単行本","content":"家事"}
-,
-{"isbn":"9784253140799","title":"落日のパトス  9","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784253140799.jpg","author":"艶々／著","description":"生粋のチャラ男に誘い出された仲井間。酩酊する意識の中、彼女は理性を保てるのか…??","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253144384","title":"デメキン  25","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784253144384.jpg","author":"佐田正樹／著 ゆうはじめ／著","description":"お笑いコンビ・バッドボーイズとして素人お笑いコンテストに臨むため漫才の練習に励む正樹と大沼部だが…??","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253238595","title":"衛府の七忍  9","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784253238595.jpg","author":"山口貴由／著","description":"真田十勇士の術を受け継ぎ、鬼となった黒須京馬！　立ち向かうは剣聖・上泉伊勢守信綱！　超絶の忍法と剣法、勝利するのはどちらだ？","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253239394","title":"シガレット&チェリー  8","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784253239394.jpg","author":"河上だいしろう／著","description":"SNSで火がついた美人先輩×童貞後輩の不器用すれ違いラブコメディ！","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253258234","title":"青の島とねこ一匹  3","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784253258234.jpg","author":"小林俊彦／著","description":"凪島に冬がやってきた? そんな中、名コンビの青とミケが大ゲンカ? そして青と草太の関係にもホットな変化が…?","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253301411","title":"黄昏のエトス  1","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784253301411.jpg","author":"艶々／著","description":"『落日のパトス』の仲井間がまだ高校教師だった頃。学校を舞台にまだ見ぬ淫欲物語が始まる！","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784258010202","title":"アジア動向年報２０２０","volume":"","series":"","publisher":"アジア経済研究所","pubdate":"2020-06-19","cover":"https://cover.openbd.jp/9784258010202.jpg","author":"アジア経済研究所／編集","description":"アジア諸国を国別に分析した定評ある年報。総論／国別概況／日誌／参考資料／統計資料など重要項目を網羅する。","price":"6300","genre":"社会科学","target":"一般","format":"単行本","content":"年鑑・雑誌"}
 ]
