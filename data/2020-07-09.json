@@ -55,7 +55,7 @@
 ,
 {"isbn":"9784052052453","title":"スヌーピーの友だちは宝もの","volume":"","series":"キラピチブックス","publisher":"学研プラス","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784052052453.jpg","author":"チャールズ・Ｍ．・シュルツ／原著 たかはしみか／著","description":"大人気キャラクタースヌーピーのストーリーブック。チャーリー・ブラウンや仲間たちとサマーキャンプに行って、ドタバタ大騒動！","price":"800","genre":"児童図書","target":"児童","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784052052521","title":"なぜ？どうして？はじめてのこども図鑑　むし","volume":"","series":"","publisher":"学研プラス","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784052052521.jpg","author":"岡島秀治／監修","description":"初めて図鑑を手にするこどものための昆虫図鑑。素朴な疑問に答えながらさまざまな知識が身につきます。昆虫の標本写真も満載！","price":"1600","genre":"児童図書","target":"児童","format":"図鑑","content":"生物学"}
+{"isbn":"9784052052521","title":"なぜ？どうして？はじめてのこども図鑑　むし","volume":"","series":"","publisher":"学研プラス","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784052052521.jpg","author":"岡秀治／監修","description":"初めて図鑑を手にするこどものための昆虫図鑑。素朴な疑問に答えながらさまざまな知識が身につきます。昆虫の標本写真も満載！","price":"1600","genre":"児童図書","target":"児童","format":"図鑑","content":"生物学"}
 ,
 {"isbn":"9784052052538","title":"なぜ？どうして？はじめてのこども図鑑　どうぶつ","volume":"","series":"","publisher":"学研プラス","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784052052538.jpg","author":"小宮輝之／監修","description":"初めて図鑑を手にするこどものための動物図鑑。素朴な疑問に答えながらさまざまな知識が身につきます。動物の標本写真も満載！","price":"1600","genre":"児童図書","target":"児童","format":"図鑑","content":"生物学"}
 ,
@@ -65,41 +65,41 @@
 ,
 {"isbn":"9784058011621","title":"幸せをよびこむ　絵ときタロット","volume":"","series":"","publisher":"学研プラス","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784058011621.jpg","author":"伊東寿珠／著","description":"タロットカードで占いをするための方法と、めくったカードの意味を読み解くための基本をまとめた本。入門者必携の一冊。","price":"1000","genre":"","target":"実用","format":"単行本","content":"心理(学)"}
 ,
-{"isbn":"9784058011744","title":"改訂新版基礎からわかるはじめての陶芸","volume":"","series":"","publisher":"学研プラス","pubdate":"2020-07-09","cover":"","author":"学研プラス／編集","description":"手びねりやロクロでの成形から、釉薬や絵付け、焼成まで、陶芸のイロハを豊富な写真やイラストで解説したビギナー必携の入門書。","price":"1400","genre":"","target":"実用","format":"単行本","content":"写真・工芸"}
+{"isbn":"9784058011744","title":"改訂新版基礎からわかるはじめての陶芸","volume":"","series":"","publisher":"学研プラス","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784058011744.jpg","author":"学研プラス／編集","description":"手びねりやロクロでの成形から、釉薬や絵付け、焼成まで、陶芸のイロハを豊富な写真やイラストで解説したビギナー必携の入門書。","price":"1400","genre":"","target":"実用","format":"単行本","content":"写真・工芸"}
 ,
 {"isbn":"9784058011881","title":"免疫力を高める食材事典","volume":"","series":"","publisher":"学研プラス","pubdate":"2020-07-09","cover":"","author":"廣田孝子／監修","description":"食べるもの、食べ方で免疫力を高める方法をまとめます。免疫力がアップする食べ合わせなど、普段の食事にもすぐ取り入れられます","price":"1200","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
-{"isbn":"9784058011911","title":"お腹の脂肪は高カカオチョコですっきり落ちる！","volume":"","series":"","publisher":"学研プラス","pubdate":"2020-07-09","cover":"","author":"栗原毅／著","description":"高カカオチョコレートを毎日２５ｇ摂るだけで、皮下脂肪、内臓脂肪がすっきり落ちる！驚きの効果とノウハウをくわしく解説する。","price":"1100","genre":"","target":"一般","format":"単行本","content":"家事"}
+{"isbn":"9784058011911","title":"お腹の脂肪は高カカオチョコですっきり落ちる！","volume":"","series":"","publisher":"学研プラス","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784058011911.jpg","author":"栗原毅／著","description":"高カカオチョコレートを毎日２５ｇ摂るだけで、皮下脂肪、内臓脂肪がすっきり落ちる！驚きの効果とノウハウをくわしく解説する。","price":"1100","genre":"","target":"一般","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784065140345","title":"OAD付き　転生したらスライムだった件（15）限定版","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065140345.jpg","author":"川上泰樹／著 伏瀬／原著 みっつばー／著","description":"ＴＶ放送開始とともに大ヒットとなったアニメ「転生したらスライムだった件」。その完全新作オリジナルアニメーションが登場！","price":"3685","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065173268","title":"フレンドシップ　ウォー　こわれたボタンと友情のゆくえ","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065173268.jpg","author":"アンドリュー・クレメンツ／著 田中奈津子／翻訳","description":"アメリカの人気作家クレメンツが贈る、楽しい１冊！ボタンがきっかけで始まった、親友との戦い（フレンドシップウォー）のゆくえは？","price":"1500","genre":"","target":"児童","format":"単行本","content":"外国文学小説"}
 ,
-{"isbn":"9784065177921","title":"ブーツレグ（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"ヤスダスズヒト／著","description":"ヤスダスズヒト最新作！　圧倒的ボリュームの３２０ページを収録。汝、奪われし者よ、その紛い物の靴で怨敵を踏み砕け！！","price":"700","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065177921","title":"ブーツレグ（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065177921.jpg","author":"ヤスダスズヒト／著","description":"ヤスダスズヒト最新作！　圧倒的ボリュームの３２０ページを収録。汝、奪われし者よ、その紛い物の靴で怨敵を踏み砕け！！","price":"700","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065187807","title":"かつて神だった獣たちへ（11）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"めいびい／著","description":"新パトリアを目指すハンクとシャールの前にアラクネが姿を現す。ケインと共に動く彼女が単身ハンクと接触する真意は…。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065187807","title":"かつて神だった獣たちへ（11）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065187807.jpg","author":"めいびい／著","description":"新パトリアを目指すハンクとシャールの前にアラクネが姿を現す。ケインと共に動く彼女が単身ハンクと接触する真意は…。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065192276","title":"全ウルトラヒーロー　スーパー大図鑑","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065192276.jpg","author":"講談社／編集 円谷プロ／監修","description":"「ウルトラＱ」そして「ウルトラマン」から「ウルトラマンゼット」までのヒーローが大集合した、ポケット図鑑の決定版！","price":"1600","genre":"","target":"児童","format":"図鑑","content":"演劇・映画"}
 ,
-{"isbn":"9784065193020","title":"UQ　HOLDER！（23）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"赤松健／著","description":"刀太と九郎丸の前に、不死者を「究極の敵」とみなす、最強の退魔一族が現れる！！　　「ｖｓ．不死狩り編」開幕！！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065193020","title":"UQ　HOLDER！（23）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065193020.jpg","author":"赤松健／著","description":"刀太と九郎丸の前に、不死者を「究極の敵」とみなす、最強の退魔一族が現れる！！　　「ｖｓ．不死狩り編」開幕！！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065193068","title":"キスしてくれなきゃ死んじゃう（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"西木田景志／著","description":"思いもよらない診断結果が、凛子と佐藤の関係をさらに複雑に！　キスから始まった２人の不器用すぎる恋の結末は…！？","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065193068","title":"キスしてくれなきゃ死んじゃう（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065193068.jpg","author":"西木田景志／著","description":"思いもよらない診断結果が、凛子と佐藤の関係をさらに複雑に！　キスから始まった２人の不器用すぎる恋の結末は…！？","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065193846","title":"美少女になったけど、ネトゲ廃人やってます。（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"泉乃せん／著 星屑ぽんぽん／原著 ネコメガネ／著","description":"転「性」して、俺が１０歳の超絶美少女に！？　→引きこもってゲームするしかない！　「小説家になろう」の人気作をコミカライズ！！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065193846","title":"美少女になったけど、ネトゲ廃人やってます。（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065193846.jpg","author":"泉乃せん／著 星屑ぽんぽん／原著 ネコメガネ／著","description":"転「性」して、俺が１０歳の超絶美少女に！？　→引きこもってゲームするしかない！　「小説家になろう」の人気作をコミカライズ！！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065194324","title":"世界か彼女か選べない（8）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"内山敦司／著","description":"たたみかける真実に直面した光輝、遂に決意！　ぜいたく極まる“究極の選択”ラブコメ、大反響の最終章！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065194324","title":"世界か彼女か選べない（8）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065194324.jpg","author":"内山敦司／著","description":"たたみかける真実に直面した光輝、遂に決意！　ぜいたく極まる“究極の選択”ラブコメ、大反響の最終章！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065196021","title":"ウルトラ特撮PERFECT　MOOK　vol．1　ウルトラセブン","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"講談社／編集","description":"「ウルトラマン」シリーズと円谷プロが制作した特撮作品をすべて網羅した大全集ムックが誕生！","price":"630","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
+{"isbn":"9784065196021","title":"ウルトラ特撮PERFECT　MOOK　vol．1　ウルトラセブン","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065196021.jpg","author":"講談社／編集","description":"「ウルトラマン」シリーズと円谷プロが制作した特撮作品をすべて網羅した大全集ムックが誕生！","price":"630","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
 ,
 {"isbn":"9784065196076","title":"ウルトラ特撮PERFECT　MOOK　専用バインダー","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065196076.jpg","author":"講談社／編集","description":"「ウルトラマン」シリーズと円谷プロが制作した特撮作品をすべて網羅した大全集ムックが誕生！","price":"1600","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
 ,
-{"isbn":"9784065196472","title":"仮面ライダーとあそぼう！2020","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"講談社／編集 大島康嗣／写真 杉山勝巳／写真","description":"大人気！『仮面ライダーゼロワン』のムック第３弾！　仮面ライダーゼロワンのパワーアップアイテムがふろくだ！","price":"990","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
+{"isbn":"9784065196472","title":"仮面ライダーとあそぼう！2020","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065196472.jpg","author":"講談社／編集 大島康嗣／写真 杉山勝巳／写真","description":"大人気！『仮面ライダーゼロワン』のムック第３弾！　仮面ライダーゼロワンのパワーアップアイテムがふろくだ！","price":"990","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
 ,
-{"isbn":"9784065197097","title":"夜桜四重奏～ヨザクラカルテット～（26）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"ヤスダスズヒト／著","description":"死神である比泉応秋に対抗する為、イザナミに神の力の宿る新たな三種の神器の作成をお願いする秋名達。日本最古の神の答えは………。","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065197097","title":"夜桜四重奏～ヨザクラカルテット～（26）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065197097.jpg","author":"ヤスダスズヒト／著","description":"死神である比泉応秋に対抗する為、イザナミに神の力の宿る新たな三種の神器の作成をお願いする秋名達。日本最古の神の答えは………。","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065197257","title":"転スラ日記　転生したらスライムだった件（4）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"伏瀬／原著 柴／著 みっつばー／著","description":"『転生したらスライムだった件』スピンオフ！リムル達の日常をふんだんに描いたワイド４コマ。","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065197257","title":"転スラ日記　転生したらスライムだった件（4）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065197257.jpg","author":"伏瀬／原著 柴／著 みっつばー／著","description":"『転生したらスライムだった件』スピンオフ！リムル達の日常をふんだんに描いたワイド４コマ。","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065197394","title":"放課後の拷問少女（10）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"ＢＯＫＵ／著","description":"若葉との別れ、そしてバレンタイン。少女達はサプライズを画策。何も知らぬ愚か者をよそに、ついに乙女の想いが明らかに！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065197394","title":"放課後の拷問少女（10）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065197394.jpg","author":"ＢＯＫＵ／著","description":"若葉との別れ、そしてバレンタイン。少女達はサプライズを画策。何も知らぬ愚か者をよそに、ついに乙女の想いが明らかに！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065198032","title":"ダンジョン・シェルパ　迷宮道先案内人（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065198032.jpg","author":"刀坂アキラ／著 加茂セイ／原著","description":"迷宮案内のエキスパートが、勇者を導く！ＷＥＢで人気のダンジョンファンタジー！！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -107,25 +107,25 @@
 ,
 {"isbn":"9784065199633","title":"自分で書く「シンプル遺言」　簡単なのに、効力抜群！","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065199633.jpg","author":"竹内亮／著","description":"シンプルだからすぐ書けて、伝わりやすく、効果があり、残された家族が迷わない。難しい知識も不要な「シンプル遺言」の書き方を解説","price":"1400","genre":"","target":"実用","format":"全集・双書","content":"法律"}
 ,
-{"isbn":"9784065199787","title":"ヒールをはいた猫（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"浅井結衣／著 堂島高博／原著","description":"シモキタに突如現れた５人の可愛い猫耳美少女――街の話題を独り占めする彼女たちが繰り広げるキュートなキャットコメディー登場！！","price":"860","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065199787","title":"ヒールをはいた猫（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065199787.jpg","author":"浅井結衣／著 堂島高博／原著","description":"シモキタに突如現れた５人の可愛い猫耳美少女――街の話題を独り占めする彼女たちが繰り広げるキュートなキャットコメディー登場！！","price":"860","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065199794","title":"ヒールをはいた猫（2）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"浅井結衣／著 堂島高博／原著","description":"シモキタに突如現れた５人の可愛い猫耳美少女――街の話題を独り占めする彼女たちが繰り広げるキュートなキャットコメディー第２巻！","price":"860","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065199794","title":"ヒールをはいた猫（2）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065199794.jpg","author":"浅井結衣／著 堂島高博／原著","description":"シモキタに突如現れた５人の可愛い猫耳美少女――街の話題を独り占めする彼女たちが繰り広げるキュートなキャットコメディー第２巻！","price":"860","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065200407","title":"人外姫様、始めました　～Free　Life　Fantasy　Online～（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"園原アオ／著 割田コマ／著 子日あきすず／原著 Ｓｈｅｒｒｙ／著","description":"お嬢様ＪＫ、ダンジョンでゾンビ→姫様へクラスチェンジ！？　「小説家になろう」の人気タイトル、ついにコミカライズ！","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065200407","title":"人外姫様、始めました　～Free　Life　Fantasy　Online～（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065200407.jpg","author":"園原アオ／著 割田コマ／著 子日あきすず／原著 Ｓｈｅｒｒｙ／著","description":"お嬢様ＪＫ、ダンジョンでゾンビ→姫様へクラスチェンジ！？　「小説家になろう」の人気タイトル、ついにコミカライズ！","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065200445","title":"転生したらスライムだった件　異聞　～魔国暮らしのトリニティ～（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065200445.jpg","author":"戸野タエ／著 伏瀬／原著 みっつばー／著","description":"その日、３人の少女戦士たちもまた流血と死闘の真っ只中にいた！　伏瀬先生原案・監修による転スラ公式外伝、急転の緊迫展開へ！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065200971","title":"ヒロインは絶望しました。（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"千田大輔／著","description":"超ドＳ少女・足立妃、港兄妹と挑む“レイドバトル”。敵は、強力かつ狂暴かつ残虐なケモノ。血まみれの地獄に光は差すか！？","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065200971","title":"ヒロインは絶望しました。（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065200971.jpg","author":"千田大輔／著","description":"超ドＳ少女・足立妃、港兄妹と挑む“レイドバトル”。敵は、強力かつ狂暴かつ残虐なケモノ。血まみれの地獄に光は差すか！？","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065201015","title":"君が僕らを悪魔と呼んだ頃（13）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"さの隆／著","description":"悪魔の娘が語る、斎藤悠介、最後の物語──。誰も知らない、斎藤悠介の秘められた物語と、その結末。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065201015","title":"君が僕らを悪魔と呼んだ頃（13）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065201015.jpg","author":"さの隆／著","description":"悪魔の娘が語る、斎藤悠介、最後の物語──。誰も知らない、斎藤悠介の秘められた物語と、その結末。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065201022","title":"我間乱－修羅－（12）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065201022.jpg","author":"中丸洋介／著","description":"激突！　修羅ｖｓ．鬼神！　攫われた蘭を取り戻すため、美鳳丸に挑む伊織。だが激闘に決着が迫るその時、一人の乱入者が現れる！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065201039","title":"イジらないで、長瀞さん（8）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"ナナシ／著","description":"累計１２０万部突破！！　心がザワつく、ちょっと歪なラブコメディ♪","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065201039","title":"イジらないで、長瀞さん（8）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065201039.jpg","author":"ナナシ／著","description":"累計１２０万部突破！！　心がザワつく、ちょっと歪なラブコメディ♪","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065201046","title":"イジらないで、長瀞さん（8）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"ナナシ／著","description":"第８巻の特装版は、　マル秘情報大公開のファンブック付き！！　ナナシ先生の描き下ろし漫画も収録！","price":"980","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065201046","title":"イジらないで、長瀞さん（8）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065201046.jpg","author":"ナナシ／著","description":"第８巻の特装版は、　マル秘情報大公開のファンブック付き！！　ナナシ先生の描き下ろし漫画も収録！","price":"980","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065201275","title":"転生したらスライムだった件（15）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"川上泰樹／著 伏瀬／原著 みっつばー／著","description":"ＷＥＢで人気の異世界モノ名作を、原作者完全監修でコミカライズ！巻末には原作者書き下ろしの短編小説を収録！","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065201275","title":"転生したらスライムだった件（15）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065201275.jpg","author":"川上泰樹／著 伏瀬／原著 みっつばー／著","description":"ＷＥＢで人気の異世界モノ名作を、原作者完全監修でコミカライズ！巻末には原作者書き下ろしの短編小説を収録！","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065201510","title":"シュート！の世界にゴン中山が転生してしまった件（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065201510.jpg","author":"外池達宏／著 中山雅史／著 大島司／著","description":"魂のストライカー・ゴン中山が高校サッカーの頂点に挑む！　伝説のサッカー漫画『シュート！』公式スピンオフギャグコメディ。","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -139,7 +139,7 @@
 ,
 {"isbn":"9784065202838","title":"じりじりの移動図書館","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065202838.jpg","author":"廣嶋玲子／著 まはら三桃／著 濱野京子／著 工藤純子／著 菅野雪虫／著","description":"児童文学のトップランナー５人、みたび集結！　少年少女たちの前にとつぜん現れる移動図書館は、彼らをどこへいざなうのでしょうか。","price":"1400","genre":"","target":"児童","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065206188","title":"復讐の教科書（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"","author":"廣瀬俊／原著 河野慶／著","description":"高校生・黒瀬良太郎は、凄惨なイジメの末、屋上から足を踏み外してしまう。だが、それが全ての始まりだった……！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065206188","title":"復讐の教科書（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065206188.jpg","author":"廣瀬俊／原著 河野慶／著","description":"高校生・黒瀬良太郎は、凄惨なイジメの末、屋上から足を踏み外してしまう。だが、それが全ての始まりだった……！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065207567","title":"描き下ろしイラストカレンダー付き　夜桜四重奏　～ヨザクラカルテット～（26）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2020-07-09","cover":"https://cover.openbd.jp/9784065207567.jpg","author":"ヤスダスズヒト／著","description":"露出多めの水着女性キャラクターイラスト、オール描き下ろし！　イラストカードとしてもカレンダーとしても楽しめるファンアイテム！","price":"1900","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ]
