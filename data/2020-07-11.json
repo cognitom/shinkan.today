@@ -10,4 +10,8 @@
 {"isbn":"9784010347294","title":"化学　標準問題精講　六訂版（予）","volume":"","series":"","publisher":"旺文社","pubdate":"2020-07-11","cover":"","author":"","description":"","price":"1450","genre":"","target":"","format":"","content":""}
 ,
 {"isbn":"9784010347300","title":"生物　標準問題精講　六訂版（予）","volume":"","series":"","publisher":"旺文社","pubdate":"2020-07-11","cover":"","author":"","description":"","price":"1450","genre":"","target":"","format":"","content":""}
+,
+{"isbn":"9784297114282","title":"たった1日で基本が身に付く！ Docker/Kubernetes超入門","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-07-11","cover":"https://cover.openbd.jp/9784297114282.jpg","author":"伊藤裕一／著","description":"DockerとKubernetesの基本が、たった1日で？！\n\n本書は、次世代のアプリケーションアーキテクチャとして注目されている「マイクロサービス」の技術基盤となるコンテナ技術「Docker」とコンテナオーケストレーション技術「Kubernetes」を取り上げ、Dockerの基本的な利用法、DockerfileやComposeの設計、コンテナのデータ永続化やCI/CD、Kubernetesによる複数コンテナの自動管理までを、一気に学習します。この1冊を読めば、DockerとKubernetesの基礎知識と開発のイメージが、たった1日で掴めます！ さらに、サンプルファイルを使って実際にコンテナを操作し、アプリの開発・デプロイを体験することで、1週間ほどでより実践的なテクニックが身に付きます。","price":"2580","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784297115319","title":"ゼロからはじめる　au Xperia 1 II SOG01　スマートガイド","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-07-11","cover":"https://cover.openbd.jp/9784297115319.jpg","author":"技術評論社編集部／著","description":"本書は、auから発売されたスマートフォン「Xperia 1 II SOG01」の初心者向け解説書です。通話、メール、インターネットなどの基本的な使い方のほか、独自機能やアプリの使い方、auのサービスの利用方法なども解説しています。本書があれば、Xperia 1 II SOG01の基本操作と活用法がバッチリわかります!","price":"1580","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
 ]
