@@ -11,7 +11,7 @@
 ,
 {"isbn":"9784049132236","title":"平安かさね色草子 白露の帖","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-07-18","cover":"https://cover.openbd.jp/9784049132236.jpg","author":"梅谷百／著","description":"色あわせの才で綴る新米女房の平安出世物語","price":"650","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784049132267","title":"僕たちにデスゲームが必要な理","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-07-18","cover":"https://cover.openbd.jp/9784049132267.jpg","author":"持田冥介／著","description":"衝撃と感動の問題作、第26回電撃小説大賞「隠し玉」デビュー！","price":"650","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784049132267","title":"僕たちにデスゲームが必要な理由","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-07-18","cover":"https://cover.openbd.jp/9784049132267.jpg","author":"持田冥介／著","description":"衝撃と感動の問題作、第26回電撃小説大賞「隠し玉」デビュー！","price":"650","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784049132779","title":"百鬼夜行とご縁組 ～契約夫婦とあやかし大祭～","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-07-18","cover":"https://cover.openbd.jp/9784049132779.jpg","author":"マサト真希／著","description":"《仕事一筋女子×妖怪御曹司》　契約夫婦の妖怪お宿奮闘記！","price":"650","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -38,16 +38,4 @@
 {"isbn":"9784198651039","title":"ヴァルキリー","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-07-18","cover":"","author":"安生正／著","description":"累計１３０万部〈ゼロ〉シリーズの著者が放つ衝撃のサスペンス！　難民集団のテロ行為、猟奇的暗殺者に、公安はどう立ち向かう？","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784198651251","title":"お能健康法","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-07-18","cover":"","author":"井上和幸／著","description":"すり足と呼吸法で心と身体の不調が整う！　筋トレや激しい運動は不要！","price":"1700","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
-,
-{"isbn":"9784274225659","title":"キム・ラッキの人体ドローイング","volume":"","series":"","publisher":"オーム社","pubdate":"2020-07-18","cover":"https://cover.openbd.jp/9784274225659.jpg","author":"キムラッキ／著 ユングァンヒョン／監修 チャンジニ／翻訳","description":"人の動作がどのような筋肉運動や骨の形によって形成されるかを美術解剖学に基づいて解説。人体を図形化することで、描き方を解説。","price":"5000","genre":"芸術","target":"専門","format":"単行本","content":"芸術総記"}
-,
-{"isbn":"9784274225727","title":"基礎がよくわかる！ゼロからのRPA　UiPath超実践テクニック","volume":"","series":"","publisher":"オーム社","pubdate":"2020-07-18","cover":"https://cover.openbd.jp/9784274225727.jpg","author":"吉田将明／著","description":"定型的作業を自動化できるRPAツールUiPathの使い方を紹介。豊富な図を用いて解説。業務に応用できる技術が身につく。","price":"2700","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784284204736","title":"教えて！ 栄養素男子","volume":"","series":"","publisher":"日本図書センター","pubdate":"2020-07-18","cover":"https://cover.openbd.jp/9784284204736.jpg","author":"女子栄養大学栄養クリニック／監修 奥田直子（／イラスト","description":"「イケメン付箋」のイラストレーターと女子栄養大学栄養クリニックがコラボした、まったく新しい「栄養学の超入門書」！","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
-,
-{"isbn":"9784297114305","title":"今すぐ使えるかんたん　WordPress　［WordPress  5.x対応版］","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-07-18","cover":"https://cover.openbd.jp/9784297114305.jpg","author":"桑名由美／著","description":"「今すぐ使えるかんたん」シリーズから、WordPressの解説書の登場です！WordPressはバージョンアップにより、「ブロックエディター」という新しい機能が搭載され、より視覚的にページを作成することができるようになりました。本書では、HTMLなどの知識がなくても、簡単にホームページを作る方法を丁寧に解説します。これまでもWordPressを使っていたけれど、バージョンアップしてしまって使い方がわからない！という人にもおすすめの書籍です。","price":"1580","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784297114381","title":"今すぐ使えるかんたんmini　オリンパス OM-D E-M1 MarkⅢ　基本＆応用撮影ガイド","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-07-18","cover":"https://cover.openbd.jp/9784297114381.jpg","author":"中村貴史、ナイスク／著","description":"オリンパスOM-Dシリーズのフラッグシップ機種「E-M1」が3年ぶりのフルモデルチェンジ。高性能＆高画質に加え、強力な手ぶれ補正と4K動画記録が売りです。防塵防滴＆耐低温設計でさらに堅牢なボディと、新画像処理エンジンTruePic IXによる5000万画素手持ちハイレゾショットやライブND、星空AFなどマニアックな画質重視ユーザーの要望にも十二分に応える機能を装備したE-M1 MarkⅢ。その魅力を凝縮した本書は、ハンディながら豊富な作例と解説で、E-M1 Mark Ⅲユーザー必携の1冊です。","price":"1580","genre":"","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784297114404","title":"たった1日で基本が身に付く！　Git超入門","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-07-18","cover":"https://cover.openbd.jp/9784297114404.jpg","author":"リブロワークス／著","description":"Git&GitHubの超入門書です。豊富な図と実際の操作手順を解説しているので、たった1日でひととおりGit&GitHubが使えるようになります。","price":"1980","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
 ]
