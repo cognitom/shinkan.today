@@ -19,15 +19,15 @@
 ,
 {"isbn":"9784065197073","title":"がんと闘う病院　都立駒込病院の挑戦","volume":"","series":"","publisher":"講談社","pubdate":"2020-08-19","cover":"","author":"がん・感染症センター都立駒込病院／編集 神澤輝実／監修","description":"がん診療の最前線に立つ医師たちが、がんに関する基礎知識と、それぞれの専門分野における最新の治療法・診断法をわかりやすく解説！","price":"1800","genre":"","target":"一般","format":"単行本","content":"医学・歯学・薬学"}
 ,
-{"isbn":"9784065203040","title":"夢魔の牢獄","volume":"","series":"","publisher":"講談社","pubdate":"2020-08-19","cover":"","author":"西澤保彦／著","description":"傑作『七回死んだ男』の著者・西澤保彦が放つタイムリープ・ミステリー！","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784065203040","title":"夢魔の牢獄","volume":"","series":"","publisher":"講談社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784065203040.jpg","author":"西澤保彦／著","description":"傑作『七回死んだ男』の著者・西澤保彦が放つタイムリープ・ミステリー！","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065205778","title":"ぴりりと可楽！","volume":"","series":"","publisher":"講談社","pubdate":"2020-08-19","cover":"","author":"吉森大祐／著","description":"江戸に笑いの旗を立てろ！　粋でイナセでいい男。江戸っ子かたぎでお調子者のこいつがバカをやらなきゃ、現代のお笑いはなかった。","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784065205778","title":"ぴりりと可楽！","volume":"","series":"","publisher":"講談社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784065205778.jpg","author":"吉森大祐／著","description":"江戸に笑いの旗を立てろ！　粋でイナセでいい男。江戸っ子かたぎでお調子者のこいつがバカをやらなきゃ、現代のお笑いはなかった。","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065206218","title":"真実の原敬　維新を超えた宰相","volume":"","series":"","publisher":"講談社","pubdate":"2020-08-19","cover":"","author":"伊藤之雄／著","description":"平民宰相、初の政党内閣、東京駅での暗殺…だけじゃない！　日本人が知らなすぎる、日本近代史最高のリーダーの真価と、苦闘の生涯。","price":"900","genre":"","target":"一般","format":"新書","content":"日本歴史"}
 ,
 {"isbn":"9784065206515","title":"異世怪症候群","volume":"","series":"","publisher":"星海社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784065206515.jpg","author":"最東対地／著 オクソラケイタ／著","description":"女子高生しか聴けない怪談を囁く『怪人ラジオ』の正体は！？　ＤＪ・ＸＹＺが怖くて蠱惑的な怪異を今夜も“あなた”へお届けします。","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065206522","title":"ステイホームの密室殺人　1　コロナ時代のミステリー小説アンソロジー","volume":"","series":"","publisher":"星海社","pubdate":"2020-08-19","cover":"","author":"織守きょうや／著 北山猛邦／著 斜線堂有紀／著 津田彷徨／著 渡辺浩弐／著","description":"「ステイホームの密室殺人」をテーマに、新しい日常下ならではの新しいトリックや殺意、不可思議な事件を人気小説家が競作！","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784065206522","title":"ステイホームの密室殺人　1　コロナ時代のミステリー小説アンソロジー","volume":"","series":"","publisher":"星海社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784065206522.jpg","author":"織守きょうや／著 北山猛邦／著 斜線堂有紀／著 津田彷徨／著 渡辺浩弐／著","description":"「ステイホームの密室殺人」をテーマに、新しい日常下ならではの新しいトリックや殺意、不可思議な事件を人気小説家が競作！","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065206614","title":"ペルシア帝国","volume":"","series":"","publisher":"講談社","pubdate":"2020-08-19","cover":"","author":"青木健／著","description":"イラン高原の辺境から、なぜアケメネス、サーサーン朝という世界史上の帝国は生まれたのか？　興亡を辿る世界史ファン待望の一冊！","price":"1200","genre":"","target":"一般","format":"新書","content":"外国歴史"}
 ,
@@ -35,63 +35,11 @@
 ,
 {"isbn":"9784065207765","title":"苦しい時は電話して","volume":"","series":"","publisher":"講談社","pubdate":"2020-08-19","cover":"","author":"坂口恭平／著","description":"死にたいほどつらい時、人は何をしたらよいのか？躁鬱病を患う著者が、「死にたい人」からの電話を１０年受け続けてわかったこと。","price":"800","genre":"","target":"一般","format":"新書","content":"社会"}
 ,
-{"isbn":"9784065208748","title":"続　夫の後始末　　今も一つ屋根の下で","volume":"","series":"","publisher":"講談社","pubdate":"2020-08-19","cover":"","author":"曽野綾子／著","description":"いずれは誰もが一人になる。そのとき、どうあるべきか。すべての人に読んでほしい、８８歳の作家・曽野綾子が至った「最後の境地」。","price":"909","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784065208748","title":"続　夫の後始末　　今も一つ屋根の下で","volume":"","series":"","publisher":"講談社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784065208748.jpg","author":"曽野綾子／著","description":"いずれは誰もが一人になる。そのとき、どうあるべきか。すべての人に読んでほしい、８８歳の作家・曽野綾子が至った「最後の境地」。","price":"909","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784065208908","title":"問題発見力を鍛える","volume":"","series":"","publisher":"講談社","pubdate":"2020-08-19","cover":"","author":"細谷功／著","description":"何が起こるかわからないＶＵＣＡの時代を生きる人間に必要なのは問題を発見する力。これからの思考法の基本がすぐにわかる！","price":"900","genre":"","target":"一般","format":"新書","content":"経営"}
 ,
 {"isbn":"9784087927351","title":"/Blush-DC 9 〜秘・蜜〜","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"宮崎摩耶／著","description":"","price":"680","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784087927375","title":"来世ではちゃんとします 5","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"いつまちゃん／著","description":"","price":"880","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088915401","title":"遊び人は賢者に転職できるって知ってました? 3 〜勇者パーティを追放されたLv99道化師、【大賢者】になる〜","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784088915401.jpg","author":"柚木ゆの／著 妹尾尻尾／原著 TRY／原著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088915494","title":"明日ちゃんのセーラー服 7","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784088915494.jpg","author":"博／著","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916132","title":"オオカミライズ 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"伊藤悠／著","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916149","title":"オーライ! 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"橋本スズヒラ／著","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916163","title":"ジュピタリア 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784088916163.jpg","author":"梶山昊頌／著","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916200","title":"曝ク者! 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"波場章史／著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916286","title":"只野工業高校の日常 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"小賀ちさと／著","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916293","title":"BORDER66 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"藤堂裕／著 小森陽一／原著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916309","title":"BORDER66 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"藤堂裕／著 小森陽一／原著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916323","title":"怨み屋本舗 WORST 13","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"栗原正尚／著","description":"","price":"580","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916330","title":"不倫食堂 15","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"山口譲司／著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916347","title":"adabana―徒花― 上","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784088916347.jpg","author":"NON／著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916361","title":"Dr.クインチ 4","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"鈴川恵康／著","description":"","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916378","title":"DIVER―組対潜入班― 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"大沢俊太郎／著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916385","title":"あをによし、それもよし 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784088916385.jpg","author":"石川ローズ／著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916408","title":"制裁学園 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"栗原正尚／著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916439","title":"貧々福々ナズナさま! 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"稲葉そーへー／著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916514","title":"リビドーズ 7","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"","author":"笠原真樹／著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916781","title":"GANTZ:E 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784088916781.jpg","author":"花月仁／著 奥浩哉／原著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916798","title":"俺の家が魔力スポットだった件〜住んでいるだけで世界最強〜 7","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784088916798.jpg","author":"chippi／著 あまうい白一／原著 おおみね／著 鍋島テツヒロ／原著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916828","title":"不能犯 11","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784088916828.jpg","author":"宮月新／原著 神崎裕也／著","description":"","price":"580","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916873","title":"失業賢者の成り上がり〜嫌われた才能は世界最強でした〜 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784088916873.jpg","author":"おおみね／著 三河ごーすと／原著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784088916903","title":"最強の種族が人間だった件 5","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784088916903.jpg","author":"音乃夏／著 柑橘ゆすら／原著 猫箱ようたろ／著 夜ノみつき／原著","description":"","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784091050991","title":"心を育てる保育環境","volume":"","series":"","publisher":"小学館","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784091050991.jpg","author":"佐藤将之／著","description":"園の環境を変えてみようと思ったときの技集 \n\n  「自分の園の環境を変えてみようかな」「ほかの園は、どんな環境の工夫をしているんだろう」と思ったときに、役に立つ1冊です。\n 園の1日の中で、「遊ぶ」「食べる」「寝る」などを快適にする環境、子どもが気持ちの調整をしやすい環境、保育者が働きやすい環境、保護者と保育者の関係作りを助ける環境など、いずれも保育が楽しくなる環境作りを実例の写真もりだくさんで紹介。\n 筆者は、大学時代に建築学を専攻、在学中に建築の間取りを利用者の視点から考える研究のため、保育園に通い詰めたことから保育環境の研究をスタート。現在も全国、海外の園を勢力的に訪れて研究を続けている専門家だからこその視点で園の環境の実例、環境改善のビフォア＆アフター、環境作りのために大切にしたいプロセスなどを解説しています。\n 保育環境をテーマにした園内研修や講座にも講師として参加している筆者の解説は、わかりやすく、説得力があります。\n\n \n\n 【編集担当からのおすすめ情報】 \n さまざまな園を取材した保育環境の写真をパラパラ見るだけでも、気になる工夫が見えてきます。 筆者によると、保育環境は、一度で完成を目指す必要はありません。「とりあえず」をくり返しながら、子どもや大人の行動などをふりかえりながら、「次回はこうしよう！」とつなげていくほうがいいそうです。手軽に試してみたくなるミニコラム「とりあえずやってみよう！」もおすすめです。この本が園の環境改善のための、きっかけとなれたら、うれしいです。","price":"1900","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"教育"}
-,
-{"isbn":"9784091576040","title":"ガンバレッド×シスターズ","volume":"","series":"サンデーGXコミックス","publisher":"小学館","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784091576040.jpg","author":"ミトガワワタル／著","description":"激突！純血の吸血鬼VSレッドシスター！ \n\n 仮想現代。人々は吸血鬼をはじめとする“異形”の脅威にさらされていた。 異形狩りを生業とする聖職者・レッドシスターであるドロシーは、ダンピールの少女・マリアと運命的な出会いを果たす。ドロシーは吸血鬼への復讐のため、マリアは吸血鬼に攫われた妹の手がかりを得るため、お互いを利用しあうことになった二人は、バディとして吸血鬼狩りを続けることに。そんな彼女たちの前に、吸血鬼たちの上位種である、純血の吸血鬼が現れる。マリアは純血の吸血鬼から妹の情報を聞き出そうとするのだが――！？\n激戦に次ぐ激戦！アクション大増量の第2集！ \n\n 【編集担当からのおすすめ情報】 \n サンデーGX&サンデーうぇぶりにて好評連載中の『ガンバレ』第2集！ マリアの正体を怪しむ騎士・シャノンが再び登場！ 「馬」に「旗」にと、派手なアクションをぶちかます！ さらに、強敵や味方など、様々な新キャラが登場し、物語はさらに熱く盛り上がっていきます！","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784091576057","title":"漆黒のジギィ","volume":"","series":"サンデーGXコミックス","publisher":"小学館","pubdate":"2020-08-19","cover":"https://cover.openbd.jp/9784091576057.jpg","author":"やまむらはじめ／著","description":"切り裂け！ケモノをまとう美しきヒロイン！ \n\n 終末後の地球。地には、半獣人“混じり者（ウェイカー）”がひしめき合い、人は、地球の衛星軌道上で天族を名乗り、地上を支配していた。兄ヴァレンティーンの策略で、文字通り地の底へ叩き落とされた天族のジギィ。彼女は生物型兵器“漆黒（ピッチ・ブラック）”を身にまとい、兄への復讐に邁進する。一方、“漆黒”を手中に収めようと目論むヴァレンティーンはジギィに次々と刺客を放つのだった… \n\n 【編集担当からのおすすめ情報】 \n 「タフなヒロイン至上主義！」がキャッチコピーの「サンデーGX」に好評連載中の『漆黒のジギィ』最新コミックス第2集が登場！！\n第2集では、ジギィと“混じり者（ウェイカー）”との身分を超えた束の間の邂逅、ジギィを狙う賞金稼ぎたちとの激しいバトルが見どころです。 \nまたジギィの仇敵、兄ヴァレンティーンが、“漆黒（ピッチ・ブラック）”の謎に迫ります。 \nそしてクライマックスには最凶の罠がジギィを待ち受けます！ 必見！","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ]
