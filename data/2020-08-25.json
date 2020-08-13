@@ -87,7 +87,7 @@
 ,
 {"isbn":"9784044005887","title":"ピタゴラスと豆","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784044005887.jpg","author":"寺田寅彦／著","description":"晩年の昭和8～10年までに発表した科学の新知識を提供する作品を収録。","price":"840","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784044006051","title":"方言漢字","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784044006051.jpg","author":"笹原宏之／著","description":"個性豊かな漢字は、先人からのメッセージ！","price":"960","genre":"文庫","target":"一般","format":"文庫","content":"日本語"}
+{"isbn":"9784044006051","title":"言漢字","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784044006051.jpg","author":"笹原宏之／著","description":"個性豊かな漢字は、先人からのメッセージ！","price":"960","genre":"文庫","target":"一般","format":"文庫","content":"日本語"}
 ,
 {"isbn":"9784049129595","title":"新米編集者・春原美琴はくじけない","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784049129595.jpg","author":"和泉弐式／著","description":"「この本は絶対に売れるのかい？」――そんなこと、わかるわけない。","price":"650","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -95,7 +95,7 @@
 ,
 {"isbn":"9784049133691","title":"いらっしゃいませ 下町和菓子 栗丸堂２ 聖徳太子の地球儀","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784049133691.jpg","author":"似鳥航一／著 わみず／イラスト","description":"大切な人との間に、やさしく甘い和菓子をどうぞ。栗丸堂新章第２弾が登場！","price":"650","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784049133769","title":"始末屋 池袋てるてる坊主殺人事件","volume":"","series":"","publisher":"ＫＡＤＯＫＡＡ","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784049133769.jpg","author":"青木杏樹／著","description":"猟奇殺人を巡る、戦慄のホラーサスペンス！","price":"650","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784049133769","title":"始末屋 池袋てるてる坊主殺人事件","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784049133769.jpg","author":"青木杏樹／著","description":"猟奇殺人を巡る、戦慄のホラーサスペンス！","price":"650","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784049133875","title":"おとなりの晴明さん 第七集 ～陰陽師は水の神と歌う～","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784049133875.jpg","author":"仲町六絵／著","description":"わたしの家のおとなりには、どうやらあの「晴明さん」が住んでいる――。","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -140,4 +140,12 @@
 {"isbn":"9784088444048","title":"かわいすぎる男子がお家で待っています 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"高瀬わか／著","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784088444055","title":"かわいすぎる男子がお家で待っています 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"高瀬わか／著","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784088675916","title":"絶叫学級 転生 12","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088675916.jpg","author":"いしかわえみ／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784088675954","title":"ハニーレモンソーダ 14","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"村田真優／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784088675961","title":"キスで起こして。 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088675961.jpg","author":"春田なな／著","description":"","price":"480","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784088676043","title":"GALS!! 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088676043.jpg","author":"藤井みほな／著","description":"","price":"480","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ]
