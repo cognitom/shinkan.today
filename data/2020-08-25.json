@@ -17,7 +17,7 @@
 ,
 {"isbn":"9784041087565","title":"TURN  東京駅おもてうら交番・堀北恵平","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784041087565.jpg","author":"内藤了／著","description":"妊娠した中学生を飲み込む、震撼のシステム！  人気警察シリーズ第４弾","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041089132","title":"大河の剣（一）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784041089132.jpg","author":"稲葉稔／著","description":"剣よ、我が道を切り開け！気鋭の著者による、待望の新シリーズ開幕！","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784041089132","title":"大河の剣（一）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784041089132.jpg","author":"稲葉稔／著","description":"剣よ我が道を切り開け！気鋭の著者による、待望の新シリーズ開幕！","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784041091982","title":"正義の天秤 アイギスの盾","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784041091982.jpg","author":"大門剛明／著","description":"「黙秘は最強の盾です」型破りな弁護士軍団が弱者を救い、真実を追究する","price":"760","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -111,41 +111,59 @@
 ,
 {"isbn":"9784086313810","title":"俺はまだ、本気を出していない 5","volume":"","series":"俺はまだ、本気を出していない","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784086313810.jpg","author":"三木なずな／著 さくらねこ／イラスト","description":"最強の実力がバレないよう本気を出さないつもりが、今日も大活躍してしまうヘルメス。ある日、ソフィアという少女に襲撃され!?","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784088443386","title":"好いも甘いも 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088443386.jpg","author":"小藤まつ／著","description":"","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088443386","title":"好いも甘いも 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088443386.jpg","author":"小藤まつ／著","description":"食いしん坊・叶(かなえ)、ただ今ニート中。ライター見習いとして、デザイン事務所で働くことに。大好きな“食\"の仕事に張り切るが、そう上手くは行かなくて…!? 一方、口の悪い泉とは、行く先々で出会い、どうやら腐れ縁みたい!?","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088443492","title":"橙くんはひとりで寝られない 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"安理由香／著","description":"","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088443492","title":"橙くんはひとりで寝られない 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"安理由香／著","description":"6年ぶりに再会した隣のお家の橙くんは超プレイボーイの大学生になっていた!! 彼が変わってしまった理由が気になる莉子。橙くんの秘密を知っている美少女も登場し焦った莉子は橙くんに「今夜は私が隣で寝る」と夜這い(!?)をかけちゃって…!?","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088443553","title":"僕のオリオン 4","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"川端志季／著","description":"","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088443553","title":"僕のオリオン 4","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"川端志季／著","description":"勇気を奮い立たせて、自らの思いを告白する冴門。小絃は自分の気持ちを手紙に書いたというが、はやる思いに突き動かされて冴門は小絃の家に向かう。初めて知る小絃が抱えていた思い、それを汲んで冴門はライバル・猫俣にある提案をするが…?","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088443683","title":"センチメンタル キス 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088443683.jpg","author":"小森みっこ／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088443683","title":"センチメンタル キス 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088443683.jpg","author":"小森みっこ／著","description":"夏川佑菜は多忙な中学教諭の母と反抗期な中学生の妹・菜々との3人暮らし。バイトに家事に忙しい日々を過ごしていたが、ある日、とあるトラブルがきっかけで美しい年下の男子と出会い…? すべてをさらけ出す運命の恋が今動き出す――","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088443690","title":"テリトリーMの住人 11","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"南塔子／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088443690","title":"テリトリーMの住人 11","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"南塔子／著","description":"瑛茉、宏紀、怜久、こま、郁磨。テリトリーM、5人の恋と青春、完結! 瑛茉(えま)と宏紀の関係は何も障害なく、日々距離が縮まっていきます。ところが、瑛茉と怜久(りく)が事故チューしてしまい…。それを知った宏紀の様子が…!? 出会った時とは大きく変わったそれぞれの関係。瑛茉がつかんだ今の幸せの形は? 笑顔で迎える最終巻です。","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088443706","title":"ふつうな僕らの 4","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"湯木のじん／著","description":"","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088443706","title":"ふつうな僕らの 4","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"湯木のじん／著","description":"彼女が嘘をつくのを初めて見た気がした 手話サークルに一緒にいったり、家まで送ってくれたりと椿と一颯が急接近! そんな中、椿の入院時代の友達の妹、詩織が登場。詩織に対しての椿の態度に一颯は違和感を感じ…? ふたりの関係が大きく進む第4巻。","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088443713","title":"今、恋をしています。 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"八田鮎子／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088443713","title":"今、恋をしています。 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"八田鮎子／著","description":"毎分毎秒、ドキドキさせられてるんだよ? 見た目は怖いけど超優しい柳生くんと付き合い始めたさとみ。お互いのことをあまり知らずに付き合い始めたふたりだけど、まっすぐに気持ちを伝えあって只今「彼氏彼女」としてステップアップ中。夏休みの海、ドキドキお家デート、初めてのお泊り…真摯で男らしい柳生くんにさとみの心臓はもう限界…!?","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088443720","title":"おとななじみ 4","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"中原アヤ／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088443720","title":"おとななじみ 4","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"中原アヤ／著","description":"仕事での頑張りが認められ、本社転勤を打診された楓。でも本社は九州で。春のことも伊織のことも心残りいっぱいで…。そんな中、伊織の仕事関係で大トラブルが!! みんなで力を合わせて乗り切ろうとするうちに三人の恋心が激しく不時着!? うまくできない大人たちのときめき&爆笑満載ラブコメディ!","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088443928","title":"嫁にしたい男 5","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"田島みみ／著","description":"","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088443928","title":"嫁にしたい男 5","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"田島みみ／著","description":"ひょんなことから同棲を始めた年下男子・成田と正式にお付き合いを始め、浮かれるりな。そこへ、成田から突然のプロポーズが――!? ときめく同居物語、感動の最終巻!","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088443942","title":"青春シンデレラ 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088443942.jpg","author":"夕のぞむ／著","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088443942","title":"青春シンデレラ 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088443942.jpg","author":"夕のぞむ／著","description":"忘れられない初恋の相手と10年の時を経てついに…!! 2度目の修学旅行を終え、長谷川とのキョリがぐっと縮まった紫苑は、美月と長谷川にタイムスリップについて打ち明ける。「たぶん一生長谷川くんのことが好きだよ」「それは、かわいすぎない?」 ちょっとイジワルな長谷川に振り回されながら、2人の恋は甘くなるばかり。『せめて今だけはまだ魔法がかかったままでいて』 元に戻らないことを祈る紫苑だけど、未来を知っていることで、悩みも深まっていく…","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088443980","title":"ふたりで恋をする理由 5","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"ひろちひろ／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088443980","title":"ふたりで恋をする理由 5","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"ひろちひろ／著","description":"この選択の先が どこに繋がるか今はまだ分からないけど―― 愛慈(あいじ)にフラれ、泣いていたうららを放っておけなかった純は、うららを自宅へ招き入れる。純と話したことで、まだ「好き」の気持ちはあるけど前を向こうと考え始めるうらら。そんなうららの前に新たな出会いが――!?","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088443997","title":"彼女が可愛すぎて奪えない 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"吉田夢美／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088443997","title":"彼女が可愛すぎて奪えない 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"吉田夢美／著","description":"梅子と仲直りした直後に事故キス発生!? 一瞬浮かれた童貞悪魔・シオンだが、梅子を傷つけたと思い直し、「忘れろ」と伝えることに。だけど、梅子は違うことを感じていたようで…!? 恋心を認めた童貞(DT)悪魔×予測不能のど天然(DT)美少女のすれ違い恋物語、ちょっぴり進展の第3巻!!","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088444024","title":"乙女椿は笑わない 4","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"高梨みつば／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088444024","title":"乙女椿は笑わない 4","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"高梨みつば／著","description":"船上パーティーで足を怪我した椿はしばらく葛城家で過ごし治療に専念することに。そして回復後、なりゆきで湊と斗真それぞれと順番にデートの約束をする。戸惑いつつも斗真との待ち合わせ場所に向かった椿だが…!?","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088444048","title":"かわいすぎる男子がお家で待っています 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"高瀬わか／著","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088444048","title":"かわいすぎる男子がお家で待っています 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"高瀬わか／著","description":"「お嫁にきてください!」 オタ友男子ハルに同居を申し込んだ隠れオタクOL・レオ。レオが家賃を出す交換条件は、料理・掃除と「自分が変な男にひっかからないよう」見張ること。顔がいい上にハイスペックなハルちゃん、かわいい笑顔のおかえりと、美味しい料理にメイクのお世話まで! 絶対恋愛にならない年の差友達だからこその心地よさ…と思っていたけれど?? いたれりつくせりオタ友うっかりラブ!","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088444055","title":"かわいすぎる男子がお家で待っています 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"高瀬わか／著","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088444055","title":"かわいすぎる男子がお家で待っています 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"高瀬わか／著","description":"「俺、我慢とかしないから」 からくち美形男子･ハルと残念美女OL･レオの同居生活! ハル→レオの告白でゴタゴタするも、仲良し生活に戻ったふたりは、福岡遠征へ!ってことは、初お泊まり?? ひと部屋!!?? いや同居はしてますけども!? 困惑するレオに、ハルちゃんの好き攻撃が止まらない! 尊すぎるふたりの、オタ友じりじりラブ!","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088675916","title":"絶叫学級 転生 12","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088675916.jpg","author":"いしかわえみ／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088675916","title":"絶叫学級 転生 12","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088675916.jpg","author":"いしかわえみ／著","description":"突然教室に監禁された6年2組の生徒たち。命をかけた椅子取りゲームが始まる! 「DEATH GAME」/もし昇降口の壁の染みが人間に見えてしまったら…? 「壁からの視線」/それは鏡に向かって問いかけてはいけない言葉。「お前は誰だ」/霊媒師・秋元楽の過去が明らかに…! 特別編「―密血神楽―」/奇妙な乗客にはご用心…。最恐の怪談をコミカライズ! 特別課外授業「バスで覗き込む女」(原作:ありがとう・ぁみ)","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088675954","title":"ハニーレモンソーダ 14","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"村田真優／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088675954","title":"ハニーレモンソーダ 14","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"","author":"村田真優／著","description":"付き合って1年目の記念日。大事な日だから、今までしたことがないことをすることにした2人だけど…!? 特別すぎる1日のはじまりです。どんな一瞬も無駄にはできない。2年目は、2度目の魔法にかかる――!","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088675961","title":"キスで起こして。 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088675961.jpg","author":"春田なな／著","description":"","price":"480","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088675961","title":"キスで起こして。 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088675961.jpg","author":"春田なな／著","description":"親の再婚で義理の弟・妹が出来た絵南(えな)。でも義弟の同級生・冬眞(とうま)は、「絶対俺のこと好きにならないでね?」と超塩対応。「生意気な弟を好きになんてならない…はず。」 この出会いは運命? それとも禁断…!? 義姉弟ラブストーリー、はじまります!","price":"480","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088676043","title":"GALS!! 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088676043.jpg","author":"藤井みほな／著","description":"","price":"480","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088676043","title":"GALS!! 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784088676043.jpg","author":"藤井みほな／著","description":"プーギャル寿蘭は今日も元気に渋谷でギャルやってます! だけど彼氏・達樹とは、幼なじみ・菜津をめぐってすれ違い中…。一方、綾は乙幡に新しい感情が芽生えてきて、悩んでます。乙幡の同級生・颯は綾に興味があるみたい!? 蘭・美由・綾の日常は今日もドキドキにぎやかです!","price":"480","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784128001323","title":"これだけやれば大丈夫！人生１００年時代の「老後のお金」","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784128001323.jpg","author":"","description":"老後資金とコロナ家計の不安をスッキリ解決！知らないと損する貯め方・年金・相続・申請……いまからあんしん老後に手が届く１冊！","price":"891","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
+,
+{"isbn":"9784130201599","title":"東大という思想 群像としての近代知","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784130201599.jpg","author":"吉見俊哉／編集 森本祥子／編集","description":"「建学の理念」不在の東大．その姿は，国家の学を担わされながら，欧米の近代知と日本・アジアという足元の間で格闘してきた群像によって描かれざるを得ない．医学，工学，社会学，政治学，経済学ほか，一線の研究者が自らの始祖たちの像の素描に取り組んだ論文・エッセイ集．","price":"3500","genre":"","target":"専門","format":"単行本","content":"教育"}
+,
+{"isbn":"9784130860604","title":"韓国近代小説史　1890-1945","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784130860604.jpg","author":"金栄敏／著 三ツ井崇／翻訳","description":"近代朝鮮の文学，小説の誕生と展開をめぐって，近代とは何かという問いから照らし出す．近代小説の形成を，西洋的小説（novel）の誕生を基準に論じるのではなく，1890年代以降の朝鮮においてストーリー性を持つ文学作品がいかに生まれて定着したか，メディアに着目し朝鮮社会の文脈のなかで問い直す．","price":"8800","genre":"","target":"専門","format":"単行本","content":"外国文学、その他"}
+,
+{"isbn":"9784140818268","title":"ＮＨＫ「１００分ｄｅ名著」ブックス　ダーウィン　種の起源","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-08-25","cover":"","author":"長谷川眞理子／著","description":"たまたま起きる変異が自然淘汰を経て、新たな種がうまれる。進化の原動力を解き明かしたダーウィンの進化論をいま読むことの意義。","price":"1000","genre":"自然科学","target":"一般","format":"単行本","content":"生物学"}
+,
+{"isbn":"9784142231171","title":"デフォー『ペストの記憶』　2020年9月","volume":"","series":"１００分 ｄｅ 名著","publisher":"NHK出版","pubdate":"2020-08-25","cover":"","author":"武田将明／著","description":"救うべきは生命か、経済か？ 『ロビンソン・クルーソー』で知られるデフォーが遺した記録文学を、新型コロナ禍の現代に読む。","price":"524","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"外国文学小説"}
+,
+{"isbn":"9784142288038","title":"アイドルと巡る仏像の世界","volume":"","series":"趣味どきっ！","publisher":"NHK出版","pubdate":"2020-08-25","cover":"","author":"村松哲文／著 和田彩花／著","description":"仏像をアイドルに見立てるという視点で、その鑑賞術をわかりやすく解説する。仏像の基本を網羅した、仏像ビギナーに最適な1冊。","price":"1300","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"絵画・彫刻"}
+,
+{"isbn":"9784143232825","title":"ＮＨＫ　ＣＤ　ラジオ　ラジオ英会話　2020年9月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-08-25","cover":"https://cover.openbd.jp/9784143232825.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784144072574","title":"別冊ＮＨＫ１００分ｄｅ名著　ナショナリズム","volume":"","series":"教養・文化シリーズ","publisher":"NHK出版","pubdate":"2020-08-25","cover":"","author":"大澤真幸／著 島田雅彦／著 中島岳志／著 ヤマザキマリ／著","description":"4人の論客が「ナショナリズムを考えるための名著」を厳選。その起源から歴史的変遷、私たちが採るべき態度までを語りつくす。","price":"900","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"社会"}
+,
+{"isbn":"9784148272963","title":"手作りドレッシングなら　毎日が極上サラダ","volume":"","series":"ＮＨＫまる得マガジン","publisher":"NHK出版","pubdate":"2020-08-25","cover":"","author":"神成マサヨ／著","description":"手作りドレッシングで、シンプルサラダがおしゃれで“映える”ごちそうに。酢や油の特長を生かしたおいしいレシピが満載。","price":"571","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ]
