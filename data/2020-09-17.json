@@ -121,7 +121,7 @@
 ,
 {"isbn":"9784065209592","title":"さいえんす川柳　「研究者あるある」傑作選","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-17","cover":"","author":"川柳ｉｎｔｈｅラボ／編集","description":"〈実験が全て順調　嫌な予感〉〈私より食費が贅沢ｉＰＳ〉理系の間で密かに話題。６８１５句から厳選した悲哀と笑い溢れる傑作揃い！","price":"900","genre":"","target":"一般","format":"新書","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784065209868","title":"TRANSIT（トランジット）49号　世界の栄枯盛衰【自然編】　―美しき消えゆく風景を訪ねて―","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-17","cover":"","author":"ユーフォリアファクトリー／編集","description":"文明の発展の影で消えていく風景を旅することで未来図を描く。","price":"1800","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"旅行"}
+{"isbn":"9784065209868","title":"TRANSIT（トランジット）49号　美しき消えゆく世界への旅","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-17","cover":"","author":"ユーフォリアファクトリー／編集","description":"文明の発展の影で消えていく風景を旅することで未来図を描く。","price":"1800","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"旅行"}
 ,
 {"isbn":"9784065210079","title":"XEVEC（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-17","cover":"","author":"ｂｏｓｅ／原著 下内遼太／著","description":"シムラ文書の封印を解くべく一人目の三権人と対決する深月達。だが、敵の権力と狡知は、外法屋やブラウザーの想定を超えていた！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -131,7 +131,7 @@
 ,
 {"isbn":"9784065212820","title":"ビューティフル・ダーク","volume":"","series":"","publisher":"星海社","pubdate":"2020-09-17","cover":"","author":"ハハノシキュウ／著 林祐衣／著","description":"小説を上梓したラッパーの「僕」の前に、「弟子志望」の美少女が現れて……。“小説家・ハハノシキュウ”はこの物語で飛躍する！","price":"1350","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784087211344","title":"人に寄り添う防災","volume":"","series":"","publisher":"集英社","pubdate":"2020-09-17","cover":"","author":"片田敏孝／著","description":"頻発する豪雨・台風災害等で適切な避難行動をする（させる）たに必要なものとは。『人が死なない防災』に続く待望の新刊。","price":"780","genre":"","target":"一般","format":"新書","content":"社会"}
+{"isbn":"9784087211344","title":"人に寄り添う防災","volume":"","series":"","publisher":"集英社","pubdate":"2020-09-17","cover":"","author":"片田敏孝／著","description":"頻発する豪雨・台風災害等で適切な避難行動をする（させる）ために必要なものとは。『人が死なない防災』に続く待望の新刊。","price":"780","genre":"","target":"一般","format":"新書","content":"社会"}
 ,
 {"isbn":"9784087211351","title":"人新世の「資本論」","volume":"","series":"","publisher":"集英社","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784087211351.jpg","author":"斎藤幸平／著","description":"環境危機の犯人・資本主義にどう終止符を打つのか。人類を救う潤沢な脱成長経済とは何か。「人新世」＝気候変動時代の処方箋！","price":"1020","genre":"","target":"一般","format":"新書","content":"経済・財政・統計"}
 ,
@@ -152,116 +152,4 @@
 {"isbn":"9784140333129","title":"堤人美の　旬を漬ける保存食","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-09-17","cover":"","author":"堤人美／著","description":"季節の食材を砂糖、塩、酢、油、酒などに漬けておいしくストック。漬けた保存食を料理やお菓子に活用したレシピも満載。","price":"1400","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784140402900","title":"イチゴ","volume":"13","series":"ＮＨＫ趣味の園芸１２か月栽培ナビ(1３)","publisher":"NHK出版","pubdate":"2020-09-17","cover":"","author":"藤田智／著","description":"家庭向け品種を多数紹介し、一季なりと四季なりの管理暦で作業適期を逃さない。無農薬で完熟が味わえる「家庭でイチゴ狩り体験」を。","price":"1200","genre":"","target":"実用","format":"全集・双書","content":"農林業"}
-,
-{"isbn":"9784142132652","title":"NHK　ラジオ　アラビア語講座　2020年10～2021年3月","volume":"","series":"語学シリーズ","publisher":"NHK出版","pubdate":"2020-09-17","cover":"","author":"長渡陽一／著","description":"日常会話で使われる「話し言葉」中心の講座。文字の読み書きや文化紹介まで、講師独自の学習法で初歩から楽しく学ぶ。","price":"800","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"各国語"}
-,
-{"isbn":"9784143302832","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちドイツ語　2020年10月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-09-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"ドイツ語"}
-,
-{"isbn":"9784143312831","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちフランス語　2020年10月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-09-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"フランス語"}
-,
-{"isbn":"9784143322830","title":"ＮＨＫ　ＣＤ　ラジオ　まいにち中国語　2020年10月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-09-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"各国語"}
-,
-{"isbn":"9784143332839","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちハングル講座　2020年10月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-09-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"各国語"}
-,
-{"isbn":"9784143342838","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちロシア語　2020年10月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-09-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"各国語"}
-,
-{"isbn":"9784143352837","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちスペイン語　2020年10月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-09-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"各国語"}
-,
-{"isbn":"9784143362836","title":"ＮＨＫ　ＣＤ　ラジオ　まいにちイタリア語　2020年10月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-09-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1505","genre":"","target":"一般","format":"磁性媒体など","content":"各国語"}
-,
-{"isbn":"9784143392833","title":"ＮＨＫ　ＣＤ  ラジオ　アラビア語講座　2020年10月～2021年3月","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-09-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"2400","genre":"","target":"一般","format":"磁性媒体など","content":"各国語"}
-,
-{"isbn":"9784143662837","title":"ＮＨＫ　ＣＤ　ラジオ　ステップアップ中国語　2020年10月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-09-17","cover":"","author":"","description":"NHK語学テキストの別売CD版です。","price":"1400","genre":"","target":"一般","format":"磁性媒体など","content":"各国語"}
-,
-{"isbn":"9784150122973","title":"美しき女アコン人","volume":"625","series":"宇宙英雄ローダン・シリーズ","publisher":"早川書房","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784150122973.jpg","author":"Ｈ・Ｇ・エーヴェルス／著 トーマス・ツィーグラー／著 星谷馨／翻訳","description":"ヴァジェンダの中枢ガラスの迷宮で、そこを守護する影法師軍に攻撃され、苦戦するアトランたち。その前にある女性があらわれた！","price":"700","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
-,
-{"isbn":"9784150122980","title":"サイバー・ショーグン・レボリューション 上","volume":"","series":"","publisher":"早川書房","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784150122980.jpg","author":"ピーター・トライアス／著 中原尚哉／翻訳","description":"日本統治下のアメリカで、メカパイロットの守川は、特高の捜査官とナチスキラーを追うことに。二人は革命の渦に巻きこまれ……！","price":"920","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
-,
-{"isbn":"9784150122997","title":"サイバー・ショーグン・レボリューション 下","volume":"","series":"","publisher":"早川書房","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784150122997.jpg","author":"ピーター・トライアス／著 中原尚哉／翻訳","description":"","price":"920","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
-,
-{"isbn":"9784150123000","title":"歴史は不運の繰り返し","volume":"","series":"","publisher":"早川書房","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784150123000.jpg","author":"ジョディ・テイラー／著 田辺千幸／翻訳","description":"歴史研究家マデリーンは恩師の紹介でセント・メアリー歴史研究所に就職する。だがそこでは実際にタイムトラベルが行われており!?","price":"1200","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
-,
-{"isbn":"9784150314491","title":"黒猫と歩む白日のラビリンス","volume":"","series":"","publisher":"早川書房","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784150314491.jpg","author":"森晶麿／著","description":"大学図書館に&quot;降る&quot;本は天才詩人の呪いか――現実と現代芸術が交差する五つの謎に、新たな日々を歩み始めた黒猫と付き人が迫る","price":"800","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784150414702","title":"老いた男","volume":"","series":"","publisher":"早川書房","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784150414702.jpg","author":"トマス・ペリー／著 渡辺義久／翻訳","description":"元工作員の60代の男は、犬とともに静かな生活を送っていた。だが彼の元に暗い影が……ベテラン作家のエンターテインメント小説","price":"1220","genre":"","target":"一般","format":"文庫","content":"外国文学小説"}
-,
-{"isbn":"9784152099655","title":"侍女の物語　グラフィックノベル版","volume":"","series":"","publisher":"早川書房","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784152099655.jpg","author":"ルネー・ノールト／著 マーガレット・アトウッド／著 斎藤英治／翻訳","description":"子を産むためだけの存在である侍女が、ある日、司令官の部屋で見たものは──。ディストピア文学の金字塔をグラフィック・ノベル化。","price":"4900","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
-,
-{"isbn":"9784152099662","title":"財政赤字の神話","volume":"","series":"","publisher":"早川書房","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784152099662.jpg","author":"ステファニー・ケルトン／著 土方奈美／翻訳","description":"ＭＭＴ（現代貨幣理論）の主唱者が財政赤字にまつわる６つの神話を撃破し、経済再生の道を説くＮＹタイムズ・ベストセラー","price":"2400","genre":"","target":"一般","format":"単行本","content":"経済・財政・統計"}
-,
-{"isbn":"9784152099679","title":"ゼロからつくる科学文明","volume":"","series":"","publisher":"早川書房","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784152099679.jpg","author":"ライアン・ノース／著 吉田三知世／翻訳","description":"ベストセラー『ホワット・イフ？』著者絶賛！　言葉、農作物、現代アートにいたるまで、文明をゼロからつくり直すための全てがここに","price":"2800","genre":"","target":"一般","format":"単行本","content":"自然科学総記"}
-,
-{"isbn":"9784152099686","title":"売国のテロル","volume":"","series":"","publisher":"早川書房","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784152099686.jpg","author":"穂波了／著","description":"全世界規模で発生した新型炭疽菌の感染災禍。発生源はＩＳＳ日本ユニット！？　未曾有のスケールで描かれるバイオテロ・スリラー巨篇","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784152099693","title":"と、ある日のすごくふしぎ","volume":"","series":"","publisher":"早川書房","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784152099693.jpg","author":"宮崎夏次系／著","description":"宮崎夏次系、待望の短篇集。常識からずれた生き方をしてもいい――ＳＦ世界で突拍子もなく躍動する人々の姿が心深くに突き刺さる！","price":"900","genre":"","target":"一般","format":"単行本","content":"コミックス・劇画"}
-,
-{"isbn":"9784153350496","title":"サイバー・ショーグン・レボリューション","volume":"","series":"","publisher":"早川書房","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784153350496.jpg","author":"ピーター・トライアス／著 中原尚哉／翻訳","description":"巨大ロボット「メカ」が闊歩する日本統治下のアメリカでメカパイロットがナチスキラーを追う。星雲賞連続受賞の改変歴史三部作完結篇","price":"2900","genre":"","target":"一般","format":"新書","content":"外国文学小説"}
-,
-{"isbn":"9784163912554","title":"震雷の人","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-09-17","cover":"","author":"千葉ともこ／著","description":"第27回松本清張賞受賞作\n書の力で、国を動かしたい――。唐の時代を舞台に、兄妹の数奇な運命が交差する。ロマン香る大河小","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784163912592","title":"反日種族主義との闘争","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784163912592.jpg","author":"李栄薫／著","description":"韓国の歴史認識を徹底批判し、日韓両国で大ベストセラーとなった『反日種族主義』。同書に寄せられた批判や疑問にすべて答える！","price":"1650","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784163912646","title":"藁を手に旅に出よう“伝説の人事部長”による「働き方」の教室","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784163912646.jpg","author":"荒木博行／著","description":"「このまま今の会社にいていいのか」。悩む若手社員サカモト。伝説の人事部長・石川による研修が「職場のモヤモヤ」を解消していく。","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784163912677","title":"日本VS韓国 対立がなくならない本当の理由","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784163912677.jpg","author":"池上彰+「池上彰スペシャル!」制作チーム／著","description":"現地韓国での取材から、「反日」が収まらない原因を分かりやすく解説。『反日種族主義』編著者との対談は未放送分も含めて収録。","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784253140874","title":"カレシがいるのに  2","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253140874.jpg","author":"柚木N’／著","description":"毎回がクライマックスで大人気、ひたむきな女の子たちの浮気ラブストーリーズ！コスプレ、百合、人妻など様々な愛のカタチを描く！","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253141673","title":"クロスオーバーレブ！  4","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253141673.jpg","author":"山口かつみ／著","description":"新章突入！モトに降りかかる突然の悲劇。そして、それを救うため涼子はある決断を。モトと涼子が音速の世界と日常で交わっていく。","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253149532","title":"じゃあ、君の代わりに殺そうか？  3","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253149532.jpg","author":"蔵人幸明／著 榊原宗々／著","description":"絶望的なイジメの日々から僕を解放してくれた親友のアメリ。だけどアメリが現れてから地獄が始まったんだ。親友グロサスペンス！","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253150507","title":"TOKYOTRIBE WARU  4","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253150507.jpg","author":"井上三太／著","description":"小峠もビビりまくり! 恐るべき力を持つてんぐ帝国登場!! 強大な闇がトーキョーに満ちるカオスをさらに加速させる!!","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253236249","title":"人狼機ウィンヴルガ  8","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253236249.jpg","author":"綱島志朗／著","description":"覚醒した真白が虹色の輝きを放つ！その輝きは囚われの父を、世界を救う希望の光！天津之黄泉攻防戦、クライマックス！","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253238847","title":"聖闘士星矢セインティア翔  14","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253238847.jpg","author":"車田正美／著 久織ちまき／著","description":"アテナ沙織のもとに黄金の簪を届けるべく決死の行軍を続ける聖闘少女たち。ドルフィン美衣の前に立ちふさがるかつての想い人…","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253239066","title":"絢爛たるグランドセーヌ  16","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253239066.jpg","author":"Cuvie／著","description":"英国ロイヤル・バレエ・スクールのロウアー・スクール10年生に一年間の編入留学をした奏。本格的に学校生活とレッスンが始まる。","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253239455","title":"銀河鉄道９９９ＡＮＯＴＨＥＲ　ＳＴＯＲＹアルティメットジャーニー  5","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253239455.jpg","author":"松本零士／著 島崎譲／著","description":"銀河鉄道９９９が修理を続ける中、星野鉄郎はメーテルと共に海賊戦艦アルカディア号で神々が住まうという惑星アスガルドを目指す…","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253239813","title":"サキュバス＆ヒットマン  1","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253239813.jpg","author":"深見真／著 刻夜セイゴ／著","description":"謎の四人組に家族もろとも殺された俺は高校生蒲生翔矢の肉体を得、この世に再びよみがえる。悪魔の＜殺しの代理人＞として…","price":"650","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253252607","title":"あの子のおっぱいからどうにも目がはなせないアンソロジーコミック２","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253252607.jpg","author":"月刊少年チャンピオン編集部・編／著","description":"男の子たちの心の支え\"おっぱい\"にまつわるエピソード７篇を収録!!","price":"700","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253252638","title":"ヤンキー女子のナマイキおっぱいに特攻!!アンソロジーコミック","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253252638.jpg","author":"月刊少年チャンピオン編集部・編／著","description":"男もたじろぐコワモテなヤンキー女子は実はとっても可愛くて!? ヤンキー女子のちょっとエッチなエピソード７篇を収録!!","price":"700","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253257091","title":"高嶺の華は乱れ咲き  3","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253257091.jpg","author":"いとうえい／著","description":"隠れマゾの嶺崎悠華は、澤田淳への利害だけではない想いに気づきじめる。２人の関係の変遷と共にSMプレイも更に過激に…!?","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253257930","title":"異世界のトイレで大をする。  3","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253257930.jpg","author":"ルーツ／著","description":"異世界に転生した勇者は快適なトイレにこだわる男だった。トイレで読むとさらに快適な、うんちく満載ギャグ漫画、堂々完結！","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253302111","title":"クズ!! ～アナザークローズ九頭神竜男～  20","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253302111.jpg","author":"鈴木大／著","description":"九頭神と天馬、つい激突！そして明らかになる為清の過去、暗躍する「ジェスター」の秘密。過去に縛られた男達の血と涙の哀愁歌。","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253302319","title":"大阪MADファミリー  4","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784253302319.jpg","author":"信長アキラ／著","description":"極悪チーム「80’S」の敵意が「MAD」に最速で向かってくる。そんな中、シビックFK2を駆る魅惑の女が環状に現れて!","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253302715","title":"優駿の門2020馬術  1","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-09-17","cover":"","author":"やまさき拓味／著","description":"競走馬を引退したサラブレッドに与えられた新たな舞台は高校の馬術部。少年・少女とオリンピックの馬術競技出場を目指す!!","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784262152967","title":"ちいさなお直し","volume":"","series":"","publisher":"池田書店","pubdate":"2020-09-17","cover":"","author":"いわせあさこ／著 ミムラトモミ／著 鯉渕直子／著","description":"ダーニング、刺繍、アップリケで、汚れたりほつれたりした衣類・小物をよみがえらせる！お気に入りのアイテムをいつまでも大事に。","price":"1400","genre":"","target":"実用","format":"単行本","content":"家事"}
-,
-{"isbn":"9784265402175","title":"FROG AND TOAD 2021　がまくんとかえるくんカレンダー","volume":"","series":"","publisher":"岩崎書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784265402175.jpg","author":"アーノルド・ローベル／著","description":"『ふたりはともだち』がまくんとかえるくんのカレンダー。日本語と英語の両方の台詞入り。","price":"1500","genre":"","target":"一般","format":"単行本","content":"絵画・彫刻"}
-,
-{"isbn":"9784265825271","title":"滝平二郎カレンダー2021","volume":"","series":"","publisher":"岩崎書店","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784265825271.jpg","author":"滝平二郎／イラスト","description":"滝平二郎の「きりえ」の名作が12か月の壁かけカレンダーになりました。刊行50周年の絵本『モチモチの木』の名場面も。","price":"1500","genre":"","target":"一般","format":"単行本","content":"絵画・彫刻"}
-,
-{"isbn":"9784274225734","title":"建築用語図鑑　西洋篇","volume":"","series":"","publisher":"オーム社","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784274225734.jpg","author":"杉本龍彦／著 長沖充／著 蕪木孝典／著 伊藤茉莉子／著 片岡菜苗子／著 中山繁信／著 ほか","description":"古代から現代までの西洋建築の歴史の中で、主要なものをキーワードとともに選び出し、意味や成り立ち・歴史を楽しみながら学ぶ。","price":"2000","genre":"工業・工学","target":"専門","format":"単行本","content":"建築"}
-,
-{"isbn":"9784274225864","title":"圧縮性流体力学（第２版）","volume":"","series":"","publisher":"オーム社","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784274225864.jpg","author":"松尾一泰／著","description":"「圧縮性流体力学」を機械や装置の内部における〈高速流動を主眼〉に体系的にまとめ、とくに衝撃波の発生過程を詳細かつ平易に解説。","price":"3600","genre":"工業・工学","target":"専門","format":"単行本","content":"機械"}
-,
-{"isbn":"9784276436848","title":"伊藤康英ピアノソロセレクション　ノスタルジックワールド","volume":"","series":"","publisher":"株式会社音楽之友社","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784276436848.jpg","author":"伊藤康英","description":"交響詩《ぐるりよざ》や「ぐるぐるピアノ」の伊藤康英による待望のピアノソロ曲集。人気曲の編曲や書き下ろしなど全9曲を収録。","price":"1700","genre":"","target":"教養","format":"単行本","content":"音楽・舞踊"}
-,
-{"isbn":"9784295010067","title":"いちばんやさしいスマートフォンSEOの教本 人気講師が教える検索に強いスマホサイトの作り方","volume":"","series":"いちばんやさしい教本","publisher":"インプレス","pubdate":"2020-09-17","cover":"","author":"","description":"","price":"1980","genre":"","target":"","format":"","content":""}
-,
-{"isbn":"9784297115449","title":"ゼロからはじめる　Microsoft Teams　基本＆便利技","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-09-17","cover":"https://cover.openbd.jp/9784297115449.jpg","author":"リンクアップ／著","description":"テレワークやオンライン授業の実施により、Microsoft 365を導入していれば追加費用無しで使え、無料版もあるTeamsを使う企業が増えています。本書は急遽Teamsを使うことになった方に向けて、最低限必要な使い方をわかりやすく解説します。\nチームへの参加やメッセージのやり取り、ビデオ会議などの基本的な操作からチームやチャネルの管理、モバイルでの利用や困ったときのFAQまで説明しています。","price":"1000","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784299007896","title":"ULTRA LIGHT UMBRELLA BOOK 世界最軽量級! 折りたたみ傘","volume":"","series":"","publisher":"宝島社","pubdate":"2020-09-17","cover":"","author":"","description":"重さわずか卵1個分(約78g)! スマホの約半分の重さの超軽量折りたたみ傘ができました! たたむと長さ約20cm、直径約3.6㎝とスリムなので、バッグに入れても幅を取りません。軽量ながら安定の6本骨採用で、広げた時も直径約86㎝とゆったり使えます。通常なら3000円以上する超軽量傘を、お求めになりやすい価格で実現! 長雨の時期にぜひ持っておきたい1本です。","price":"2300","genre":"","target":"一般","format":"ムック・その他","content":"家事"}
-,
-{"isbn":"9784299009029","title":"もっとずるいいきもの図鑑","volume":"","series":"","publisher":"宝島社","pubdate":"2020-09-17","cover":"","author":"今泉忠明／監修","description":"『ずるいいきもの図鑑』の第2弾。ウイルスも入ってグレードアップ。食虫植物も掲載。ずるくて、かしこくて、ひきょうで、逃げ足が速い動物から、化けてジッと獲物が来るのを待つ植物まで、76種類のいきものが登場。嫌いな先輩メスライオンの子どもを隠れていじめる後輩のメスライオン、歩けないふりしてそっと獲物に近づくナマコ、アリにそっくりに変身してアリを襲うクモなどなど、あなたの知らないいきものの世界をたっぷり紹介します。","price":"1000","genre":"自然科学","target":"一般","format":"単行本","content":"生物学"}
-,
-{"isbn":"9784299009043","title":"CYBERJAPAN DANCERS写真集 「Yummy!」","volume":"","series":"","publisher":"宝島社","pubdate":"2020-09-17","cover":"","author":"CYBERJAPANDANCERS／著","description":"「日本一セクシーな美ボディ集団」として、男性だけではなく若い女性からも圧倒的な支持を集める \n“CYBERJAPAN DANCERS(サイバージャパン ダンサーズ)”最新4th写真集の発売が決定! \n\n結成20周年を記念して集められた最高で最旬のメンバーたちが、『夏! 海! 水着ギャル!』という王道のテーマで、 \nCYBERJAPANにしかできない“華やかで健康的な限界露出”を披露!\nチームKの4人はもちろん、KOZUE、HARUKA、MIKA-T、JUNON、MIRIN、RIOのソロショットや集合ショットもたっぷり収録。 \n注目の新人メンバー8名も加え、総勢18名によるサイバージャパン史上最高の写真集となること間違いなしの一冊です。","price":"2300","genre":"芸能・タレント","target":"一般","format":"単行本","content":"写真・工芸"}
-,
-{"isbn":"9784309249742","title":"Ｊｏｙ　ａｔ　Ｗｏｒｋ　片づけでときめく働き方を手に入れる","volume":"","series":"","publisher":"河出書房新社","pubdate":"2020-09-17","cover":"","author":"近藤麻理恵／著 スコット・ソネンシェイン／著 古草秀子／翻訳","description":"スペースも頭の中も片づければ、人生が劇的に変わる！ 1200万部突破の大ベストセラー『人生がときめく片づけの魔法』の仕事版。","price":"1600","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
-,
-{"isbn":"9784309249766","title":"スサノヲの正体 ヤマトに祟る荒ぶる神","volume":"","series":"","publisher":"河出書房新社","pubdate":"2020-09-17","cover":"","author":"戸矢学／著","description":"古代史最大猪謎の神を、高天原、京、出雲、関東、奈良から、またソガの神社、氷川神社から探る。何処から現れ、何処へ向かったのか。","price":"2000","genre":"","target":"一般","format":"単行本","content":"日本歴史"}
-,
-{"isbn":"9784309288253","title":"折り紙王子の凄ワザ！折り紙","volume":"","series":"","publisher":"河出書房新社","pubdate":"2020-09-17","cover":"","author":"有澤悠河／著","description":"大注目の折り紙作家、待望の一冊！　ドラゴン、馬人間、ハシビロコウ、ジェット旅客機、恐竜、クワガタなど魅力的な作品が満載。","price":"1800","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
 ]
