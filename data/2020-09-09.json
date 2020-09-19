@@ -79,7 +79,7 @@
 ,
 {"isbn":"9784065206140","title":"未熟なふたりでございますが（7）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-09","cover":"https://cover.openbd.jp/9784065206140.jpg","author":"カワハラ恋／著","description":"ラブラブ新婚夫婦に、まさか……結婚生活最大の危機、到来！？","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065206492","title":"お願い、脱がシて。（4）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-09","cover":"https://cover.openbd.jp/9784065206492.jpg","author":"川中康嗣／著","description":"呪われた女子たちを救った代わりに呪われた神手のパンツを脱がせるのは「一度呪いにかかった者」だけ。翼は神手を救うため…。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065206492","title":"お願い、脱がシて。（4）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-09","cover":"https://cover.openbd.jp/9784065206492.jpg","author":"川中康嗣／著","description":"呪われた女子たちを救った代わりに呪われた神手のパンツを脱がせるのは「一度呪いにかかった者」だ。翼は神手を救うため…。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065206607","title":"自称！平凡魔族の英雄ライフ（5）　～B級魔族なのにチートダンジョンを作ってしまった結果～","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-09","cover":"https://cover.openbd.jp/9784065206607.jpg","author":"こねこねこ／著 あまうい白一／原著 卵の黄身／原著","description":"歴代魔王のダンジョン探索でお宝ゲット！　ファンタジー×冒険×学園生活！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -172,4 +172,12 @@
 {"isbn":"9784121507013","title":"韓国の若者","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-09-09","cover":"","author":"安宿緑／著","description":"「キム・ジヨン」は何に苦しみ、「梨泰院クラス」は誰と戦っていたのか？　断言する。この国（韓国）は地獄（ヘル）だ！","price":"820","genre":"","target":"教養","format":"新書","content":"社会"}
 ,
 {"isbn":"9784163912578","title":"クマとカラス","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-09-09","cover":"https://cover.openbd.jp/9784163912578.jpg","author":"帆／著","description":"ひとりぼっちのクマと、はみ出し者のカラス。出会ったふたりが「かけがえのない仲間」を探して旅に出る、切ない友情物語。","price":"950","genre":"","target":"一般","format":"単行本","content":"コミックス・劇画"}
+,
+{"isbn":"9784198651558","title":"月はまた昇る","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-09-09","cover":"","author":"成田名璃子／著","description":"「認可保育園に落ちちゃったよ」ＳＮＳに#保育園落ちた人この指止まれ　で呟いた彩芽。共感した親がたくさん集まってきて――。","price":"1650","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198651619","title":"クラシック・ムーミン童話　ムーミン谷のおはなし","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-09-09","cover":"","author":"トーベ・ヤンソン／著 アレックス・ハリディ／著 セシリア・ダヴィッドソン／著 セシリア・ヘイッキラ／イラスト ほか","description":"ムーミントロールたちはどのようにしてムーミン谷にやってきたのでしょう？　３つのお話を１冊にまとめた、豪華な童話集。","price":"2500","genre":"児童図書","target":"児童","format":"絵本","content":"外国文学小説"}
+,
+{"isbn":"9784198651657","title":"Angel Touch　～エンジェルタッチ～　高田明美画集","volume":"","series":"","publisher":"復刊ドットコム","pubdate":"2020-09-09","cover":"","author":"高田明美／著","description":"『魔法の天使クリィミーマミ』『きまぐれオレンジ☆ロード』などのアニメーションキャラクターデザインで知られる高田明美の画集","price":"4000","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784198651848","title":"如是我聞 完結編 世相を一刀両断","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-09-09","cover":"","author":"奥谷禮子／著","description":"小泉純一郎元首相との対談などを収録した、２８年間にわたって世相を斬ってきた名物コラム「如是我聞」の完結編。","price":"1500","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
 ]
