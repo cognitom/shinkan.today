@@ -3,7 +3,7 @@
 ,
 {"isbn":"9784048968768","title":"とろ～りなめらか We Love プリン","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784048968768.jpg","author":"","description":"作って楽しい、食べて幸せ、手作りプリン","price":"600","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
 ,
-{"isbn":"9784049110494","title":"週刊アスキー特別編集　週アス2020October","volume":"","series":"","publisher":"角川アスキー総合研究所","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784049110494.jpg","author":"週刊アスキー編集部／企画・編集","description":"最新ガジェットと家電でお部屋も快適化","price":"555","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"情報科学"}
+{"isbn":"9784049110494","title":"週刊アスキー特編集　週アス2020October","volume":"","series":"","publisher":"角川アスキー総合研究所","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784049110494.jpg","author":"週刊アスキー編集部／企画・編集","description":"最新ガジェットと家電でお部屋も快適化","price":"555","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"情報科学"}
 ,
 {"isbn":"9784056115970","title":"手軽に解ける　長生きパズルで脳活性１１０問ドリル","volume":"","series":"学研ムック","publisher":"学研プラス","pubdate":"2020-09-29","cover":"","author":"島田達生／監修","description":"大分大学名誉教授・島田達生先生が提案する楽しい脳活性パズルが１１０問！　無理なく楽しめるパズルをＡ４サイズに大きく掲載。","price":"830","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
@@ -26,62 +26,4 @@
 {"isbn":"9784074452392","title":"うんちを見るだけで腸ハッピー！　腸活メソッド","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-09-29","cover":"","author":"ウンログ／監修","description":"70万DL突破うんち記録アプリ”ウンログ”が初監修。痩せる、美肌になる、幸福度UPの、腸ハッピーな腸活メソッド！","price":"1400","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784074452804","title":"大丈夫！　あなたはちゃんと子育てしてるし　子どももちゃんと育ってます","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-09-29","cover":"","author":"佐々木正美／著 松本ぷりっつ／イラスト","description":"子育てのイライラと不安がスーッと消える！心が救われる！伝説の児童精神科医　佐々木正美先生が教える　最高の子育て術","price":"1200","genre":"","target":"実用","format":"単行本","content":"家事"}
-,
-{"isbn":"9784101007144","title":"近代絵画","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101007144.jpg","author":"小林秀雄／著","description":"","price":"900","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784101015521","title":"敗れども負けず","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101015521.jpg","author":"武内涼／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101023311","title":"王都の落伍者 ソナンと空人１","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101023311.jpg","author":"沢村凜／著","description":"","price":"590","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101023328","title":"鬼絹の姫 ソナンと空人２","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101023328.jpg","author":"沢村凜／著","description":"","price":"710","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101156910","title":"スパイ武士道","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101156910.jpg","author":"池波正太郎／著","description":"","price":"710","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101181219","title":"小説 イタリア・ルネサンス１","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101181219.jpg","author":"塩野七生／著","description":"","price":"1100","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101208732","title":"マイブック ２０２１年の記録","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101208732.jpg","author":"大貫卓也／企画","description":"","price":"400","genre":"文庫","target":"一般","format":"文庫","content":"総記"}
-,
-{"isbn":"9784101248196","title":"管見妄語 常識は凡人のもの","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101248196.jpg","author":"藤原正彦／著","description":"","price":"550","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784101285405","title":"十津川警部 赤穂・忠臣蔵の殺意","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101285405.jpg","author":"西村京太郎／著","description":"","price":"550","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101353548","title":"ヒトごろし（上） 文庫版","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101353548.jpg","author":"京極夏彦／著","description":"","price":"1100","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101353555","title":"ヒトごろし（下） 文庫版","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101353555.jpg","author":"京極夏彦／著","description":"","price":"1100","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101357782","title":"千両かざり 女細工師お凜","volume":"","series":"新潮文庫","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101357782.jpg","author":"西條奈加／著","description":"","price":"670","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101802015","title":"キャプテンサンダーボルト 新装版","volume":"","series":"新潮文庫ｎｅｘ（ネックス）","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101802015.jpg","author":"伊坂幸太郎／著 阿部和重／著","description":"","price":"1100","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101802022","title":"さよならの言い方なんて知らない。４","volume":"","series":"新潮文庫ｎｅｘ（ネックス）","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101802022.jpg","author":"河野裕／著","description":"","price":"710","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784101802039","title":"猫河原家の人びと 花嫁は名探偵","volume":"","series":"新潮文庫ｎｅｘ（ネックス）","publisher":"新潮社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784101802039.jpg","author":"青柳碧人／著","description":"","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784128001330","title":"谷本道哉のすぐやる健康体操","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784128001330.jpg","author":"谷本道哉／著","description":"「筋肉は裏切らない！」の決め台詞でおなじみの著者が自宅で簡単にできる１２の体操をＤＶＤ付きで紹介する。読売新聞夕刊好評連載。","price":"800","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
-,
-{"isbn":"9784130311984","title":"履行請求権と損害軽減義務　増補新装版","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784130311984.jpg","author":"吉川吉樹／著","description":"債権の効力をどのように考えるか．履行請求権を貫くか，損害軽減義務を広く認めるか．本書は，履行請求権の効力を歴史的に分析，英米独法，国際統一売買法との比較法的考察を行なう．判例分析をふまえ，日本法への示唆を与える．改正民法の審議においても重視された基本的研究書．「2017年民法改正について」（内田貴）を増補．","price":"9800","genre":"","target":"専門","format":"単行本","content":"法律"}
-,
-{"isbn":"9784130322294","title":"概説　日本の公共政策　第２版","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784130322294.jpg","author":"新藤宗幸／著","description":"公共政策とは何か．それはどのようにつくられ，実施され，評価されているのか．本書は，日本の政策プロセスを東日本大震災，原発問題，過労死，新型コロナウイルス問題など具体的な話題を通して考え，イノベーションの道を探る．大きく変化した政治と行政の関係をふまえた全面改訂第２版．","price":"2900","genre":"","target":"専門","format":"単行本","content":"政治-含む国防軍事"}
-,
-{"isbn":"9784130333009","title":"UP  plus　コロナ以後の東アジア","volume":"","series":"UP  plus","publisher":"東京大学出版会","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784130333009.jpg","author":"東大社研現代中国研究拠点／編集","description":"2020年，世界は新型コロナウイルス感染症（COVID19)のパンデミックによって大きく変化した．新型コロナウイルス感染症がいち早く発見された，中国はどのように感染症に対応したのだろうか？　中国，台湾，香港，韓国，そして東南アジアがいまどのような状況にあるのかをそれぞれの第一線の研究者が分析する．","price":"1700","genre":"","target":"教養","format":"単行本","content":"社会科学総記"}
-,
-{"isbn":"9784130530927","title":"大学という理念 絶望のその先へ","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784130530927.jpg","author":"吉見俊哉／著","description":"東大すら例外でない「衰亡」が取沙汰される現代日本の大学．いま直面する問題は，明治以降の日本の知の歴史の帰結と深い関係がある．社会史の視座と，自ら大学の研究・教育に携わる実践者の視座との双方から，ありうる大学の未来像とその芯である「理念」を大胆に提示する書．","price":"2900","genre":"","target":"教養","format":"単行本","content":"教育"}
-,
-{"isbn":"9784140818305","title":"［現代語訳］ベスト・オブ・渋沢栄一","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-09-29","cover":"","author":"渋沢栄一／著 木村昌人／編集","description":"渋沢栄一の言葉を『論語と算盤』をはじめとした著作より厳選し、平易に現代語訳。挫折を乗り越え続けた彼の人生と思想を学ぶ！","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784149235929","title":"連続テレビ小説　エール　Ｐａｒｔ２","volume":"","series":"ＮＨＫドラマ・ガイド","publisher":"NHK出版","pubdate":"2020-09-29","cover":"","author":"ＮＨＫドラマ制作班／監修 ＮＨＫ出版／編集","description":"連続テレビ小説「エール」の魅力を全力で伝えるNHKドラマ・ガイド。窪田正孝＆二階堂ふみインタビューや「三羽ガラス」特集も！","price":"1100","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
-,
-{"isbn":"9784163912660","title":"あの日、ジュバは戦場だった 自衛隊南スーダンPKO隊員の手記","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784163912660.jpg","author":"小山修一／著","description":"2016年7月8日、南スーダンの首都ジュバで激しい衝突が起きた。自衛隊はなぜ、何の為にそこにいたのか。元派遣隊員の克明な手記","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784197806409","title":"めしばな刑事タチバナ　39","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-09-29","cover":"","author":"坂戸佐兵衛／著 旅井とり／著","description":"『めしばな刑事タチバナ』３９巻は『ＷＯＷ！　８０年代ラーメン』。黄金時代の即席めんを網羅した表題作ほか\n全１２編。","price":"560","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784198270759","title":"小屋　小さな家の豊かな暮らし　Vol.3","volume":"","series":"","publisher":"CLASSIX","pubdate":"2020-09-29","cover":"","author":"","description":"「小屋　小さな家の豊かな暮らし　ｖｏｌ．０３」は、国内外の素敵な小屋を取り上げた数少ない専門誌のひとつ。","price":"909","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
-,
-{"isbn":"9784199010040","title":"拝啓、百年先の世界のあなたへ","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-09-29","cover":"","author":"中原一也／著 笠井あゆみ／イラスト","description":"未来からきたアンドロイドと挫折した小説家の、　時を超えて紡ぐ切ない純愛！！","price":"630","genre":"文庫","target":"一般","format":"文庫","content":"演劇・映画"}
-,
-{"isbn":"9784255011998","title":"洪道場のAI定石辞典","volume":"","series":"","publisher":"朝日出版社","pubdate":"2020-09-29","cover":"","author":"小池芳弘／著 山田真生／著 洪道場／監修","description":"人間ははたしてAIを超えられるのか！？\n\n「この定石の本はＡＩが出てからいろいろ作られたものをまとめた本です。\n洪道場師範山田真生氏や小池芳弘五段が丁寧に作ったのできっと皆さまの役に立つと思います。本の定石を使うか使わないかは皆さまにお任せします。自分に合わないものをあえて使う必要はありません。\n私は『なるほど、そういう手もあるんだな』と思うだけでも勉強だと思います。昔から一冊で一つだけ得るものがあれば大成功だと思いながら勉強してきました。一番大事なのは囲碁を楽しむことだと思います。世界に一つだけの自分だけの碁を打ってみてください。」　　―――――洪道場　洪清泉四段　（まえがきより抜粋）\n\n\n目次\nＡＩ流三々入り定石\n　テーマ図１　ＡＩの代名詞「序盤の三々入り」\n　テーマ図２　大流行のケイマ外し定石\n　テーマ図３　難解定石への入り口\n　テーマ図４　日々進化する研究中の定石\n　テーマ図５　最も流行している「ノビ」\n　三々定石のまとめ\n\n小目のシマリへの対抗策\n　テーマ図１　小ゲイマジマリへの対策\n　テーマ図２　大ゲイマジマリへの対策\n　テーマ図３　攻撃の外バネ\n　テーマ図４　新感覚　第２のツケ\n　テーマ図５　一間高ジマリへの対策\n　テーマ図６　二間高ジマリへの対策①\n　テーマ図７　二間高ジマリへの対策②\n　テーマ図８　二間高ジマリへの対策③\n　テーマ図９　二間高ジマリへの対策④\n　小目定石のまとめ\n\n進化した定石・消えた定石\n　テーマ図１　消えた隅のツケ\n　テーマ図２　小林流二間高バサミの対策\n　テーマ図３　変化した厚みの評価\n　テーマ図４　実利に厚い上ツケ","price":"2300","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
-,
-{"isbn":"9784255012018","title":"大洪水以降","volume":"","series":"","publisher":"朝日出版社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784255012018.jpg","author":"大浦康介／著","description":"『誘惑論・実践篇』、『対面的――〈見つめ合い〉の人間学』などの著者による初の小説作品集。\n表題作「大洪水以後」のほか、「転落」、「ショートカッツ」（超短編連作）を収める。","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784255012025","title":"句集　伊月集　梟","volume":"","series":"","publisher":"朝日出版社","pubdate":"2020-09-29","cover":"https://cover.openbd.jp/9784255012025.jpg","author":"夏井いつき／著","description":"夏井いつきの第二句集、装いを改め、復刊。\n40代の句、400句を収録。\n\n　この十年は、師から学んできたことを自分なりにどう昇華していけばよいか、考え続けてきた年月だった。憧れに縋りついているだけでは不甲斐ない弟子で終わってしまう。そんな己のひそやかな決意を師の前に差し出す400句。今回の句集はそんな緊張感に満ちた一冊でもある。\n　　　つながれぬ手は垂れ末黒野の太陽　　　いつき\n　さまざまな出会いの中で紡ぎ出される俳句もあれば、俳句から生まれる出会いもあるのだと知った。人や花や草や鳥や風や雲やさまざまなものたちとの出会いが、私の中でどんな言葉として結球していくか。これから始まる50代もたっぷり楽しみたいと思う。\n（「あとがき」より一部抜粋）\n\n【目次】\n梟\n愛国\n寓話\n口火\n百年\nあとがき","price":"2200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ]
