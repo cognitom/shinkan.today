@@ -37,7 +37,7 @@
 ,
 {"isbn":"9784040649085","title":"盾の勇者のおしながき　2","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784040649085.jpg","author":"赤野天道／著 アネコユサギ／原著 弥南せいら／企画","description":"「盾の勇者」公式グルメスピンオフ!!","price":"650","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784040649153","title":"もふもふを知らなかったら人生の半分は無駄にしていた　（２）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784040649153.jpg","author":"片岡とんち／著 ひつじのはね(ツギクル)／原著 戸部淑／企画","description":"転生少年ともふもふが織りなす異世界ファンタジー！","price":"650","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784040649153","title":"もふもふを知らなかったら人生の半分は無駄にしていた　（２）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784040649153.jpg","author":"片岡とんち／著 ひつじのはね(ツギクル)／原著 戸部淑／企画","description":"転生少年ともふもふが織りなす世界ファンタジー！","price":"650","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784040649542","title":"山田くんとLv999の恋をする（2）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784040649542.jpg","author":"ましろ／著","description":"ネトゲで芽生えたこのココロ、クラスチェンジはまだまだ先？","price":"650","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -57,59 +57,83 @@
 ,
 {"isbn":"9784065157381","title":"DVD付き　鬼灯の冷徹（31）限定版","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065157381.jpg","author":"江口夏実／著","description":"ＴＶアニメーションで大人気を博した「鬼灯の冷徹」の完全新作アニメがＯＡＤで登場！","price":"3400","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065189672","title":"ハコヅメ～交番女子の逆襲～（14）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"泰三子／著","description":"新任警察官・川合と、超美人＆刑事部のエースながらパワハラで交番に飛ばされた藤部長。交番（＝ハコ）勤務女子二人のお仕事備忘録！","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065189672","title":"ハコヅメ～交番女子の逆襲～（14）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065189672.jpg","author":"泰三子／著","description":"新任警察官・川合と、超美人＆刑事部のエースながらパワハラで交番に飛ばされた藤部長。交番（＝ハコ）勤務女子二人のお仕事備忘録！","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065194089","title":"公式コミックコンプリートガイド　鬼灯の冷徹　～地獄の大事典～","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"江口夏実／監修 モーニング編集部／監修 講談社／編集","description":"完結を迎えた『鬼灯の冷徹』の完全保存版コミックガイド。地獄や妖怪の元ネタ、全キャラ紹介などの魅力を完全網羅。","price":"1300","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065194089","title":"公式コミックコンプリートガイド　鬼灯の冷徹　～地獄の大事典～","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065194089.jpg","author":"江口夏実／監修 モーニング編集部／監修 講談社／編集","description":"完結を迎えた『鬼灯の冷徹』の完全保存版コミックガイド。地獄や妖怪の元ネタ、全キャラ紹介などの魅力を完全網羅。","price":"1300","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065203613","title":"鬼灯の冷徹（31）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065203613.jpg","author":"江口実／著","description":"ご愛獄、感謝。地獄の沙汰も描き終（じま）い！　約９年にわたってお届けしてきたわりかし楽しげ地獄ＤＡＹＳ、ここに完結！","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065203613","title":"鬼灯の冷徹（31）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065203613.jpg","author":"江口夏実／著","description":"ご愛獄、感謝。地獄の沙汰も描き終（じま）い！　約９年にわたってお届けしてきたわりかし楽しげ地獄ＤＡＹＳ、ここに完結！","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065203842","title":"サガラ～Sの同素体～（6）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"真刈信二／原著 かわぐちかいじ／著","description":"信頼を失った諜報員のゆく先はーー。真刈信二×かわぐちかいじの豪華タッグで贈る、本格スパイサスペンス第６巻！","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065203842","title":"サガラ～Sの同素体～（6）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065203842.jpg","author":"真刈信二／原著 かわぐちかいじ／著","description":"信頼を失った諜報員のゆく先はーー。真刈信二×かわぐちかいじの豪華タッグで贈る、本格スパイサスペンス第６巻！","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065204023","title":"獄彩絵画　弐　江口夏実「鬼灯の冷徹」カラーイラスト集2","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065204023.jpg","author":"江口夏実／著","description":"『鬼灯の冷徹』カラーイラスト集、第２弾！　２０１５年発売の『獄彩絵画』以降に江口夏実が描いたカラーイラストをすべて収録！","price":"2500","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065204023","title":"獄彩絵画　弐　江口夏実「鬼灯の冷徹」カラーイラスト集2","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065204023.jpg","author":"江口夏実／著","description":"『鬼灯の冷徹』カラーイラスト集、第２弾！　２０１５年発売の『獄彩絵画』以降に江口夏実が描いカラーイラストをすべて収録！","price":"2500","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065205389","title":"鬼灯の冷徹　シロの足跡（5）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"柴もなか／著 江口夏実／監修","description":"ついに最終巻！大人気作品「鬼灯の冷徹」公式スピンオフ！シロを中心とした人気キャラたちの４コマ＆ショートストーリー☆","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065205389","title":"鬼灯の冷徹　シロの足跡（5）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065205389.jpg","author":"柴もなか／著 江口夏実／監修","description":"ついに最終巻！大人気作品「鬼灯の冷徹」公式スピンオフ！シロを中心とした人気キャラたちの４コマ＆ショートストーリー☆","price":"630","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065205488","title":"OL進化論（41）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"秋月りす／著","description":"モーニング読者の皆様に愛されて、連載３１年目のロングセラー！　長寿連載４コマ！","price":"850","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065205488","title":"OL進化論（41）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065205488.jpg","author":"秋月りす／著","description":"モーニング読者の皆様に愛されて、連載３１年目のロングセラー！　長寿連載４コマ！","price":"850","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207109","title":"アマネ†ギムナジウム（7）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"古屋兎丸／著","description":"過去から目を背け、意思を持つ球体関節人形の美少年たちの創造主となった天音。楽園を捨て現実を受け入れる決意をする。完結巻！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207109","title":"アマネ†ギムナジウム（7）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207109.jpg","author":"古屋兎丸／著","description":"過去から目を背け、意思を持つ球体関節人形の美少年たちの創造主となった天音。楽園を捨て現実を受け入れる決意をする。完結巻！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207154","title":"RaW　HERO（6）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"平本アキラ／著","description":"","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207154","title":"RaW　HERO（6）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207154.jpg","author":"平本アキラ／著","description":"","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207161","title":"はたらく細胞BLACK（7）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"初嘉屋一生／著 原田重光／原著 清水茜／監修","description":"『はたらく細胞』大人版、第７巻！　がん編、開幕。","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207161","title":"はたらく細胞BLACK（7）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207161.jpg","author":"初嘉屋一生／著 原田重光／原著 清水茜／監修","description":"『はたらく細胞』大人版、第７巻！　がん編、開幕。","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065207185","title":"レディ・ロウと7日の森（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"一色まこと／著","description":"その国の王子は１７歳までに必ず死ぬ──。「７日の森」に棲む魔女のかけた呪いを解くための、少年たちの命を懸けた冒険が始まる。","price":"670","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207192","title":"第二第四火曜日の恋（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"高瀬わか／著","description":"あの人は第二第四火曜日だけやってくる――。喫茶店で始まる美人ウエイトレスと謎の男性客の恋。大人同士のピュアな恋を貴方に。","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207192","title":"第二第四火曜日の恋（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207192.jpg","author":"高瀬わか／著","description":"あの人は第二第四火曜日だけやってくる――。喫茶店で始まる美人ウエイトレスと謎の男性客の恋。大人同士のピュアな恋を貴方に。","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207208","title":"抜刀（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"ザビエラー長谷川／著","description":"謎の殺し屋”抜刀”。その正体は、本人すら知らない…！","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207208","title":"抜刀（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207208.jpg","author":"ザビエラー長谷川／著","description":"謎の殺し屋”抜刀”。その正体は、本人すら知らない…！","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207215","title":"えんまさんちのケルベロス（2）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"リベンセイ／著","description":"えんまさんが地獄で拾った犬は……ケルベロス！　えんまさんとケルベロスの日常を描くハートウォーミングペットマンガＤＥＡＴＨ！","price":"870","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207215","title":"えんまさんちのケルベロス（2）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207215.jpg","author":"リベンセイ／著","description":"えんまさんが地獄で拾った犬は……ケルベロス！　えんまさんとケルベロスの日常を描くハートウォーミングペットマンガＤＥＡＴＨ！","price":"870","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207246","title":"ワンダンス（4）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"珈琲／著","description":"熱量最高潮！　ダンスバトル編、始動！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207246","title":"ワンダンス（4）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207246.jpg","author":"珈琲／著","description":"熱量最高潮！　ダンスバトル編、始動！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207253","title":"ブルーピリオド（8）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"山口つばさ／著","description":"ミニ複製原画小冊子付き特装版！マンガ大賞２０２０大賞受賞・第４４回講談社漫画賞総合部門受賞の超話題作、第８巻！！","price":"1500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207253","title":"ブルーピリオド（8）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207253.jpg","author":"山口つばさ／著","description":"ミニ複製原画小冊子付き特装版！マンガ大賞２０２０大賞受賞・第４４回講談社漫画賞総合部門受賞の超話題作、第８巻！！","price":"1500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207260","title":"マージナル・オペレーション（15）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"キムラダイスケ／著 芝村裕吏／原著","description":"アラタのゲリラ戦略に手を焼いた敵の空爆で、対空兵器の必要性を痛感したアラタ！　スポンサーとの高所のためタイ！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207260","title":"マージナル・オペレーション（15）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207260.jpg","author":"キムラダイスケ／著 芝村裕吏／原著","description":"アラタのゲリラ戦略に手を焼いた敵の空爆で、対空兵器の必要性を痛感したアラタ！　スポンサーとの高所のためタイへ！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207277","title":"ブルーピリオド（8）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"山口つばさ／著","description":"マンガ大賞受賞・講談社漫画賞総合部門受賞の超話題のスポ根美術漫画！！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207277","title":"ブルーピリオド（8）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207277.jpg","author":"山口つばさ／著","description":"マンガ大賞受賞・講談社漫画賞総合部門受賞の超話題のスポ根美術漫画！！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207321","title":"青野くんに触りたいから死にたい（7）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"椎名うみ／著","description":"君を愛することは、この命と引き換えだ。幽霊と女子高生――まじわらない世界のふたりがつむぐ、濃密ホラーラブストーリー第７巻！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207321","title":"青野くんに触りたいから死にたい（7）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207321.jpg","author":"椎名うみ／著","description":"君を愛することは、この命と引き換えだ。幽霊と女子高生――まじわらない世界のふたりがつむぐ、濃密ホラーラブストーリー第７巻！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207338","title":"はしっこアンサンブル（5）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"木尾士目／著","description":"『げんしけん』の木尾士目が描く工業高校×合唱部の青春物語！　コンクールの大舞台で合唱同好会が渾身の歌を響かせる！！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207338","title":"はしっこアンサンブル（5）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207338.jpg","author":"木尾士目／著","description":"『げんしけん』の木尾士目が描く工業高校×合唱部の青春物語！　コンクールの大舞台で合唱同好会が渾身の歌を響かせる！！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207536","title":"相談役　島耕作（2）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"弘兼憲史／著","description":"【委員会設置会社編、開幕！！】余力を残して次なるステージへ。島耕作、７２歳。まだまだやりたい仕事がある――！！","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207536","title":"相談役　島耕作（2）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207536.jpg","author":"弘兼憲史／著","description":"【委員会設置会社編、開幕！！】余力を残して次なるステージへ。島耕作、７２歳。まだまだやりたい仕事がある――！！　","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207666","title":"GIANT　KILLING（56）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"ツジトモ／著 綱本将也／著","description":"アジアカップ準決勝は試合終盤へ――。","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207666","title":"GIANT　KILLING（56）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207666.jpg","author":"ツジトモ／著 綱本将也／著","description":"アジアカップ準決勝は試合終盤へ――。","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207796","title":"紛争でしたら八田まで（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"田素弘／著","description":"世界の歪が詰まったウクライナ編、佳境。さらに、地政学でわかる不良抗争、日本編。排泄物処理とＩＴ技術がキーのインド編を収録！","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207796","title":"紛争でしたら八田まで（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207796.jpg","author":"田素弘／著","description":"世界の歪が詰まったウクライナ編、佳境。さらに、地政学でわかる不良抗争、日本編。排泄物処理とＩＴ技術がキーのインド編を収録！","price":"640","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207802","title":"人の息子（2）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"あのあやの／著","description":"３０代独身男と小学生男子。血は繋がってないけど、「家族」になる。でも二人の間に生まれる「壁」とは…。里親と里子の幸せな物語。","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207802","title":"人の息子（2）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207802.jpg","author":"あのあやの／著","description":"３０代独身男と小学生男子。血は繋がってないけど、「家族」になる。でも二人の間に生まれる「壁」とは…。里親と里子の幸せな物語。","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065207833","title":"メダリスト（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"","author":"つるまいかだ／著","description":"人生ふたつぶん懸けて、叶えたい夢がある！　読むと勇気が出る新時代フィギュアスケート漫画、開幕！","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065207833","title":"メダリスト（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065207833.jpg","author":"つるまいかだ／著","description":"人生ふたつぶん懸けて、叶えたい夢がある！　読むと勇気が出る新時代フィギュアスケート漫画、開幕！","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065212288","title":"キジトラ猫だけ！","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065212288.jpg","author":"「キジトラ猫だけ！」編集チーム／著・編集","description":"ＳＮＳで大人気のキジトラ＆キジシロ猫が大集合！　キジトラ猫にフォーカスを当てた、キジトラネコファンにおくる写真集。","price":"1400","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784065213285","title":"和田瞳写真集『Seiren』","volume":"","series":"","publisher":"講談社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784065213285.jpg","author":"西田幸樹／写真","description":"アイドルグループのセンターから女優へと転身したヴィーナスが、待望の完全フルヌード写真集を刊行！","price":"3800","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
 ,
 {"isbn":"9784074438327","title":"ｉＤＩＭＰＬＥ　鈴木愛理プロデュース　ナイト＆デイ　ティントリップベース","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-09-23","cover":"","author":"鈴木愛理／著","description":"アイドルが憧れる存在である彼女が、今まで培ったセルフメイクのノウハウを生かし「たったで１本で可愛いが作れるリップ」を開発","price":"1800","genre":"","target":"実用","format":"単行本","content":"家事"}
+,
+{"isbn":"9784093887786","title":"家族だから愛したんじゃなくて、愛したのが家族だった","volume":"","series":"","publisher":"小学館","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784093887786.jpg","author":"岸田奈美／著","description":"笑えて泣ける岸田家の日々のこと \n\n 車いすユーザーの母、\nダウン症で知的障害のある弟、\nベンチャー起業家で急逝した父――\n\n文筆家・岸田奈美がつづる、\n「楽しい」や「悲しい」など一言では\n説明ができない情報過多な日々の出来事。\n笑えて泣けて、考えさせられて、\n心がじんわりあたたかくなる自伝的エッセイです。\n\nもくじより\n◎弟が万引きを疑われ、そして母は赤べこになった\n◎どん底まで落ちたら、世界規模で輝いた\n◎グーグル検索では、見つからなかった旅\n◎先見の明を持ちすぎる父がくれたもの\n◎忘れるという才能 \n\n 【編集担当からのおすすめ情報】 \n noteやTwitterで話題となっている岸田奈美さん。\n岸田さんの文章は、人の感情をゆさぶる力があります。岸田さん節が炸裂するギャグに爆笑した次の瞬間、涙があふれてきます。私など、\n読んだ後、見える世界の景色がきっと美しく清々しいものになるはず。ぜひ体験してみてください。","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784120053337","title":"日本秋景 ピエール・ロチの日本印象記","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784120053337.jpg","author":"ピエール・ロチ／著 市川裕見子／翻訳","description":"明治初期に日本を訪れた仏海軍士官ロチ。開業間もない鉄道と人力車で神戸・京都・奈良・東京・日光などを巡る。今なお鮮烈な旅行記。","price":"2300","genre":"","target":"一般","format":"単行本","content":"日本歴史"}
+,
+{"isbn":"9784120053344","title":"三度目の恋","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784120053344.jpg","author":"川上弘美／著","description":"すべての女を虜にする男、ナーちゃんと結婚したわたし。夢のなかでは別の女として恋をするようになり……。恋愛の深淵をのぞく長編。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784120053351","title":"今も未来も変わらない","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784120053351.jpg","author":"長嶋有／著","description":"四〇代の星子は受験生の娘と二人暮らし。娯楽好きの親友がいて、若い男とは恋が芽生え……レジャーもラブも人生も、大人が楽しむ物語","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784120053368","title":"サバイバル家族","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784120053368.jpg","author":"服部文祥／著","description":"服部家のご馳走は、カメ、シカ、大ネズミ？　受験失敗、高校中退もなんのその。“サバイバル登山家”による爆笑＆感涙の家族奮闘記。","price":"1650","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784120053375","title":"私が結婚をしない本当の理由","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784120053375.jpg","author":"志駕晃／著","description":"会員になれば三ヵ月で結婚できる――青山の一等地に事務所を構える「スマイル結婚相談所」を訪ねる男女が耳にした噂は本当なのか？","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784120053382","title":"燃えた、打った、走った！","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784120053382.jpg","author":"長嶋茂雄／著","description":"二十世紀最大のスーパー・スター、「ミスター・ジャイアンツ」は何を感じ、どう闘ったのか。ミスター唯一の自伝、待望の復刊。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784121026064","title":"音楽の危機 《第九》が歌えなくなった日","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784121026064.jpg","author":"岡田暁生／著","description":"コロナ禍による演奏機会の激減で、かつてない窮地を迎える音楽の現場。私たちが愛した文化のゆくえは。その最前線と未来を見つめる。","price":"820","genre":"","target":"教養","format":"新書","content":"音楽・舞踊"}
+,
+{"isbn":"9784121026071","title":"アジアの国民感情","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784121026071.jpg","author":"園田茂人／著","description":"１０年以上にわたる日中韓・台湾・香港・東南アジア諸国などへの初の継続調査から、国民の他国への感情・心理をデータから明らかに","price":"880","genre":"","target":"一般","format":"新書","content":"社会"}
+,
+{"isbn":"9784121026088","title":"万葉集講義 最古の歌集の素顔","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784121026088.jpg","author":"上野誠／著","description":"奈良時代末期に成立した『万葉集』には律令国家・日本の理想を表す側面があった。数々の秀歌を紹介・解説し、その実像を明かす。","price":"880","genre":"","target":"教養","format":"新書","content":"日本文学詩歌"}
+,
+{"isbn":"9784121026095","title":"現代日本を読む―ノンフィクションの名作・問題作","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784121026095.jpg","author":"武田徹／著","description":"一九七〇年代から現在に至る二十作以上を精選。無味乾燥なニュースでも作りものの物語でもない、同時代を活写した作品が描きだす日本","price":"900","genre":"","target":"教養","format":"新書","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784121026101","title":"ヒトラーの脱走兵","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-09-23","cover":"https://cover.openbd.jp/9784121026101.jpg","author":"對馬達雄／著","description":"ドイツ国防軍の脱走兵は、逮捕され死刑判決を受けた者だけでも３万人以上と際だって多い。臆病者か、英雄か、復権への長い道程を描く","price":"880","genre":"","target":"教養","format":"新書","content":"外国歴史"}
 ]

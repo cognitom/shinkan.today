@@ -29,7 +29,7 @@
 ,
 {"isbn":"9784065128442","title":"問題解決力を鍛える！アルゴリズムとデータ構造","volume":"","series":"","publisher":"講談社","pubdate":"2020-10-02","cover":"","author":"大槻兼資／著 秋葉拓哉／監修","description":"入門書を標榜しながら、ＡｔＣｏｄｅｒの例題、Ｃ＋＋のコードが充実。入門書であり実践書でもある、生涯役立つテキストを目指した","price":"3000","genre":"","target":"専門","format":"単行本","content":"電子通信"}
 ,
-{"isbn":"9784065195611","title":"特許翻訳者のための米国特許クレーム作成マニュアル","volume":"","series":"","publisher":"講談社","pubdate":"2020-10-02","cover":"","author":"大島祥貴／著","description":"米国特許クレームの翻訳ノウハウが満載！　特許翻訳初級者～中級者向けの翻訳マニュアル。用語・用法の正しい使い方がよくわかる。","price":"3000","genre":"","target":"専門","format":"単行本","content":"英米語"}
+{"isbn":"9784065195611","title":"特許翻訳者のための米国特許クレーム作成マニュアル","volume":"","series":"","publisher":"講談社","pubdate":"2020-10-02","cover":"","author":"大島祥貴／著","description":"米国特クレームの翻訳ノウハウが満載！　特許翻訳初級者～中級者向けの翻訳マニュアル。用語・用法の正しい使い方がよくわかる。","price":"3000","genre":"","target":"専門","format":"単行本","content":"英米語"}
 ,
 {"isbn":"9784065197851","title":"ウイルス転生から始まる異世界感染物語","volume":"","series":"","publisher":"講談社","pubdate":"2020-10-02","cover":"","author":"結城絡繰／著 ピロ汰／イラスト","description":"転生したらウイルスに！？　感染を繰り返してスキルを得て勢力拡大！　コミカライズも決定の話題作が登場！","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
@@ -101,7 +101,7 @@
 ,
 {"isbn":"9784088824222","title":"ブラッククローバー 26","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"","author":"田畠裕基／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088824246","title":"鬼滅の刃 22","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"","author":"吾峠呼世晴／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088824246","title":"鬼滅の刃 22","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"https://cover.openbd.jp/9784088824246.jpg","author":"吾峠呼世晴／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784088824253","title":"マッシュル―MASHLE― 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"","author":"甲本一／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -123,11 +123,11 @@
 ,
 {"isbn":"9784088824406","title":"終わりのセラフ 22","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"","author":"山本ヤマト／著 降矢大輔／企画 鏡貴也／原著","description":"","price":"480","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088824413","title":"ダークギャザリング 5","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"","author":"近藤憲一／著","description":"","price":"480","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088824413","title":"ダークギャザリング 5","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"https://cover.openbd.jp/9784088824413.jpg","author":"近藤憲一／著","description":"","price":"480","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088824420","title":"カワイスギクライシス 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"","author":"城戸みつる／著","description":"","price":"480","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088824420","title":"カワイスギクライシス 2","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"https://cover.openbd.jp/9784088824420.jpg","author":"城戸みつる／著","description":"","price":"480","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088824437","title":"Dear CALL―ディアコール― 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"","author":"群千キリ／著","description":"","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088824437","title":"Dear CALL―ディアコール― 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"https://cover.openbd.jp/9784088824437.jpg","author":"群千キリ／著","description":"","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784088824444","title":"この音とまれ! 23","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"","author":"アミュー／著","description":"","price":"480","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -141,7 +141,7 @@
 ,
 {"isbn":"9784088824598","title":"屍人荘の殺人 3","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"","author":"ミヨカワ将／著 今村昌弘／原著","description":"","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088824604","title":"歯医者さん、あタってます! 1","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"https://cover.openbd.jp/9784088824604.jpg","author":"山崎将／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088824604","title":"歯医者さん、あタってます! 1","volume":"","series":"","publisher":"集英","pubdate":"2020-10-02","cover":"https://cover.openbd.jp/9784088824604.jpg","author":"山崎将／著","description":"","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784088824666","title":"漫研に美少女 下","volume":"","series":"","publisher":"集英社","pubdate":"2020-10-02","cover":"","author":"轍平／著","description":"","price":"600","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
