@@ -13,7 +13,7 @@
 ,
 {"isbn":"9784040738284","title":"父は英雄、母は精霊、娘の私は転生者。　６","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-10-10","cover":"https://cover.openbd.jp/9784040738284.jpg","author":"松浦／著 keepout／イラスト","description":"人間界で異常発見！？　にーさまたちと調査開始です！","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784040823171","title":"学校弁護士 スクールロイヤーが見た教育現場","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-10-10","cover":"https://cover.openbd.jp/9784040823171.jpg","author":"神内聡／著","description":"いじめ、ブラク校則、教師の長時間労働……なぜ違法が横行するのか？","price":"900","genre":"","target":"一般","format":"新書","content":"教育"}
+{"isbn":"9784040823171","title":"学校弁護士 スクールロイヤーが見た教育現場","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-10-10","cover":"https://cover.openbd.jp/9784040823171.jpg","author":"神内聡／著","description":"いじめ、ブラック校則、教師の長時間労働……なぜ違法が横行するのか？","price":"900","genre":"","target":"一般","format":"新書","content":"教育"}
 ,
 {"isbn":"9784040823782","title":"元号戦記 近代日本、改元の深層","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-10-10","cover":"https://cover.openbd.jp/9784040823782.jpg","author":"野口武則／著","description":"元号制度の黒幕を追った衝撃スクープ！　これは密室政治の極致である。","price":"900","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
 ,
@@ -77,7 +77,19 @@
 ,
 {"isbn":"9784049134827","title":"安達としまむら（２）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-10-10","cover":"https://cover.openbd.jp/9784049134827.jpg","author":"柚原もけ／著 入間人間／原著 のん／著・イラスト","description":"女同士でクリスマスに出歩いて心が弾むなんて――おかしいんだろうか。","price":"670","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065197288","title":"ミッフィー　あそびドリル","volume":"","series":"","publisher":"講談社","pubdate":"2020-10-10","cover":"","author":"講談社／編集 ディック・ブルーナ／イラスト","description":"シールあそびにクイズや絵探し、おえかきにしつけまで、ディック・ブルーナのイラストがいっぱい詰まったかわいいミッフィードリル。","price":"980","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
+{"isbn":"9784065197288","title":"ミッフィー　あそびドリル","volume":"","series":"","publisher":"講談社","pubdate":"2020-10-10","cover":"https://cover.openbd.jp/9784065197288.jpg","author":"講談社／編集 ディック・ブルーナ／イラスト","description":"シールあそびにクイズや絵探し、おえかきにしつけまで、ディック・ブルーナのイラストがいっぱい詰まったかわいいミッフィードリル。","price":"980","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784065208717","title":"ウルトラ特撮　PERFECT　MOOK　vol．07　怪奇大作戦／恐怖劇場アンバランス","volume":"","series":"","publisher":"講談社","pubdate":"2020-10-10","cover":"","author":"講談社／編集","description":"「ウルトラマン」シリーズと円谷プロが制作した特撮作品をすべて網羅した大全集ムックが誕生！","price":"630","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
+,
+{"isbn":"9784140886342","title":"イノベーションはいかに起こすか","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-10-10","cover":"https://cover.openbd.jp/9784140886342.jpg","author":"坂村健／著","description":"必要なのは、挑戦できる人だ！　世界に先駆けＩｏＴのコンセプトを提唱した稀代のコンピュータ学者が、日本の進むべき道を指し示す。","price":"800","genre":"","target":"一般","format":"新書","content":"経済・財政・統計"}
+,
+{"isbn":"9784140886366","title":"「冴える脳」をつくる５つのステップ","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-10-10","cover":"https://cover.openbd.jp/9784140886366.jpg","author":"築山節／著","description":"様々な健康不安に加えコロナ禍に脅かされる現代人。その不安に対処するための脳と身体のつくり方を、ベストセラーの著者が伝授する！","price":"800","genre":"","target":"一般","format":"新書","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784140886373","title":"家族のトリセツ","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-10-10","cover":"https://cover.openbd.jp/9784140886373.jpg","author":"黒川伊保子／著","description":"親子関係から兄弟、夫婦関係まで。イライラやすれ違いの具体例を挙げながら、脳科学の観点からメカニズムをわかりやすく解説する！","price":"850","genre":"","target":"一般","format":"新書","content":"心理(学)"}
+,
+{"isbn":"9784150314514","title":"吉原美味草紙　懐かしのだご汁","volume":"","series":"","publisher":"早川書房","pubdate":"2020-10-10","cover":"https://cover.openbd.jp/9784150314514.jpg","author":"出水千春／著","description":"胃袋と心をわし摑む人情料理小説","price":"720","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784150314521","title":"オランダ宿の娘","volume":"","series":"","publisher":"早川書房","pubdate":"2020-10-10","cover":"https://cover.openbd.jp/9784150314521.jpg","author":"葉室麟／著","description":"〈葉室史観〉が心に響く姉妹小説","price":"760","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784150314538","title":"姉さま河岸見世相談処","volume":"","series":"","publisher":"早川書房","pubdate":"2020-10-10","cover":"https://cover.openbd.jp/9784150314538.jpg","author":"志坂圭／著","description":"元昼三の姐御が凛として難事に挑む","price":"760","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ]
