@@ -19,7 +19,7 @@
 ,
 {"isbn":"9784023333345","title":"節約テク　もっと簡単に、楽して貯まる","volume":"","series":"","publisher":"朝日新聞出版","pubdate":"2020-10-20","cover":"","author":"朝日新聞出版／著","description":"","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
-{"isbn":"9784023333468","title":"自炊。何にしようか","volume":"","series":"","publisher":"朝日新聞出版","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784023333468.jpg","author":"高山なおみ／著","description":"高山なおみファン待望のレシピ本。神戸に引っ越し一人暮らしをはじめてからの「ひとり分のごはん」の自炊アイデアをまとめた本書。『朝食』『昼食』『夕食』『お客さんが来た時』……食のドキュメンタリー形式で全100レシピ紹介。写真は齋藤圭吾、デザインは立花文穂。","price":"2000","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784023333468","title":"自炊。何にしようか","volume":"","series":"","publisher":"朝日新聞出版","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784023333468.jpg","author":"高山なおみ／著","description":"高山なおみファン待望のレシピ本。\n神戸に引っ越し一人暮らしをはじめてからの「ひとり分のごはん」の自炊アイデアをまとめた本書。\n『朝食』『昼食』『夕食』『お客さんが来た時』……\n食のドキュメンタリー形式で全100レシピ紹介。\n写真は齋藤圭吾、デザインは立花文穂、編集は赤澤かおり。","price":"2000","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784023333482","title":"冷えとりあったかアイテム　毛糸のパンツ","volume":"","series":"","publisher":"朝日新聞出版","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784023333482.jpg","author":"朝日新聞出版編／著","description":"冷えがちな女性の体をかわいく優しく温めてくれる、毛糸のパンツ。ブルマタイプやロング丈、腹巻きつきなど様々な形や模様の毛糸のパンツが編める1冊です。パンツはすべてM、Lの2サイズの編み図を紹介。初心者さんでもトライできるよう、基本の作品はプロセス写真で詳しく解説しています。パンツのほか、ソックスやレッグウォーマー、湯たんぽカバーなどのあったかアイテムも掲載。","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
@@ -37,7 +37,7 @@
 ,
 {"isbn":"9784065205297","title":"世界のビジネスシーンで使われている　大人の「格上げ」英単語","volume":"","series":"","publisher":"講談社","pubdate":"2020-10-20","cover":"","author":"マヤバーダマン／著","description":"普段使っている単語をレベルアップしてもっと伝わる英語を話したり書いたりしましょう！　知性を感じさせる厳選７０単語＆表現を掲載","price":"1400","genre":"","target":"一般","format":"単行本","content":"英米語"}
 ,
-{"isbn":"9784065209158","title":"ゴミ箱診療科のミステリー・カルテ","volume":"","series":"","publisher":"星海社","pubdate":"2020-10-20","cover":"","author":"津田彷徨／著 浪川大輔／著 江藤はんな／写真","description":"現役医師小説家、津田彷徨が万を持して挑む医療ミステリー！　コロナ時代の新しい探偵医師像が今まさに描かれる！","price":"1180","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784065209158","title":"ゴミ箱診療科のミステリー・カルテ","volume":"","series":"","publisher":"星海社","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784065209158.jpg","author":"津田彷徨／著 浪川大輔／著 江藤はんな／写真","description":"現役医師小説家、津田彷徨が万を持して挑む医療ミステリー！　コロナ時代の新しい探偵医師像が今まさに描かれる！","price":"1180","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065209967","title":"りんちゃんさんさーら（2）","volume":"","series":"","publisher":"講談社","pubdate":"2020-10-20","cover":"","author":"雅日野琥珀／著","description":"新しいクラスメイトは「呪いの人形」！？　りんちゃんの少しＨな学園生活スタート！！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -45,17 +45,35 @@
 ,
 {"isbn":"9784065210031","title":"魔女と野獣（7）","volume":"","series":"","publisher":"講談社","pubdate":"2020-10-20","cover":"","author":"佐竹幸典／著","description":"“魔女”に呪いをかけられた少女と一流魔術師による、美しき復讐のロマン・ノワール！！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065212844","title":"髭と猫耳","volume":"","series":"","publisher":"星海社","pubdate":"2020-10-20","cover":"","author":"周藤蓮／著 鍋島テツヒロ／著","description":"イケおじ執事が連れ添うのは、猫耳お嬢さまの自分探しの旅！？『賭博師は祈らない』の周藤蓮が紡ぐ、剣と魔法と獣耳のファンタジー！","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784065212844","title":"髭と猫耳","volume":"","series":"","publisher":"星海社","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784065212844.jpg","author":"周藤蓮／著 鍋島テツヒロ／著","description":"イケおじ執事が連れ添うのは、猫耳お嬢さまの自分探しの旅！？『賭博師は祈らない』の周藤蓮が紡ぐ、剣と魔法と獣耳のファンタジー！","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065212851","title":"銀河連合日本　Age　after　Project　Enterprise","volume":"","series":"","publisher":"星海社","pubdate":"2020-10-20","cover":"","author":"松本保羽／著 ｂｏｂ／著","description":"サマルカから技術供与を受けた米国は、新型宇宙船開発計画を発表した。柏木とフェルは対米外交のため宇宙空母「カグヤ」で訪米する！","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784065212851","title":"銀河連合日本　Age　after　Project　Enterprise","volume":"","series":"","publisher":"星海社","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784065212851.jpg","author":"松本保羽／著 ｂｏｂ／著","description":"サマルカから技術供与を受けた米国は、新型宇宙船開発計画を発表した。柏木とフェルは対米外交のため宇宙空母「カグヤ」で訪米する！","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065216521","title":"エスカレーション","volume":"","series":"","publisher":"星海社","pubdate":"2020-10-20","cover":"","author":"倉田悠子／著 いとうのいぢ／著・イラスト","description":"紫綬褒章作家・稲葉真弓がかつて別名義で著した『くりいむレモン』の絶品ノベライズ、復刊第２弾！　百合ノベルの原点にして金字塔。","price":"1350","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784065216521","title":"エスカレーション","volume":"","series":"","publisher":"星海社","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784065216521.jpg","author":"倉田悠子／著 いとうのいぢ／著・イラスト","description":"紫綬褒章作家・稲葉真弓がかつて別名義で著した『くりいむレモン』の絶品ノベライズ、復刊第２弾！　百合ノベルの原点にして金字塔。","price":"1350","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784103362135","title":"八月の銀の雪","volume":"","series":"","publisher":"新潮社","pubdate":"2020-10-20","cover":"","author":"伊与原新／著","description":"耳を澄ませていよう。地球の奥底で、大切な何かが降り積もる音に――。科学の揺るぎない真実が人知れず傷ついた心を救う5篇の物語。","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784103536314","title":"戀童夢幻","volume":"","series":"","publisher":"新潮社","pubdate":"2020-10-20","cover":"","author":"木下昌輝／著","description":"戦場の生死のはざまにこそ、芸の真髄あり――。信長、家康ら戦国武将に対峙し歴史を動かした、流浪の芸能者を描く渾身の時代小説。","price":"1900","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+{"isbn":"9784103536314","title":"戀童夢幻","volume":"","series":"","publisher":"新潮社","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784103536314.jpg","author":"木下昌輝／著","description":"戦場の生死のはざまにこそ、芸の真髄あり――。信長、家康ら戦国武将に対峙し歴史を動かした、流浪の芸能者を描く渾身の時代小説。","price":"1900","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784104281053","title":"玉電松原物語","volume":"","series":"","publisher":"新潮社","pubdate":"2020-10-20","cover":"","author":"坪内祐三／著","description":"急逝した評論家の遺作は、私小説の如き昭和文化論だった。自らを育んだ世田谷の街と文化を鮮明に再現、令和が喪ったものを甦らせる。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784104281053","title":"玉電松原物語","volume":"","series":"","publisher":"新潮社","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784104281053.jpg","author":"坪内祐三／著","description":"急逝した評論家の遺作は、私小説の如き昭和文化論だった。自らを育んだ世田谷の街と文化を鮮明に再現、令和が喪ったものを甦らせる。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784105072117","title":"ファン・ゴッホの手紙 Ⅰ・Ⅱ","volume":"","series":"","publisher":"新潮社","pubdate":"2020-10-20","cover":"","author":"フィンセント・ファン・ゴッホ／著 ファン・ゴッホ美術館／編集 圀府寺司／翻訳","description":"９０３通の手紙から、ファン・ゴッホ美術館の研究者が２６５通を精選し、スケッチも全て収録した全２巻豪華函入りの決定版新訳誕生！","price":"18000","genre":"芸術","target":"一般","format":"単行本","content":"絵画・彫刻"}
+,
+{"isbn":"9784166612833","title":"歎異抄 救いのことば","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784166612833.jpg","author":"釈徹宗／著","description":"現代人が読んで心を打たれる、それが『歎異抄』。金言・箴言に満ちたこの書は、思想的には難しい。平易な解説で深みまで導きます。","price":"950","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784166612857","title":"平安朝の事件簿 王朝びとの殺人・強盗・汚職","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784166612857.jpg","author":"繁田信一／著","description":"平安朝で巻き起こる凶悪な犯罪の数々。治安を司る検非違使の長官が残した文書に記された生々しい現場の声。真の平安時代が蘇る。","price":"880","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784166612864","title":"半グレと芸能人","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784166612864.jpg","author":"大島佑介／著","description":"宮迫博之や市川海老蔵など半グレと事件になった芸能人は多い。なぜ彼らは反社と付き合うのか。「週刊文春」元記者がタブーをえぐる。","price":"820","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784166612871","title":"政治家の覚悟","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784166612871.jpg","author":"菅義偉／著","description":"第99代内閣総理大臣に就任した菅義偉氏の原点とは何か。政治主導で官僚を動かし、改革を断行してきた菅氏の覚悟がわかる唯一の書。","price":"800","genre":"","target":"一般","format":"新書","content":"政治-含む国防軍事"}
+,
+{"isbn":"9784253140942","title":"QP 我妻涼～Desperado～  11","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784253140942.jpg","author":"髙橋ヒロシ／著 今村KSK／著 やべきょうすけ／監修","description":"死神と呼ばれた男が女神の街・NYで世話になった母子の為に義と情で動く…！我妻涼、史上初の激情アクション解禁ッ!!","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253141987","title":"信長 を殺した男～本能寺の変431年目の真実～  8","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784253141987.jpg","author":"藤堂裕／著 明智憲三郎／企画","description":"本能寺で信長を討ち、秀吉との天下分け目の決戦へ。光秀の壮絶な最期と真の想いが描かれる。戦国歴史ドキュメント、堂々完結！","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253142274","title":"恋愛志向生徒会  4","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784253142274.jpg","author":"如月群真／著","description":"学園の恋愛自由化を目指す生徒会長・泉水を巡って巨乳の副会長と現役グラドルの三角関係はさらに過激に。","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253142489","title":"チカーノKEI〜米国極悪刑務所を生き抜いた日本人〜  8","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784253142489.jpg","author":"KEI／著 マサシ／著","description":"ペドロのもとへ乗り込んだラクーンらサウスチカーノ達。シラを切り続けるペドロに対し、ビッグホーミーが下す決断は！？","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253152693","title":"ぱンすと。  9","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-10-20","cover":"https://cover.openbd.jp/9784253152693.jpg","author":"岡田和人／著","description":"先生が家に来訪、しかもコートの下は履いてない!?　想像よりもずっと、先生がHなコトを知っていく…過激に艶めかしい最新巻！","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ]
