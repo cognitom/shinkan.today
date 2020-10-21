@@ -47,7 +47,7 @@
 ,
 {"isbn":"9784049110616","title":"世界一かんたんデジカメ年賀状　2021","volume":"","series":"","publisher":"角川アスキー総合研究所","pubdate":"2020-10-15","cover":"https://cover.openbd.jp/9784049110616.jpg","author":"年賀状素材集編集部／編集","description":"とっておきの写真と組み合わせてつくる、おしゃれでかわいいフレーム年賀状","price":"570","genre":"","target":"専門","format":"単行本","content":"情報科学"}
 ,
-{"isbn":"9784049134001","title":"世界の終わりと魔女の恋３","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-10-15","cover":"https://cover.openbd.jp/9784049134001.jpg","author":"KUJIRA／著","description":"百合×魔女。世界を滅ぼす百合ファンタジー完結巻。","price":"700","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784049134001","title":"界の終わりと魔女の恋３","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-10-15","cover":"https://cover.openbd.jp/9784049134001.jpg","author":"KUJIRA／著","description":"百合×魔女。世界を滅ぼす百合ファンタジー完結巻。","price":"700","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784052052347","title":"消えたレッサーパンダを追え！　警視庁「生きもの係」事件簿","volume":"","series":"環境ノンフィクション","publisher":"学研プラス","pubdate":"2020-10-15","cover":"https://cover.openbd.jp/9784052052347.jpg","author":"たけたにちほみ／著 西脇せいご／イラスト","description":"動物園からレッサーパンダが盗まれた！警視庁「生きもの係」の福原警部が事件に挑む。動物と犯罪を巡る迫真のノンフィクション。","price":"1400","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、評論、随筆、その他"}
 ,
@@ -162,18 +162,4 @@
 {"isbn":"9784152099747","title":"スケール 上","volume":"","series":"","publisher":"早川書房","pubdate":"2020-10-15","cover":"https://cover.openbd.jp/9784152099747.jpg","author":"ドミニク・チェン／著 ジョフリー・ウェスト／著 山形浩生／翻訳 森本正史／翻訳","description":"ヒトとほぼ同じ要素でできているのに、なぜネズミは3年しか生きられないのか。企業は死を免れることができないのに、なぜ都市は成長を続けることができるのか。TEDに登壇した経験をもつ気鋭の物理学者が、生命、都市、経済を貫く普遍的な法則を解き明かす。","price":"2300","genre":"","target":"一般","format":"単行本","content":"自然科学総記"}
 ,
 {"isbn":"9784152099754","title":"スケール 下","volume":"","series":"","publisher":"早川書房","pubdate":"2020-10-15","cover":"https://cover.openbd.jp/9784152099754.jpg","author":"福岡伸一／著 ジョフリー・ウェスト／著 加藤賢策／イラスト 山形浩生／翻訳 森本正史／翻訳","description":"ヒトとほぼ同じ要素でできているのに、なぜネズミは3年しか生きられないのか。企業は死を免れることができないのに、なぜ都市は成長を続けることができるのか。TEDに登壇した経験をもつ物理学者が、生命、都市、経済を貫く普遍的な法則を解き明かす。","price":"2300","genre":"","target":"一般","format":"単行本","content":"自然科学総記"}
-,
-{"isbn":"9784163912738","title":"博物館ななめ歩き","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-10-15","cover":"https://cover.openbd.jp/9784163912738.jpg","author":"久世番子／著 栗原祐司／監修","description":"玄関が博物館!? 教科書に古墳に駄菓子屋ゲーム…？東京を中心に全国様々な93の博物館を著者のユニークなイラストで紹介！","price":"1200","genre":"","target":"一般","format":"コミック","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784163912769","title":"アニーはどこにいった","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-10-15","cover":"https://cover.openbd.jp/9784163912769.jpg","author":"C・J・チューダー／著 中谷友紀子／翻訳","description":"あの穴の奥には恐ろしいものがある。かつて僕の妹アニーに降りかかった恐怖が30年を経て甦る。恐怖の帝王絶賛の新鋭の第二作。","price":"2250","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
-,
-{"isbn":"9784254410402","title":"図説 園芸学","volume":"","series":"","publisher":"朝倉書店","pubdate":"2020-10-15","cover":"https://cover.openbd.jp/9784254410402.jpg","author":"荻原勲／著・編集","description":"明快な図版で説き起こす総論的教科書","price":"3600","genre":"","target":"専門","format":"単行本","content":"農林業"}
-,
-{"isbn":"9784254431278","title":"改訂 土壌学概論","volume":"","series":"","publisher":"朝倉書店","pubdate":"2020-10-15","cover":"https://cover.openbd.jp/9784254431278.jpg","author":"犬伏和之／編集 白鳥豊／編集","description":"土壌学全般をコンパクトにまとめた初学者向けテキスト。土壌の成り立ちから土壌教育まで。","price":"3600","genre":"","target":"専門","format":"単行本","content":"農林業"}
-,
-{"isbn":"9784254535730","title":"生産・流通 農業・林業・水産業","volume":"","series":"郷土史大系","publisher":"朝倉書店","pubdate":"2020-10-15","cover":"https://cover.openbd.jp/9784254535730.jpg","author":"阿部猛／編集 落合功／編集 谷本雅之／編集 浅井\t良夫／編集","description":"さまざまな農林水産業がどこで生まれ、どのように発展していったかを語る新しい郷土史","price":"16000","genre":"歴史・地理","target":"専門","format":"全集・双書","content":"日本歴史"}
-,
-{"isbn":"9784265065745","title":"小説　弱虫ペダル　4","volume":"","series":"フォア文庫","publisher":"岩崎書店","pubdate":"2020-10-15","cover":"https://cover.openbd.jp/9784265065745.jpg","author":"渡辺航／企画 輔老心／著","description":"地獄の1000キロ合宿で、最下位ながら走り切った坂道。当然、インターハイのメンバーには選ばれないと思っていたが！？","price":"680","genre":"児童図書","target":"児童","format":"新書","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784265074198","title":"おねえちゃんって、きょうもやきも！","volume":"","series":"","publisher":"岩崎書店","pubdate":"2020-10-15","cover":"https://cover.openbd.jp/9784265074198.jpg","author":"いとうみく／著 つじむらあゆこ／イラスト","description":"この頃お母さんは具合が悪い。ご飯もあまり食べられないみたい。ココはすごく心配なのに、妹のナッちゃんは全然わかってない！","price":"1000","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
 ]
