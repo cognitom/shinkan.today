@@ -31,7 +31,7 @@
 ,
 {"isbn":"9784065211809","title":"人形の国（7）ミニ画集付特装版","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-09","cover":"","author":"弐瓶勉／著","description":"弐瓶勉作、人気ダーク・ファンタジー第７巻！　単行本未収録と描きおろしを含むミニカラー画集が付属する特装版。","price":"1100","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065211816","title":"よくわからないけれど異世界に転生していたようです（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-09","cover":"","author":"内々けやき／著 あし／原著 カオミン／著","description":"","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065211816","title":"よくわからないけれど異世界に転生していたようです（3）","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-09","cover":"","author":"内々けやき／著 あし／原著 カオミン／著","description":"わたし、冒険者はじめました。はじめての街、そしてはじめてのクエスト…。よくわからないけれど　ワクワクしてきたみたいです。","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065211823","title":"今まで一度も女扱いされたことがない女騎士を女扱いする漫画（6）","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-09","cover":"","author":"マツモトケンゴ／著","description":"３５００万ＰＶ突破！！バズりすぎの異世界ラブコメ・クエスト！！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -77,7 +77,7 @@
 ,
 {"isbn":"9784065214930","title":"犬になったら好きな人に拾われた。（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-09","cover":"","author":"古川五勢／著","description":"読書時、四つん這い推奨！！　目覚めたら、好きな人の飼い犬になっていた！？　美少女に飼育されちゃう、犬視点ちょいＨコメディ♪","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065215210","title":"目黒さんは初めてじゃない（5）","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-09","cover":"","author":"９℃／著","description":"既刊全巻大重版中ラブコメ！　初めての恋が消えない確率って、どのくらい…？　世界一応援したくなるピュアカプルがここに！！","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065215210","title":"目黒さんは初めてじゃない（5）","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-09","cover":"","author":"９℃／著","description":"既刊全巻大重版中ラブコメ！　初めての恋が消えない確率って、どのくらい…？　世界一応援したくなるピュアカップルがここに！！","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065215722","title":"不遇職【鑑定士】が実は最強だった　～奈落で鍛えた最強の【神眼】で無双する～（1）","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-09","cover":"","author":"藤モロホシ／著 茨木野／原著 ひたきゆう／著","description":"ベタ惚れ精霊からもらった最強の神眼で異世界無双！　最弱職から成り上がる！！","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -138,4 +138,8 @@
 {"isbn":"9784124036114","title":"ワイド版 マンガ日本の古典13  とはずがたり","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-11-09","cover":"","author":"いがらしゆみこ／著","description":"後深草院の後宮二条が自らの半生を綴った日記・紀行文学。鎌倉中期の宮廷で数奇な体験を重ね、自己を確立し成長する女性の姿を描く。","price":"1500","genre":"全集","target":"一般","format":"全集・双書","content":"コミックス・劇画"}
 ,
 {"isbn":"9784163912899","title":"棚からつぶ貝","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-11-09","cover":"https://cover.openbd.jp/9784163912899.jpg","author":"イモトアヤコ／著","description":"旅で出会った人、芸能界の友人、大好きな家族--世界中を飛び回りながら、著者が出会った大切な人たちを綴った、初のエッセイ集。","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784254128994","title":"Pythonによる計量経済学入門","volume":"","series":"実践Pythonライブラリー　","publisher":"朝倉書店","pubdate":"2020-11-09","cover":"https://cover.openbd.jp/9784254128994.jpg","author":"中妻照雄／著","description":"確率論の基礎からはじめ，回帰分析，因果推論まで解説．理解してPythonで実践。","price":"3400","genre":"社会科学","target":"専門","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784254460384","title":"家畜伝染病ハンドブック","volume":"","series":"","publisher":"朝倉書店","pubdate":"2020-11-09","cover":"https://cover.openbd.jp/9784254460384.jpg","author":"村上賢二／編集 彦野弘一／編集","description":"家畜伝染病予防法で指定された97の指定伝染病を詳細に解説。家畜防疫関係者必読の一冊。","price":"6500","genre":"自然科学","target":"専門","format":"事・辞典","content":"農林業"}
 ]
