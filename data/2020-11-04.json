@@ -25,7 +25,7 @@
 ,
 {"isbn":"9784041109229","title":"君は死ねない灰かぶりの魔女　（１）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784041109229.jpg","author":"楓月誠／著 ハイヌミ／原著 武田ほたる／企画","description":"生きる意味を与えてくれたのは、一人の「魔女」だった──。","price":"640","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784041109304","title":"ヒーロー偵ニック　（１）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784041109304.jpg","author":"座紀光倫／著","description":"俺はヒーロー専門の探偵ニック！ 何の能力もない、ただのおじさんだ！","price":"640","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784041109304","title":"ヒーロー探偵ニック　（１）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784041109304.jpg","author":"座紀光倫／著","description":"俺はヒーロー専門の探偵ニック！ 何の能力もない、ただのおじさんだ！","price":"640","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784046045683","title":"読まずにわかる　こあら式英語のニュアンス図鑑","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784046045683.jpg","author":"こあらの学校／著","description":"こんな本、今まで見たことない！　英語が身に着く新感覚の1冊","price":"1500","genre":"語学・辞事典","target":"一般","format":"単行本","content":"英米語"}
 ,
@@ -71,7 +71,7 @@
 ,
 {"isbn":"9784088824703","title":"チェンソーマン 9","volume":"","series":"","publisher":"集英社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784088824703.jpg","author":"藤本タツキ／著","description":"先の戦いで多くの仲間が傷つき、命を落とした──迫り来る銃の悪魔との決戦を前に、アキの心は揺れる。マキマが明かす、銃の悪魔をめぐる驚愕の真実、アキが見た“最悪の未来\"──全てが重なる時、悪夢のような運命がデンジたちを蹂躙する…!!","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784088824710","title":"ハイキュー!! 45","volume":"","series":"","publisher":"集英社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784088824710.jpg","author":"古舘春一／著","description":"それぞれに信念を背負い、培ってきた力全てを注ぎぶつかり合う選手達…! BJ対AD、決着!! 日向は牛島の猛打を止められるのか、そして影山との対決の結末は!? バレー漫画の金字塔、ここに完結──!!","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784088824710","title":"ハイキュー!! 45","volume":"","series":"","publisher":"集英社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784088824710.jpg","author":"舘春一／著","description":"それぞれに信念を背負い、培ってきた力全てを注ぎぶつかり合う選手達…! BJ対AD、決着!! 日向は牛島の猛打を止められるのか、そして影山との対決の結末は!? バレー漫画の金字塔、ここに完結──!!","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784088824734","title":"Dr.STONE 18","volume":"","series":"","publisher":"集英社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784088824734.jpg","author":"Boichi／著 稲垣理一郎／原著","description":"科学王国vs科学王国!! 千空とDr.ゼノ、2人の科学者の対決は、敵軍の科学リーダーを狙う速攻戦に!! Dr.ゼノの意外な正体と千空との奇縁が明らかとなる中、狙撃手スタンリーの凶弾が秘かにペルセウス号に迫る!!","price":"440","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -130,4 +130,32 @@
 {"isbn":"9784254275872","title":"不動産テック","volume":"","series":"FinTechライブラリー","publisher":"朝倉書店","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784254275872.jpg","author":"清水千弘／著・編集","description":"不動産分野でのIT活用を基礎理論から応用(価格分析，GIS，REIT)まで解説","price":"3600","genre":"社会科学","target":"専門","format":"全集・双書","content":"経営"}
 ,
 {"isbn":"9784254526172","title":"心理学からみた統合失調症","volume":"1","series":"シリーズ〈公認心理師の向き合う精神障害〉","publisher":"朝倉書店","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784254526172.jpg","author":"横田正夫／編集・監修","description":"公認心理師に，統合失調症の心理学的見方，考え方，さらには心理学で何ができるのかを提示。","price":"2600","genre":"哲学・宗教","target":"専門","format":"全集・双書","content":"心理(学)"}
+,
+{"isbn":"9784297117085","title":"ゼロからはじめる　LINE Pay, PayPay, 楽天ペイ, d払い, au PAY, メルペイ＆モバイルSuica　キャッシュレス導入ガイド［iPhone＆Android対応］","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784297117085.jpg","author":"リンクアップ／著","description":"スマホのキャッシュレス決済、話は聞くけどどうやって使ったらいいのかよくわからないという人に、QR・バーコード決済の主要サービスとモバイルSuicaをピックアップし、登録から実際の利用までを操作手順ごとに詳しく紹介するとともに、各サービスの違いやそれぞれの特徴を紹介しています。iPhone＆Androidスマホ対応。","price":"1380","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784322135633","title":"「わたし」のための金融リテラシー","volume":"","series":"","publisher":"一般社団法人金融財政事情研究会","pubdate":"2020-11-04","cover":"","author":"小島明子／著 橋爪麻紀子／著 黒田一賢／著","description":"ライフプランニング、ESGやSDGs、女性のキャリア論を含め、これからの時代を生きるために必要な金融の知識や情報が満載。\n女性が生きていくために知っておくと良い金融リテラシーの基礎がこの1冊に。\n社会課題解決に向けた取り組み例なども紹介。明日を生きる「わたし」たちの生き方を考えるヒントに。","price":"1800","genre":"社会科学","target":"実用","format":"単行本","content":"経済・財政・統計"}
+,
+{"isbn":"9784325235835","title":"北海道大学（後期日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784325235835.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。4カ年分収載。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325236146","title":"高崎経済大学 2021年版;No.34","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784325236146.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325236153","title":"前橋工科大学 2021年版;No.35","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784325236153.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。4カ年分収載。","price":"1900","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325236337","title":"一橋大学（後期日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784325236337.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。5カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325236498","title":"福井県立大学 2021年版;No.69","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784325236498.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325236863","title":"大阪教育大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784325236863.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325236962","title":"兵庫県立大学（工学部・理学部・環境人間学部）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784325236962.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325237228","title":"高知工科大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784325237228.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325237259","title":"九州大学（後期日程）","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784325237259.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。3カ年分収載。","price":"2100","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325237273","title":"福岡教育大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784325237273.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。2カ年分収載。","price":"1980","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784325239390","title":"日本獣医生命科学大学","volume":"","series":"大学入試シリーズ","publisher":"教学社","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784325239390.jpg","author":"教学社編集部／編集","description":"志望校攻略に欠かせない大学入試過去問題集「赤本」。4カ年分収載。","price":"3400","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"総記"}
+,
+{"isbn":"9784335358432","title":"行政判例ノート","volume":"","series":"","publisher":"弘文堂","pubdate":"2020-11-04","cover":"https://cover.openbd.jp/9784335358432.jpg","author":"橋本博之／著","description":"判例で読み解く行政法！ 抽象的で学びにくい行政法を、裁判事例を通して法解釈の道筋を示し具体的に理解できるよう工夫した新版。","price":"2700","genre":"社会科学","target":"教養","format":"単行本","content":"法律"}
 ]
