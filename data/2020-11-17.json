@@ -31,7 +31,7 @@
 ,
 {"isbn":"9784065212561","title":"化物語（11）","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-17","cover":"","author":"西尾維新／原著 大暮維人／著","description":"『傷物語』編、ｖｓ．　エピソード──「後遺症が残らない程度に殺してやるよ。」","price":"620","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065212578","title":"化物語（11）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-17","cover":"","author":"西尾維新／原著 大暮維人／著","description":"西尾維新書き下ろし「するがアースワーム」、特装版限定カラー口絵ページ、豪華ゲスト特別寄稿「化物画廊」と特典満載！","price":"1600","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065212578","title":"化物語（11）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-17","cover":"https://cover.openbd.jp/9784065212578.jpg","author":"西尾維新／原著 大暮維人／著","description":"西尾維新書き下ろし「するがアースワーム」、特装版限定カラー口絵ページ、豪華ゲスト特別寄稿「化物画廊」と特典満載！","price":"1600","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065212646","title":"インフェクション（21）","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-17","cover":"","author":"及川徹／著","description":"隔離地域からの脱出組と分断され、らぎ姉は犯人の手により感染。絶望的な状況で晴輝はもがき続ける！？","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -90,10 +90,4 @@
 {"isbn":"9784103537816","title":"明石家さんまヒストリー１ １９５５～１９８１ 「明石家さんま」の誕生","volume":"","series":"","publisher":"新潮社","pubdate":"2020-11-17","cover":"","author":"エムカク／著","description":"「国民的芸人」の人生に迫る、本人公認シリーズがスタート。誕生からデビュー、ひょうきん族まで、青春時代を克明に記録した第一弾！","price":"1800","genre":"芸能・タレント","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784103537915","title":"世の中と足並みがそろわない","volume":"","series":"","publisher":"新潮社","pubdate":"2020-11-17","cover":"https://cover.openbd.jp/9784103537915.jpg","author":"ふかわりょう／著","description":"どこにも馴染めない、何にも染まれない。不器用すぎる著者の、ちょっと歪で愉快なエッセイ集。歪んでいるのは世界か、それとも──。","price":"1350","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784130513562","title":"子どものための哲学教育ハンドブック","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2020-11-17","cover":"https://cover.openbd.jp/9784130513562.jpg","author":"MRグレゴリー／編集 Ｊヘインズ／編集 Ｋムリス／編集 小玉重夫／著 豊田光世／翻訳 ほか","description":"子どもたちの主体的な探究を育む教育実践の最先端を，理念と手法の両面から展望する．日本でもよりいっそう「対話」「思考」「探究」などの価値が重視されるなか，人として生きるうえで重要な「考える力」の育成という，世界的な教育の目標実現のための手引きとなる書．本書は，M.R.Gregory, J.Haynes, and K.Murris (eds.), The Routledge International Handbook of Philosophy for Children（Routledge, 2017）を翻訳（抄訳）．","price":"4500","genre":"","target":"専門","format":"単行本","content":"教育"}
-,
-{"isbn":"9784130906128","title":"大日本史料　第十二編之六十二","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2020-11-17","cover":"https://cover.openbd.jp/9784130906128.jpg","author":"東京大学史料編纂所／編集","description":"","price":"9400","genre":"","target":"専門","format":"全集・双書","content":"日本歴史"}
-,
-{"isbn":"9784152099464","title":"エデュケーション","volume":"","series":"","publisher":"早川書房","pubdate":"2020-11-17","cover":"https://cover.openbd.jp/9784152099464.jpg","author":"タラ・ウェストーバー／著 村井理子／翻訳","description":"狂信的な父の方針で17歳まで学校に通わせてもらえなかったタラは一念発起、大学資格試験を目指す。全米400万部突破の衝撃の実話","price":"2200","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
 ]
