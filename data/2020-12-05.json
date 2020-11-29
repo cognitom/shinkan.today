@@ -1,11 +1,3 @@
 [
 {"isbn":"9784048969260","title":"ヴァンゆんの万有引力 ～人を惹きつける魅力の秘密～","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-12-05","cover":"https://cover.openbd.jp/9784048969260.jpg","author":"ヴァンゆん／著","description":"いま日本で一番気になる2人。人を惹きつけてやまない魅力の秘密に迫る。","price":"1450","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
-,
-{"isbn":"9784297117382","title":"今すぐ使えるかんたん　Windows 10　2021年最新版","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-12-05","cover":"https://cover.openbd.jp/9784297117382.jpg","author":"オンサイト＋技術評論社編集部／著","description":"“最新アップデートに完全対応！ Windows 10 October 2020 Updateの解説書”\n「今すぐ使えるかんたん」シリーズのWindows 10の初心者向け操作解説書です。\nデスクトップやファイル・フォルダの基本的な操作方法だけでなく、インターネットやメールの設定、地図や写真アプリの利用方法、Windowsをより使いやすくするカスタマイズ方法などをやさしく&詳しく解説。\n一新されたWebブラウザーMicrosoft Edgeをはじめ、OneDriveやAndroidスマートフォンとの同期、タスクビューなどWindows 10ならではの機能も紹介。\n読者特典として、限定小冊子『今すぐ使えるかんたんSkypeスタート＆活用ガイド［特別編集版］』付き。本書から取り外してご利用いただけます。","price":"1000","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784297118174","title":"ゼロからはじめる　iPhone 11 スマートガイド　iOS 14対応版","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-12-05","cover":"https://cover.openbd.jp/9784297118174.jpg","author":"リンクアップ／著","description":"本書は、ドコモ・au・ソフトバンク等から発売されたスマートフォン「iPhone 11」の初心者向け解説書です。通話／メール／インターネットといった基本的な使い方から、便利な活用法まで解説しています。最新のiOS 14に対応した内容となっているため、最新の機能もすぐに使いこなせます。本書があれば、iPhone 11の基本操作と活用法がバッチリわかります！iPhone 11のほか、iPhone XR/XS/Xにも対応しています。","price":"1080","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784297118334","title":"ゼロからはじめる　iPhone 12 Pro　スマートガイド　ドコモ完全対応版","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-12-05","cover":"","author":"リンクアップ／著","description":"","price":"1180","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784297118372","title":"イラストでわかるDockerとKubernetes","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-12-05","cover":"https://cover.openbd.jp/9784297118372.jpg","author":"徳永航平／著","description":"Dockerとkubernetesは、Webだけでなくさまざまなシステムで利用されています。仮想化とは違うので、エンジニアの皆さんもそのメリットをどう活かしていくのか悩ましいところです。本書は、Dockerとkubernetesのしくみを大胆にイラスト化しました。視覚的に理解することができるので、その技術の本質を理解しやすくなります。各所でコマンド入力を利用して。Dockerとkubernetesの動作もしっかりわかるようになります。","price":"2280","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
 ]
