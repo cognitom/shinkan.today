@@ -73,7 +73,7 @@
 ,
 {"isbn":"9784065183342","title":"OAD付き　転生したらスライムだった件（16）限定版","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-27","cover":"https://cover.openbd.jp/9784065183342.jpg","author":"川上泰樹／著 伏瀬／原著 みっつばー／著","description":"「転スラ」オリジナルアニメ付き単行本第５弾！　イングラシア自由学園・特別課外授業編最終回！","price":"3685","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065203811","title":"ソウルフル・ワールド　ィズニーゴールド絵本","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-27","cover":"https://cover.openbd.jp/9784065203811.jpg","author":"講談社／編集","description":"ピクサーが贈る話題作「ソウルフル・ワールド」を絵本で読もう！魂はどこからくるの？人生の本当の幸せとは？心温まる感動ストーリー","price":"630","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"絵画・彫刻"}
+{"isbn":"9784065203811","title":"ソウルフル・ワールド　ディズニーゴールド絵本","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-27","cover":"https://cover.openbd.jp/9784065203811.jpg","author":"講談社／編集","description":"ピクサーが贈る話題作「ソウルフル・ワールド」を絵本で読もう！魂はどこからくるの？人生の本当の幸せとは？心温まる感動ストーリー","price":"630","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"絵画・彫刻"}
 ,
 {"isbn":"9784065210604","title":"ほしいのは「つかれない家族」　ワンオペ家事＆育児に絶望した私が見つけた家族のシアワセ","volume":"","series":"","publisher":"講談社","pubdate":"2020-11-27","cover":"https://cover.openbd.jp/9784065210604.jpg","author":"ハラユキ／著","description":"東洋経済オンラインの人気連載を書籍化。ワンオペ家事＆育児の絶望から、ストレスレスな家庭づくりをめざす著者の奮闘記","price":"1500","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
@@ -122,16 +122,4 @@
 {"isbn":"9784140818466","title":"ストイック・チャレンジ","volume":"","series":"","publisher":"NHK出版","pubdate":"2020-11-27","cover":"https://cover.openbd.jp/9784140818466.jpg","author":"ウィリアム・B・アーヴァイン／著 月沢李歌子／翻訳","description":"困難や逆境はみずからに訪れた好機だ――。ネガティブな感情にとらわれず、人生を充実させる方法は、古代ストア派の哲学者に学べ！","price":"1700","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
 ,
 {"isbn":"9784149235936","title":"連続テレビ小説　おちょやん　Ｐａｒｔ１","volume":"","series":"ＮＨＫドラマ・ガイド","publisher":"NHK出版","pubdate":"2020-11-27","cover":"https://cover.openbd.jp/9784149235936.jpg","author":"八津弘幸／著 ＮＨＫドラマ制作班／監修 ＮＨＫ出版／編集","description":"連続テレビ小説「おちょやん」の魅力をたっぷり紹介するドラマ・ガイド。杉咲花インタビューほか、舞台裏など独自企画満載。","price":"1200","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
-,
-{"isbn":"9784199010118","title":"Brave ―炎と闘う者たち―","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-11-27","cover":"","author":"楠田雅紀／著 小山田あみ／イラスト","description":"幼い頃の火事が俺の運命を狂わせた――発火能力を持った消防士とその相棒が、人々を苦しめる炎と対峙する！！","price":"650","genre":"文庫","target":"一般","format":"文庫","content":"演劇・映画"}
-,
-{"isbn":"9784199010125","title":"鏡よ鏡、毒リンゴを食べたのは誰？","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-11-27","cover":"","author":"小中大豆／著 みずかねりょう／イラスト","description":"世界で一番美しいのは果たして誰──！？　美形モデルと天才写真家の現代のおとぎ話ｖ","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"演劇・映画"}
-,
-{"isbn":"9784199010132","title":"花屋に三人目の店員がきた夏","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-11-27","cover":"","author":"菅野彰／著 二宮悦巳／イラスト","description":"キャラ文庫の大人気シリーズ「毎日晴天！」第１８弾！　花屋の龍×帯刀家次男・明信の、年の差カップルのその後！","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"演劇・映画"}
-,
-{"isbn":"9784253011051","title":"あまつまりな写真集「空蝉～うつせみ～」","volume":"","series":"","publisher":"秋田書店","pubdate":"2020-11-27","cover":"https://cover.openbd.jp/9784253011051.jpg","author":"LUCKMAN／著","description":"ぱんつを愛し、ぱんつに愛された「妄想の権化」あまつ様。魅惑の絶対領域の、誰も見たことない一面がここに。","price":"3000","genre":"芸能・タレント","target":"一般","format":"単行本","content":"諸芸・娯楽"}
-,
-{"isbn":"9784265088362","title":"水泳・ウィンタースポーツ　ほか","volume":"","series":"決定版！パラスポーツ大百科","publisher":"岩崎書店","pubdate":"2020-11-27","cover":"https://cover.openbd.jp/9784265088362.jpg","author":"藤田紀昭／監修 グループ・コロンブス有限会社／編集","description":"健常者も一緒にやってみよう！　水泳、ボート、カヌー、スキー、パラアイスホッケー、車いすカーリング、スノーボードなど。","price":"3000","genre":"学参","target":"児童","format":"全集・双書","content":"体育・スポーツ"}
-,
-{"isbn":"9784265088416","title":"あまのいわや","volume":"","series":"日本の神話えほん","publisher":"岩崎書店","pubdate":"2020-11-27","cover":"https://cover.openbd.jp/9784265088416.jpg","author":"ふしみみさを／著 ポール・コックス／イラスト","description":"天の国を治める神、天照は弟の須佐之男の乱暴に怒り悲しみ、洞窟に隠れてしまった。小学校低学年から楽しめる日本の神話絵本。","price":"1800","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
 ]
