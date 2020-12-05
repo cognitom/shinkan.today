@@ -33,7 +33,13 @@
 ,
 {"isbn":"9784121026194","title":"もののけの日本史","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-11-24","cover":"","author":"小山聡子／著","description":"病をもたらし貴族を震え上がらせた古代から、怪談や図案入りの玩具で庶民に親しまれる近世、非科学的と否定される近現代までを概観。","price":"900","genre":"","target":"教養","format":"新書","content":"日本歴史"}
 ,
-{"isbn":"9784121026200","title":"コロナ危機の政治 安倍政権vs.知事","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-11-24","cover":"","author":"竹中治堅／著","description":"日本政治はいかに新型ロナウイルス感染症に対応したのか。当事者の証言も交え、罹患者発生から安倍政権退陣まで九か月の軌跡を描く","price":"980","genre":"","target":"教養","format":"新書","content":"政治-含む国防軍事"}
+{"isbn":"9784121026200","title":"コロナ危機の政治 安倍政権vs.知事","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-11-24","cover":"","author":"竹中治堅／著","description":"日本政治はいかに新型コロナウイルス感染症に対応したのか。当事者の証言も交え、罹患者発生から安倍政権退陣まで九か月の軌跡を描く","price":"980","genre":"","target":"教養","format":"新書","content":"政治-含む国防軍事"}
 ,
 {"isbn":"9784163913025","title":"はらぺこ万歳！ おかわり 夫婦ごはん＆親子ごはん","volume":"","series":"","publisher":"文藝春秋","pubdate":"2020-11-24","cover":"https://cover.openbd.jp/9784163913025.jpg","author":"たかぎなおこ／著","description":"お互い40代婚で食いしん坊な夫と、平日は自炊、休日は食べ歩きを楽しむ日々。そして待望の娘が誕生し、たかぎ家の食卓も様変わり！","price":"1100","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784254171662","title":"動物の事典","volume":"","series":"","publisher":"朝倉書店","pubdate":"2020-11-24","cover":"https://cover.openbd.jp/9784254171662.jpg","author":"末光隆志／編集","description":"生理学，生態学，行動学，分類学，文化人類学など様々な視点からの知見を総合した動物学事典。","price":"23000","genre":"自然科学","target":"専門","format":"事・辞典","content":"生物学"}
+,
+{"isbn":"9784260043557","title":"「身体拘束最小化」を実現した松沢病院の方法とプロセスを全公開","volume":"","series":"","publisher":"医学書院","pubdate":"2020-11-24","cover":"","author":"東京都立松沢病院／著","description":"身体拘束を何十年も当たり前に行ってきた松沢病院だったが、「縛らない病院」へと方針を大転換。そこから実際に現場が変わるまでのプロセスを解説する。変わっていく現場を生で体験したスタッフたちの「裏話座談会」も収録。「こんな時はこうして解決した」という具体的な考え方・写真・テクニックは、これから身体拘束を減らしていこうとするあらゆる組織にとって参考になる。","price":"2200","genre":"","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784274226199","title":"JavaScript基礎ドリル　穴埋め式","volume":"","series":"","publisher":"オーム社","pubdate":"2020-11-24","cover":"https://cover.openbd.jp/9784274226199.jpg","author":"金子平祐／著 GrodetAymeric／著 BahadurMDRakib／著 新居雅行／著","description":"Webサイトのプログラミングをマスターしたいと願うJavaScriptプログラマにベストマッチな「穴埋め問題集」。","price":"2000","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
 ]
