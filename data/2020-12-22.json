@@ -9,7 +9,7 @@
 ,
 {"isbn":"9784047335240","title":"別冊てれびげーむマガジン　スペシャル　マインクラフト　ふみこめ！　未開の大地号","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ　Ｇａｍｅ　Ｌｉｎｋａｇｅ","pubdate":"2020-12-22","cover":"https://cover.openbd.jp/9784047335240.jpg","author":"","description":"マイクラ好きな子どもたちにピッタリのムック最新号が登場","price":"908","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784047364738","title":"重賞ビーム　2021","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-12-22","cover":"https://cover.openbd.jp/9784047364738.jpg","author":"亀谷敬正／著","description":"巷で話題の人気競馬予想プロ・亀谷敬正による2021ＪＲＡ重賞の予想指南","price":"1800","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+{"isbn":"9784047364738","title":"重賞ビーム　2021","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-12-22","cover":"https://cover.openbd.jp/9784047364738.jpg","author":"亀谷敬正／著","description":"巷で話の人気競馬予想プロ・亀谷敬正による2021ＪＲＡ重賞の予想指南","price":"1800","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784047364745","title":"金満血統馬券術100連発 2021年版","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-12-22","cover":"https://cover.openbd.jp/9784047364745.jpg","author":"田端到／著 斉藤雄一／著","description":"人気連載が裏付ける定番馬券術・最新馬券術の数々がここに！","price":"1800","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
@@ -52,4 +52,10 @@
 {"isbn":"9784125014241","title":"東シナ海開戦２ 戦狼外交","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-12-22","cover":"https://cover.openbd.jp/9784125014241.jpg","author":"大石英司／著","description":"香港を黙らせた中国が次に南シナ海、東沙諸島の東沙島への奇襲に動く。一方、バイオ・テロが中国を狙い！？","price":"1000","genre":"","target":"一般","format":"新書","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784130634571","title":"オンライン・ファースト","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2020-12-22","cover":"https://cover.openbd.jp/9784130634571.jpg","author":"東京大学情報理工学系研究科／編集","description":"コロナ禍で日本のIT化は加速したが，感染検知やソーシャルディスタンスの確保，マイナンバー制度の正しい活用など，解決すべき課題も多い．IT化を逆行させず，今後進めていくための東大の「提言」をもとに，山積する社会の課題の解決への指針を示す，実務者必携の書．","price":"2700","genre":"","target":"教養","format":"単行本","content":"情報科学"}
+,
+{"isbn":"9784262152288","title":"暮らしが華やぐ実用折り紙","volume":"","series":"","publisher":"池田書店","pubdate":"2020-12-22","cover":"","author":"小林一夫／監修","description":"飾って、使って、飾って楽しめる折り紙作品が満載！パカッと開く製本で、折り図が見やすく、開いたまま折ることができる。","price":"1600","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784262154343","title":"基本が身につく　かな書道の教科書","volume":"","series":"","publisher":"池田書店","pubdate":"2020-12-22","cover":"","author":"田中紫水／著","description":"筆づかい、文字のつなぎ方、美しく書くコツがよくわかる！年賀状、お礼状、俳句・和歌など実用的な楽しみ方も紹介。","price":"1600","genre":"","target":"実用","format":"単行本","content":"絵画・彫刻"}
+,
+{"isbn":"9784262166537","title":"すぐわかるラグビールール　レフリング・プレー・観戦の基本","volume":"","series":"","publisher":"池田書店","pubdate":"2020-12-22","cover":"","author":"久保修平／監修","description":"公式ルールブックをベースに、試合の流れに沿って分かりやすく解説！観戦にも役立つ！","price":"850","genre":"","target":"実用","format":"新書","content":"体育・スポーツ"}
 ]

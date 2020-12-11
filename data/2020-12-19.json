@@ -29,7 +29,7 @@
 ,
 {"isbn":"9784040739380","title":"スパイ教室04　特装版 《夢語》のティア","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-12-19","cover":"https://cover.openbd.jp/9784040739380.jpg","author":"竹町／著 トマリ／イラスト","description":"&quot;最高&quot;の第４巻の、 &quot;極上&quot;の豪華特装版！","price":"750","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041110379","title":"ゆうきまさみのまだまだはてしない物語","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-12-19","cover":"https://cover.openbd.jp/9784041110379.jpg","author":"ゆうきまさみ／著","description":"月刊ニューイプのご長寿コラムが12年ぶりに降臨！","price":"1800","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784041110379","title":"ゆうきまさみのまだまだはてしない物語","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-12-19","cover":"https://cover.openbd.jp/9784041110379.jpg","author":"ゆうきまさみ／著","description":"月刊ニュータイプのご長寿コラムが12年ぶりに降臨！","price":"1800","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784047335158","title":"あつまれ どうぶつの森　島ましましガイドブック","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ　Ｇａｍｅ　Ｌｉｎｋａｇｅ","pubdate":"2020-12-19","cover":"https://cover.openbd.jp/9784047335158.jpg","author":"","description":"ロケーション作りのヒントが盛りだくさんの一冊！","price":"1500","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
@@ -40,4 +40,12 @@
 {"isbn":"9784074453863","title":"上坂すみれフォトブック　すみぺのＡｔｏＺ","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-12-19","cover":"","author":"上坂すみれ／著","description":"「上坂すみれの同志諸君に告ぐ?」の4冊目のフォトブックが12月19日の誕生日に発売！","price":"3500","genre":"","target":"一般","format":"単行本","content":"写真・工芸"}
 ,
 {"isbn":"9784144072666","title":"別冊ＮＨＫ俳句　保存版　名句鑑賞アルバム","volume":"","series":"教養・文化シリーズ","publisher":"NHK出版","pubdate":"2020-12-19","cover":"","author":"片山由美子／著","description":"美しい大判写真と四季の名句を組み合わせた俳句鑑賞アルバム。平易な鑑賞文とあわせて、眺めるだけで名句が自然に身に付きます。","price":"1500","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"日本文学詩歌"}
+,
+{"isbn":"9784274226168","title":"図解　建築計画の知識","volume":"","series":"","publisher":"オーム社","pubdate":"2020-12-19","cover":"https://cover.openbd.jp/9784274226168.jpg","author":"建築計画の知識編集委員会／編集","description":"建築士を目指す学生向け教科書シリーズ。「建築計画」をテーマに、初学者にもわかりやすい図やイラストを多用して解説。","price":"3200","genre":"工業・工学","target":"専門","format":"単行本","content":"建築"}
+,
+{"isbn":"9784274226342","title":"2021年版　ラクしてうかる！第二種電気工事士筆記試験","volume":"","series":"","publisher":"オーム社","pubdate":"2020-12-19","cover":"https://cover.openbd.jp/9784274226342.jpg","author":"オーム社／編集","description":"第二種電気工事士の筆記試験対策書。過去問題を解くために必要な情報に絞って解説。過去15年間に出題された全問題を扱っている。","price":"1800","genre":"","target":"専門","format":"単行本","content":"電気"}
+,
+{"isbn":"9784274226434","title":"標準　医用画像の視覚評価法","volume":"","series":"放射線技術学スキルUPシリーズ","publisher":"オーム社","pubdate":"2020-12-19","cover":"https://cover.openbd.jp/9784274226434.jpg","author":"日本放射線技術学会／監修 白石順二／著・編集","description":"視覚評価法の主流、ROC観察者実験、FROC観察者実験、一対比較法の理論と実験方法を、目的別、モダリティ別、手技別に解説。","price":"4800","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784276963207","title":"厳選10名曲 アナリーゼ／演奏・指導法／ソルフェージュ／エチュード　これで万全！ 名曲の教え方","volume":"","series":"ONTOMO MOOK","publisher":"株式会社音楽之友社","pubdate":"2020-12-19","cover":"https://cover.openbd.jp/9784276963207.jpg","author":"ムジカノーヴァ／編集","description":"『ムジカノーヴァ』の人気企画「今月の1曲」から、不変の人気を誇る10名曲を厳選！　音楽者、作曲家、ピアニストが徹底解説。","price":"1400","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"音楽・舞踊"}
 ]
