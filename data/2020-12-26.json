@@ -67,7 +67,7 @@
 ,
 {"isbn":"9784049135664","title":"よい子先生と薄い本の悪魔（2）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-12-26","cover":"https://cover.openbd.jp/9784049135664.jpg","author":"こめつぶ／著","description":"悪魔が来りて〆切を告げる。これにて完結！","price":"640","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784049135671","title":"外道魔術師の憑依譚 （２） ～最強剣士を乗っ取ったら、自分の身体を探すことになった～","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-12-26","cover":"https://cover.openbd.jp/9784049135671.jpg","author":"羽鳥ぴよこ／著 新嶋紀陽／原著 ｅＧ／企画","description":"クズな勇者を、最強外道魔術師の本気の拳でぶん殴る！","price":"700","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784049135671","title":"外道魔術師の憑依譚 （２） ～最強剣士を乗っ取ったら、自分の身体を探すことになった～","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-12-26","cover":"https://cover.openbd.jp/9784049135671.jpg","author":"羽鳥ぴよこ／著 新嶋紀陽／原著 ＫｅＧ／企画","description":"クズな勇者を、最強外道魔術師の本気の拳でぶん殴る！","price":"700","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784049135701","title":"青春ブタ野郎はロジカルウィッチの夢を見ない1","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2020-12-26","cover":"https://cover.openbd.jp/9784049135701.jpg","author":"秋奈つかこ／著 鴨志田一／原著 溝口ケージ／著・イラスト","description":"電撃文庫の人気作『青ブタ』シリーズ第3弾をコミカライズ！","price":"640","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -88,4 +88,8 @@
 {"isbn":"9784065209349","title":"ウルトラ特撮　PERFECT　MOOK　vol．12　ウルトラマンオーブ","volume":"","series":"","publisher":"講談社","pubdate":"2020-12-26","cover":"","author":"講談社／編集","description":"全「ウルトラマン」シリーズと円谷プロが制作した特撮作品をすべて網羅した大全集ムックが誕生！","price":"630","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
 ,
 {"isbn":"9784074434824","title":"赤ちゃんが欲しいクリニックガイド２０２１","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-12-26","cover":"","author":"主婦の友社／編集","description":"特別付録は「こうのとりハローキティ」マスクポーチ。病院選びの決定版。全国の不妊治療クリニック・漢方薬局・治療院を網羅！","price":"1000","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
+,
+{"isbn":"9784198651053","title":"ソーシャルディスタンスでデジタル化する社会の闇","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-12-26","cover":"","author":"髙瀨堅吉／著","description":"デジタル変革が急速に進展する社会の中で、私たちの心はどうなってしまうのかーー。すべての価値観を変えるときが来ているのか。","price":"1600","genre":"","target":"一般","format":"単行本","content":"社会"}
+,
+{"isbn":"9784198652234","title":"世界を不幸にする植民地主義国家・中国","volume":"","series":"","publisher":"徳間書店","pubdate":"2020-12-26","cover":"","author":"楊海英／著","description":"香港を圧殺し、モンゴル、ウイグルなどでのジェノサイドも辞さず、自己の利益だけを追求する中国独自の植民地主義を論破する。","price":"1800","genre":"","target":"一般","format":"単行本","content":"政治-含む国防軍事"}
 ]
