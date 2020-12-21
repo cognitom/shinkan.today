@@ -87,7 +87,7 @@
 ,
 {"isbn":"9784065217252","title":"天国大魔境（5）","volume":"","series":"","publisher":"講談社","pubdate":"2020-12-23","cover":"","author":"石黒正数／著","description":"崩壊した日本の「魔境」と、きれいだが閉鎖な「天国」を行き来するサバイバルサスペンス！　隠された思惑が明かされる第５巻！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065217283","title":"フラジャイル（19）","volume":"","series":"","publisher":"講談社","pubdate":"2020-12-23","cover":"","author":"恵三朗／著 草水敏／原著","description":"医療とは異なる法曹の論理が、岸を窮地に追い込む。岸と弁護士・千石の共闘は実を結ぶか！？「医事紛争編」ここに決着！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065217283","title":"フラジャイル（19）","volume":"","series":"","publisher":"講談社","pubdate":"2020-12-23","cover":"","author":"恵三朗／著 草水敏／原著","description":"医療とは異なる法曹の論理が、岸を窮地に追い込む。岸と弁護士・千石の共闘は実を結ぶのか！？「医事紛争編」ここに決着！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065217337","title":"クッキングパパ　トンコツ鍋","volume":"","series":"","publisher":"講談社","pubdate":"2020-12-23","cover":"","author":"うえやまとち／著","description":"今年もお疲れさまでした！　最後はパパのあったか料理でしめくくろう！！","price":"336","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -136,6 +136,8 @@
 {"isbn":"9784074466351","title":"フリマアプリで人生をふりかえる","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-12-23","cover":"https://cover.openbd.jp/9784074466351.jpg","author":"主婦の友社／編集","description":"自分に不要なそのモノ、他の誰かが必要としているかもしれません！　フリマアプリを使って、手軽に”生前整理”＆”終活”を。","price":"1100","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784074466412","title":"ママのピンチを救う本　わが家はみんなＡＤＨＤ！？","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-12-23","cover":"https://cover.openbd.jp/9784074466412.jpg","author":"司馬理英子／著","description":"片づけられない、落ち着きがない、計画性がない……家族全員、ADHDかも！？そんなママのピンチを救い、楽に元気にする本。","price":"1450","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784074467600","title":"ＪＩ女子のあんしん手帖","volume":"","series":"","publisher":"主婦の友社","pubdate":"2020-12-23","cover":"","author":"","description":"","price":"1200","genre":"","target":"","format":"","content":""}
 ,
 {"isbn":"9784091051691","title":"仮面ライダーゼロワン超全集","volume":"","series":"","publisher":"小学館","pubdate":"2020-12-23","cover":"https://cover.openbd.jp/9784091051691.jpg","author":"間宮尚彦／編集 川上裕生／著","description":"コレが1000％のゼロワンベストブック！ \n\n ・全プログライズキー図鑑！\n・全ライダー、全フォーム、全マギア、全レイダーなど登場キャラ完全紹介！\n・飛電インテリジェンス、A.I.M.S.、ZAIA、滅亡迅雷.netを大解説！\n・テレビ、映画、全サDVDの全ストーリー紹介\n・レギュラーキャスト直筆ラストメッセージ\nそして、スクープピンナップ！\n\nゼロワンのメモリアルな最強の一冊だ！\n\n\n\n \n\n 【編集担当からのおすすめ情報】 \n 例年通りの細かな情報がぎっしり！\n是非、ゼロワンの記念に読んで見てください！","price":"2700","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"演劇・映画"}
 ,
@@ -198,4 +200,20 @@
 {"isbn":"9784122070103","title":"和辻哲郎座談","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-12-23","cover":"https://cover.openbd.jp/9784122070103.jpg","author":"和辻哲郎／著","description":"0","price":"1200","genre":"文庫","target":"教養","format":"文庫","content":"哲学"}
 ,
 {"isbn":"9784122070110","title":"ロボット ＲＵＲ","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-12-23","cover":"https://cover.openbd.jp/9784122070110.jpg","author":"カレル・チャペック／著 阿部賢一／翻訳","description":"0","price":"840","genre":"文庫","target":"教養","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784260042581","title":"Pocket Drugs 2021","volume":"","series":"","publisher":"医学書院","pubdate":"2020-12-23","cover":"","author":"福井次矢／著","description":"治療薬を薬効ごとに分類し，冒頭に「臨床解説」を掲載。各薬剤情報では，すぐに役立つ「選び方・使い方」，薬剤選択・使用時の「エビデンス」をコンパクトにまとめた。フルカラーで欲しい情報がすぐに探せ，主要な薬剤は写真も掲載。臨床現場で本当に必要な情報だけをまとめた1冊。2021年版では，使用できる施設・医師に制限がある薬，患者同意が必要な薬についてアイコンを追加。コンパクトなサイズのまま，さらに充実。","price":"4200","genre":"","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784265088317","title":"パラスポーってなに？","volume":"","series":"決定版！パラスポーツ大百科","publisher":"岩崎書店","pubdate":"2020-12-23","cover":"https://cover.openbd.jp/9784265088317.jpg","author":"藤田紀昭／著 グループ・コロンブス有限会社／著","description":"パラスポーツの歩みや、どんな競技や種目があるのか、特有のルールなど、特徴や工夫、サポートをビジュアルでわかりやすく解説。","price":"3000","genre":"学参","target":"児童","format":"全集・双書","content":"体育・スポーツ"}
+,
+{"isbn":"9784265088324","title":"陸上・フィールドスポーツ　ほか","volume":"","series":"決定版！パラスポーツ大百科","publisher":"岩崎書店","pubdate":"2020-12-23","cover":"https://cover.openbd.jp/9784265088324.jpg","author":"藤田紀昭／著 グループ・コロンブス有限会社／著","description":"パラスポーツの陸上競技、トライアスロン、自転車、アーチェリー、馬術、などの競技の特徴やルールがビジュアルでよく分かる。","price":"3000","genre":"学参","target":"児童","format":"全集・双書","content":"体育・スポーツ"}
+,
+{"isbn":"9784265088614","title":"水道水がとどくまで","volume":"","series":"いま「水」を考える","publisher":"岩崎書店","pubdate":"2020-12-23","cover":"https://cover.openbd.jp/9784265088614.jpg","author":"沖大幹／著","description":"すべての生き物の命の源である水。その循環の様子。水道の蛇口に水が届くまでの道のりをたどると…。小4社会の単元に完全準拠！","price":"3000","genre":"学参","target":"児童","format":"全集・双書","content":"土木"}
+,
+{"isbn":"9784274226489","title":"内藤廣設計図面集","volume":"","series":"","publisher":"オーム社","pubdate":"2020-12-23","cover":"https://cover.openbd.jp/9784274226489.jpg","author":"内藤廣／著","description":"日本を代表する建築家の内藤廣の代表的な18の建築の設計図面を一冊にまとめた。内藤廣が建築に何を込めたかを伝えてくれる。","price":"5200","genre":"工業・工学","target":"専門","format":"単行本","content":"建築"}
+,
+{"isbn":"9784295200857","title":"医療崩壊の真実","volume":"","series":"","publisher":"エムディエヌコーポレーション","pubdate":"2020-12-23","cover":"","author":"","description":"","price":"1500","genre":"","target":"","format":"","content":""}
+,
+{"isbn":"9784297117696","title":"10才からはじめるプログラミング　MakeCode Arcadeで自分だけのゲームを作ろう","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-12-23","cover":"https://cover.openbd.jp/9784297117696.jpg","author":"大角茂之、大角美緒＝著／日本マイクロソフト株式会社＝協力／著","description":"Microsoft MakeCode Arcade（メイクコード　アーケード）を使ったゲームプログラミングの入門書です。MakeCode Arcadeを使うと、ブロックを組み合わせて簡単に2Dゲーム作りを楽しめます。ブラウザーだけでプログラミングができるので、特別なソフトをインストールする必要はありません！　本書では、簡単な追いかけっこゲームから始まり、アクションゲーム、シューティングゲーム、対戦ゲームなどを実際に作りながら、プログラミングを勉強していきます。\n自分で作ったオリジナルのゲームは、パソコンで遊ぶだけではなく、市販されているMakeCode Arcade対応のゲーム機に転送して家族や友達に遊んでもらうこともできます。本書を読めば、MakeCode Arcadeを使ったプログラミングと、ゲーム作りのコツの両方を身につけられます。","price":"2260","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+,
+{"isbn":"9784297118969","title":"ゼロからはじめる　au Xperia 5 II SOG02　スマートガイド","volume":"","series":"","publisher":"技術評論社","pubdate":"2020-12-23","cover":"https://cover.openbd.jp/9784297118969.jpg","author":"技術評論社編集部／著","description":"本書は、auから発売された5G対応のスマートフォン「Xperia 5 II SOG02」の初心者向け解説書です。通話、メール、インターネットなどの基本的な使い方のほか、Xperia 5 IIの独自機能、アプリケーションのインストールや使い方、auのサービスの利用方法なども解説しています。本書があれば、Xperia 5 II の基本操作と活用法がバッチリわかります!","price":"1580","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
 ]
