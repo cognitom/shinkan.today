@@ -39,7 +39,7 @@
 ,
 {"isbn":"9784121026224","title":"明智光秀 織田政権の司令塔","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-12-22","cover":"https://cover.openbd.jp/9784121026224.jpg","author":"福島克彦／著","description":"謀反に至る以前、光秀はどのような活動をしていたのか。織田家中で随一の働きを示し、信長の政権運営を支えた武将の実像に迫る。","price":"900","genre":"","target":"教養","format":"新書","content":"日本歴史"}
 ,
-{"isbn":"9784121026231","title":"古代マヤ文明 栄華と衰亡の3000年","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-12-22","cover":"https://cover.openbd.jp/9784121026231.jpg","author":"鈴木真太郎／著","description":"かつて中米に栄えた謎多き文明。解読が進んだマヤ文字は王朝の興亡を伝え、遺物・人骨は人々の生活を雄弁に語る。最新研究で謎に挑む","price":"960","genre":"","target":"教養","format":"新書","content":"外国歴史"}
+{"isbn":"9784121026231","title":"古代マヤ文明 栄華と衰亡の3000年","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-12-22","cover":"https://cover.openbd.jp/9784121026231.jpg","author":"鈴木真太郎／著","description":"かつて中に栄えた謎多き文明。解読が進んだマヤ文字は王朝の興亡を伝え、遺物・人骨は人々の生活を雄弁に語る。最新研究で謎に挑む","price":"960","genre":"","target":"教養","format":"新書","content":"外国歴史"}
 ,
 {"isbn":"9784121026248","title":"「徴用工」問題とは何か","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-12-22","cover":"https://cover.openbd.jp/9784121026248.jpg","author":"波多野澄雄／著","description":"日韓対立の焦点になる中、「徴用工」の実情から歴史認識、国際法、司法の性格など、多岐にわたる問題を整理し解説。解決の糸口を探る","price":"820","genre":"","target":"教養","format":"新書","content":"日本歴史"}
 ,
@@ -52,4 +52,10 @@
 {"isbn":"9784125014241","title":"東シナ海開戦２ 戦狼外交","volume":"","series":"","publisher":"中央公論新社","pubdate":"2020-12-22","cover":"https://cover.openbd.jp/9784125014241.jpg","author":"大石英司／著","description":"香港を黙らせた中国が次に南シナ海、東沙諸島の東沙島への奇襲に動く。一方、バイオ・テロが中国を狙い！？","price":"1000","genre":"","target":"一般","format":"新書","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784130634571","title":"オンライン・ファースト","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2020-12-22","cover":"https://cover.openbd.jp/9784130634571.jpg","author":"東京大学情報理工学系研究科／編集","description":"コロナ禍で日本のIT化は加速したが，感染検知やソーシャルディスタンスの確保，マイナンバー制度の正しい活用など，解決すべき課題も多い．IT化を逆行させず，今後進めていくための東大の「提言」をもとに，山積する社会の課題の解決への指針を示す，実務者必携の書．","price":"2700","genre":"","target":"教養","format":"単行本","content":"情報科学"}
+,
+{"isbn":"9784262152288","title":"暮らしが華やぐ実用折り紙","volume":"","series":"","publisher":"池田書店","pubdate":"2020-12-22","cover":"","author":"小林一夫／監修","description":"飾って、使って、飾って楽しめる作品が満載！　パカッと開く製本で、折り図が見やすく、押さえずに開いたまま折ることができる！","price":"1600","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784262154343","title":"基本が身につく　かな書道の教科書","volume":"","series":"","publisher":"池田書店","pubdate":"2020-12-22","cover":"","author":"田中紫水／著","description":"筆づかい、文字のつなぎ方、美しく書くコツがよくわかる！　年賀状、季節の挨拶、俳句・和歌など実用的な楽しみ方も紹介。","price":"1600","genre":"","target":"実用","format":"単行本","content":"絵画・彫刻"}
+,
+{"isbn":"9784262166537","title":"すぐわかるラグビールールレフリング・プレー・観戦の基本","volume":"","series":"","publisher":"池田書店","pubdate":"2020-12-22","cover":"","author":"久保修平／監修","description":"公式ルールブックをベースに、\n試合の流れに沿って分かりやすく解説！\n観戦にも役立つ！\n","price":"850","genre":"","target":"実用","format":"新書","content":"体育・スポーツ"}
 ]
