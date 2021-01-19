@@ -51,7 +51,7 @@
 ,
 {"isbn":"9784048969246","title":"K-POP 動画 SNS 今すぐ使いたい！韓国語ひとことフレーズ集","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784048969246.jpg","author":"宍戸奈美／著","description":"略語もSNS用語も！今すぐ使える、痒い所に手が届く韓国語フレーズ集！","price":"1250","genre":"","target":"一般","format":"単行本","content":"各国語"}
 ,
-{"isbn":"9784048969253","title":"世界は救えないけど豚の角煮は作れる","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784048969253.jpg","author":"にゃんたこ／著","description":"人生はシュプリームなガラクタだ","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784048969253","title":"世界は救えないけどの角煮は作れる","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784048969253.jpg","author":"にゃんたこ／著","description":"人生はシュプリームなガラクタだ","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784065192733","title":"高瀬庄左衛門御留書","volume":"","series":"","publisher":"講談社","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784065192733.jpg","author":"砂原浩太朗／著","description":"五十手前で妻子を亡くした高瀬庄左衛門。寂寥と悔恨の中、それでも藩の政争とは無縁ではいられない。人生の輝きに満ちた傑作時代長編","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
@@ -154,4 +154,20 @@
 {"isbn":"9784122070233","title":"新装版  奇貨居くべし（四） 飛翔篇","volume":"","series":"","publisher":"中央公論新社","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784122070233.jpg","author":"宮城谷昌光／著","description":"0","price":"780","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784122070240","title":"砂塵の掟 オッドアイ","volume":"","series":"","publisher":"中央公論新社","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784122070240.jpg","author":"渡辺裕之／著","description":"0","price":"740","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784140162798","title":"ＮＨＫ俳句　あるある！　お悩み相談室　「名句の学び方」","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784140162798.jpg","author":"岸本葉子／著 岸本尚毅／著","description":"Q「俳句を毎日作りたいのですが、感動のない毎日です」　A「感動のない毎日だからこそ、感動するために俳句を作るのです」","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学詩歌"}
+,
+{"isbn":"9784140818381","title":"ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌ　ミクロワールド　１　あし","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784140818381.jpg","author":"NHK「ミクロワールド」制作班／編集 長谷川義史／著","description":"身近な生物の「あし」の顕微鏡画像からはじまり、その生物の姿や生態まで紹介。子どもの科学的探究心、知的好奇心を育む。","price":"3500","genre":"教育","target":"児童","format":"全集・双書","content":"生物学"}
+,
+{"isbn":"9784140818398","title":"ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌ　ミクロワールド　２　口","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784140818398.jpg","author":"NHK「ミクロワールド」制作班／編集 長谷川義史／著","description":"身近な生物の「口」の顕微鏡画像からはじまり、その生物の姿や生態まで紹介。子どもの科学的探究心、知的好奇心を育む。","price":"3500","genre":"教育","target":"児童","format":"全集・双書","content":"生物学"}
+,
+{"isbn":"9784140818404","title":"ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌ　ミクロワールド　３　赤ちゃん","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784140818404.jpg","author":"NHK「ミクロワールド」制作班／編集 長谷川義史／著","description":"身近な生物の「赤ちゃん」の顕微鏡画像からはじまり、その生物の姿や生態まで紹介。子どもの科学的探究心、知的好奇心を育む。","price":"3500","genre":"教育","target":"児童","format":"全集・双書","content":"生物学"}
+,
+{"isbn":"9784166612666","title":"世界一ポップな国際ニュースの授業","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784166612666.jpg","author":"藤原帰一／著 石田衣良／著","description":"国際政治の泰斗・キーチ教授に、イシダイラが作家ならではの質問で斬り込む。高校生でもイチから分かる世界情勢講座の始まりです。","price":"850","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784166612956","title":"在宅ひとり死のススメ","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784166612956.jpg","author":"上野千鶴子／著","description":"おひとりさまでも、病院や施設でなく、慣れ親しんだ自宅で自分らしい最期を迎えられる。ウエノが最前線を徹底取材。ノウハウ大公開。","price":"800","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784166612963","title":"日本企業の復活力 コロナショックを超えて","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784166612963.jpg","author":"伊丹敬之／著","description":"日本はポストコロナ時代において国際的にさらに強くなっていく可能性がある。その理由と将来的な課題を産業の様々な面から論証する。","price":"950","genre":"","target":"一般","format":"新書","content":"経営"}
+,
+{"isbn":"9784166612970","title":"最後の人声天語","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784166612970.jpg","author":"坪内祐三／著","description":"『文藝春秋』の巻末を飾り続けた連載「人声天語」のシリーズ最終巻。文学から大相撲、街歩きまで平成から令和に代わる世を書き残す。","price":"950","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
 ]
