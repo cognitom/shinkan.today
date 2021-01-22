@@ -75,7 +75,7 @@
 ,
 {"isbn":"9784074436903","title":"心不全","volume":"","series":"よくわかる最新医学シリーズ","publisher":"主婦の友社","pubdate":"2021-01-20","cover":"","author":"小室一成／著","description":"さまざまな原因で心臓の機能が低下していく心不全。命にかかわる事態を防ぐために日常生活から行うべきことをわかりやすく解説","price":"1500","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
 ,
-{"isbn":"9784074461738","title":"首・肩・手のしびれ、痛みを招く胸郭出口症候群を自分で治す！","volume":"","series":"","publisher":"主婦の友社","pubdate":"2021-01-20","cover":"","author":"内田輝和／著 仙田正俊／監修","description":"肩こりのうち、首や肩、腕、手にしびれや痛みを伴う胸郭出口症候群が増えている。これを治す方法としてひじヨガを紹介する。","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784074461738","title":"首・肩・手のしびれ、痛みを招く胸郭出口症候群を自分で治す！","volume":"","series":"","publisher":"主婦の友社","pubdate":"2021-01-20","cover":"","author":"内田輝和／著 仙田正俊／監修","description":"肩こりのうち、首や肩、腕、手にしびれや痛みを伴う胸出口症候群が増えている。これを治す方法としてひじヨガを紹介する。","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784074466290","title":"大腸がん","volume":"","series":"","publisher":"主婦の友社","pubdate":"2021-01-20","cover":"","author":"福長洋介／著","description":"年間およそ１５万人がかかる大腸がん。早期発見により治癒率は高く治療の選択肢も多い。診断から治療まで知りたいことのすべて","price":"1600","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
 ,
@@ -129,7 +129,7 @@
 ,
 {"isbn":"9784122069503","title":"新装版 マンガ日本の歴史８  鎌倉幕府の成立と承久の乱","volume":"","series":"","publisher":"中央公論新社","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784122069503.jpg","author":"石ノ森章太郎／著","description":"0","price":"840","genre":"コミック文庫","target":"教養","format":"文庫","content":"日本歴史"}
 ,
-{"isbn":"9784122070127","title":"利休の死 戦国時代小説集","volume":"","series":"","publisher":"中央公論社","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784122070127.jpg","author":"井上靖／著","description":"0","price":"860","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784122070127","title":"利休の死 戦国時代小説集","volume":"","series":"","publisher":"中央公論新社","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784122070127.jpg","author":"井上靖／著","description":"0","price":"860","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784122070134","title":"軍国日本の興亡 日清戦争から日中戦争へ","volume":"","series":"","publisher":"中央公論新社","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784122070134.jpg","author":"猪木正道／著","description":"0","price":"900","genre":"文庫","target":"教養","format":"文庫","content":"日本歴史"}
 ,
@@ -162,50 +162,4 @@
 {"isbn":"9784140818398","title":"ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌ　ミクロワールド　２　口","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784140818398.jpg","author":"NHK「ミクロワールド」制作班／編集 長谷川義史／著","description":"身近な生物の「口」の顕微鏡画像からはじまり、その生物の姿や生態まで紹介。子どもの科学的探究心、知的好奇心を育む。","price":"3500","genre":"教育","target":"児童","format":"全集・双書","content":"生物学"}
 ,
 {"isbn":"9784140818404","title":"ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌ　ミクロワールド　３　赤ちゃん","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784140818404.jpg","author":"NHK「ミクロワールド」制作班／編集 長谷川義史／著","description":"身近な生物の「赤ちゃん」の顕微鏡画像からはじまり、その生物の姿や生態まで紹介。子どもの科学的探究心、知的好奇心を育む。","price":"3500","genre":"教育","target":"児童","format":"全集・双書","content":"生物学"}
-,
-{"isbn":"9784166612666","title":"世界一ポップな国際ニュースの授業","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784166612666.jpg","author":"藤原帰一／著 石田衣良／著","description":"国際政治の泰斗・キーチ教授に、イシダイラが作家ならではの質問で斬り込む。高校生でもイチから分かる世界情勢講座の始まりです。","price":"850","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784166612956","title":"在宅ひとり死のススメ","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784166612956.jpg","author":"上野千鶴子／著","description":"おひとりさまでも、病院や施設でなく、慣れ親しんだ自宅で自分らしい最期を迎えられる。ウエノが最前線を徹底取材。ノウハウ大公開。","price":"800","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784166612963","title":"日本企業の復活力 コロナショックを超えて","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784166612963.jpg","author":"伊丹敬之／著","description":"日本はポストコロナ時代において国際的にさらに強くなっていく可能性がある。その理由と将来的な課題を産業の様々な面から論証する。","price":"950","genre":"","target":"一般","format":"新書","content":"経営"}
-,
-{"isbn":"9784166612970","title":"最後の人声天語","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784166612970.jpg","author":"坪内祐三／著","description":"『文藝春秋』の巻末を飾り続けた連載「人声天語」のシリーズ最終巻。文学から大相撲、街歩きまで平成から令和に代わる世を書き残す。","price":"950","genre":"","target":"一般","format":"新書","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784251095510","title":"国語で使える！ グラフや表を用いて書こう","volume":"","series":"","publisher":"あかね書房","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784251095510.jpg","author":"青山由紀／監修","description":"取次広報誌　掲載不要","price":"4000","genre":"児童図書","target":"児童","format":"単行本","content":"教育"}
-,
-{"isbn":"9784253140652","title":"姉のおなかをふくらませるのは僕 おかわり！  1","volume":"","series":"","publisher":"秋田書店","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784253140652.jpg","author":"坂井音太／著 内藤らぶか／著","description":"大人気作品待望の新シリーズ！高校生の姉・京子と小学生の弟・忍。支え合う日常と食卓の交歓。姉弟クッキングコメディ！","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253140676","title":"姉のおなかをふくらませるのは僕 おかわり！  2","volume":"","series":"","publisher":"秋田書店","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784253140676.jpg","author":"坂井音太／著 内藤らぶか／著","description":"大人気作品待望の新シリーズ！高校生の姉・京子と小学生の弟・忍。支え合う日常と食卓の交歓。姉弟クッキングコメディ！","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253142144","title":"フリクションガール  3","volume":"","series":"","publisher":"秋田書店","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784253142144.jpg","author":"noga／著","description":"ボルダリング同好会を結成した勢いで、ギャオ、うらら、たまみ、むゆの四人は外岩を登りに遠征することに!!","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253237420","title":"DEAD Tube ～デッドチューブ～  16","volume":"","series":"","publisher":"秋田書店","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784253237420.jpg","author":"山口ミコト／著 北河トウタ／著","description":"過激動画永久投稿の『デッドチューブ・ネオ』。ハッピーエヴァンジェリストに襲撃された四坂絵野は町谷グループに助けられるが…","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253237857","title":"ドルフィン  12","volume":"","series":"","publisher":"秋田書店","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784253237857.jpg","author":"岩橋健一郎／著 所十三／著","description":"一年前の大事故で亡くなった先輩たちを弔うため、追悼集会に向けて動き出した源太郎たち！しかし、復讐に燃える橘翔の魔の手が迫り…","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253238700","title":"気持ちいい体","volume":"","series":"","publisher":"秋田書店","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784253238700.jpg","author":"麦原だいだい／著","description":"「サウナ」「アイソレーションタンク」「ファスティング」など心身を気持ちよくする事を体験レポート！あなたの快活度が上がる！","price":"680","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253238991","title":"吸血姫美夕 朔  7","volume":"","series":"","publisher":"秋田書店","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784253238991.jpg","author":"平野俊弘／著 垣野内成美／著","description":"トンビを倒すため勇は「妖刀」を求め旅立つことに。しかし妖刀を持てば神魔である美月を斬るのが陰陽師の宿命。苦悩の果てに勇は！？","price":"690","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253239547","title":"瞳ちゃんは人見知り  4","volume":"","series":"","publisher":"秋田書店","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784253239547.jpg","author":"夏海ちょりすけ／著","description":"転校初日からずっと仲良くしてくれた先輩・ウサくんに対し、瞳ちゃんが段々と積極的に!?  三白眼女子の純情ラブコメ、新展開!!","price":"600","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253257176","title":"優等生と秘密のお仕事  4","volume":"","series":"","publisher":"秋田書店","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784253257176.jpg","author":"あずまゆき／著","description":"杏咲、ついに初体験！？さらに杏咲とえりなに突然のHなピンチも迫って…！？","price":"630","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784254535785","title":"観光・娯楽・スポーツ","volume":"","series":"郷土史大系","publisher":"朝倉書店","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784254535785.jpg","author":"竹内誠／編集 白坂蕃／編集 新井博／編集","description":"観光・娯楽・スポーツの産業・文化としての発展を地域の事例から解説する新しい郷土史","price":"16000","genre":"歴史・地理","target":"専門","format":"全集・双書","content":"日本歴史"}
-,
-{"isbn":"9784265079636","title":"いただきます。ごちそうさま。","volume":"","series":"怪談えほん","publisher":"岩崎書店","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784265079636.jpg","author":"あさのあつこ／著 加藤休ミ／イラスト 東雅夫／編集","description":"ぼくはたべるのがだいすきです。ぼくはどんどんたべて、おおきくなり…。あさのあつこと加藤休ミが描く世にもおいしい怪談物語。","price":"1500","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784272405688","title":"ようこそ！あかちゃん","volume":"","series":"","publisher":"大月書店","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784272405688.jpg","author":"レイチェルグリーナー／著 クレアオーウェン／イラスト 艮香織／翻訳 浦野匡子／翻訳","description":"もうはぐらかさない、ぼやかさない！受精から出産まで、科学的説明と 人権・多様性をふまえた描写で低学年から読める性教育絵本。","price":"2200","genre":"","target":"一般","format":"全集・双書","content":"教育"}
-,
-{"isbn":"9784272409075","title":"動物園・公園で楽しむ文様","volume":"","series":"日本の伝統文様をさがそう（全4巻）","publisher":"大月書店","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784272409075.jpg","author":"熊谷博人／著","description":"祈りをこめた動物文様、生き生きと楽しい動物文様、季節感を表すオシャレな植物文様等、古くから人気の動物・植物の文様を紹介。","price":"3000","genre":"児童図書","target":"児童","format":"全集・双書","content":"写真・工芸"}
-,
-{"isbn":"9784276963214","title":"青春18ディスク","volume":"","series":"ONTOMO MOOK","publisher":"株式会社音楽之友社","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784276963214.jpg","author":"レコード芸術／編集","description":"久石 譲をはじめ、音楽関係者を中心に各界の著名人が登場。その人生に影響を与えたディスクを熱く語る。","price":"1800","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"音楽・舞踊"}
-,
-{"isbn":"9784284204781","title":"東大教授が教える！デキる大人の勉強脳の作り方","volume":"","series":"","publisher":"日本図書センター","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784284204781.jpg","author":"池谷裕二／監修","description":"ビジネスマン・学生必読！\n「忙しくてなかなか勉強がはかどらない」「記憶力が落ちたかも……」そんな悩みを抱えたあなたも、\nこの１冊を読むだけで、今日からあなたの勉強効率が、飛躍的にアップします！\n科学的勉強法を、豊富な図解と分かりやすい解説でたっぷり紹介。\n資格試験、昇進試験、検定試験、入学試験などを控えた「デキる大人」にピッタリ！","price":"1200","genre":"","target":"一般","format":"単行本","content":"社会科学総記"}
-,
-{"isbn":"9784295010685","title":"ものは捨てても、ワタシは「好き」を捨てられない-おうち時間を心地よくするミニマルな暮らし方-","volume":"","series":"","publisher":"インプレス","pubdate":"2021-01-20","cover":"","author":"mami／著","description":"","price":"1380","genre":"","target":"一般","format":"単行本","content":"家事"}
-,
-{"isbn":"9784297118358","title":"CISOハンドブック――業務執行のための情報セキュリティ実践ガイド","volume":"","series":"","publisher":"技術評論社","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784297118358.jpg","author":"高橋正和／著 荒木粧子／著 池上美千代／著 岡田良太郎／著 唐沢勇輔／著 北澤麻理子／著 ほか","description":"企業はDX（デジタルトランスフォーメーション）によって変化しなければならない、しかしIT化すればするほど情報セキュリティの問題が発生！　業者に頼めばいいのか……、いや継続的に情報セキュリティの問題は起きてしまうだろう……。そう、企業がIT化を進めDXを促進すると、情報セキュリティが生命線になることは避けられないのが本当のところです。そこで欧米では技術職の視点をもった経営陣の一人としてCISO（Chief Information Security Officer）の役職が誕生しました。情報セキュリティ問題に悩むあらゆる企業の担当者の皆さんのために、本書はCISOがすべき情報セキュリティの問題解決方法を最新の情報をもとにまとめあげました。","price":"3400","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784307204194","title":"肺癌診療ガイドライン－悪性胸膜中皮腫・胸腺腫瘍含む－ 2020年版","volume":"","series":"","publisher":"金原出版","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784307204194.jpg","author":"特定非営利活動法人日本肺癌学会／編集","description":"肺癌診療の急速進歩を反映した最新ガイドライン！","price":"4500","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
 ]
