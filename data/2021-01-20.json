@@ -75,7 +75,7 @@
 ,
 {"isbn":"9784074436903","title":"心不全","volume":"","series":"よくわかる最新医学シリーズ","publisher":"主婦の友社","pubdate":"2021-01-20","cover":"","author":"小室一成／著","description":"さまざまな原因で心臓の機能が低下していく心不全。命にかかわる事態を防ぐために日常生活から行うべきことをわかりやすく解説","price":"1500","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
 ,
-{"isbn":"9784074461738","title":"首・肩・手のしびれ、痛みを招く胸郭出口症候群を自分で治す！","volume":"","series":"","publisher":"主婦の友社","pubdate":"2021-01-20","cover":"","author":"内田輝和／著 仙田正俊／監修","description":"肩こりのうち、首や肩、腕、手にしびれや痛みを伴う胸出口症候群が増えている。これを治す方法としてひじヨガを紹介する。","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784074461738","title":"首・肩・手のしびれ、痛みを招く胸郭出口症候群を自分で治す！","volume":"","series":"","publisher":"主婦の友社","pubdate":"2021-01-20","cover":"","author":"内田輝和／著 仙田正俊／監修","description":"肩こりのうち、首や肩、腕、手にしびれや痛みを伴う胸郭出口症候群が増えている。これを治す方法としてひじヨガを紹介する。","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784074466290","title":"大腸がん","volume":"","series":"","publisher":"主婦の友社","pubdate":"2021-01-20","cover":"","author":"福長洋介／著","description":"年間およそ１５万人がかかる大腸がん。早期発見により治癒率は高く治療の選択肢も多い。診断から治療まで知りたいことのすべて","price":"1600","genre":"","target":"実用","format":"単行本","content":"医学・歯学・薬学"}
 ,
@@ -154,12 +154,4 @@
 {"isbn":"9784122070233","title":"新装版  奇貨居くべし（四） 飛翔篇","volume":"","series":"","publisher":"中央公論新社","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784122070233.jpg","author":"宮城谷昌光／著","description":"0","price":"780","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784122070240","title":"砂塵の掟 オッドアイ","volume":"","series":"","publisher":"中央公論新社","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784122070240.jpg","author":"渡辺裕之／著","description":"0","price":"740","genre":"文庫","target":"教養","format":"文庫","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784140162798","title":"ＮＨＫ俳句　あるある！　お悩み相談室　「名句の学び方」","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784140162798.jpg","author":"岸本葉子／著 岸本尚毅／著","description":"Q「俳句を毎日作りたいのですが、感動のない毎日です」　A「感動のない毎日だからこそ、感動するために俳句を作るのです」","price":"1200","genre":"","target":"一般","format":"単行本","content":"日本文学詩歌"}
-,
-{"isbn":"9784140818381","title":"ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌ　ミクロワールド　１　あし","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784140818381.jpg","author":"NHK「ミクロワールド」制作班／編集 長谷川義史／著","description":"身近な生物の「あし」の顕微鏡画像からはじまり、その生物の姿や生態まで紹介。子どもの科学的探究心、知的好奇心を育む。","price":"3500","genre":"教育","target":"児童","format":"全集・双書","content":"生物学"}
-,
-{"isbn":"9784140818398","title":"ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌ　ミクロワールド　２　口","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784140818398.jpg","author":"NHK「ミクロワールド」制作班／編集 長谷川義史／著","description":"身近な生物の「口」の顕微鏡画像からはじまり、その生物の姿や生態まで紹介。子どもの科学的探究心、知的好奇心を育む。","price":"3500","genre":"教育","target":"児童","format":"全集・双書","content":"生物学"}
-,
-{"isbn":"9784140818404","title":"ＮＨＫ　ｆｏｒ　Ｓｃｈｏｏｌ　ミクロワールド　３　赤ちゃん","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-01-20","cover":"https://cover.openbd.jp/9784140818404.jpg","author":"NHK「ミクロワールド」制作班／編集 長谷川義史／著","description":"身近な生物の「赤ちゃん」の顕微鏡画像からはじまり、その生物の姿や生態まで紹介。子どもの科学的探究心、知的好奇心を育む。","price":"3500","genre":"教育","target":"児童","format":"全集・双書","content":"生物学"}
 ]
