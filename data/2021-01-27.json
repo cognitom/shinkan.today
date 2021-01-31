@@ -25,7 +25,7 @@
 ,
 {"isbn":"9784049134179","title":"アイドルマスター　ミリオンライブ！　Blooming　Clover　８","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-01-27","cover":"https://cover.openbd.jp/9784049134179.jpg","author":"バンダイナムコエンターテインメント／原著 稲山覚也／著","description":"『アイドルマスター ミリオンライブ！』コミック新シリーズ第８巻！","price":"670","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784049134186","title":"アイドルマスター　ミリオンライブ！　Blooming　Clover　8　オリジナルＣＤ付き限定版","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-01-27","cover":"https://cover.openbd.jp/9784049134186.jpg","author":"バンダイナムコエンターテインメント／原著 稲山覚也／著","description":"『アイドルマスターミリオンライブ！コミック８巻、アイドルの選択とは？","price":"2273","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784049134186","title":"アイドルマスター　ミリオンライブ！　Blooming　Clover　8　オリジナルＣＤ付き限定版","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-01-27","cover":"https://cover.openbd.jp/9784049134186.jpg","author":"バンダイナムコエンターテインメント／原著 稲山覚也／著","description":"『アイドルマスターミリオンライブ！』コミック８巻、アイドルの選択とは？","price":"2273","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784049134438","title":"悪いが私は百合じゃない（２）","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-01-27","cover":"https://cover.openbd.jp/9784049134438.jpg","author":"もちオーレ／著","description":"無限百合を、どうぞ。大人気ガールズ・スキンシップコメディ、第２巻！","price":"670","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -93,7 +93,7 @@
 ,
 {"isbn":"9784103090205","title":"野望の屍","volume":"","series":"","publisher":"新潮社","pubdate":"2021-01-27","cover":"https://cover.openbd.jp/9784103090205.jpg","author":"佐江衆一／著","description":"ヒトラーと石原莞爾。同年生れの二人を主軸に、〈戦争の世紀〉を東西の時局から描き出す。八六歳の著者が命を削って書き上げた遺作。","price":"2000","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784103364160","title":"百田尚樹の新・相対性理","volume":"","series":"","publisher":"新潮社","pubdate":"2021-01-27","cover":"https://cover.openbd.jp/9784103364160.jpg","author":"百田尚樹／著","description":"時間の捉え方次第で、人生は好転する。娯楽や労働が我々の時間を奪う現代、有限の時間に打ち克つ思考法とは。著者の時間術も大公開！","price":"1250","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784103364160","title":"百田尚樹の新・相対性理論","volume":"","series":"","publisher":"新潮社","pubdate":"2021-01-27","cover":"https://cover.openbd.jp/9784103364160.jpg","author":"百田尚樹／著","description":"時間の捉え方次第で、人生は好転する。娯楽や労働が我々の時間を奪う現代、有限の時間に打ち克つ思考法とは。著者の時間術も大公開！","price":"1250","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784103538219","title":"擬傷の鳥はつかまらない","volume":"","series":"","publisher":"新潮社","pubdate":"2021-01-27","cover":"https://cover.openbd.jp/9784103538219.jpg","author":"荻堂顕／著","description":"門の向こうへ人々を逃がす“雨乳母”のサチのもとに、少女達が訪ねてきて……。絶望と救済の先を描く「新潮ミステリー大賞」受賞作。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
@@ -106,4 +106,10 @@
 {"isbn":"9784105901714","title":"恋するアダム","volume":"","series":"新潮クレスト・ブックス","publisher":"新潮社","pubdate":"2021-01-27","cover":"https://cover.openbd.jp/9784105901714.jpg","author":"イアン・マキューアン／著 村松潔／翻訳","description":"ＡＩはどこまで人を愛せるのか？　さえない独身男と高学歴女子の間に割り込んできたアンドロイド。奇妙な三角関係のゆくえは？","price":"2500","genre":"","target":"一般","format":"全集・双書","content":"外国文学小説"}
 ,
 {"isbn":"9784106022975","title":"あの懐かしい味の野菜を自分でつくる","volume":"","series":"とんぼの本","publisher":"新潮社","pubdate":"2021-01-27","cover":"https://cover.openbd.jp/9784106022975.jpg","author":"岩崎政利／著 関戸勇／著","description":"家で野菜を育てるツボと醍醐味をやさしく伝授。134品種の美しい写真、料理のコツも。『つくる、たべる、昔野菜』リニューアル版。","price":"2100","genre":"芸術","target":"一般","format":"全集・双書","content":"農林業"}
+,
+{"isbn":"9784106038617","title":"世界は善に満ちている","volume":"","series":"新潮選書","publisher":"新潮社","pubdate":"2021-01-27","cover":"https://cover.openbd.jp/9784106038617.jpg","author":"山本芳久／著","description":"どう考えれば肯定的に生きられるのか。怒り、憎しみ、悲しみ……ネガティブな感情の整え方を、中世哲学の最高峰『神学大全』に学ぶ。","price":"1600","genre":"","target":"一般","format":"全集・双書","content":"哲学"}
+,
+{"isbn":"9784106038624","title":"ふだん使いの言語学","volume":"","series":"新潮選書","publisher":"新潮社","pubdate":"2021-01-27","cover":"https://cover.openbd.jp/9784106038624.jpg","author":"川添愛／著","description":"言った・言わない、SNS炎上、忖度はなぜ起こる？　日常のことばを豊富な例題で解説し、文を構造で捉える視点を授ける実践的案内。","price":"1450","genre":"","target":"一般","format":"全集・双書","content":"語学総記"}
+,
+{"isbn":"9784109101875","title":"人生の花火","volume":"","series":"","publisher":"新潮社","pubdate":"2021-01-27","cover":"","author":"冨部久志／著","description":"","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ]
