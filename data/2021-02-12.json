@@ -35,7 +35,7 @@
 ,
 {"isbn":"9784047365322","title":"おさんぽマスターズ","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784047365322.jpg","author":"須藤真澄／著","description":"「オレら…まだ、やれるよな？」おさんぽ漫画の金字塔、大復活!!!!!!","price":"880","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784052052774","title":"からだのクイズ図鑑","volume":"","series":"学研のクイズ図鑑","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784052052774.jpg","author":"阿部和厚／監修","description":"体をテーマに、その仕組みや身近な疑問を学べるミニ図鑑。全１００問の３択クイズと写真やイラストで楽しく知識が身につきます。","price":"850","genre":"児童図書","target":"児童","format":"図鑑","content":"生物学"}
+{"isbn":"9784052052774","title":"からだのクイズ図鑑","volume":"","series":"学研のクイズ図鑑","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784052052774.jpg","author":"阿部和厚／監修","description":"体をテーマに、その仕組みや身近な疑問を学べるミニ図。全１００問の３択クイズと写真やイラストで楽しく知識が身につきます。","price":"850","genre":"児童図書","target":"児童","format":"図鑑","content":"生物学"}
 ,
 {"isbn":"9784052052958","title":"レ・ミゼラブル　ああ無情","volume":"２９","series":"１０歳までに読みたい世界名作","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784052052958.jpg","author":"ビクトル・ユゴー／編集 ビクトル・ユゴー／翻訳 岡田好惠／著 スギ／イラスト 横山洋子／監修","description":"元囚人のジャン・バルジャン。母を亡くした少女・コゼットとともに正直に生きようとするが、数々の困難が立ちはだかる。","price":"880","genre":"児童図書","target":"児童","format":"全集・双書","content":"外国文学小説"}
 ,
@@ -47,7 +47,7 @@
 ,
 {"isbn":"9784052053108","title":"６歳　まるごとこれ１冊　できるかな","volume":"","series":"学研の幼児ワーク","publisher":"学研プラス","pubdate":"2021-02-12","cover":"","author":"学研の幼児ワーク編集部／編集 入澤宣幸／著 入澤宣幸／監修","description":"６歳のおけいこ、よくばり１０ジャンル！ドリル選びに悩んだら、まずはこの１冊から。学びを深めるお得で楽しい４大特典つき。","price":"900","genre":"児童図書","target":"児童","format":"全集・双書","content":"教育"}
 ,
-{"isbn":"9784053052346","title":"中３数学をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやすく","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784053052346.jpg","author":"学研プラス／編集","description":"中３数学を超基礎レベルからやさしく解説。わかりやすい図解と書き込み式の問題で，数学が苦手な人でもよくわかる。","price":"1000","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"数学"}
+{"isbn":"9784053052346","title":"中３数学をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやすく","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784053052346.jpg","author":"研プラス／編集","description":"中３数学を超基礎レベルからやさしく解説。わかりやすい図解と書き込み式の問題で，数学が苦手な人でもよくわかる。","price":"1000","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"数学"}
 ,
 {"isbn":"9784053052353","title":"中１理科をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやすく","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784053052353.jpg","author":"学研プラス／編集","description":"中１理科を超基礎レベルからやさしく解説。わかりやすい図解と書き込み式の問題で，理科が苦手な人でもよくわかる。","price":"1000","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"自然科学総記"}
 ,
@@ -57,7 +57,7 @@
 ,
 {"isbn":"9784053052384","title":"中学公民をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやすく","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784053052384.jpg","author":"学研プラス／編集","description":"中学公民を超基礎レベルからやさしく解説。わかりやすい図解と書き込み式の問題で，公民が苦手な人でもよくわかる。","price":"1000","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"社会科学総記"}
 ,
-{"isbn":"9784053052391","title":"中学国語をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやすく","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784053052391.jpg","author":"学研プラス／編集","description":"中学国語を超基礎レベルからやさしく解説。わかりやすい図解と書き込み式の問題で，国語が苦手な人でもよくわかる。","price":"1000","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"日本語"}
+{"isbn":"9784053052391","title":"中学国語をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやすく","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784053052391.jpg","author":"学研プラス／編集","description":"中学国語を超基礎レベルからやさしく解説。わかりすい図解と書き込み式の問題で，国語が苦手な人でもよくわかる。","price":"1000","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"日本語"}
 ,
 {"isbn":"9784053052407","title":"中１数学をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやすく","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784053052407.jpg","author":"学研プラス／編集","description":"中１数学を超基礎レベルからやさしく解説。わかりやすい図解と書き込み式の問題で，数学が苦手な人でもよくわかる。","price":"1000","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"数学"}
 ,
@@ -69,7 +69,7 @@
 ,
 {"isbn":"9784053052445","title":"中１英語をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやすく","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784053052445.jpg","author":"山田暢彦／監修","description":"中１英語を超基礎レベルからやさしく解説。わかりやすい図解と書き込み式の問題で，英語が苦手な人でもよくわかる。【音声つき】","price":"1000","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"英米語"}
 ,
-{"isbn":"9784053052452","title":"中２英語をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやすく","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784053052452.jpg","author":"山田暢彦／監修","description":"中２英語を超基礎レベルからやさしく解説。わかりやすい解と書き込み式の問題で，英語が苦手な人でもよくわかる。【音声つき】","price":"1000","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"英米語"}
+{"isbn":"9784053052452","title":"中２英語をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやすく","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784053052452.jpg","author":"山田暢彦／監修","description":"中２英語を超基礎レベルからやさしく解説。わかりやすい図解と書き込み式の問題で，英語が苦手な人でもよくわかる。【音声つき】","price":"1000","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"英米語"}
 ,
 {"isbn":"9784053052490","title":"中３英語をひとつひとつわかりやすく。改訂版","volume":"","series":"中学ひとつひとつわかりやすく","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784053052490.jpg","author":"山田暢彦／監修","description":"中３英語を超基礎レベルからやさしく解説。わかりやすい図解と書き込み式の問題で，英語が苦手な人でもよくわかる。【音声つき】","price":"1000","genre":"学参","target":"学参I(小中)","format":"全集・双書","content":"英米語"}
 ,
@@ -91,7 +91,7 @@
 ,
 {"isbn":"9784055013468","title":"③清掃工場","volume":"３","series":"なぜ？から調べる　ごみと環境","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784055013468.jpg","author":"森口祐一／監修","description":"清掃工場を通して環境について考える。清掃工場に集まるごみの焼却と埋め立て、清掃工場の取り組み等をわかりやすく紹介する。","price":"3000","genre":"児童図書","target":"児童","format":"全集・双書","content":"土木"}
 ,
-{"isbn":"9784055013475","title":"④リサイクル施設","volume":"４","series":"なぜ？から調べる　ごみと環境","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784055013475.jpg","author":"森口祐一／監修","description":"リサイクル施設を通して環境について考える。びん、かん、ペットボトル等の製造と回収、リサイクルをわかりやすく紹介する。","price":"3000","genre":"児童図書","target":"児童","format":"全集・双書","content":"土木"}
+{"isbn":"9784055013475","title":"④リサイクル施設","volume":"４","series":"なぜ？から調べる　ごみと環境","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784055013475.jpg","author":"森口祐一／監","description":"リサイクル施設を通して環境について考える。びん、かん、ペットボトル等の製造と回収、リサイクルをわかりやすく紹介する。","price":"3000","genre":"児童図書","target":"児童","format":"全集・双書","content":"土木"}
 ,
 {"isbn":"9784055013482","title":"⑤海のごみ","volume":"５","series":"なぜ？から調べる　ごみと環境","publisher":"学研プラス","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784055013482.jpg","author":"森口祐一／監修","description":"海のごみの問題を通して環境について考える。生態系への影響、海洋プラスチックの問題への国際的な取り組み等を紹介する。","price":"3000","genre":"児童図書","target":"児童","format":"全集・双書","content":"土木"}
 ,
@@ -113,63 +113,63 @@
 ,
 {"isbn":"9784065215487","title":"川越の書生さん（3）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065215487.jpg","author":"幹本ヤエ／著","description":"ようこそ川越へ！　イケメン書生×女子大生がひとつ屋根の下で繰りひろげる、ゆるりご当地ラブコメディー。ついに完結巻！","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065220559","title":"東京タラレバ娘　シーズン2（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"東村アキコ／著","description":"何を基準に男を選ぶべきなのか？　”今”にもがく女子たちに捧ぐ大人気の新シリーズ。","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065220559","title":"東京タラレバ娘　シーズン2（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065220559.jpg","author":"東村キコ／著","description":"何を基準に男を選ぶべきなのか？　”今”にもがく女子たちに捧ぐ大人気の新シリーズ。","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065220863","title":"魔女怪盗LIP☆S（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"鏡はな／著 壱コトコ／著","description":"大人の女の子には魔法が必要…！　恋と人生に魔法をかける…新世代の魔女っ子ストーリー！！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065220863","title":"魔女怪盗LIP☆S（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065220863.jpg","author":"鏡はな／著 壱コトコ／著","description":"大人の女の子には魔法が必要…！　恋と人生に魔法をかける…新世代の魔女っ子ストーリー！！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065221525","title":"おかあさんといっしょ　ガラピコぷ～　おともだち　だいしゅうごう！　シールえほん","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065221525.jpg","author":"講談社／編集","description":"「おかあさんといっしょ」の『ガラピコぷ～』が、シール絵本になって登場！　はってはがせるシールでくりかえし遊んじゃおう！","price":"740","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784065222218","title":"弁護士と17歳（3）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065222218.jpg","author":"小野アンビ／著","description":"絶対に××できない２人ＶＳ．誘惑の夏！　海で、ホテルで、夏祭りで誘惑がいっぱい！？　イケメン弁護士×ＪＫのイリーガル・ラブ！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065222225","title":"世界で一番いたらぬ恋（1）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"北川夕夏／著","description":"陰キャ美少女とピュアすぎ御曹司☆　友達のつぼみ、咲きますか！？　","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065222225","title":"世界で一番いたらぬ恋（1）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065222225.jpg","author":"北川夕夏／著","description":"陰キャ美少女とピュアすぎ御曹司☆　友達のつぼみ、咲きますか！？　","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065222485","title":"世界で一番早い春（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"川端志季／著","description":"今いちばん熱く、切ないタイムスリップストーリー！","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065222485","title":"世界で一番早い春（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065222485.jpg","author":"川端志季／著","description":"今いちばん熱く、切ないタイムスリップストーリー！","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065222508","title":"H／P　ホスピタルポリスの勤務日誌（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"杜野亜希／著","description":"警察ｉｎ病院の新感覚医療ドラマ！落ちこぼれ院内警察隊が、健康と平和を守ります！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065222508","title":"H／P　ホスピタルポリスの勤務日誌（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065222508.jpg","author":"杜野亜希／著","description":"警察ｉｎ病院の新感覚医療ドラマ！落ちこぼれ院内警察隊が、健康と平和を守ります！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065222577","title":"カラダ、重ねて、重なって（1）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065222577.jpg","author":"ｉｋｏ／著","description":"セックスにコンプレックスを抱えた男女が、大好きだからこそ「満たし合うセックス」を探求する、ドキドキ大人のリアル・ラブ！","price":"680","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065222584","title":"朝起きたら妻になって妊娠していた俺のレポート（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"車谷晴子／著","description":"妻のカラダで夫が出産！？　夫婦のあり方を考える新感覚マタニティ・ストーリー！","price":"800","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065222584","title":"朝起きたら妻になって妊娠していた俺のレポート（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065222584.jpg","author":"車谷晴子／著","description":"妻のカラダで夫が出産！？　夫婦のあり方を考える新感覚マタニティ・ストーリー！","price":"800","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065222621","title":"生徒諸君！　Kids（5）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"庄司陽子／著","description":"翔と流華が日本に来てから６年。二人はナッキーも通った聖美第四中学校に進学する。希望に満ちた中学生活が今、始まる――。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065222621","title":"生徒諸君！　Kids（5）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065222621.jpg","author":"庄司陽子／著","description":"翔と流華が日本に来てから６年。二人はナッキーも通った聖美第四中学校に進学する。希望に満ちた中学生活が今、始まる――。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065222652","title":"王子が私をあきらめない！（9）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"アサダニッキ／著","description":"「どうしたって好きなんです。大事なのはそれだけ」王子×庶民の溺愛系ハイパー格差ラブコメ９巻！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065222652","title":"王子が私をあきらめない！（9）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065222652.jpg","author":"アサダニッキ／著","description":"「どうしたって好きなんです。大事なのはそれだけ」王子×庶民の溺愛系ハイパー格差ラブコメ９巻！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065222737","title":"カモナ　マイハウス！（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"南波あつこ／著","description":"『隣のあたし』『青夏』の南波あつこ最新作！　ＪＫ・ミーツ・ゲームクリエイター　傷ついた君の、いつも隣に。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065222737","title":"カモナ　マイハウス！（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065222737.jpg","author":"南波あつこ／著","description":"『隣のあたし』『青夏』の南波あつこ最新作！　ＪＫ・ミーツ・ゲームクリエイター　傷ついた君の、いつも隣に。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065222744","title":"花と紺青　防大男子に恋しました。（3）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"西香はち／著","description":"少女漫画界初！　防衛大生（＆その制服）にキュンする、ピュアかわ初恋ストーリー！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065222744","title":"花と紺青　防大男子に恋しました。（3）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065222744.jpg","author":"西香はち／著","description":"少女漫画界初！　防衛大生（＆その制服）にキュンする、ピュアかわ初恋ストーリー！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065222775","title":"ヴァンパイア男子寮（6）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"遠山えま／著","description":"美人が結婚！？　彼女が永遠の愛を誓うのは…ルカ？　それとも！？　人気大爆発！！　男装女子×溺愛吸血鬼のキケンなＬＯＶＥ！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065222775","title":"ヴァンパイア男子寮（6）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065222775.jpg","author":"遠山えま／著","description":"美人が結婚！？　彼女が永遠の愛を誓うのは…ルカ？　それとも！？　人気大爆発！！　男装女子×溺愛吸血鬼のキケンなＬＯＶＥ！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065223093","title":"夏秋くんは今日も告白したい（1）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"さとる／著","description":"恋に全力な男子がとにかく愛おしい！！読めば必ず癒やされる♪　ピュアラブコメディ☆","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065223093","title":"夏秋くんは今日も告白したい（1）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065223093.jpg","author":"さとる／著","description":"恋に全力な男子がとにかく愛おしい！！読めば必ず癒やされる♪　ピュアラブコメディ☆","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065223109","title":"中国の歴史8　疾駆する草原の征服者　遼　西夏　金　元","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065223109.jpg","author":"杉山正明／著","description":"キタイ帝国から、タングト族の西夏、女真族の金、そして大モンゴルへ。中華を凌ぎ、ユーラシアを席捲した騎馬遊牧民６００年の興亡。","price":"1300","genre":"","target":"一般","format":"文庫","content":"外国歴史"}
 ,
-{"isbn":"9784065223161","title":"甘くない彼らの日常は。（5）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"野切耀子／著","description":"文化祭で起こったトラブルで礼たちを緑が体を張って守って！？　問題児だった礼と緑の恋が大きく動くドキドキスクールデイズ第５巻","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065223161","title":"甘くない彼らの日常は。（5）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065223161.jpg","author":"野切耀子／著","description":"文化祭で起こったトラブルで礼たちを緑が体を張って守って！？　問題児だった礼と緑の恋が大きく動くドキドキスクールデイズ第５巻","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065223208","title":"世をへだてて","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065223208.jpg","author":"庄野潤三／著","description":"突然襲った脳内出血。病を経て知る生きるよろこびを明るくユーモラスに描く、著者の転換期を示す闘病記。生誕１００年記念刊行。","price":"1700","genre":"","target":"一般","format":"文庫","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784065223383","title":"うみがめのおじいさん","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065223383.jpg","author":"いとうひろし／著","description":"ひろい　うみの　まんなかへいとうひろしさんの代表作のひとつ『おさるのまいにち』の名脇役うみがめのおじいさんが主人公のおはなし","price":"1500","genre":"","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065223390","title":"NとS（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"金田一蓮十郎／著","description":"　先生と生徒、はなれてもくっついちゃうむずキュン引力ラブコメ第４巻！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065223390","title":"NとS（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065223390.jpg","author":"金田一蓮十郎／著","description":"　先生と生徒、はなれてもくっついちゃうむずキュン引力ラブコメ第４巻！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065223611","title":"人事のカラスは手に負えない（3）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"大谷紀子／著","description":"「昇進するなら会社を辞めます！」とまさかのお断り！？人事部の布田とカラスが会社のもやもやを解決する！おしごとマンガ第３巻！！","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065223611","title":"人事のカラスは手に負えない（3）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065223611.jpg","author":"大谷紀子／著","description":"「昇進するなら会社を辞めます！」とまさかのお断り！？人事部の布田とカラスが会社のもやもやを解決する！おしごとマンガ第３巻！！","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065223635","title":"極妻デイズ～極道三兄弟にせまられてます～（10）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"長谷垣なるみ／著","description":"既刊大重版！三男・龍成の海外取引についていき、人質にとられてしまった桜は…！？極道三兄弟による話題の溺愛逆ハーレム第１０巻。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065223635","title":"極妻デイズ～極道三兄弟にせまられてます～（10）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065223635.jpg","author":"長谷垣なるみ／著","description":"既刊大重版！三男・龍成の海外取引についていき、人質にとられてしまった桜は…！？極道三兄弟による話題の溺愛逆ハーレム第１０巻。","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065223642","title":"極妻デイズ～極道三兄弟にせまられてます～（10）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"長谷垣なるみ／著","description":"既刊大重版！極道三兄弟による話題の溺愛逆ハーレム第１０巻、いちゃラブかきおろし小冊子つきの特装版。","price":"900","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065223642","title":"極妻デイズ～極道三兄弟にせまられてます～（10）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065223642.jpg","author":"長谷垣なるみ／著","description":"既刊大重版！極道三兄弟による話題の溺愛逆ハーレム第１０巻、いちゃラブかきおろし小冊子つきの特装版。","price":"900","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065223659","title":"星降る王国のニナ（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"リカチ／著","description":"まだ愛を知らぬ王子と、偽りの花嫁との嘘の恋ーー。そこに生まれた、小さな「ほんとう」。極上の王宮ファンタジー第４巻！","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065223659","title":"星降る王国のニナ（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065223659.jpg","author":"リカチ／著","description":"まだ愛を知らぬ王子と、偽りの花嫁との嘘の恋ーー。そこに生まれた、小さな「ほんとう」。極上の王宮ファンタジー第４巻！","price":"460","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065223796","title":"『論語』　孔子の言葉はいかにつくられたか","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065223796.jpg","author":"渡邉義浩／著","description":"「子曰く」……孔子は本当にそう言ったのか？　儒教の巨人たちがいかなる意図で『論語』を作り上げたのかを追う、二千年の思想史！","price":"1900","genre":"","target":"一般","format":"全集・双書","content":"哲学"}
 ,
-{"isbn":"9784065223963","title":"ちいかわ　なんか小さくてかわいいやつ（1）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"ナガノ／著","description":"「自分ツッコミくま」ナガノの人気シリーズ、待望の書籍化！小さくて泣き虫な「ちいかわ」は、大好きな友達と元気に暮らすのです。","price":"1000","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065223963","title":"ちいかわ　なんか小さくてかわいいやつ（1）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065223963.jpg","author":"ナガノ／著","description":"「自分ツッコミくま」ナガノの人気シリーズ、待望の書籍化！小さくて泣き虫な「ちいかわ」は、大好きな友達と元気に暮らすのです。","price":"1000","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065224281","title":"やんごとなき一族（8）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"こやまゆかり／著","description":"温泉施設計画前進！　佐都の妊娠も順調！！　しかし周囲に不穏な動きが！！？","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065224281","title":"やんごとなき一族（8）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065224281.jpg","author":"こやまゆかり／著","description":"温泉施設計画前進！　佐都の妊娠も順調！！　しかし周囲に不穏な動きが！！？","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065224298","title":"七つ屋志のぶの宝石匣（13）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"二ノ宮知子／著","description":"新展開に注目！志のぶと顕定、鷹の３人旅ｉｎ甲府編！　顕定の叔父の失踪事件に関する大きな“秘密”とは…？","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065224298","title":"七つ屋志のぶの宝石匣（13）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065224298.jpg","author":"二ノ宮知子／著","description":"新展開に注目！志のぶと顕定、鷹の３人旅ｉｎ甲府編！　顕定の叔父の失踪事件に関する大きな“秘密”とは…？","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065224304","title":"ギルティ　～鳴かぬ蛍が身を焦がす～（8）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"","author":"丘上あい／著","description":"電子書籍で超話題のヒット作！！　全員、裏切り者。大人の恋のジェットコースターは、走り出したら止まらない。","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065224304","title":"ギルティ　～鳴かぬ蛍が身を焦がす～（8）","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065224304.jpg","author":"丘上あい／著","description":"電子書籍で超話題のヒット作！！　全員、裏切り者。大人の恋のジェットコースターは、走り出したら止まらない。","price":"500","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065224427","title":"〈イスラーム世界〉とは何か　「新しい世界史」を描く","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-12","cover":"https://cover.openbd.jp/9784065224427.jpg","author":"羽田正／著","description":"「イスラーム世界」とは、近代ヨーロッパが生んだイデオロギーである。新しい世界史をめざして論争を起こしたアジア・太平洋賞受賞作","price":"1310","genre":"","target":"一般","format":"文庫","content":"外国歴史"}
 ,
