@@ -29,7 +29,7 @@
 ,
 {"isbn":"9784065224205","title":"霊視刑事夕雨子2　雨空の鎮魂歌","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-16","cover":"https://cover.openbd.jp/9784065224205.jpg","author":"青柳碧人／著","description":"浮かばれない死者の声が聞こえる刑事・大崎夕雨子とドＳな先輩刑事友梨佳のコンビが怪事件に挑む人気シリーズ第二弾！","price":"680","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065224212","title":"巨悪","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-16","cover":"https://cover.openbd.jp/9784065224212.jpg","author":"伊兼源太郎／著","description":"消えた復興予算２兆円。震災を食い物にする奴らがいる――。元記者の著者が、東京地検特捜部を正面から描く、迫真のミステリー！","price":"1000","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784065224212","title":"巨悪","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-16","cover":"https://cover.openbd.jp/9784065224212.jpg","author":"伊兼源太郎／著","description":"消えた復興予算、２兆円。震災を食い物にする奴らがいる――。元記者の著者が、東京地検特捜部を正面から描く、迫真のミステリー！","price":"1000","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784065224465","title":"そして扉が閉ざされた　　新装版","volume":"","series":"","publisher":"講談社","pubdate":"2021-02-16","cover":"https://cover.openbd.jp/9784065224465.jpg","author":"岡嶋二人／著","description":"ある女性の不審死をめぐって生前関係した友人がシェルターに閉じ込めらた！　徹頭徹尾、密室の中で謎を解く著者随一の本格推理小説","price":"740","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -52,4 +52,10 @@
 {"isbn":"9784087861334","title":"約束の地 大統領回顧録 1 上","volume":"","series":"約束の地 大統領回顧録1 下","publisher":"集英社","pubdate":"2021-02-16","cover":"https://cover.openbd.jp/9784087861334.jpg","author":"バラク・オバマ／著 山田文／翻訳 三宅康雄／翻訳 長尾莉紗／翻訳 高取芳彦／翻訳 藤田美菜子／翻訳 ほか","description":"あらゆる格差と分断を乗り越えて、“希望の地”アメリカを実現しようと奔走したオバマ政権の前半、その舞台裏を克明に振り返る。","price":"2000","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
 ,
 {"isbn":"9784087861341","title":"約束の地 大統領回顧録 1 下","volume":"","series":"","publisher":"集英社","pubdate":"2021-02-16","cover":"https://cover.openbd.jp/9784087861341.jpg","author":"バラク・オバマ／著 山田文／翻訳 三宅康雄／翻訳 長尾莉紗／翻訳 高取芳彦／翻訳 藤田美菜子／翻訳 ほか","description":"あらゆる格差と分断を乗り越えて、“希望の地”アメリカを実現しようと奔走したオバマ政権の前半、その舞台裏を克明に振り返る。","price":"2000","genre":"","target":"一般","format":"単行本","content":"外国文学、その他"}
+,
+{"isbn":"9784104280049","title":"日蓮","volume":"","series":"","publisher":"新潮社","pubdate":"2021-02-16","cover":"https://cover.openbd.jp/9784104280049.jpg","author":"佐藤賢一／著","description":"【日蓮生誕八〇〇年】この男、救国の聖人か。過激な狂信者か。天災と疫病に苦しむ民を救うため、権力者と戦い続けた半生を描く感動作","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784130333023","title":"UP plus　新興国から見るアフターコロナの時代","volume":"","series":"UP  plus","publisher":"東京大学出版会","pubdate":"2021-02-16","cover":"","author":"川島真／編集 池内恵／編集","description":"新型コロナウイルス感染症によって，世界秩序は大きく変化している．その影響は米中といった超大国だけではなく，地域大国（BRICS）にも及んでいる．本書は，大きく変化する国際関係を地域大国といわれる国々を中心に多角的な視点から分析し，最新の動向を踏まえ展望する．","price":"1500","genre":"","target":"教養","format":"単行本","content":"社会科学総記"}
+,
+{"isbn":"9784130634083","title":"パラリンピックブレイン","volume":"","series":"","publisher":"東京大学出版会","pubdate":"2021-02-16","cover":"https://cover.openbd.jp/9784130634083.jpg","author":"中澤公孝／著","description":"人びとを魅了してやまない，パラアスリートたちの卓越したパフォーマンス．障がいを持った人の脳は，その身体機能に適合して驚きの発達を遂げていく．パフォーマンスを支える脳の再編能力を解き明かし，リハビリテーションへ応用する可能性を探る．","price":"2600","genre":"","target":"教養","format":"単行本","content":"医学・歯学・薬学"}
 ]
