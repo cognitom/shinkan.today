@@ -107,7 +107,7 @@
 ,
 {"isbn":"9784065225714","title":"ヨリシロトランク（2）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-10","cover":"","author":"鬼頭莫宏／著 カエデミノル／著","description":"ある日、世界は改変された。“殺人犯を殺せば、被害者が蘇る”世の中に。圧倒的世界観で描かれる新・異世界物語！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065225738","title":"ざんげ飯（2）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-10","cover":"","author":"こだまはつみ／著","description":"妻のキゲンは飯でとれ！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065225738","title":"ざん飯（2）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-10","cover":"","author":"こだまはつみ／著","description":"妻のキゲンは飯でとれ！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065225899","title":"悪魔と人との間（2）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-10","cover":"","author":"福本眞久／著","description":"不死身の悪魔人間・宮崎英司は、淫魔・杏伽の命を救う為、悪魔殺し集団に立ち向かう！　淫魔と陰キャのインモラルな物語、堂々完結！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -178,4 +178,106 @@
 {"isbn":"9784163913391","title":"Go To マリコ","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784163913391.jpg","author":"林真理子／著","description":"新型ウイルスの猛威もなんのその。我らがマリコは今年も時代の先端を走り続けていた。ギネス記録達成のメモリアルイヤーエッセイ。","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784163913407","title":"嘘かまことか","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-03-10","cover":"","author":"平岩弓枝／著","description":"神様の書かれたシナリオを、大根役者の私が必死になって演じてきた……。「御宿かわせみ」の作者による、もうすぐ九十歳の幸福論！","price":"1300","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784251094155","title":"新しい生活様式ってなんだろう？","volume":"1","series":"知っておきたい! 新しい生活様式","publisher":"あかね書房","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784251094155.jpg","author":"佐藤昭裕／監修","description":"取次広報誌掲載不要","price":"3400","genre":"児童図書","target":"児童","format":"全集・双書","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784251094179","title":"自宅での感染予防と新しい生活様式","volume":"3","series":"知っておきたい！ 新しい生活様式","publisher":"あかね書房","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784251094179.jpg","author":"佐藤昭裕／監修","description":"取次広報誌掲載不要","price":"2800","genre":"児童図書","target":"児童","format":"全集・双書","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784251094186","title":"町・外出先での感染予防と新しい生活様式","volume":"4","series":"知っておきたい！ 新しい生活様式","publisher":"あかね書房","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784251094186.jpg","author":"佐藤昭裕／監修","description":"取次広報誌掲載不要","price":"2800","genre":"児童図書","target":"児童","format":"全集・双書","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784251095527","title":"もっと大好き！　星占い","volume":"1","series":"願いがかなう♡めちゃハピ","publisher":"あかね書房","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784251095527.jpg","author":"マーク・矢崎治信／監修","description":"取次広報誌掲載不要","price":"1500","genre":"児童図書","target":"児童","format":"全集・双書","content":"諸芸・娯楽"}
+,
+{"isbn":"9784251095534","title":"みんなで遊ぼ！　心理ゲーム","volume":"2","series":"願いがかなう♡めちゃハピ","publisher":"あかね書房","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784251095534.jpg","author":"マーク・矢崎治信／監修","description":"取次広報誌掲載不要","price":"1500","genre":"児童図書","target":"児童","format":"全集・双書","content":"諸芸・娯楽"}
+,
+{"isbn":"9784251095541","title":"ハッピーになれる！ おまじない","volume":"3","series":"願いがかなう♡めちゃハピ","publisher":"あかね書房","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784251095541.jpg","author":"マーク・矢崎治信／監修","description":"取次広報誌　掲載不要","price":"1500","genre":"児童図書","target":"児童","format":"全集・双書","content":"諸芸・娯楽"}
+,
+{"isbn":"9784255012230","title":"新装版　はじめての中国語学習辞典","volume":"","series":"","publisher":"朝日出版社","pubdate":"2021-03-10","cover":"","author":"相原茂／編集","description":"初級者にぴったり！　使いこなせる辞典です。","price":"2800","genre":"語学・辞事典","target":"一般","format":"事・辞典","content":"各国語"}
+,
+{"isbn":"9784262130590","title":"忙しくても 30分 で 一汁三菜ごはん","volume":"","series":"","publisher":"池田書店","pubdate":"2021-03-10","cover":"","author":"mariko／著","description":"食べきり、使い切り、低コスト 最速定食レシピ","price":"1200","genre":"","target":"実用","format":"単行本","content":"家事"}
+,
+{"isbn":"9784262136332","title":"花の寄せ植え　主役の花が引き立つ組合せ","volume":"","series":"","publisher":"池田書店","pubdate":"2021-03-10","cover":"","author":"オザキフラワーパーク／監修","description":"寄せ植え205例を収録。主役の花を中心に、同系色または反対色でまとめたり、リースなどにしたり、いろいろなアイデアが満載！","price":"1500","genre":"","target":"実用","format":"単行本","content":"農林業"}
+,
+{"isbn":"9784262144672","title":"勝ち馬がわかる　競馬の教科書　改訂版","volume":"","series":"","publisher":"池田書店","pubdate":"2021-03-10","cover":"","author":"鈴木和幸／著","description":"超基本から勝ち方まで！入門書にして決定版","price":"1400","genre":"","target":"実用","format":"単行本","content":"諸芸・娯楽"}
+,
+{"isbn":"9784265081745","title":"はしごしゃの　のびるくん","volume":"","series":"","publisher":"岩崎書店","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784265081745.jpg","author":"正高もとこ／著 鎌田歩／イラスト","description":"みんなが憧れる、はしご車ののびるくん。でもいつも留守番ばかりで、元気がありません。「ぼくだって、かつやくしたいのに…」","price":"1300","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784265830893","title":"しずくちゃん36 ひみつのまほう学校","volume":"","series":"しずくちゃん","publisher":"岩崎書店","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784265830893.jpg","author":"ぎぼりつこ／著","description":"しずくちゃん達は魔法学校の生徒のキャリーと一緒に魔法の特別レッスンです！薬草、空飛ぶほうき、魔法のつえ、透明マント。","price":"880","genre":"児童図書","target":"児童","format":"絵本","content":"絵画・彫刻"}
+,
+{"isbn":"9784276963252","title":"my楽器 myパートナー","volume":"","series":"ONTOMO MOOK","publisher":"株式会社音楽之友社","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784276963252.jpg","author":"バンドジャーナル／編集","description":"『バンドジャーナル』の好評連載を中心としたムック。楽器への理解を深め、豊富なカラーページで楽しい音楽ライフを盛り上げる。","price":"1500","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"音楽・舞踊"}
+,
+{"isbn":"9784299004390","title":"カラー版 1時間でわかるカラヴァッジョ","volume":"","series":"","publisher":"宝島社","pubdate":"2021-03-10","cover":"","author":"宮下規久朗／監修","description":"バロック美術を代表する画家・カラヴァッジョについて、豊富な図版とともに監修者が解説する「カラヴァッジョ入門」です。殺人事件を起こして逃避行するなど、波乱に富んだ天才画家の生涯と、代表作の味わい方を紹介します。","price":"1264","genre":"","target":"一般","format":"新書","content":"絵画・彫刻"}
+,
+{"isbn":"9784299004819","title":"決定版 鳥獣戯画のすべて","volume":"","series":"","publisher":"宝島社","pubdate":"2021-03-10","cover":"","author":"上野憲示／監修","description":"誰もが一度は目にしたことのある、国宝「鳥獣戯画」。 \n\n最も有名な国宝の一つであるにもかかわらず、 \n実はこの絵巻、「誰が、何のために描いたのか」「何を物語っているのか」など、 \nいまだ多くの謎に包まれた非常にミステリアスな作品なのです。 \n\n本書では、高山寺所蔵「鳥獣戯画」の「甲乙丙丁(＝第1巻～4巻)」絵巻をすべて収録。 \n\n知名度の高い「甲巻(＝第1巻)」にかんしては、現在国内外に散らばっている \n「断簡」「模本」などのコレクションとともに、復原図を掲載します。 \n\nたくさんのビジュアルとともに、わかりやすく丁寧な解説でその謎に迫る、 \n『鳥獣戯画』のベスト・オブ・ベスト!","price":"1600","genre":"芸術","target":"一般","format":"単行本","content":"絵画・彫刻"}
+,
+{"isbn":"9784299005021","title":"カラー版 鳥獣戯画の世界","volume":"","series":"","publisher":"宝島社","pubdate":"2021-03-10","cover":"","author":"上野憲示／監修","description":"日本美術史上、もっとも有名な作品のひとつ、国宝「鳥獣戯画」。 \n\nいつ、誰が、なんのために制作したのか? そして、なぜ今日のようなかたちで現代に伝わっているのか? \n約100年ぶりに行われた＜平成の大修理＞によって判明した、驚愕の新事実とは?\n\n本書では、まるでミステリーの謎解きをするかのように、「鳥獣戯画」の真実を徹底“推理”するとともに、 \nオールカラーで巻物の図像もふんだんに掲載。 \n\n国宝絵巻の謎に迫る、「読む鳥獣戯画」新書! \n\n【目次】 \n●『鳥獣戯画』現存甲巻全図 \n\n●序章　謎が謎を呼ぶ国宝絵巻 \n\n●第1章　『鳥獣戯画』の謎 \n『鳥獣戯画』とは何か?――国宝絵巻全4巻を観る \n『鳥獣戯画』5つの謎――謎に包まれた国宝絵巻 \n\n●第2章　『鳥獣戯画』の時代 \n『鳥獣戯画』成立の背景――絵巻物の黄金時代を追う \n白描画と戯画の歴史――密教絵画と『鳥獣戯画』 \n『鳥獣戯画』と高山寺――『鳥獣戯画』の制作年代を追う \n\n●第3章『鳥獣戯画』の作者を追え! \n絵巻物の制作者たち――宮廷絵師と絵仏師 \n宮廷絵師説の検証――『年中行事絵巻』と『鳥獣戯画』 \n絵仏師説の検証――作者は鳥羽僧正覚猷か? \n\n●第4章『鳥獣戯画』の動物たち \n『鳥獣戯画』にストーリーはあるのか――描かれた動物たちの意味 \n日本の古典から読み解く――説話で読む『鳥獣戯画』 \n\n●第5章　『鳥獣戯画』の真実 \n断簡と模本の存在――『鳥獣戯画』の失われた絵とは!? \n『鳥獣戯画』甲巻は2巻あった!?――上野復原論からわかる真実 \n平成の大修理が解明した謎――料紙が語る『鳥獣戯画』の真実 \n\n●終章 解明された謎","price":"1180","genre":"","target":"一般","format":"新書","content":"絵画・彫刻"}
+,
+{"isbn":"9784299013422","title":"武田信玄 500年目の真実","volume":"","series":"","publisher":"宝島社","pubdate":"2021-03-10","cover":"","author":"井沢元彦／著","description":"武田信玄生誕500年の今年、『逆説の日本史』シリーズでおなじみの著者が、歴史家の間でも注目されている「もし武田信玄の宿敵である上杉謙信がいなかったら」というテーマにチャレンジします。おそらく信玄は武田水軍を繰り出して秀吉のなし得なかった「唐入り(中国進出)」を果たしたのではないか。異色の歴史シミュレーション。","price":"880","genre":"","target":"一般","format":"新書","content":"日本歴史"}
+,
+{"isbn":"9784299013781","title":"首・肩らくらく! 天使のやすらぎ首サポーター BOOK さらさら快適ver.","volume":"","series":"","publisher":"宝島社","pubdate":"2021-03-10","cover":"","author":"for.R整体院／監修","description":"つけた瞬間、首も肩もラクになる! と大好評の「天使のやすらぎ首サポーター」。春夏でも快適なつけ心地の、さらさら吸湿速乾生地バージョンが新登場です! TV・雑誌などメディアで話題の人気整体院「for.R整体院」が、長年の経験と実績をもとに開発した高機能の本格首サポーター。首・肩こり、腰痛、頭痛、めまい、不眠、自律神経の不調、首シワ・二重あご……こんな不調にお悩みの方、その不調は「首」からきているのかもしれません。本誌の首サポーターで「頭の重さ」を支え、首のラインを整えましょう! 現代人に多い「ストレートネック」のお悩みや、テレワークによる不調のケアにも最適です。冊子には、1分でできて効果バツグンのfor.R式・首らくストレッチも掲載。","price":"1890","genre":"","target":"一般","format":"ムック・その他","content":"家事"}
+,
+{"isbn":"9784299014535","title":"プロ野球 ヤバすぎる裏知識　","volume":"","series":"","publisher":"宝島社","pubdate":"2021-03-10","cover":"","author":"宝島プロ野球取材班／著","description":"スポーツニュースが報じない球界のベンチ裏を実況中継! \n●契約更改から闇バイトまで球界のマネー事情\n●ユニフォームを脱いだ選手たちの素行調査\n●移籍、FA、トレード……球団をめぐる悲喜こもごも\n●記者が目撃! スーパースターたちの秘話公開\n●観戦が100倍面白くなる球場、裏方トリビア　ほか","price":"800","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
+,
+{"isbn":"9784299014542","title":"川島隆太教授の脳力を鍛える点つなぎパズル 昭和思い出し版","volume":"","series":"","publisher":"宝島社","pubdate":"2021-03-10","cover":"","author":"川島隆太／監修","description":"「懐かしい」と思う気持ちは脳を若返らせてくれます。本書の点つなぎは、昭和生まれ、昭和育ちの皆さんが懐かしく思える出来事を点つなぎにしています。点つなぎで浮かび上がった出来事をきっかけに、昔の思い出がよみがえるでしょう。1日たった10分行うだけで、脳が若返り、集中力、推理力までアップします。点つなぎにはストレスの軽減効果もあるので、リラックスして取り組んでみてください。","price":"740","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784299015334","title":"新型コロナウイルスワクチンのすべてがわかる本","volume":"","series":"","publisher":"宝島社","pubdate":"2021-03-10","cover":"","author":"峰宗太郎／監修","description":"2020年12月8日、イギリスで世界で初めて新型コロナウイルスのワクチン接種が開始。日本では海外3社のワクチン供給が決まっていますが、接種優先順位、副作用、輸送問題、費用、接種回数などなど、不透明なことが山積。本誌は、2021年3月から開始される(予定)日本でのワクチン接種について、いまある情報をすべて網羅し、専門家の見解をわかりやすく解説した、どこよりも早い＆くわしい新型コロナウイルスワクチンの本です。","price":"630","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"家事"}
+,
+{"isbn":"9784299015341","title":"カラー版&重ね地図 地形と地理でわかる大江戸の謎","volume":"","series":"","publisher":"宝島社","pubdate":"2021-03-10","cover":"","author":"大石学／監修","description":"歴史は「舞台」を抜きに語ることはできない。地形と地理の中に位置づければ、過去の出来事も具体的な姿を見せる。なぜ、徳川幕府は江戸で開かれたのか? なぜ、参勤交代は大名ごとに時期が決まっていたのか? なぜ、江戸の刑場は街道の入り口にあったのか? 58項目の「大江戸」の謎が、今昔重ね切り絵図とグラビア、項目別カラー地図でよくわかる! 江戸幕府の誕生から黒船来航、大政奉還まで、新しい歴史の楽しみ方を提案する。","price":"1200","genre":"","target":"一般","format":"新書","content":"地理"}
+,
+{"isbn":"9784323074771","title":"葉っぱにのって","volume":"","series":"","publisher":"金の星社","pubdate":"2021-03-10","cover":"","author":"","description":"","price":"1200","genre":"児童図書","target":"児童","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784325241546","title":"東北大の英語15カ年［第7版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784325241546.jpg","author":"教学社編集部／編集","description":"東北大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"英米語"}
+,
+{"isbn":"9784325241553","title":"東北大の理系数学15カ年［第7版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784325241553.jpg","author":"教学社編集部／編集","description":"東北大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784325241560","title":"東北大の物理15カ年","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784325241560.jpg","author":"教学社編集部／編集","description":"東北大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"物理学"}
+,
+{"isbn":"9784325241584","title":"名古屋大の英語15カ年［第7版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784325241584.jpg","author":"教学社編集部／編集","description":"名古屋大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"英米語"}
+,
+{"isbn":"9784325241591","title":"名古屋大の理系数学15カ年［第7版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784325241591.jpg","author":"教学社編集部／編集","description":"名古屋大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784325241621","title":"阪大の英語20カ年［第8版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784325241621.jpg","author":"教学社編集部／編集","description":"大阪大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"英米語"}
+,
+{"isbn":"9784325241638","title":"阪大の文系数学20カ年［第2版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784325241638.jpg","author":"教学社編集部／編集","description":"大阪大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784325241645","title":"阪大の理系数学20カ年［第8版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784325241645.jpg","author":"教学社編集部／編集","description":"大阪大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"数学"}
+,
+{"isbn":"9784325241652","title":"阪大の国語15カ年［第2版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784325241652.jpg","author":"教学社編集部／編集","description":"大阪大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"日本語"}
+,
+{"isbn":"9784325241669","title":"阪大の物理20カ年［第7版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784325241669.jpg","author":"教学社編集部／編集","description":"大阪大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"物理学"}
+,
+{"isbn":"9784326403813","title":"個人情報保護法コンメンタール","volume":"","series":"","publisher":"勁草書房","pubdate":"2021-03-10","cover":"https://cover.openbd.jp/9784326403813.jpg","author":"石井夏生利／編集 曽我部真裕／編集 森亮二／編集","description":"最新の理論水準と実務の知見を盛り込み、各条項にGDPR、FTC条文解説も加えた本格的コンメンタール誕生。令和2年改正対応。","price":"12000","genre":"社会科学","target":"専門","format":"単行本","content":"法律"}
+,
+{"isbn":"9784326451258","title":"憲法　第四版","volume":"","series":"","publisher":"勁草書房","pubdate":"2021-03-10","cover":"","author":"樋口陽一／著","description":"比較憲法のスタンダードな教科書として定評ある本書。第三版から１４年を経て、“樋口憲法”の集大成ともいえる第四版、ついに刊行。","price":"3000","genre":"社会科学","target":"専門","format":"単行本","content":"法律"}
+,
+{"isbn":"9784330016214","title":"列車編成席番表2021春","volume":"","series":"","publisher":"交通新聞社","pubdate":"2021-03-10","cover":"","author":"JRR／編集","description":"","price":"2700","genre":"","target":"一般","format":"単行本","content":"交通・通信"}
+,
+{"isbn":"9784334754402","title":"小公子","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"バーネット／著 土屋京子／翻訳","description":"","price":"1180","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784334754419","title":"ミドルマーチ４","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"ジョージ・エリオット／著 廣野由美子／翻訳","description":"","price":"1360","genre":"文庫","target":"一般","format":"文庫","content":"外国文学小説"}
+,
+{"isbn":"9784334791629","title":"祇園会 新・吉原裏同心抄（四）","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"佐伯泰英／著","description":"","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334791636","title":"インソムニア","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"辻寛之／著","description":"","price":"720","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334791643","title":"消えた断章","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"深木章子／著","description":"","price":"720","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334791650","title":"反骨魂 警視庁分室刑事","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"南英男／著","description":"","price":"740","genre":"","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334791667","title":"しまなみ幻想　新装版","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"内田康夫／著","description":"","price":"720","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334791674","title":"逢う時は死人 昭和ミステリールネサンス","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"天藤真／著","description":"","price":"880","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334791681","title":"駅に泊まろう！","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"豊田巧／著","description":"","price":"620","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334791698","title":"労働Ｇメンが来る！","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"上野歩／著","description":"","price":"720","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334791704","title":"不思議な現象解決します","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"広野未沙／著","description":"","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334791711","title":"江戸の美食","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"菊池仁／編集 有馬美季子／著 伊多波碧／著 篠綾子／著 中島久枝／著 藤原緋沙子／著","description":"","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334791735","title":"お陀仏坂 父子十手捕物日記","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"鈴木英治／著","description":"","price":"660","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334791742","title":"幸福団子 夢屋台なみだ通り（二）","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"倉阪鬼一郎／著","description":"","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784334791759","title":"無惨なり 日暮左近事件帖","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-10","cover":"","author":"藤井邦夫／著","description":"","price":"640","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ]
