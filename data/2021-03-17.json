@@ -45,8 +45,6 @@
 ,
 {"isbn":"9784065218419","title":"仕事と人生","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-17","cover":"","author":"西川善文／著","description":"「仕事ができる人」とは？「部下がついてくる人」とは？　２０２０年９月に世を去った「ザ・ラストバンカー」西川善文の遺言。","price":"900","genre":"","target":"一般","format":"新書","content":"経営"}
 ,
-{"isbn":"9784065219218","title":"いないいないばあっ！　ワンワンの　おしゃべりタッチペンえほん","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-17","cover":"","author":"講談社／著","description":"「いないいないばあっ！」で人気のワンワンのおしゃべりが楽しめるタッチペン絵本です。","price":"4980","genre":"","target":"児童","format":"絵本","content":"諸芸・娯楽"}
-,
 {"isbn":"9784065219966","title":"新　仮面ライダーSPIRITS（28）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-17","cover":"","author":"村枝賢一／著 石ノ森章太郎／原著","description":"ライダーシンドローム発動に向けて、ＩＳＳで準備を進めるスーパー１たち。それを阻止せんとＪＵＤＯが送り込んだ刺客とは‥‥！？　","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065219973","title":"新　仮面ライダーSPIRITS（28）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-17","cover":"","author":"村枝賢一／著 石ノ森章太郎／原著","description":"特装版第２６弾は『仮面ライダーＳＰＩＲＩＴＳ』シリーズからアマゾンライダー編を再構成したカラーライズド・バージョンを別冊同梱","price":"1050","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
@@ -218,4 +216,8 @@
 {"isbn":"9784276142053","title":"歌の本","volume":"","series":"","publisher":"株式会社音楽之友社","pubdate":"2021-03-17","cover":"https://cover.openbd.jp/9784276142053.jpg","author":"國土潤一／著","description":"アマチュアから専門に学ぶ人まで、歌うことに悩む人に向けて、筆者の経歴やレッスンの経験から導かれた「上手くなる」コツを伝授。","price":"1900","genre":"","target":"教養","format":"単行本","content":"音楽・舞踊"}
 ,
 {"isbn":"9784309288710","title":"ラ　メルヘン・テープの美しい大人バッグ","volume":"","series":"","publisher":"河出書房新社","pubdate":"2021-03-17","cover":"","author":"Kirarina奈緒子／著","description":"手芸のメルヘンテープでできる、ハイブランドのように仕上がる独自技法が光るテープバッグ作品集決定版！定番トートのバリエも豊富。","price":"1500","genre":"","target":"一般","format":"単行本","content":"家事"}
+,
+{"isbn":"9784323036687","title":"はっきりきこえてるかな？","volume":"","series":"","publisher":"金の星社","pubdate":"2021-03-17","cover":"","author":"木場由紀子／監修","description":"","price":"1300","genre":"","target":"児童","format":"全集・双書","content":"医学・歯学・薬学"}
+,
+{"isbn":"9784323041483","title":"いきものクイズ","volume":"","series":"校内放送でもりあがろう！めざせ！学校なぞなぞクイズ王","publisher":"金の星社","pubdate":"2021-03-17","cover":"","author":"ワン・ステップ／編集","description":"楽しい校内放送でみんなに喜んでもらおう！","price":"2200","genre":"児童図書","target":"児童","format":"全集・双書","content":"諸芸・娯楽"}
 ]
