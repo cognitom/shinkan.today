@@ -1,5 +1,5 @@
 [
-{"isbn":"9784000229760","title":"国策会社の経営史 台湾拓殖から見る日本の植民地経営","volume":"","series":"","publisher":"岩波書店","pubdate":"2021-03-19","cover":"","author":"湊照宏／著 齊藤直／著 谷ヶ城秀吉／著","description":"典型的国策会社「台湾拓殖」の経営史的分析を通し、国策会社の本質と日本の植民地経営の特質を描き出す。","price":"7400","genre":"歴史・地理","target":"専門","format":"単行本","content":"日本歴史"}
+{"isbn":"9784000229760","title":"国策会社の経営史 台湾拓殖から見る日本の植民地経営","volume":"","series":"","publisher":"岩波書店","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784000229760.jpg","author":"湊照宏／著 齊藤直／著 谷ヶ城秀吉／著","description":"典型的国策会社「台湾拓殖」の経営史的分析を通し、国策会社の本質と日本の植民地経営の特質を描き出す。","price":"7400","genre":"歴史・地理","target":"専門","format":"単行本","content":"日本歴史"}
 ,
 {"isbn":"9784000297028","title":"子どもの算数，なんでそうなる？","volume":"","series":"","publisher":"岩波書店","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784000297028.jpg","author":"谷口隆／著","description":"子どもの突拍子もない発想や間違いの奥には何があるのだろう。学びとは何かを深く問いかけるエッセイ。","price":"1400","genre":"自然科学","target":"一般","format":"全集・双書","content":"数学"}
 ,
@@ -73,7 +73,7 @@
 ,
 {"isbn":"9784046051240","title":"英語を話すために知っておきたい　いらない英文法","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784046051240.jpg","author":"mami／著","description":"捨てるとスラスラ英語が話せるようになる「いらない英文法」を紹介。","price":"1400","genre":"語学・辞事典","target":"一般","format":"単行本","content":"英米語"}
 ,
-{"isbn":"9784046051325","title":"365日24時間一緒にいる私たちが仲良しの理由","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784046051325.jpg","author":"とったび（こんちゃん&あーちゃん）／著","description":"1K同棲で同じ仕事。ほぼ365日24時間一緒にいる私たちが仲良しな理由","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784046051325","title":"365日24時間一緒にいる私たちが仲良しの理由","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784046051325.jpg","author":"とったび（こんちゃん&あーちゃん）／著","description":"1K同棲で同じ仕事。ぼ365日24時間一緒にいる私たちが仲良しな理由","price":"1400","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784046051417","title":"プロの選手だけに教えてきた バッティングドリル100","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784046051417.jpg","author":"内田順三／著","description":"プロ指導歴37年、伝説のコーチが明かす門外不出の打撃メソッド","price":"1600","genre":"","target":"一般","format":"単行本","content":"体育・スポーツ"}
 ,
@@ -91,7 +91,7 @@
 ,
 {"isbn":"9784048969536","title":"花や実を育てる飾る食べる 植物と暮らす12カ月の楽しみ方","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784048969536.jpg","author":"ガーデンストーリー／著","description":"ガーデニング、クラフト、レシピなど、季節のお楽しみがいっぱい！","price":"1600","genre":"","target":"一般","format":"単行本","content":"家事"}
 ,
-{"isbn":"9784049136913","title":"アサルトリリィ BOUQUET公式ファンブック　Lily's Memories","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784049136913.jpg","author":"電撃Ｇ’ｓマガジン編集部／編集","description":"『アサルトリリィ　BOUQUET』で活躍した一柳隊の絆に寄り添う一冊","price":"3000","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
+{"isbn":"9784049136913","title":"アサルトリリィ BOUQUET公式ファンブック　Lily's Memories","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784049136913.jpg","author":"電撃Ｇ’ｓマガジン編集／編集","description":"『アサルトリリィ　BOUQUET』で活躍した一柳隊の絆に寄り添う一冊","price":"3000","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
 {"isbn":"9784065207369","title":"ブラッド・スクーパ　The　Blood　Scooper","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-19","cover":"","author":"森博嗣／著","description":"剣を極めたい。修行の旅を続けるゼンの前に立ちはだかる者は？","price":"1100","genre":"","target":"一般","format":"新書","content":"日本文学、小説・物語"}
 ,
@@ -184,56 +184,4 @@
 {"isbn":"9784265086764","title":"しんゆうだけどだいきらい","volume":"","series":"こんな子きらいかな？","publisher":"岩崎書店","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784265086764.jpg","author":"石山さやか／著","description":"親友のみかりは、おしゃべりが大好き。私はしゃべるのが苦手だから、一緒にいてとても楽しい。だけどあるとき私の失敗を…。","price":"1600","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784265099573","title":"調べる学習子ども年鑑2021","volume":"","series":"調べる学習子ども年鑑","publisher":"岩崎書店","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784265099573.jpg","author":"朝日小学生新聞／監修","description":"2020年の重大ニュースを月別・教科別に紹介するニュース編、国内外の最新データの資料編など、調べる学習に役立つ一冊。","price":"4000","genre":"児童図書","target":"児童","format":"単行本","content":"年鑑・雑誌"}
-,
-{"isbn":"9784275021427","title":"気候変動とパンデミックの時代　生命系の未来社会論","volume":"","series":"","publisher":"御茶の水書房","pubdate":"2021-03-19","cover":"","author":"小貫雅男／著 伊藤恵子／著","description":"気候変動と新型コロナウイルスの問題を個々別々にではなく、両者を統一的、全一体的に捉え、持続可能な新しい社会を考える。","price":"2600","genre":"社会科学","target":"専門","format":"単行本","content":"社会"}
-,
-{"isbn":"9784276475069","title":"新版 新しいヴァイオリン教本 ６","volume":"","series":"","publisher":"株式会社音楽之友社","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784276475069.jpg","author":"兎束龍夫／編集 篠崎弘嗣／編集 鷲見三郎／編集","description":"1964年の刊行以来50年以上にわたるロングセラー教本である『新しいバイオリン教本』がリニューアル！　収録曲や指導内容等は変わらず、解説を現代風に読みやすくし、楽譜は新たに浄書、写真も撮り直し、より学習者が理解しやすいよう紙面を整えた。また、発表会のプログラム掲載などで要望の多い各曲の出典情報もタイトルに補足した。長く愛されてきた通称「白本（しろほん）」が、さらにまた何十年と愛される教本となろう。本シリーズ最終巻となる6巻では、オクターヴと10度の練習が入り、本格的なヴィルトゥーゾ作品の演奏に必要な技術を学ぶ。ツィゴイネルワイゼンやヴィエニャフスキの華麗なポロネーズ等、これぞヴァイオリン名曲という10曲が並ぶ。","price":"1800","genre":"","target":"教養","format":"単行本","content":"音楽・舞踊"}
-,
-{"isbn":"9784276475144","title":"新版 新しいヴァイオリン教本 ６巻 ピアノ伴奏譜","volume":"","series":"","publisher":"株式会社音楽之友社","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784276475144.jpg","author":"兎束龍夫／編集 篠崎弘嗣／編集 鷲見三郎／編集","description":"1964年の刊行以来50年以上にわたるロングセラー教本である『新しいバイオリン教本』がリニューアル！　収録曲や指導内容等は変わらず、解説を現代風に読みやすくし、楽譜は新たに浄書、写真も撮り直し、より学習者が理解しやすいよう紙面を整えた。また、発表会のプログラム掲載などで要望の多い各曲の出典情報もタイトルに補足した。長く愛されてきた通称「白本（しろほん）」が、さらにまた何十年と愛される教本となろう。6巻は、これぞヴァイオリン名曲というヴィルトゥオーゾ作品10曲が並び、中級～上級ヴァイオリン学習者の発表会やコンサートでおおいに活用される収録内容となっている。","price":"4000","genre":"","target":"教養","format":"単行本","content":"音楽・舞踊"}
-,
-{"isbn":"9784295010371","title":"世界一わかりやすいデジタルカメラと写真の教科書 ミラーレス編","volume":"","series":"","publisher":"インプレス","pubdate":"2021-03-19","cover":"","author":"","description":"","price":"2000","genre":"","target":"実用","format":"単行本","content":"写真・工芸"}
-,
-{"isbn":"9784295011002","title":"できるfit YouTube 基本＋活用ワザ 最新決定版","volume":"","series":"","publisher":"インプレス","pubdate":"2021-03-19","cover":"","author":"田口和裕／著 森嶋良子／著 できるシリーズ編集部／著","description":"","price":"1380","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784295011125","title":"できるAccessパーフェクトブック 困った！＆便利ワザ大全 2019/2016/2013＆Microsoft 365対応","volume":"","series":"","publisher":"インプレス","pubdate":"2021-03-19","cover":"","author":"きたみあきこ／著 国本温子／著 できるシリーズ編集部／著","description":"","price":"2500","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784295011156","title":"テレワークの働き方を変えるMicrosoft Teams完全ガイド","volume":"","series":"","publisher":"インプレス","pubdate":"2021-03-19","cover":"","author":"松下典子／著 飯田成康／著","description":"","price":"1600","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784295011194","title":"Pythonで学ぶアルゴリズムの教科書 一生モノの知識と技術を身につける","volume":"","series":"","publisher":"インプレス","pubdate":"2021-03-19","cover":"","author":"廣瀬豪／著","description":"","price":"2450","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784295404040","title":"COOK JAPAN PROJECT","volume":"","series":"","publisher":"クロスメディア・パブリッシング","pubdate":"2021-03-19","cover":"","author":"グラナダ／著・編集","description":"","price":"2980","genre":"","target":"実用","format":"単行本","content":"社会科学総記"}
-,
-{"isbn":"9784295405214","title":"ネクストカンパニー","volume":"","series":"","publisher":"クロスメディア・パブリッシング","pubdate":"2021-03-19","cover":"","author":"","description":"","price":"1480","genre":"","target":"実用","format":"単行本","content":"経営"}
-,
-{"isbn":"9784295405221","title":"お金とメンタルの方程式","volume":"","series":"","publisher":"クロスメディア・パブリッシング","pubdate":"2021-03-19","cover":"","author":"","description":"","price":"1380","genre":"","target":"実用","format":"単行本","content":"経営"}
-,
-{"isbn":"9784296000111","title":"爆速成長マネジメント","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784296000111.jpg","author":"イラッド・ギル／著 浅枝大志／翻訳 大熊希美／翻訳","description":"グーグル、ツイッターを急成長させた有名起業家が贈る痛烈なほど具体的で戦術的なアドバイス","price":"2300","genre":"","target":"一般","format":"単行本","content":"経営"}
-,
-{"isbn":"9784296109081","title":"ZERO IMPACT　あなたのビジネスが消える","volume":"","series":"","publisher":"日経ＢＰ","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784296109081.jpg","author":"鉢嶺登／著","description":"自ら危機感を持って動き始めているデジタルホールディングス代表取締役会長鉢嶺氏が「ゼロ・インパクト」の脅威を解説します。","price":"1800","genre":"","target":"一般","format":"単行本","content":"経営"}
-,
-{"isbn":"9784297119935","title":"ゼロからはじめる　Google Pixel  5／4a（5G）／4a スマートガイド","volume":"","series":"","publisher":"技術評論社","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784297119935.jpg","author":"技術評論社編集部／著","description":"Googleの最新サービスをフルに活用できるのがGoogle純正スマートフォンPixel 5／4a（5G）／4aの大きな特徴です。AIテクノロジーにより進化したAndroid OSとGoogleサービスの組み合わせは、スマホの使い方をよりシンプルに、ユーザーの生活をもっと便利にします。本書は、こうしたGoogle Pixel 5／4a（5G）／4aの便利技や活用法を解説しています。SIMフリー版、au版、ソフトバンク版に対応しています。","price":"1580","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784297120030","title":"Teams仕事術　ニューノーマル時代に心地よく働くための実践知","volume":"","series":"","publisher":"技術評論社","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784297120030.jpg","author":"椎野磨美／著","description":"「最近ムダな会議ばかりじゃない？」\n「みんなの進捗、一体全体どうなってるの？」\n「なんだかメンバーの関係がぎくしゃくしてない？」\n\nその不満の原因、「リモートになったから……」ですべて済ませていませんか？\nMicrosoft Teamsの機能と、それを使いこなすためのノウハウがあれば、\n離れていても「心地よく」働ける環境に変えていくことが可能です。\n\nさらに読者特典として、株式会社環のマニュアルサブスクリプションサービス「ナレッジマニュアル Teamsアプリ版」を3か月無料で提供。\n日々進化を続けるTeamsの新機能の使い方をフォローします。\n\nこれで「ニューノーマル時代」の新しい「チーム」がつくれます！","price":"1680","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784297120054","title":"【改訂4版】要点・用語早わかり 応用情報技術者 ポケット攻略本","volume":"","series":"","publisher":"技術評論社","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784297120054.jpg","author":"大滝みや子／著","description":"応用情報試験者試験対策本のなかでは珍しいコンパクトなサイズが好評の『ポケット攻略本』を最新のシラバスおよび試験の出題傾向に合わせて改訂しました。合格に必要な重要事項を厳選し、項目ごとに見開き形式でまとめているので、細切れ時間での学習や試験直前の実力チェックにも最適。受験指導経験豊富な著者が、試験を攻略するために持てるノウハウをすべて注ぎ込んだ1冊です。","price":"1480","genre":"","target":"専門","format":"単行本","content":"電子通信"}
-,
-{"isbn":"9784299007964","title":"鳥獣戯画 暮らし上手の収納ポーチBOOK","volume":"","series":"","publisher":"宝島社","pubdate":"2021-03-19","cover":"","author":"","description":"うさぎや猿、カエルなど、かわいらしく擬人化された動物たちの生き生きとした生活を描いた国宝・鳥獣人物戯画。通称『鳥獣戯画』と呼ばれ親しまれているこの全4巻から成る絵巻物が一挙公開される特別展がこの春、開催されます。それを記念して、鳥獣戯画の人気の場面をプリントしたマルチポーチができました。6穴バインダーつきのマルチポーチと4柄のリフィルポケットがセットになっているので、家計管理用のポーチとして、トラベルポーチやお薬ケース、文具ケースとして、使い方はいろいろ。ほっこりしたデザインは、持っているだけで楽しい気分になれそう!","price":"1680","genre":"","target":"一般","format":"ムック・その他","content":"諸芸・娯楽"}
-,
-{"isbn":"9784305003829","title":"昭和文学研究　第82集","volume":"82","series":"昭和文学研究","publisher":"笠間書院","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784305003829.jpg","author":"昭和文学会／編集","description":"昭和期の文学を中心とする近現代文学の研究を対象とした学会誌。年２回刊行。論文・研究動向・研究展望・書評・新刊紹介を収録。","price":"4200","genre":"","target":"専門","format":"全集・双書","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784307470506","title":"必携・衛生試験法 第3版","volume":"","series":"","publisher":"金原出版","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784307470506.jpg","author":"公益社団法人日本薬学会／編集","description":"薬学生の衛生薬学実習書の改訂！ コアカリキュラムと国家試験に対応！","price":"4000","genre":"","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
-,
-{"isbn":"9784307702409","title":"よくわかる専門基礎講座 公衆衛生 第12版","volume":"","series":"","publisher":"金原出版","pubdate":"2021-03-19","cover":"","author":"松木秀明／著","description":"平成30年版看護師国試出題基準対応。最新の社会情勢の理解に！","price":"2500","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
-,
-{"isbn":"9784309504223","title":"ひとの痛みがわかる人はやっぱり強い","volume":"","series":"","publisher":"河出書房新社","pubdate":"2021-03-19","cover":"","author":"内海実／著","description":"温かい目で人の心を見つめ、痛みや喜びに寄り添う……どんな時代でも忘れたくない「人と人とのかかわり合い方」を見直す本。","price":"890","genre":"","target":"一般","format":"新書","content":"社会科学総記"}
-,
-{"isbn":"9784309690650","title":"トムとジェリーをさがせ！ようこそ！ぼくらのニューヨーク","volume":"","series":"","publisher":"河出書房新社","pubdate":"2021-03-19","cover":"","author":"菅原卓也／イラスト","description":"大人気の「さがせ！」第12弾は、映画の舞台と同じニューヨーク。大都市NYで２人が大暴れ！","price":"1220","genre":"","target":"児童","format":"絵本","content":"絵画・彫刻"}
-,
-{"isbn":"9784313511866","title":"弁護士が教える！　事例でわかる中小企業の法律トラブル対応","volume":"","series":"","publisher":"学陽書房","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784313511866.jpg","author":"川上善行／著","description":"中小企業に生じやすいトラブルついて、解決のための初動対応、ポイントを丁寧に説明。","price":"2400","genre":"","target":"実用","format":"単行本","content":"法律"}
-,
-{"isbn":"9784313611450","title":"現代教育概論　第５次改訂版","volume":"","series":"","publisher":"学陽書房","pubdate":"2021-03-19","cover":"","author":"佐藤晴雄／著","description":"なぜ、人間に教育という営為が誕生したのか――という問いに始まり、教育学の基礎理論を踏まえながら、現代の教育改革をめぐる動向や教育課題を解き明かす。単なる概論書にとどめず、最新の実践的事項を詳述。初学者のテキストに、また教職採用試験の参考書に最適！","price":"2400","genre":"教育","target":"教養","format":"単行本","content":"教育"}
-,
-{"isbn":"9784313654259","title":"子どもが喜ぶイラストがいっぱい！ オンラインでも役立つ！小学校ワークシート＆テンプレート　DVD-ROM付","volume":"","series":"","publisher":"学陽書房","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784313654259.jpg","author":"イクタケマコト／著","description":"現場の声に応えて生まれた本書。学校の新しい生活様式で役立つ素材が盛りだくさん！\n\n\n\n人気イラストレーター イクタケマコト氏の小学校教師向けのテンプレート集第４弾。\n\n\n\n使用頻度が高い学級づくり用の定番テンプレートはもちろんのこと、コロナ禍による学校の新しい生活様式に対応した素材が満載。\n\n\n\n通常の授業だけでなく、休校中やオンライン授業でも活用できるワークシートやフリップ、また、学校HPの拡充に役立つイラストやGIFアニメなどを充実。\n\n\n\nDVD-ROMはカラー・モノクロどちらも対応！\n\n\n","price":"1900","genre":"教育","target":"一般","format":"単行本","content":"教育"}
-,
-{"isbn":"9784313654266","title":"学校が大好きになる！小１プロブレムもスルッと解消！１年生あそび１０１","volume":"","series":"","publisher":"学陽書房","pubdate":"2021-03-19","cover":"https://cover.openbd.jp/9784313654266.jpg","author":"三好真史／著","description":"学校ルールの習得、友だちづくり、初歩学習も身につくワクワク楽しいあそびが満載！\n\n\n\n小学校教育の学級担任の中でも特別と言われる1年生。\n\n多くの子どもが楽しみと同時に大きな不安を抱えて入学してきます。\n\n\n\n学校生活に慣れさせながら、友だちとのつながりやルールの習得、また、読み書きや計算などの初歩学習も身につき、気が付くと学校が大好きになっている愉快なあそびが詰まった一冊！\n\n\n","price":"1800","genre":"教育","target":"一般","format":"単行本","content":"教育"}
 ]
