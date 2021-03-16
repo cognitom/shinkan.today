@@ -125,7 +125,7 @@
 ,
 {"isbn":"9784065218433","title":"愛蔵版　Day　to　Day","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-25","cover":"","author":"講談社／編集","description":"超豪華！　２０９組の作家・漫画家が２０２０年４月以降の日本を舞台に紡いだ珠玉の掌編、コミックが３冊組の特装版として登場。","price":"6500","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784065220191","title":"MANGA　Day　to　Day（上）","volume":"","series":"","publisher":"談社","pubdate":"2021-03-25","cover":"","author":"講談社／編集","description":"１００人超の著名漫画家が集いコロナ禍の“日常”を描いた後世へ届ける奇跡のマンガたち。","price":"1400","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065220191","title":"MANGA　Day　to　Day（上）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-25","cover":"","author":"講談社／編集","description":"１００人超の著名漫画家が集いコロナ禍の“日常”を描いた後世へ届ける奇跡のマンガたち。","price":"1400","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065220207","title":"MANGA　Day　to　Day（下）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-25","cover":"","author":"講談社／編集","description":"１００人超の著名漫画家が集いコロナ禍の“日常”を描いた後世へ届ける奇跡のマンガたち。","price":"1400","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -211,15 +211,15 @@
 ,
 {"isbn":"9784149110462","title":"ＮＨＫ　みんなの手話　2021年4～6月 /10～12月","volume":"","series":"ＮＨＫシリーズ","publisher":"NHK出版","pubdate":"2021-03-25","cover":"","author":"森田明／著 三宅健／著 那須善子／著 前川和美／監修 下谷奈津子／監修","description":"日常に即したスキットを通じて、実践的な手話を学びます。ナビゲーターはＶ６の三宅さん。手話を動画で学べるサービスも！","price":"400","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"教育"}
 ,
-{"isbn":"9784163912820","title":"ＧＡＦＡＭvs.中国Ｂｉｇ４ デジタルキングダムを制するのは誰か？","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-03-25","cover":"","author":"大西康之／著","description":"グーグル、アマゾン、フェイスブック、アップルのGAFAとバイドゥ、アリババ、テンセント、シナの中国Big4の闘いの行方は？","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784163912820","title":"ＧＡＦＡＭvs.中国Ｂｉｇ４ デジタルキングダムを制するのは誰か？","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-03-25","cover":"https://cover.openbd.jp/9784163912820.jpg","author":"大西康之／著","description":"グーグル、アマゾン、フェイスブック、アップルのGAFAとバイドゥ、アリババ、テンセント、シナの中国Big4の闘いの行方は？","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784163913445","title":"警視庁科学捜査官 難事件に科学で挑んだ男の極秘ファイル","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-03-25","cover":"https://cover.openbd.jp/9784163913445.jpg","author":"服藤恵三／著","description":"初めて明かされる科学捜査の裏側。オウム事件、ルーシー・ブラックマン失踪事件、和歌山カレー事件等で科学捜査が突き止めた真実は。","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784163913476","title":"とりあえず、本音を申せば","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-03-25","cover":"","author":"小林信彦／著","description":"コロナはこわいが、家にも楽しみはある。BSプレミアムの映画特集、トランプ大統領の本、喜劇人志村けんの面白さ。名コラム最新刊。","price":"2200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784163913476","title":"とりあえず、本音を申せば","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-03-25","cover":"https://cover.openbd.jp/9784163913476.jpg","author":"小林信彦／著","description":"コロナはこわいが、家にも楽しみはある。BSプレミアムの映画特集、トランプ大統領の本、喜劇人志村けんの面白さ。名コラム最新刊。","price":"2200","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784163913513","title":"アウトサイダー　上","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-03-25","cover":"","author":"スティーヴン・キング／著 白石朗／翻訳","description":"惨殺事件の日、彼は旅行に出ていたはずだった。無実の男を陥れた〈アウトサイダー〉。悪意に満ちた「それ」を倒すことはできるのか。","price":"2200","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
+{"isbn":"9784163913513","title":"アウトサイダー　上","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-03-25","cover":"https://cover.openbd.jp/9784163913513.jpg","author":"スティーヴン・キング／著 白石朗／翻訳","description":"惨殺事件の日、彼は旅行に出ていたはずだった。無実の男を陥れた〈アウトサイダー〉。悪意に満ちた「それ」を倒すことはできるのか。","price":"2200","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
 ,
-{"isbn":"9784163913520","title":"アウトサイダー　下","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-03-25","cover":"","author":"スティーヴン・キング／著 白石朗／翻訳","description":"惨殺事件の日、彼は旅行に出ていたはずだった。無実の男を陥れた〈アウトサイダー〉。悪意に満ちた「それ」を倒すことはできるのか。","price":"2200","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
+{"isbn":"9784163913520","title":"アウトサイダー　下","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-03-25","cover":"https://cover.openbd.jp/9784163913520.jpg","author":"スティーヴン・キング／著 白石朗／翻訳","description":"惨殺事件の日、彼は旅行に出ていたはずだった。無実の男を陥れた〈アウトサイダー〉。悪意に満ちた「それ」を倒すことはできるのか。","price":"2200","genre":"","target":"一般","format":"単行本","content":"外国文学小説"}
 ,
 {"isbn":"9784184751125","title":"学習カードでよくわかる　３６５日の全授業　小学校体育　１年　令和２年度全面実施学習指導要領対応","volume":"","series":"","publisher":"明治図書出版","pubdate":"2021-03-25","cover":"","author":"関西体育授業研究会／著","description":"毎日の体育授業の超強力サポーター！","price":"2500","genre":"教育","target":"専門","format":"単行本","content":"教育"}
 ,
@@ -276,28 +276,4 @@
 {"isbn":"9784309254180","title":"進化をたどる７億年の旅","volume":"","series":"","publisher":"河出書房新社","pubdate":"2021-03-25","cover":"","author":"ジョン・ウッドワード／著 クリス・バーカー／監修 竹田純子／翻訳","description":"時間をさかのぼり、生命の誕生から人間が現れるまでに繰り広げられた、いきものたちの世界へ。時と生命の流れを初めて学ぶ際に最適。","price":"1900","genre":"","target":"児童","format":"絵本","content":"生物学"}
 ,
 {"isbn":"9784322134490","title":"注釈金融商品取引法【改訂版】〔第１巻〕定義・情報開示規制","volume":"","series":"","publisher":"一般社団法人金融財政事情研究会","pubdate":"2021-03-25","cover":"","author":"岸田雅雄／監修 神作裕之／編集 弥永真生／編集 大崎貞和／編集","description":"令和元年改正、令和2年改正を反映した最新のコンメンタール・シリーズ第2弾、待望の刊行!\n◆暗号資産を「金銭」とみなし、収益分配を目的とするトークンの発行(ICO: Initial Coin Offering)を電子記録移転権利として企業内容等の開示規制の対象にした令和元年改正、「金融サービスの利用者の利便の向上及び保護を図るための金融商品の販売等に関する法律等の一部を改正する法律」に伴う令和2年改正に対応。\n◆国際会計基準(IFRS)、修正国際基準(日本版IFRS)の採用に関する金 商法の規律を包括的に解説した「補遺」を収録し、企業開示実務における盲点を解明。\n◆証券訴訟に関する判例・学説の進展状況を詳細に解説(16条~22条関連)。市場と対峙する実務家、弁護士・検事・裁判官、研究者にとって必須の書。\n\n【シリーズ一覧】\n第1巻　定義・情報開示規制(第1条~第27条の38) 本書\n第2巻　業者規制(第28条~第66条の70) 続刊\n第3巻　自主規制(第67条~第156条の92) 続刊\n第4巻　不公正取引規制(第157条~226条)既刊","price":"12000","genre":"社会科学","target":"実用","format":"単行本","content":"法律"}
-,
-{"isbn":"9784323061733","title":"生物多様性","volume":"","series":"持続的な社会を考える　新しい環境問題","publisher":"金の星社","pubdate":"2021-03-25","cover":"","author":"古沢広祐／監修 アルバ／編集","description":"近年、よく話題にのぼる〈環境〉についての4ワード、「食品ロス」「マイクロプラスチック」「生物多様性」「エシカル消費」。この新しいワードについて、豊富な写真と図表でわかりやすく解説するシリーズ。身近なところから地球的規模の話まで、問題のあらましと対策をくわしく紹介。SDGsの視点からの解説もある。","price":"2800","genre":"児童図書","target":"児童","format":"全集・双書","content":"社会"}
-,
-{"isbn":"9784323061740","title":"エシカル消費","volume":"","series":"持続的な社会を考える　新しい環境問題","publisher":"金の星社","pubdate":"2021-03-25","cover":"","author":"古沢広祐／監修 アルバ／編集","description":"近年、よく話題にのぼる〈環境〉についての4ワード、「食品ロス」「マイクロプラスチック」「生物多様性」「エシカル消費」。この新しいワードについて、豊富な写真と図表でわかりやすく解説するシリーズ。身近なところから地球的規模の話まで、問題のあらましと対策をくわしく紹介。SDGsの視点からの解説もある。","price":"2800","genre":"児童図書","target":"児童","format":"全集・双書","content":"社会"}
-,
-{"isbn":"9784334077464","title":"小布施・地獄谷殺人事件","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-25","cover":"","author":"梓林太郎／著","description":"","price":"900","genre":"","target":"一般","format":"新書","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334913908","title":"二十面相　暁に死す","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-25","cover":"","author":"辻真先／著","description":"","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334913915","title":"南紀殺人事件","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-25","cover":"","author":"内田康夫／著","description":"","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334913922","title":"夜想曲…… 別れ","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-25","cover":"","author":"早坂真紀／著","description":"","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334913939","title":"花下に舞う","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-25","cover":"","author":"あさのあつこ／著","description":"","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334913946","title":"前夜","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-25","cover":"","author":"森晶麿／著","description":"","price":"1800","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784334952334","title":"ａｎｎａｓの和の刺繍","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-25","cover":"","author":"川畑杏奈／著","description":"","price":"1300","genre":"","target":"一般","format":"単行本","content":"家事"}
-,
-{"isbn":"9784334952341","title":"ドラマスタイリストという仕事","volume":"","series":"","publisher":"光文社","pubdate":"2021-03-25","cover":"","author":"西ゆり子／著","description":"","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784336071972","title":"アイノとアルヴァ　二人のアアルト","volume":"","series":"","publisher":"国書刊行会","pubdate":"2021-03-25","cover":"","author":"アルヴァ・アアルト財団／編集 ギャラリーエークワッド／編集 ニーナ・ストリッツラー＝レヴァイン／著 ほか","description":"互いを敬愛しあうパートナーとしてともに歩んだアアルト夫妻。妻アイノに光をあてつつ、アアルト建築とデザインの本質を見つめ直す。","price":"2800","genre":"芸術","target":"一般","format":"単行本","content":"建築"}
-,
-{"isbn":"9784344790254","title":"NHKいないいないばあっ！ワンワンとうーたんのいろいろカードあそび","volume":"","series":"","publisher":"幻冬舎","pubdate":"2021-03-25","cover":"","author":"NHKエンタープライズ／著","description":"大人気幼児番組『NHKいないいないばあっ！』シリーズに、新キャラクターを採用した絵カードです","price":"1500","genre":"","target":"児童","format":"絵本","content":"諸芸・娯楽"}
 ]

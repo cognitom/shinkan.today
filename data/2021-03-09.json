@@ -99,7 +99,7 @@
 ,
 {"isbn":"9784120054082","title":"ヒマラヤ大聖者の知恵  心と体をととのえて、もっと楽に生きる","volume":"","series":"","publisher":"中央公論新社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784120054082.jpg","author":"相川圭子／著","description":"コロナで一変したこの世界を生きるための知恵をヒマラヤ大聖者相川圭子が語る","price":"1300","genre":"","target":"実用","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
-{"isbn":"9784120054099","title":"伝える技術はこうみがけ！","volume":"","series":"","publisher":"中央公論新社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784120054099.jpg","author":"新庄秀規／著 藤山純久／著","description":"「わかりやすく」「面白く」人に伝えるにはどうするか。目を引くキーワードを散りばめながら、現場で培ったノウハウを公開する。","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+{"isbn":"9784120054099","title":"伝える技術はこうみがけ！","volume":"","series":"","publisher":"中央公論新社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784120054099.jpg","author":"新庄秀規／著 藤山純久／著","description":"「わかりやすく」「面白く」人に伝えるにはどうするか。目を引キーワードを散りばめながら、現場で培ったノウハウを公開する。","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784120054105","title":"文春の流儀","volume":"","series":"","publisher":"中央公論新社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784120054105.jpg","author":"木俣正剛／著","description":"『週刊文春』や『文藝春秋』の元編集長が向き合った人物や事件！　多くの成功と失敗からはマスコミが担うべき役割も見えてくる。","price":"1800","genre":"","target":"一般","format":"単行本","content":"社会"}
 ,
@@ -194,34 +194,4 @@
 {"isbn":"9784320114432","title":"工学系学生のための数学物理学演習　増補版","volume":"","series":"","publisher":"共立出版","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784320114432.jpg","author":"橋爪秀利／著","description":"物理を理解するためのツールとなる数学の内容をわかりやすく説明した演習書。例題，練習問題，演習問題を通して理解を深める。","price":"2400","genre":"自然科学","target":"専門","format":"単行本","content":"数学"}
 ,
 {"isbn":"9784322138276","title":"金融機関が行う事業継続力強化支援マニュアル","volume":"","series":"","publisher":"一般社団法人金融財政事情研究会","pubdate":"2021-03-09","cover":"","author":"日本政策金融公庫中小企業事業本部企業支援部／著","description":"いかなる環境下でも、生き残るために\n新型コロナウイルス感染症の世界的流行を受けてニューノーマルへの移行が求められる状況において、中小企業はいかにして事業継続し、雇用の確保や地域経済の振興・発展に寄与していくべきか。事業の持続性や付加価値生産性を向上させる手法から、事業継続計画/事業継続力強化計画の策定・実施方法まで、中小企業が事業を継続するためのノウハウを詳細に解説。\n中小企業の経営者のみならずそのサポートを行う金融機関の担当者、弁護士、税理士にとって必携の1冊!","price":"2400","genre":"社会科学","target":"実用","format":"単行本","content":"経済・財政・統計"}
-,
-{"isbn":"9784323059228","title":"13階段","volume":"","series":"学校の怪談  5分間の恐怖","publisher":"金の星社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784323059228.jpg","author":"中村まさみ／著","description":"13段ある階段の一番上で、13の怖い話をすると幽霊が現れるんだって。学校で13階段を見つけた私たちは、さっそく試してみることにする。なにごともなく　10話目にさしかかった時、何かがゆっくりとむかってくる音がして……。","price":"1300","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784325241416","title":"京大の英語27カ年［第11版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784325241416.jpg","author":"教学社編集部／編集","description":"京都大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"英米語"}
-,
-{"isbn":"9784325241423","title":"京大の文系数学27カ年［第11版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784325241423.jpg","author":"教学社編集部／編集","description":"京都大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"数学"}
-,
-{"isbn":"9784325241430","title":"京大の理系数学27カ年［第11版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784325241430.jpg","author":"教学社編集部／編集","description":"京都大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"数学"}
-,
-{"isbn":"9784325241447","title":"京大の現代文27カ年","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784325241447.jpg","author":"教学社編集部／編集","description":"京都大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"日本語"}
-,
-{"isbn":"9784325241454","title":"京大の古典27カ年","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784325241454.jpg","author":"教学社編集部／編集","description":"京都大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"日本語"}
-,
-{"isbn":"9784325241461","title":"京大の日本史20カ年［第2版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784325241461.jpg","author":"教学社編集部／編集","description":"京都大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"日本歴史"}
-,
-{"isbn":"9784325241478","title":"京大の世界史20カ年［第2版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784325241478.jpg","author":"教学社編集部／編集","description":"京都大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"外国歴史"}
-,
-{"isbn":"9784325241485","title":"京大の物理27カ年［第8版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784325241485.jpg","author":"教学社編集部／編集","description":"京都大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"物理学"}
-,
-{"isbn":"9784325241492","title":"京大の化学27カ年［第8版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784325241492.jpg","author":"教学社編集部／編集","description":"京都大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"化学"}
-,
-{"isbn":"9784325241508","title":"北大の英語15カ年［第7版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784325241508.jpg","author":"教学社編集部／編集","description":"北海道大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"英米語"}
-,
-{"isbn":"9784325241515","title":"北大の理系数学15カ年［第7版］","volume":"","series":"難関校過去問シリーズ","publisher":"教学社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784325241515.jpg","author":"教学社編集部／編集","description":"北海道大学の過去問を徹底研究。良問から難問まで、科目別・出題形式別に網羅した「入試問題事典」。","price":"2300","genre":"学参","target":"学参II(高校)","format":"全集・双書","content":"数学"}
-,
-{"isbn":"9784330005218","title":"なぞなぞ　がっこう迷路","volume":"","series":"","publisher":"交通新聞社","pubdate":"2021-03-09","cover":"","author":"大河原一樹／著","description":"迷路とさがし絵となぞなぞ、お子様の大好きな遊びがこの一冊に！江戸からやってきた忍者と共に、学校を舞台に迷路修行をしよう！","price":"1300","genre":"","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784339046694","title":"計算破壊力学のための応用有限要素法プログラム実装","volume":"","series":"","publisher":"コロナ社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784339046694.jpg","author":"長嶋利夫／著","description":"有限要素法（FEM）を破壊力学問題の解法へ応用するという観点から，関連する理論，定式化，プログラム実装について解説した。","price":"3900","genre":"工業・工学","target":"専門","format":"単行本","content":"機械"}
-,
-{"isbn":"9784339072488","title":"医用超音波工学の基礎","volume":"","series":"","publisher":"コロナ社","pubdate":"2021-03-09","cover":"https://cover.openbd.jp/9784339072488.jpg","author":"竹内真一／著 内田武吉／著 椎葉倫久／著 大関誠也／著","description":"医用超音波工学について，国家試験や認定試験への対策を意識し，新技術にも触れつつ解説。","price":"3600","genre":"医学","target":"専門","format":"単行本","content":"医学・歯学・薬学"}
 ]
