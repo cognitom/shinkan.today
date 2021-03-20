@@ -59,7 +59,7 @@
 ,
 {"isbn":"9784065223079","title":"望郷太郎（4）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-23","cover":"","author":"山田芳裕／著","description":"ゼニカネが悪いのではない。人が使い方を誤っただけだ。死の商人・舞鶴太郎は五百年後の世界で税や土地の圧に敢然と抗う！！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065223086","title":"バトルスタディーズ（26）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-23","cover":"","author":"なきぼくろ／著","description":"夏の甲子園準決勝もついに７回。逆境での登板でエース天津は「ゾーン」に入った。かいた汗の分け、野球の神様は微笑んでくれる！？","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065223086","title":"バトルスタディーズ（26）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-23","cover":"","author":"なきぼくろ／著","description":"夏の甲子園準決勝もついに７回。逆境での登板でエース天津は「ゾーン」に入った。かいた汗の分だけ、野球の神様は微笑んでくれる！？","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065223864","title":"焼いてるふたり（2）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-23","cover":"","author":"ハナツカシオリ／著","description":"結婚から、恋をはじめよう。交際ゼロ日夫婦がおうちで楽しむ絶品ＢＢＱ！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -71,7 +71,7 @@
 ,
 {"isbn":"9784065224984","title":"はしっこアンサンブル（6）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-23","cover":"","author":"木尾士目／著","description":"『げんしけん』の木尾士目が描く工業高校×合唱部の青春物語！　波乱の夏合宿を終え、恋と激闘の「文化祭編」開幕！","price":"660","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065225400","title":"聖☆おにいさん（19）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-23","cover":"","author":"中村光／著","description":"いま日本で最も売れてるギャグ漫画！！　実写ドラマも絶賛配信中！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065225400","title":"聖☆おにいさん（19）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-23","cover":"https://cover.openbd.jp/9784065225400.jpg","author":"中村光／著","description":"いま日本で最も売れてるギャグ漫画！！　実写ドラマも絶賛配信中！","price":"650","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065225530","title":"ミツナリズム（3）","volume":"","series":"","publisher":"講談社","pubdate":"2021-03-23","cover":"","author":"鈴木コイチ／著","description":"九州平定へ向け豊臣政権が臨む大戦。対するは戦闘民族・島津家！","price":"670","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -214,8 +214,4 @@
 {"isbn":"9784323074702","title":"はやくちレストラン","volume":"","series":"","publisher":"金の星社","pubdate":"2021-03-23","cover":"","author":"もぎあきこ／著 森あさ子／イラスト","description":"パーティの料理人としてお城に呼ばれた「はやくちレストラン」のカッキクッケコック。そこでライバルのサ・シースセーソ・シェフと料理対決することになり…！？　ユーモアたっぷりの料理名は早口言葉になっています！","price":"1300","genre":"児童図書","target":"児童","format":"絵本","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784333028443","title":"構築された仏教思想　ツォンカパ　","volume":"","series":"","publisher":"佼成出版社","pubdate":"2021-03-23","cover":"https://cover.openbd.jp/9784333028443.jpg","author":"松本峰哲／著","description":"ツォンカパは、チベット仏教中興の祖で、ダライ・ラマの所属するゲルク派の開祖。その生涯を辿り彼の構築した仏教教義について学ぶ。","price":"1700","genre":"哲学・宗教","target":"一般","format":"全集・双書","content":"仏教"}
-,
-{"isbn":"9784335001536","title":"プレステップ憲法","volume":"","series":"プレステップシリーズ","publisher":"弘文堂","pubdate":"2021-03-23","cover":"https://cover.openbd.jp/9784335001536.jpg","author":"駒村圭吾／編集","description":"時事問題から憲法を考える「プレステップ憲法ゼミナール編」が新登場！","price":"1800","genre":"教育","target":"教養","format":"全集・双書","content":"法律"}
-,
-{"isbn":"9784335001543","title":"プレステップキャリアデザイン","volume":"","series":"プレステップシリーズ","publisher":"弘文堂","pubdate":"2021-03-23","cover":"https://cover.openbd.jp/9784335001543.jpg","author":"岩井洋／著 奥村玲香／著 元根朋美／著","description":"アクティブ・ラーニングで人生と就活を考える画期的テキストに、新章「AIと仕事の未来」が登場！","price":"1800","genre":"教育","target":"教養","format":"全集・双書","content":"社会科学総記"}
 ]

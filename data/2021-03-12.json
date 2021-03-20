@@ -217,7 +217,7 @@
 ,
 {"isbn":"9784295008682","title":"○△□でゆるっと描けちゃう Eriyのおでかけスケッチ","volume":"","series":"","publisher":"インプレス","pubdate":"2021-03-12","cover":"","author":"Eriy／著","description":"","price":"1380","genre":"","target":"一般","format":"単行本","content":"諸芸・娯楽"}
 ,
-{"isbn":"9784295011033","title":"1週間でC++の基礎が学べる本","volume":"","series":"","publisher":"インプレス","pubdate":"2021-03-12","cover":"","author":"亀田健司／著","description":"","price":"2600","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
+{"isbn":"9784295011033","title":"1週間でC++の基が学べる本","volume":"","series":"","publisher":"インプレス","pubdate":"2021-03-12","cover":"","author":"亀田健司／著","description":"","price":"2600","genre":"コンピュータ","target":"専門","format":"単行本","content":"電子通信"}
 ,
 {"isbn":"9784295011040","title":"文系女子のための日商簿記入門 第2版","volume":"","series":"文系女子シリーズ","publisher":"インプレス","pubdate":"2021-03-12","cover":"","author":"堀川洋／著","description":"","price":"1200","genre":"","target":"実用","format":"単行本","content":"経営"}
 ,
@@ -260,8 +260,4 @@
 {"isbn":"9784309485614","title":"恐ろしすぎる治療法の世界史","volume":"","series":"","publisher":"河出書房新社","pubdate":"2021-03-12","cover":"","author":"東茂由／著","description":"穴をあける、刺す、焼く、抜く……古代～近代のギョッとする治療法を紹介。想像を絶する「乱暴療治」に震え上がる！","price":"720","genre":"","target":"一般","format":"文庫","content":"医学・歯学・薬学"}
 ,
 {"isbn":"9784323041469","title":"なぞなぞ","volume":"","series":"校内放送でもりあがろう！めざせ！学校なぞなぞクイズ王","publisher":"金の星社","pubdate":"2021-03-12","cover":"","author":"ワン・ステップ／編集","description":"楽しい校内放送でみんなに喜んでもらおう！","price":"2200","genre":"児童図書","target":"児童","format":"全集・双書","content":"諸芸・娯楽"}
-,
-{"isbn":"9784335002465","title":"心理学","volume":"","series":"Next教科書シリーズ","publisher":"弘文堂","pubdate":"2021-03-12","cover":"https://cover.openbd.jp/9784335002465.jpg","author":"和田万紀／編集","description":"新型コロナウイルス感染拡大に関連した社会心理学トピックを更新！","price":"2100","genre":"教育","target":"教養","format":"全集・双書","content":"心理(学)"}
-,
-{"isbn":"9784335305009","title":"親族・相続","volume":"","series":"伊藤真試験対策講座","publisher":"弘文堂","pubdate":"2021-03-12","cover":"https://cover.openbd.jp/9784335305009.jpg","author":"伊藤真／著","description":"民法改正に完全対応の最新版！","price":"3500","genre":"","target":"教養","format":"全集・双書","content":"法律"}
 ]
