@@ -31,7 +31,7 @@
 ,
 {"isbn":"9784065228173","title":"花野井くんと恋の病（8）","volume":"","series":"","publisher":"講談社","pubdate":"2021-04-13","cover":"","author":"森野萌／著","description":"恋がわからない女子×愛が重すぎる男子の初恋ラブストーリー第８巻！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065228579","title":"となりのオトナくん（3）","volume":"","series":"","publisher":"講談社","pubdate":"2021-04-13","cover":"","author":"るかな／著","description":"ギャル×サラリーマンのおとなりラブ、第３巻！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065228579","title":"となりのオトナくん（3）","volume":"","series":"","publisher":"講談社","pubdate":"2021-04-13","cover":"https://cover.openbd.jp/9784065228579.jpg","author":"るかな／著","description":"ギャル×サラリーマンのおとなりラブ、第３巻！","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065228715","title":"JSのトリセツ（2）","volume":"","series":"","publisher":"講談社","pubdate":"2021-04-13","cover":"","author":"雨玉さき／著","description":"下着メーカー・ワコールとのコラボ作品♪　勉強、友情、恋。令和ＪＳの悩みの答えがみつかる！　等身大のリアルストーリー、最終巻！","price":"470","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -69,9 +69,9 @@
 ,
 {"isbn":"9784065230572","title":"蝶か犯か　～極道様　溢れて溢れて泣かせたい～（4）特装版","volume":"","series":"","publisher":"講談社","pubdate":"2021-04-13","cover":"","author":"鳥海ペドロ／著","description":"泣いたことがない極道若頭×泣かせたい人質天然ＪＫ。極道のメンツとＪＫの意地が絡み合う、刺激的ＬＯＶＥ！","price":"900","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065230978","title":"桜のひめごと　～裏吉原恋事変～（1）","volume":"","series":"","publisher":"講談社","pubdate":"2021-04-13","cover":"","author":"鈴菜／著","description":"ＯＬの桜子は同僚に連れられていった裏吉原で、殿御である遊星に見初められ、”御手掛け”になってしまう。いきなり遊星から迫られ…","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065230978","title":"桜のひめごと　～裏吉原恋事変～（1）","volume":"","series":"","publisher":"講談社","pubdate":"2021-04-13","cover":"https://cover.openbd.jp/9784065230978.jpg","author":"鈴菜／著","description":"ＯＬの桜子は同僚に連れられていった裏吉原で、殿御である遊星に見初められ、”御手掛け”になってしまう。いきなり遊星から迫られ…","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784065231180","title":"あたしのピンクがあふれちゃう（1）","volume":"","series":"","publisher":"講談社","pubdate":"2021-04-13","cover":"","author":"桃生有希／著","description":"男運のない陽葵…。「次は童貞とつきあう！」と心に誓うなか、偶然助けてもらった勤務先の店長がまさかの〇〇と知って！！？","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065231180","title":"あたしのピンクがあふれちゃう（1）","volume":"","series":"","publisher":"講談社","pubdate":"2021-04-13","cover":"https://cover.openbd.jp/9784065231180.jpg","author":"桃生有希／著","description":"男運のない陽葵…。「次は童貞とつきあう！」と心に誓うなか、偶然助けてもらった勤務先の店長がまさかの〇〇と知って！！？","price":"450","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
 {"isbn":"9784065231227","title":"幸子、生きてます（3）","volume":"","series":"","publisher":"講談社","pubdate":"2021-04-13","cover":"","author":"柘植文／著","description":"超絶ダメ男の元カレ・たっくんが改心！？再会に、胸の高まりが抑えられない幸子は…？　シュールな幸子ワールド全開の第３巻！！　","price":"780","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -90,20 +90,4 @@
 {"isbn":"9784163913582","title":"完落ち 警視庁捜査一課「取調室」秘録","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-04-13","cover":"https://cover.openbd.jp/9784163913582.jpg","author":"赤石晋一郎／著","description":"宮﨑勤連続幼女誘拐殺人事件、地下鉄サリン事件等の大事件を担当し、「伝説の刑事」と呼ばれる捜査員が捜査の舞台裏を初めて明かす！","price":"1600","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
 {"isbn":"9784163913599","title":"DXの思考法 日本経済復活への最強戦略","volume":"","series":"","publisher":"文藝春秋","pubdate":"2021-04-13","cover":"https://cover.openbd.jp/9784163913599.jpg","author":"西山圭太／著 解説・冨山和彦／解説","description":"本当のDX＝人工知能が全業界に組み込まれることだ。会社組織もビジネスモデルも激変。変われる者だけが生き残る。","price":"1500","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
-,
-{"isbn":"9784199507373","title":"壁サー同人作家の猫屋敷くんは承認欲求をこじらせている　②","volume":"","series":"","publisher":"徳間書店","pubdate":"2021-04-13","cover":"","author":"ミナモトカズキ／著","description":"【アイドル×同人作家】の幼なじみピュアッピュアボーイズラブ！","price":"720","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784199507380","title":"君の筆を折りたい　①","volume":"","series":"","publisher":"徳間書店","pubdate":"2021-04-13","cover":"","author":"河原シノ／著","description":"ＳＮＳの光と闇…イラストがバズったら【あなたの筆を折りたい】とメッセージが…。平尾アウリ推薦の大型新人！","price":"720","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784199507397","title":"独身サラリーマン鈴木の生態　②","volume":"","series":"","publisher":"徳間書店","pubdate":"2021-04-13","cover":"","author":"鈴木マ球／著","description":"全ての闇落ちしたサラリーマンへ捧げる物語。完結。","price":"900","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784253111065","title":"ドラマ「西荻窪 三ツ星洋酒堂」公式ヴィジュアルBOOK","volume":"","series":"","publisher":"秋田書店","pubdate":"2021-04-13","cover":"","author":"ミステリーボニータ編集部・編／著","description":"町田啓太さん、藤原季節さん、森崎ウィンさんの、お写真を収録した、ドラマ「西荻窪 三ツ星洋酒堂」公式本。ふろく：特大ポスター","price":"1818","genre":"ムック","target":"雑誌扱い","format":"ムック・その他","content":"諸芸・娯楽"}
-,
-{"isbn":"9784254129113","title":"データサイエンス入門","volume":"","series":"Pythonによるビジネスデータサイエンス　","publisher":"朝倉書店","pubdate":"2021-04-13","cover":"https://cover.openbd.jp/9784254129113.jpg","author":"笹嶋宗彦／編集","description":"データサイエンティストに求められるデータの見方の基礎を実際のデータを見ながら身につける。","price":"2500","genre":"自然科学","target":"専門","format":"全集・双書","content":"数学"}
-,
-{"isbn":"9784254470574","title":"森林・林業実務必携","volume":"","series":"","publisher":"朝倉書店","pubdate":"2021-04-13","cover":"https://cover.openbd.jp/9784254470574.jpg","author":"東京農工大学農学部森林・林業実務必携編集委員会／編集","description":"公務員試験の参考書，林業現場技術者の実務書として好評なテキストの改訂版。","price":"8000","genre":"自然科学","target":"専門","format":"単行本","content":"農林業"}
-,
-{"isbn":"9784254616590","title":"応用栄養学","volume":"2","series":"栄養科学ファウンデーションシリーズ","publisher":"朝倉書店","pubdate":"2021-04-13","cover":"https://cover.openbd.jp/9784254616590.jpg","author":"江上\tいすず／著・編集 多賀\t昌樹／著・編集","description":"コア・カリキュラムAランクの内容を押さえ簡潔にまとめた，応用栄養学の「教えやすい」教科書。","price":"2700","genre":"社会科学","target":"専門","format":"全集・双書","content":"家事"}
-,
-{"isbn":"9784265014613","title":"学校おばけをやっつけろ！","volume":"","series":"ひみつのおばけ一家","publisher":"岩崎書店","pubdate":"2021-04-13","cover":"https://cover.openbd.jp/9784265014613.jpg","author":"石崎洋司／著 はんだみちこ／イラスト","description":"あたし、おばけの霊子。あこがれの小学生になった初日に、学校おばけを目覚めさせちゃった！正体をばらさず、なんとかしないと。","price":"900","genre":"児童図書","target":"児童","format":"全集・双書","content":"日本文学、小説・物語"}
 ]
