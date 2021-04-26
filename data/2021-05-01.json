@@ -21,7 +21,7 @@
 ,
 {"isbn":"9784041112250","title":"お荷物と呼ばれた転生姫は、召喚勇者に恋をして聖女になりました","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-05-01","cover":"https://cover.openbd.jp/9784041112250.jpg","author":"マチバリ／著 南々瀬なつ／イラスト","description":"転生した聖女×召喚された勇者、世界を救う鍵は２人の恋――!?","price":"690","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041112656","title":"狼将軍のツガイ","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-05-01","cover":"https://cover.openbd.jp/9784041112656.jpg","author":"天野かづき／著 陸裕千景子／イラスト","description":"αの獣人の将軍とΩの人の子が贈る―――オメガバース登場！","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784041112656","title":"狼将軍のツガイ","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-05-01","cover":"https://cover.openbd.jp/9784041112656.jpg","author":"天野かづき／著 陸裕千景子／イラスト","description":"αの獣人の将軍とΩの人の子が贈る―――オメガバース場！","price":"740","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784041112663","title":"世界一初恋 ～小野寺律の場合１６～","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-05-01","cover":"https://cover.openbd.jp/9784041112663.jpg","author":"中村春菊／著","description":"ちょこっとリアルな出版業界ラブ☆描き下ろし増量の第１６巻登場！","price":"660","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
@@ -80,4 +80,12 @@
 {"isbn":"9784081024056","title":"『るろうに剣心』ジャンプ ベストバトルTOP10","volume":"","series":"","publisher":"集英社","pubdate":"2021-05-01","cover":"https://cover.openbd.jp/9784081024056.jpg","author":"和月伸宏／著","description":"","price":"550","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"コミックス・劇画"}
 ,
 {"isbn":"9784089084021","title":"VIVRE CARD〜ONE PIECE図鑑〜 NEW STARTER SET Vol.1","volume":"","series":"","publisher":"集英社","pubdate":"2021-05-01","cover":"","author":"尾田栄一郎／著","description":"","price":"1100","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784198652760","title":"非弁護人","volume":"","series":"","publisher":"徳間書店","pubdate":"2021-05-01","cover":"","author":"月村了衛／著","description":"法曹界から追放された元特捜検事が、連続大量殺人犯と対決。白熱のリーガルサスペンス！","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
+,
+{"isbn":"9784198652883","title":"グレート・リセット前夜","volume":"","series":"","publisher":"徳間書店","pubdate":"2021-05-01","cover":"","author":"高島康司／著","description":"カルト化するトランピアンはアメリカだけの話ではない。世界を分断する対立軸だ。支配者層は本当は何をしたいのか？","price":"1600","genre":"","target":"一般","format":"単行本","content":"社会"}
+,
+{"isbn":"9784267021558","title":"民衆こそ王者　池田大作とその時代　１５　先駆者たち――イギリス・イタリア篇","volume":"","series":"民衆こそ王者","publisher":"潮出版社","pubdate":"2021-05-01","cover":"","author":"","description":"月刊「潮」連載の単行本化「民衆こそ王者　池田大作とその時代」シリーズ１５巻","price":"1000","genre":"哲学・宗教","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
+,
+{"isbn":"9784267022722","title":"世界一の地域医療を目指して　岩手医科大学物語","volume":"","series":"","publisher":"潮出版社","pubdate":"2021-05-01","cover":"","author":"小川彰／著","description":"医療人たる前に、誠の人間たれ！日本地域医療の一大拠点・岩手医科大学改革の物語。","price":"1800","genre":"医学","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ]
