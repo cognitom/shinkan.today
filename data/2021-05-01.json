@@ -1,5 +1,5 @@
 [
-{"isbn":"9784000240628","title":"哲学のナショナリズム","volume":"","series":"","publisher":"岩波書店","pubdate":"2021-05-01","cover":"","author":"ジャック・デリダ／著 藤本一勇／翻訳","description":"哲学はナショナリズムを支えてしまう傾向があるのか——デリダの幻の84年講義「ゲシュレヒト」ついに書籍化","price":"3400","genre":"哲学・宗教","target":"一般","format":"単行本","content":"哲学"}
+{"isbn":"9784000240628","title":"哲学のナショナリズム","volume":"","series":"","publisher":"岩波書店","pubdate":"2021-05-01","cover":"https://cover.openbd.jp/9784000240628.jpg","author":"ジャック・デリダ／著 藤本一勇／翻訳","description":"哲学はナショナリズムを支えてしまう傾向があるのか——デリダの幻の84年講義「ゲシュレヒト」ついに書籍化","price":"3400","genre":"哲学・宗教","target":"一般","format":"単行本","content":"哲学"}
 ,
 {"isbn":"9784000614658","title":"岸惠子自伝","volume":"","series":"","publisher":"岩波書店","pubdate":"2021-05-01","cover":"https://cover.openbd.jp/9784000614658.jpg","author":"岸惠子／著","description":"女優として、作家・ジャーナリストとして切り拓いていった、万華鏡のように煌めく稀有な人生の軌跡。","price":"2000","genre":"","target":"一般","format":"単行本","content":"日本文学、評論、随筆、その他"}
 ,
@@ -9,7 +9,7 @@
 ,
 {"isbn":"9784041091760","title":"異世界に救世主として喚ばれましたが、アラサーには無理なので、ひっそりブックカフェ始めました。２","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-05-01","cover":"https://cover.openbd.jp/9784041091760.jpg","author":"和泉杏花／著 桜田霊子／イラスト","description":"新たな救世主登場！　趣味全開の引きこもり生活に暗雲が――!?","price":"690","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
-{"isbn":"9784041108703","title":"元スパイ、家政夫に転職する２","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-05-01","cover":"https://cover.openbd.jp/9784041108703.jpg","author":"秋原タク／著 ハリオ／イラスト","description":"どんなお使いも、ノープロブレムだ。　アットホームスパイエンタメ第２巻！","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
+{"isbn":"9784041108703","title":"元スパイ、家夫に転職する２","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-05-01","cover":"https://cover.openbd.jp/9784041108703.jpg","author":"秋原タク／著 ハリオ／イラスト","description":"どんなお使いも、ノープロブレムだ。　アットホームスパイエンタメ第２巻！","price":"680","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
 {"isbn":"9784041109601","title":"竜は四季を巡り恋をする ～ドラゴンギルド～","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-05-01","cover":"https://cover.openbd.jp/9784041109601.jpg","author":"鴇六連／著 沖麻実也／イラスト","description":"世界最強の魔物・竜と竜を支えるバトラー達の、四季折々の愛しい日々。","price":"700","genre":"文庫","target":"一般","format":"文庫","content":"日本文学、小説・物語"}
 ,
@@ -79,9 +79,5 @@
 ,
 {"isbn":"9784081024056","title":"『るろうに剣心』ジャンプ ベストバトルTOP10","volume":"","series":"","publisher":"集英社","pubdate":"2021-05-01","cover":"https://cover.openbd.jp/9784081024056.jpg","author":"和月伸宏／著","description":"","price":"550","genre":"","target":"雑誌扱い","format":"ムック・その他","content":"コミックス・劇画"}
 ,
-{"isbn":"9784089084021","title":"VIVRE CARD〜ONE PIECE図鑑〜 NEW STARTER SET Vol.1","volume":"","series":"","publisher":"集英社","pubdate":"2021-05-01","cover":"","author":"尾田栄一郎／著","description":"","price":"1100","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
-,
-{"isbn":"9784198652760","title":"非弁護人","volume":"","series":"","publisher":"徳間書店","pubdate":"2021-05-01","cover":"","author":"月村了衛／著","description":"法曹界から追放された元特捜検事が、連続大量殺人犯と対決。白熱のリーガルサスペンス！","price":"1700","genre":"","target":"一般","format":"単行本","content":"日本文学、小説・物語"}
-,
-{"isbn":"9784198652883","title":"グレート・リセット前夜","volume":"","series":"","publisher":"徳間書店","pubdate":"2021-05-01","cover":"","author":"高島康司／著","description":"カルト化するトランピアンはアメリカだけの話ではない。世界を分断する対立軸だ。支配者層は本当は何をしたいのか？","price":"1600","genre":"","target":"一般","format":"単行本","content":"社会"}
+{"isbn":"9784089084021","title":"VIVRE CARD〜ONE PIECE図鑑〜 NEW STARTER SET Vol.1","volume":"","series":"","publisher":"集英社","pubdate":"2021-05-01","cover":"https://cover.openbd.jp/9784089084021.jpg","author":"尾田栄一郎／著","description":"","price":"1100","genre":"","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ]
