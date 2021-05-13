@@ -27,7 +27,7 @@
 ,
 {"isbn":"9784047366541","title":"ゴッドハンド千尋","volume":"","series":"","publisher":"ＫＡＤＯＫＡＷＡ","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784047366541.jpg","author":"御茶漬わさび／著","description":"オレに開発させてください","price":"700","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
 ,
-{"isbn":"9784058016299","title":"ちりつもダイエット","volume":"","series":"","publisher":"学研プラス","pubdate":"2021-05-14","cover":"","author":"ダイエットコーチＥＩＣＯ／著 小林潤奈／著・イラスト","description":"無理をしない、飽きない、でも確実にやせる！　ちりつも型のダイエット。１日１ミッションで、分かりやすく取り組めます。","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
+{"isbn":"9784058016299","title":"ちりつもダイエット","volume":"","series":"","publisher":"学研プラス","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784058016299.jpg","author":"ダイエットコーチＥＩＣＯ／著 小林潤奈／著・イラスト","description":"無理をしない、飽きない、でも確実にやせる！　ちりつも型のダイエット。１日１ミッションで、分かりやすく取り組めます。","price":"1300","genre":"","target":"実用","format":"単行本","content":"家事"}
 ,
 {"isbn":"9784065221464","title":"アナと雪の女王2　きらきらスクラッチ　おたのしみゲームつき","volume":"","series":"","publisher":"講談社","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784065221464.jpg","author":"講談社／編集","description":"専用の雪の結晶型のヘラでページを削ると、カラフルな色が現れるスクラッチアート。たっぷり１２枚も楽しめます。おまけのゲームつき","price":"1300","genre":"","target":"児童","format":"絵本","content":"諸芸・娯楽"}
 ,
@@ -95,5 +95,27 @@
 ,
 {"isbn":"9784065235928","title":"マンガ　孔子の思想","volume":"","series":"","publisher":"講談社","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784065235928.jpg","author":"蔡志忠／著 和田武司／翻訳 野末陳平／監修","description":"二千五百年の時空を超えて私たちに語りかける永遠不滅の思想。マンガで読む「おもしろくてわかりやすい」中国の思想シリーズ新創刊！","price":"680","genre":"","target":"一般","format":"文庫","content":"哲学"}
 ,
-{"isbn":"9784065237656","title":"シドニアの騎士　トリビュートマンガ・イラスト集","volume":"","series":"","publisher":"講談社","pubdate":"2021-05-14","cover":"","author":"弐瓶勉／監修 真鍋昌平／著 小川彌生／著 東村アキコ／著 五十嵐大介／著 すぎむらしんいち／著 ほか","description":"『シドニアの騎士』の世界を、様々な作家が描く！","price":"900","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+{"isbn":"9784065237656","title":"シドニアの騎士　トリビュートマンガ・イラスト集","volume":"","series":"","publisher":"講談社","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784065237656.jpg","author":"弐瓶勉／監修 真鍋昌平／著 小川彌生／著 東村アキコ／著 五十嵐大介／著 すぎむらしんいち／著 ほか","description":"『シドニアの騎士』の世界を、様々な作家が描く！","price":"900","genre":"","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784143232917","title":"ＮＨＫ　ＣＤ　ラジオ　ラジオ英会話　2021年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784143232917.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1545","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784143242916","title":"ＮＨＫ　ＣＤ　ラジオ　ラジオビジネス英語　2021年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784143242916.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1545","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784143252915","title":"ＮＨＫ　ＣＤ　ラジオ　英会話タイムトライアル　2021年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784143252915.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1545","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784143612917","title":"ＮＨＫ　ＣＤ　ラジオ　高校生からはじめる「現代英語」　2021年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784143612917.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1445","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784143642914","title":"ＮＨＫ　ＣＤ　ラジオ　遠山顕の英会話楽習　2021年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784143642914.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1545","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784143672911","title":"ＮＨＫ　ＣＤ　ラジオ中学生の基礎英語　レベル１　2021年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784143672911.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1545","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784143682910","title":"ＮＨＫ　ＣＤ　ラジオ中学生の基礎英語　レベル２　2021年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784143682910.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1545","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784143692919","title":"ＮＨＫ　ＣＤ　ラジオ中高生の基礎英語　ｉｎ　Ｅｎｇｌｉｓｈ　2021年6月号","volume":"","series":"","publisher":"NHK出版","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784143692919.jpg","author":"","description":"NHK語学テキストの別売CD版です。","price":"1545","genre":"","target":"一般","format":"磁性媒体など","content":"英米語"}
+,
+{"isbn":"9784253107433","title":"依存症ってなんですか？","volume":"","series":"","publisher":"秋田書店","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784253107433.jpg","author":"菊池真理子／著","description":"準備中","price":"1000","genre":"コミックス(書)","target":"一般","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253137898","title":"空までイっちゃう ～ＣＡは絶倫パイロットの腕の中～","volume":"","series":"","publisher":"秋田書店","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784253137898.jpg","author":"吉沢りょう／著","description":"男に事欠かない美人CAの蒼空(あおい)。恋愛上手で経験豊富と誤解されてるけど本当は…!?","price":"680","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
+,
+{"isbn":"9784253158343","title":"貼りまわれ！こいぬ 1","volume":"","series":"","publisher":"秋田書店","pubdate":"2021-05-14","cover":"https://cover.openbd.jp/9784253158343.jpg","author":"うかうか／著","description":"準備中","price":"1100","genre":"コミックス(雑)","target":"雑誌扱い","format":"コミック","content":"コミックス・劇画"}
 ]
